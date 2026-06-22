@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.anime-biz-news.digest</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/akitayutaka/anime-biz-news/run_scheduled.sh</string>
+  </array>
+  <!-- ローカル時刻（=Macのタイムゾーン, JST想定）で 6:00 と 18:00 に実行。
+       実行時刻にMacがスリープなら、起動後に一度だけ実行される。 -->
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict>
+      <key>Hour</key><integer>6</integer>
+      <key>Minute</key><integer>0</integer>
+    </dict>
+    <dict>
+      <key>Hour</key><integer>18</integer>
+      <key>Minute</key><integer>0</integer>
+    </dict>
+  </array>
+  <key>StandardOutPath</key>
+  <string>/Users/akitayutaka/anime-biz-news/state/launchd.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/akitayutaka/anime-biz-news/state/launchd.err.log</string>
+  <key>RunAtLoad</key>
+  <false/>
+</dict>
+</plist>

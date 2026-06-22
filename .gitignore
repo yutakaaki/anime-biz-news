@@ -1,0 +1,8 @@
+# 秘密情報・ログ・中間生成物はコミットしない
+.env
+outputs/
+__pycache__/
+*.pyc
+state/*.log
+# state/seen.json と state/archive.jsonl は、クラウド(GitHub Actions)で状態を
+# 引き継ぐため追跡する（ログだけ除外。これらに秘密情報は含まれない）。
