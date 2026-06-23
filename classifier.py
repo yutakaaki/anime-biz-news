@@ -22,10 +22,14 @@ _client: anthropic.Anthropic | None = None
 
 
 def _get_client() -> anthropic.Anthropic:
-    """ANTHROPIC_API_KEY を環境変数から読む。キー未設定なら呼び出し時にだけ失敗。"""
+    """ANTHROPIC_API_KEY を環境変数から読む。キー未設定なら呼び出し時にだけ失敗。
+
+    クラウド(GitHub Actions)からの接続は断続的に失敗することがあるため、
+    リトライ回数を増やし（指数バックオフで粘る）、タイムアウトも長めにする。
+    """
     global _client
     if _client is None:
-        _client = anthropic.Anthropic()
+        _client = anthropic.Anthropic(max_retries=8, timeout=120.0)
     return _client
 
 
