@@ -490,5 +490,245 @@
   "source": "Googleニュース(yomiuri.co.jp)",
   "label": "対象",
   "ts": 1782637230.440819
+ },
+ "https://variety.com/2026/artisans/news/the-death-of-robin-hood-hugh-jackman-transformation-1236791235": {
+  "title": "‘The Death of Robin Hood’ Artisans Break Down Hugh Jackman’s Brutal Transformation",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://deadline.com/2026/06/box-office-michael-oppenheimer-1236969255": {
+  "title": "‘Michael’ Out-Boogies ‘Oppenheimer’ To Become Highest Grossing Biopic Of All-Time",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1782680427.162998
+ },
+ "https://www.cartoonbrew.com/feature-film/baahubali-the-eternal-war-rajamouli-annecy-263875.html": {
+  "title": "‘Baahubali: The Eternal War’ Expands Rajamouli’s Epic Into Animation, Bringing India’s Gods To The Big Screen",
+  "source": "Cartoon Brew",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://animeanime.jp/article/2026/06/29/100506.html": {
+  "title": "「HUNTER×HUNTER」シリーズ累計発行部数1億部突破！「週刊少年ジャンプ」に最新話掲載",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://0115765.com/archives/192639": {
+  "title": "『軌跡シリーズ』アリサ・ラインフォルトが新規フイギュア化、弓構える佇まい×真剣な表情で魅力溢れる",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GZGs2a0NrSUQ0V2tFaWRzT0dRcmsyTWV1VG5OUzZMUi1XVnpyOU1STGRnN0c1V2dXejFTbmNoSThQODZ2SGVCaERzZHhKbWlUa18tU3phS1RlWW05VnNpM3o3S1d2VXphWXFkeGNaZHpJMm5nYzBFaFNIZHRmV3c?oc=5": {
+  "title": "芸能人や声優の肖像や声を無断使用、生成ＡＩで作った画像・動画が２か月で４万件超…損失推計２０億～４５億円 - Yahoo!ニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象",
+  "ts": 1782680427.162998
+ },
+ "https://news.google.com/rss/articles/CBMilgFBVV95cUxQanAwQWRLYmdTNW93Q3hBZjc3SG1iRU53M3ctNkV3NkVFZ1Ewb3JhR1dFS0diRkFuQWdDZjRBNS14UWdOVGc0THFWZnJNU0JNRjU2VkFVM3ljNncxUjZvd3NNQW0wc2pXSG5WQ1RCZlcxdFdlWF9PU2xIOWNGVEJNd3poeHBCUWJYLTZweFJnbVBOVzU3NkE?oc=5": {
+  "title": "Entertainment Firms Face AI Copyright Uncertainty - Let's Data Science",
+  "source": "Google News: generative AI content copyright OR licensing",
+  "label": "対象",
+  "ts": 1782680427.162998
+ },
+ "https://variety.com/lists/2027-oscars-predictions": {
+  "title": "Oscar Predictions 2027: Tom Cruise, Julianne Moore and Proof the Movies Are Back",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://deadline.com/2026/06/john-early-doesnt-consider-maddies-secret-role-drag-1236969249": {
+  "title": "John Early Doesn’t Consider His ‘Maddie’s Secret’ Role To Be Drag: “It’s A Different Skill”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://www.cartoonbrew.com/feature-film/hexed-fawn-veerasunthorn-jason-hand-vertical-video-annecy-263868.html": {
+  "title": "‘Hexed’ Directors On Reinventing Disney Magic, ‘Chainsaw Man’ Influences, And Vertical Video Trailer Criticism: ‘It Was Bizarre And Not True’",
+  "source": "Cartoon Brew",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://animeanime.jp/article/2026/06/28/100505.html": {
+  "title": "「キンプリ」完全新作劇場版「KING OF PRISM-Tri-Star Act-」制作開始！エモいティザビ＆特報お披露目",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://0115765.com/archives/192629": {
+  "title": "ABEMA、旧作・懐かしアニメの視聴時間が「前年比110％」GWの大型無料企画や『エヴァ』一挙が追い風",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1782680427.162998
+ },
+ "https://variety.com/2026/tv/columns/sam-worthington-i-will-find-you-david-rachel-romance-netflix-1236797898": {
+  "title": "Sam Worthington on ‘I Will Find You,’ Being the Show’s ‘Damsel in Distress’ and Pushing Back on a David and Rachel ‘Telenovela’ Romance",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1782680427.162998
+ },
+ "https://deadline.com/2026/06/indie-film-box-offiice-comedy-the-invite-top-limited-opening-1236969226": {
+  "title": "Rare Summer Comedy ‘The Invite’ Banks A Top Limited Opening Of The Year – Specialty Box Office",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1782680427.162998
+ },
+ "https://animeanime.jp/article/2026/06/28/100504.html": {
+  "title": "“心臓を捧げよ！”「進撃の巨人」自由の翼＆Survey Corpsデザインの甚平が登場！8月上旬に大分・日田で先行販売",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://0115765.com/archives/192612": {
+  "title": "『杖と剣のウィストリア』アニメ「第3期」制作決定！日曜夕方盛り上げた学園ファンタジーの続編注目",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://variety.com/2026/film/news/film-news-in-brief-june-22-2026-1236787254": {
+  "title": "Palm Springs International Shortfest Unveils 2026 Winners — Film News in Brief",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://deadline.com/2026/06/madonna-ai-opposite-making-art-1236969203": {
+  "title": "Madonna Says AI Is “Opposite Of Making Art,” Prefers “Connecting To Nature”",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1782680427.162998
+ },
+ "https://animeanime.jp/article/2026/06/28/100503.html": {
+  "title": "「ウルトラマン」60周年記念一番くじ登場！ 古谷敏氏協力の“空創ノスタルジオ”フィギュア♪",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://variety.com/2026/music/news/madonna-ai-opposite-of-making-art-1236797851": {
+  "title": "Madonna Says Using AI Is the ‘Opposite of Making Art’",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1782680427.162998
+ },
+ "https://deadline.com/2026/06/red-white-royal-blue-author-teases-spicier-sequel-1236969194": {
+  "title": "‘Red, White & Royal Blue’ Author Teases “A Couple Degrees Spicier” Sequel: “Hope I Don’t Get In Trouble”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://animeanime.jp/article/2026/06/28/100502.html": {
+  "title": "「ワンピース」NBAコラボのサンジ＆ナミのフィギュアが登場！　ワールドコレクタブルフィギュアは好きなアイテムを選んで購入できちゃう♪",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://variety.com/lists/2027-oscars-best-picture-predictions": {
+  "title": "Oscar Predictions: Best Picture — First Look Shows Studios Could Roar Back With ‘Dune: Part Three,’ ‘The Odyssey,’ ‘Digger’ and More",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://deadline.com/2026/06/box-office-global-toy-story-5-supergirl-minions-and-monsters-1236969190": {
+  "title": "‘Toy Story 5’ Nears $600M, ‘Supergirl’ Falls To Earth With $68M, ‘Minions & Monsters’ $10M Start – Global Box Office Update",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1782680427.162998
+ },
+ "https://animeanime.jp/article/2026/06/28/100501.html": {
+  "title": "“世を、変えるために”「日本三國」三角青輝、阿佐馬芳経の場面写や名言がオリジナルグッズになって登場！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://variety.com/2026/film/awards/olivia-wilde-the-invite-rotten-tomatoes-dont-worry-darling-1236795841": {
+  "title": "Olivia Wilde Says Her Last Movie’s 38% Rotten Tomatoes Score ‘Liberated’ Her to Make ‘The Invite’ and Gives Her Take on the Film’s Ending",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1782680427.162998
+ },
+ "https://deadline.com/2026/06/katy-perry-belgian-set-canceled-inclement-weather-1236969186": {
+  "title": "Katy Perry’s Belgian Music Fest Set Canceled Over “Inclement Weather”: “They Gave Me No Choice”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://animeanime.jp/article/2026/06/28/100500.html": {
+  "title": "雑誌の表紙を飾ってほしいアニメは？ 3位「夜桜さんちの大作戦」、2位「鬼滅の刃」、1位はスピンオフが放送間近の…＜26年版＞",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://variety.com/2026/music/news/gracie-abrams-get-it-nepo-baby-online-privilege-1236797833": {
+  "title": "Gracie Abrams Says ‘I Get It’ When People Call Her a Nepo Baby Online: ‘I Think About the Privilege There’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://deadline.com/2026/06/love-island-usa-alannah-keyser-apologizes-racist-posts-1236969170": {
+  "title": "‘Love Island USA’s Alannah Keyser Apologizes For Racist Posts: “I Do Not Support Racism”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://animeanime.jp/article/2026/06/28/100499.html": {
+  "title": "「BLEACH 千年血戦篇」一護やルキアの世界観を落とし込んだTシャツ＆キャップ登場！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://variety.com/2026/film/box-office/box-office-supergirl-jackass-5-misfire-overseas-1236797821": {
+  "title": "Box Office: ‘Supergirl’ Sputters Overseas With $30 Million, ‘Jackass: Best and Last’ Limps to $1.9 Million Internationally",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1782680427.162998
+ },
+ "https://deadline.com/2026/06/box-office-supergirl-toy-story-5-1236968254": {
+  "title": "‘Toy Story 5’ Posts $70M In Second Weekend, ‘Supergirl’ Doesn’t Fly With $38M Opening – U.S. Box Office Update",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1782680427.162998
+ },
+ "https://variety.com/2026/film/reviews/memorizu-review-1236786424": {
+  "title": "‘Memorizu’ Review: A Tender, Artful Japanese Reflection on the Media That Keep Us Together",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kLWFwVUxrakRNcnBHRk5raWY4bzJ1LW1FOEtjZmQ1SWlMTVJqVERYMHhpRW1Kb2o4SXJlbDRUemQ3VzJLY1BoTThnQURJNDV1SHZ3U2FMeGtzYS1kU0RlZldR?oc=5": {
+  "title": "AI利用に悩む取締役会 意思決定をどこまで委ねられるか - 日経ビジネス電子版",
+  "source": "Googleニュース(business.nikkei.com)",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mcVJMaEtrM1NqT0ZTeGx3b2M5cGtOYXRvckstN0otZS1FemxLUkhUSzRydVoxbldyNXB3bFZ3OFZpaFRwSFlHYWdJRXRyMjVFS21OWGg3T19yZUUtV2c?oc=5": {
+  "title": "8/4（火）『オタクベースの物語づくり入門 永久不滅のIPの法則』刊行記念トークイベント＆サイン会 - 日経BOOKプラス",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DdVJQWHJCajJZRVdFcnJTejNhdm1lTm5zOGFoSy1GOUFWbFlKNGlQekZzajZ3Q0g1X0dlblZoem5kZFl1eVRSTzl2My1uaEZmcUpvc2tFR2l2MHJZN1hPdUMxR21xT1ItUjBCNg?oc=5": {
+  "title": "鹿島新社長、AI時代も「最後は人」 TSMC熊本工場に技能者7500人超 - 日経ビジネス電子版",
+  "source": "Googleニュース(business.nikkei.com)",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nTGVaTk9BUVZZX1RUVzd0Q2ktWlZMWWpoYjFYbFNVQ2FRYWdna01SZktoTUQ5T05yb0lQMXQ1SFNFWmc1SXBfdDJVSVRzdW5BZTZHY3Rqa1FLT2VJNWZ1MS10di1HbVk?oc=5": {
+  "title": "［2026年6月29日］日経ビジネス最新号 新聞広告の掲載記事 - 日経ビジネス電子版",
+  "source": "Googleニュース(business.nikkei.com)",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iTmd2TTQtNTNHMEtvZXlGWEdMTUlwbnpEZVFBZFdHRm1WQjFFcFVZckQ0bFhzQ01iVTdiZlNURXJ1S0ZaVmxNVFZNTDNhSGUtQkhsbHZ1cTJ4OXdycDNvX1Q5eDdoSndnT296Vg?oc=5": {
+  "title": "細田守監督、絵コンテ愛を語る 「時をかける少女」から20年で展覧会 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象外",
+  "ts": 1782680427.162998
+ },
+ "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UVnpsMF9hVUlpMnlqQ0thZHU3a2RIaHVCR0duSUZaNHVEVTJNNWlsVFA2NXYxR0FhOXJMbDA1T1plV20tWW1LNms0TkFid29IYlNkMjJGMTQ0enNqdDQ2SUI0YjN1eUE?oc=5": {
+  "title": "社有寮を復活させた伊藤忠、ひとつ屋根の下で対話力や仕事術磨く - 日経ビジネス電子版",
+  "source": "Googleニュース(business.nikkei.com)",
+  "label": "対象外",
+  "ts": 1782680427.162998
  }
 }
