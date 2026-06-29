@@ -730,5 +730,365 @@
   "source": "Googleニュース(business.nikkei.com)",
   "label": "対象外",
   "ts": 1782680427.162998
+ },
+ "https://variety.com/2026/theater/news/christopher-eccleston-mel-giedroyc-white-rabbit-red-rabbit-1236791393": {
+  "title": "Christopher Eccleston, Mel Giedroyc, Steve Pemberton Among New Stars Added to ‘White Rabbit Red Rabbit’ London West End Run",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://deadline.com/2026/06/romance-novels-streaming-ampere-research-off-campus-bridgerton-1236969588": {
+  "title": "More Romance Novels Than Ever Being Adapted For Streaming, Research Finds",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://animeanime.jp/article/2026/06/29/100523.html": {
+  "title": "「LV999の村人」は主人公のギャップに注目☆ 夏をさらにアツくする“おすすめ夏アニメ”を紹介　Vol.1【DMM TVで視聴可能】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://0115765.com/archives/192741": {
+  "title": "【一覧】経産省、コンテンツ産業補助金の「大規模作品支援」で27社採択…DeNA、MAPPA、アニプレなど選出",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JY2VGcUhlOFA2LVpFVjBTQnZSOHJxLTQtcXo2LWJwVzB6SzFCX3NCRUpRLTRBbjVadmpOeUZRQjBSdlVsZE5mWXBJbm1CUQ?oc=5": {
+  "title": "アニメ製作委員会への出資を決定 ～ネオメディアエンタメ事業のIP拡充を推進～ - 株式会社gumi",
+  "source": "Googleニュース: アニメ 製作委員会 出資",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTFBMaXVaNnJJeUdjSGJRU3VqNE5HQWFMQjM0bjFteDZiLWU2S09NTXczNDRBaUQyWHB4MUVKNEdhUTZBUnJv?oc=5": {
+  "title": "CloverWorks、26年3月期決算は最終損失3800万円と赤字幅拡大…アニプレックスグループのアニメスタジオ - gamebiz【ゲームビズ】",
+  "source": "Googleニュース: アニメ制作会社 決算 OR 買収",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE15YS1TRm1LOWdlc1lNQTJ3SUs4d3FWTVlKSGZIMFdXdkE5dG1ra1VYSnd5dHlkS0NLamdTUWV4bk1jaDNwQWJHODRMU2hKSmVKcEVFN1hCaGtIMFd0bDV6SFZPZHh4c1QxNTE1THdvZ2ZLNExTTDQxNFNyVy1sYTQ?oc=5": {
+  "title": "【ヤフコメで話題】「生成AIで誰でもアプリ開発が可能に」「AI普及でIT職や映像制作の在り方に変化」 - 生成AIがもたらす技術と仕事の変化 - Yahoo!ニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VX2sxS0N0dEVzSmVIcl9GUkhwcFYzY0lpUjU3czFTRWI3bUNyWGhfdnlzOWxDWldkRHZxYnV5MHhub18wemRCelZTUENVdkJqVWZPcnE0Z1RZRlFhSWpjcDU2NUkwd3cxbkE?oc=5": {
+  "title": "ｇｕｍｉ[3903]：アニメ製作委員会への出資に関するお知らせ 2026年6月29日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTFdldTBxTHdZRXFubC1fZlJLSVFJVC1FNHF0eEtHTUpoR3l1SVc3dXN2YklDVkV4bjNLOERuX1E4dkZuRk11cjhraHhPTmduUHFxVnNQNGw1WnhENkxxd1JMUnNlcVRKMVpPRUJxRDV2a0FiZ0FZajdlampqTVhIZ3pVZVllaS1DQzg5YVpkWjJfUHNVdWVIaEY4aHY2a0VNcGh2VWFKcm4tNWVzUmpDdUFubm5uUUU2QVE?oc=5": {
+  "title": "Prime Focus acquires 48% stake in Spanish animation studio - Exchange4Media",
+  "source": "Google News: anime studio acquisition OR investment",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://variety.com/2026/film/box-office/korea-box-office-toy-story-5-the-eyes-1236798125": {
+  "title": "Korea Box Office: ‘Toy Story 5’ Stays No. 1 While Thriller ‘The Eyes’ Opens in Second Place",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://deadline.com/2026/06/jesus-christ-bbc-documentary-series-1236968219": {
+  "title": "Life Of Jesus Christ Explored In Landmark BBC Series From Wonderhood Studios",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://animeanime.jp/article/2026/06/29/100522.html": {
+  "title": "夏アニメ「スーパーの裏でヤニ吸うふたり」声優・あらすじ・放送＆（無料）配信情報・原作マンガ【情報まとめ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://0115765.com/archives/192625": {
+  "title": "『ジョジョ』ゲーム等開発のgumi、アニメ製作委員会への出資表明　ゲーム化権の優先獲得見据えた一手",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdEZmYWtFNGwyb2MyQzNtbHAwc2tGbWx2YkNyWThabmctMnlPZVFGeHdVN0xURDQ3QVB1TDFfeTFwSEUwTUlsRU9DWlVQbUk?oc=5": {
+  "title": "『ケロロ軍曹』公開3日間で興収1.5億円突破 新たな特典は『ガンダム』コラボのポストカード4種類 - オリコンニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE1SQ3NKdkR0QWF6UjRMT29mTjJYeE1ydnZ6c3hUNkVhU1pOTUlBTTJfNm1CdGloOGF0emtyWVBFd0Rnd2RQ?oc=5": {
+  "title": "Boundary、26年3月期決算は最終損失300万円と赤字転落…アニプレックスグループ会社の3DCGアニメスタジオ - gamebiz【ゲームビズ】",
+  "source": "Googleニュース: アニメ制作会社 決算 OR 買収",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3SWl4bGVQV3Baek5MYk9wYlZqQ0dkMXhJQjd5ZS1IdTAyQ3F5NkppdzZ3bTNiMkp0MjM5bE4wZXN5S2tZQVlDSXlFTFpEN0FhMmF6Mk9YLTh0UGw0bHJOeFNZbm50dndUTlZnTXJlaTVCa2N5UTlqYzZDaw?oc=5": {
+  "title": "J:COM STREAM 2026夏アニメラインアップ『無職転生III ～異世界行ったら本気だす～』TVアニメ『ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～』他人気作・話題作が見放題で続々配信！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://variety.com/2026/film/markets-festivals/busan-asian-cinema-fund-2026-recipients-1236798119": {
+  "title": "Busan’s Asian Cinema Fund Names 12 Recipients for 2026",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://deadline.com/2026/06/nippon-tv-lkazuo-takaya-satoru-hiramatsu-old-enough-1236969591": {
+  "title": "Nippon TV Launches Global Strategy Division Headed By Kazuo Takaya; Satoru Hiramatsu Promoted On Content Side",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://animeanime.jp/article/2026/06/29/100521.html": {
+  "title": "ピングーがもっと好きになる！「可愛いだけじゃない!? ピングー展」限定グッズ100点超＆田中達也コラボも登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://0115765.com/archives/192669": {
+  "title": "素子の衣装だけで48着!?『攻殻機動隊』完全新作が目前…フランスで監督陣が語った「こだわり」とは",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQTFCX185THlIMjh5MWE4blkxYm1idFUwZ0dMRmxtQXV2S084MkVaMU1Ga2swUC1iZFBoanNDODBQNWZBZkZjcUtmRjNWUnFuVXhnbTRIbGFhNTMtUTBibDJBYk9WMDhkcUJyNGNHSkZ0YUhvN3lOdFp5cnhRa1p3RUlxaHdDZkU?oc=5": {
+  "title": "ｇｕｍｉ－3日続伸 アニメ製作委員会への出資を決定(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+  "source": "Googleニュース: アニメ 製作委員会 出資",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJMDBWaUhIb0wwQ0ExRS02Z2hnYXhjMUV4WnlSQUJIWUFsTUs5YkFpOFhmZzRFcXpuRnNKejgxS3NYd1o5ci16LVVNZzBob1RrMWc5Tg?oc=5": {
+  "title": "生成AI開発者が知るべき著作権とは？ 文化庁ガイドラインの論点を弁護士が解説するセミナー映像が公開中 - ProductZine",
+  "source": "Googleニュース: 生成AI 著作権 アニメ OR 映画 OR 映像",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://variety.com/2026/film/global/agnes-and-amir-helena-hufnagel-1236797824": {
+  "title": "How the Director’s Grandma Inspired Her to Make Feel-Good Comedy ‘Agnes & Amir’: ‘She Lived the Story We Were Telling’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://deadline.com/2026/06/bbc-investigates-five-employees-sexual-harassment-1236968180": {
+  "title": "BBC Investigates Five Employees For Sexual Harassment Amid Power Abuse Crackdown",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://animeanime.jp/article/2026/06/29/100520.html": {
+  "title": "“壁になりたい…”が実現!? 史上最大級BLイベント「BLT2026」開幕！描き下ろし81キャラ＆BL神社など見どころ満載【内覧会レポ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://0115765.com/archives/192693": {
+  "title": "【夏アニメ情報】ニコニコは63作品も配信！プレ垢なら『ヤニねこ』『幼女戦記』流れるコメントと相性良さそうな作品も",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE1YZmVPQXZDdU5ld3JJanc1ai1JT1JQWDNvNDF1NGFUcEpvcjNoRXZBQ0RRTHMzNnYyRzBYdkVZSjhiSGhP?oc=5": {
+  "title": "gumi、アニメ作品の製作委員会への出資を決定 製作委員会の参画企業ヤアニメ作品名などの詳細は非公表 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース: アニメ 製作委員会 出資",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE90T25ZSXMwLXp0c1BTWHRPZHhfeHJJc2VPVDVCWUhZclRDWktuaXJ2NjRiTWozUmVtVUI5aVhaSTZPc2lwdFRSN1FyMHdvVUJEM0hmNEUxekRfTG95Q0s1V2xrT1VvNkQ1MTcwVkRqb1pzNHdkTnY2WE4zRQ?oc=5": {
+  "title": "TVアニメ「拷問バイトくんの日常」オンラインくじが販売開始！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://variety.com/2026/film/box-office/china-box-office-crossing-dnumber-one-toy-story-5-1236798114": {
+  "title": "China Box Office: ‘Crossing’ Debuts at No. 1 as ‘Toy Story 5’ Places Second",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://deadline.com/2026/06/2026-bet-awards-winners-list-1236969507": {
+  "title": "BET Awards 2026 Winners List: Cardi B, Leon Thomas, Kehlani, Jalen Brunson, Teyana Taylor & More",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://animeanime.jp/article/2026/06/29/100519.html": {
+  "title": "エヴァ初号機、究極の合金アクションフィギュアに！格納庫＆兵装用リフトビル付きのフルパッケージ「DX Ver.」も登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://0115765.com/archives/192666": {
+  "title": "アニメ『転スラ』リムルの正面衝突に興奮！第82話でもっとも注目されたシーンランキング",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPOTdqQ0FQWVhYMlJEMnFUYlpDcE1iUWh4VFZ3NjQ0R2pjclBVQ3lMS3hzZ0RlQ3F0RzhHM3NWaHJFVURERkYwcjMzcjh4SkpyeHlZZDRidzhldDh2UTFiM09wVkNCVHRa?oc=5": {
+  "title": "gumi、アニメ製作委員会への出資を決定——IP獲得からゲーム化まで見据えた収益モデル構築へ - GameBusiness.jp",
+  "source": "Googleニュース: アニメ 製作委員会 出資",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE14OHRNVlV1OHZlRjNhMUlTVzM5S2hSY0FLR1hSUzNCQ0FlVTJTZWk1cWRScUFLalI4S1FrRWNOLUVWR1hW?oc=5": {
+  "title": "JOEN、26年3月期決算は最終益124%増の1億0400万円と大幅増益…アニプレックスとCloverWorks、ウィットスタジオ、集英社出資のアニメスタジオ - gamebiz【ゲームビズ】",
+  "source": "Googleニュース: アニメ制作会社 決算 OR 買収",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NbUYxeTM3bldDTzBocVZqSmliSklNSDNxMUVNblJFbFU2U2ktcnhUUHNrOEZvNUhHS1VSUUdBdkxxLTdqMkJwUjVLQmNYNlZlLWFyaXpVUQ?oc=5": {
+  "title": "嵐寛寿郎、AI人格でXに登場 映画デビュー100周年プロジェクト始動 - おたくま経済新聞",
+  "source": "Googleニュース: 生成AI 著作権 アニメ OR 映画 OR 映像",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://variety.com/2026/tv/global/jeremy-clarkson-who-wants-to-be-a-millionaire-hot-seat-1236791361": {
+  "title": "Jeremy Clarkson Set for More Episodes of ‘Who Wants to Be a Millionaire?’ and ‘Millionaire Hot Seat’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://deadline.com/2026/06/bet-awards-sylvia-rhone-protecting-creativity-tech-disruption-1236969550": {
+  "title": "BET Awards Ultimate Icon Sylvia Rhone On Protecting Creativity Amid Tech Disruption: “We Make The Algorithm, The Algorithm Doesn’t Make Us”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://animeanime.jp/article/2026/06/29/100518.html": {
+  "title": "ミッキー＆ミニーが夏っぽお菓子に☆栃木土産「レモン牛乳」共同企画商品登場【6月30日より】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://0115765.com/archives/192678": {
+  "title": "『ワンパンマン』第3期の続きは2027年放送、最新ビジュアルを解禁！展示会にあわせ新作スカジャンも制作",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UcmdRQjUtQUZfa2JURnlYUEdoUk1semRjSXpRWWFWVUtmNklWRDhOTG15enZQUi05Vnp4TDgtZWtFMHlFQ25NNnBxWkNZZTFRQ2hvbzhGTHBnZDVQRGU3VWRqN3J4eDA3LW40UjNFakZUcXFpT2NNamVWVVFHbGM?oc=5": {
+  "title": "『ジョジョ』ゲーム等開発のgumi、アニメ製作委員会への出資表明 ゲーム化権の優先獲得見据えた一手（オタク総研） - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 製作委員会 出資",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zVFFVeVVFX0dIWWxMTC1vaEFxMEJsYlNzeGJIQ0liNkJXemJKMmJjVFg5T0dRZlVaTjBqU1pfV1ZwOTVHOEpjUk9JV2RfVjRiN0RlRkxpLUNJY3hlVUFtMU1nR3BCU3ZicjZzS1RuMjZYQjR6ekJrYWFrVQ?oc=5": {
+  "title": "TVアニメ「文豪ストレイドッグス」と「東武動物公園」コラボ第3弾が開催！浴衣姿の描き下ろしイラストを使用したアイテムや「ぬいぐるみマスコット」など新作グッズが登場！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://variety.com/2026/film/news/variety-16-southern-california-journalism-awards-1236798043": {
+  "title": "Variety Wins 16 Southern California Journalism Awards",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://deadline.com/2026/06/bill-maher-mark-twain-prize-kennedy-center-trump-1236969515": {
+  "title": "What Bill Maher Said About Trump And The Left As He Received Kennedy Center’s Mark Twain Prize: “You Want To Not Get Mocked? Stop Being Funny”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://animeanime.jp/article/2026/06/29/100517.html": {
+  "title": "声優・鈴村健一、復帰を事務所が公式発表 「復帰本当に嬉しい」「わーーーん 鈴さんおかえり」とファン歓喜",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://0115765.com/archives/192658": {
+  "title": "『ケロロ軍曹』新作映画、賛否招いたゲスト陣コメントを無予告で削除　指摘相次ぎ火に油を注ぐ結果に",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://variety.com/2026/tv/news/john-oliver-reveal-days-of-our-lives-soap-opera-guest-appearances-1236798077": {
+  "title": "John Oliver’s Soap Opera Surprise: A ‘Days of Our Lives’ Guest-Star Role",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://deadline.com/2026/06/teyana-taylor-inspirational-speech-bet-awards-greatness-1236969526": {
+  "title": "Teyana Taylor Delivers Inspirational Speech At BET Awards: “Greatness” Is “Measured By How Many People Stand Beside You”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://animeanime.jp/article/2026/06/29/100516.html": {
+  "title": "悪魔の実を持ち歩ける!? 「ワンピース」ゴムゴムの実、メラメラの実、オペオペの実がシリコンポーチになって登場！ 中に小物を入れちゃおう",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://variety.com/2026/tv/news/john-oliver-general-hospital-guest-star-1236794160": {
+  "title": "John Oliver to Guest Star on ‘General Hospital’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://deadline.com/2026/06/nia-long-jaafar-jackson-michael-bet-awards-1236969530": {
+  "title": "Nia Long Praises Jaafar Jackson For ‘Michael’ Success: “It Was A Joy Watching You Transform Into Your Uncle Right Before Our Eyes”",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://animeanime.jp/article/2026/06/29/100515.html": {
+  "title": "「ウマ娘」ゴールドシップ、ハルウララ、ライスシャワーのおっきな顔がぬいぐるみに♪ 抱きしめるのにぴったりなサイズ感が魅力",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://variety.com/2026/tv/news/john-oliver-exposes-trump-fox-news-jesse-watters-reflecting-pool-conspiracies-1236798056": {
+  "title": "John Oliver Exposes Trump and Fox News’ Jesse Watters Over Reflecting Pool Conspiracies",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://deadline.com/2026/06/bill-maher-kennedy-center-mark-twain-prize-trump-1236969475": {
+  "title": "Bill Maher, At Kennedy Center To Receive Mark Twain Prize, Talks About Donald Trump’s Tarp: “Only He Could Think Of That”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://animeanime.jp/article/2026/06/29/100514.html": {
+  "title": "2026年春アニメで一番良かった作品は？ 3位「あかね噺」、2位「黄泉のツガイ」、1位は…「目が離せませんでした」「物語にのめり込めます」",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UQ3luVjNwcW5zcGx4dzRIUVhpZi1KemRGZVRHaDVfVG9lS2o5OWtNTVpNYUtnUHZXd1YyMDlNMG53eWZld1ZhNlBTVW8yOUc3Ml9MODln?oc=5": {
+  "title": "『コナン』公開80日間で興収134.5億円突破 前週比+1億円 - オリコンニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwTC0yc1J1Q1ZXY3BsM3dMemZDTWR4dTd1a3kyYnNsYmpvbF8xR3lmaFZGZVVQWWwtNkpGOE1IVkU3ak85VWZKcUV1cE9fekR6UEROZjUxZ0hGS1k0RWVIVXZPU2RJQVdJQUE?oc=5": {
+  "title": "ディー・エル・イー[3686]：（開示事項の経過）「日本アジア投資株式会社との業務提携に基づくファンド参画並びに出資に関するお知らせ」にかかる変更に関するお知らせ 2026年6月29日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://deadline.com/2026/06/salman-rushdie-babell-porto-2026-1236969307": {
+  "title": "Salman Rushdie Discusses His 2022 Knife Attack & Explains Why He Isn’t Interested In “Polemical Fiction” At The Babell Literary Festival",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://animeanime.jp/article/2026/06/29/100513.html": {
+  "title": "【中丸雄一 インタビュー】 15年前に生まれたキャラクター「きっくん」がアニメ化　大塚明夫＆杉田智和へのオファー秘話も",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782724448.299606
+ },
+ "https://deadline.com/2026/06/peter-safran-confident-dcu-strategy-supergirl-box-office-1236969289": {
+  "title": "Peter Safran Still “Confident” In DCU Strategy After ‘Supergirl’ Didn’t Meet “Box Office Expectations”",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1782724448.299606
+ },
+ "https://animeanime.jp/article/2026/06/29/100512.html": {
+  "title": "「Gジェネエターナル」グレート・ジオングのROBOT魂版が予約受付中！ 4つのユニットは分離と合体が可能",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1782724448.299606
  }
 }
