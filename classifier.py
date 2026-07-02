@@ -29,7 +29,7 @@ def _get_client() -> anthropic.Anthropic:
     """
     global _client
     if _client is None:
-        _client = anthropic.Anthropic(max_retries=8, timeout=120.0)
+        _client = anthropic.Anthropic(max_retries=4, timeout=60.0)
     return _client
 
 
@@ -45,8 +45,9 @@ def _thinking_param(model: str) -> dict:
 
 @dataclass
 class Judgment:
-    label: str          # 対象 / グレー / 対象外
-    confidence: str     # 高 / 中 / 低
+    themes: list          # ["コンテンツ","AI","ビジネス"] の部分集合
+    label: str            # 対象 / グレー / 対象外
+    confidence: str       # 高 / 中 / 低
     reason: str
 
     @property
@@ -100,4 +101,9 @@ def classify(article_text: str) -> Judgment:
     if data is None:
         raise RuntimeError(f"判定JSONを取得できません (stop_reason={resp.stop_reason})")
 
-    return Judgment(label=data["label"], confidence=data["confidence"], reason=data["reason"])
+    return Judgment(
+        themes=data.get("themes", []),
+        label=data["label"],
+        confidence=data["confidence"],
+        reason=data["reason"],
+    )

@@ -9,6 +9,10 @@ DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$DIR" || exit 1
 LOG="$DIR/state/cron.log"
 
+# 定時ウェイク後にすぐ再スリープして実行が途切れるのを防ぐ。
+# このスクリプト($$)が終わるまでスリープを抑止する（バックグラウンドで待機）。
+/usr/bin/caffeinate -i -w $$ &
+
 # APIキーを .env（ANTHROPIC_API_KEY=... の1行）から読み込む
 if [ -f "$DIR/.env" ]; then
   set -a; . "$DIR/.env"; set +a
@@ -32,5 +36,17 @@ if [ -f "$DIR/outputs/digest.html" ]; then
   "$GIT" pull --rebase --autostash origin main >> "$LOG" 2>&1 || echo "pullスキップ" >> "$LOG"
   "$GIT" push origin main >> "$LOG" 2>&1 && echo "push成功（Pages更新）" >> "$LOG" || echo "push失敗（認証要確認）" >> "$LOG"
 fi
+
+# 次のウェイクを予約（朝の実行後→今日の夕方17:58 / 夕方の実行後→翌朝05:58）。
+# pmset schedule は要root。sudoers で pmset を NOPASSWD 許可している前提。
+HOUR=$(date +%H)
+if [ "$HOUR" -lt 12 ]; then
+  NEXT=$(date -v17H -v58M -v00S '+%m/%d/%Y %H:%M:%S')
+else
+  NEXT=$(date -v+1d -v05H -v58M -v00S '+%m/%d/%Y %H:%M:%S')
+fi
+/usr/bin/sudo /usr/bin/pmset schedule wake "$NEXT" >> "$LOG" 2>&1 \
+  && echo "次回ウェイク予約: $NEXT" >> "$LOG" \
+  || echo "ウェイク予約失敗（sudoers未設定の可能性）" >> "$LOG"
 
 echo "===== $(date '+%Y-%m-%d %H:%M:%S') 実行終了 =====" >> "$LOG"

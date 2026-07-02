@@ -30,7 +30,7 @@ OUT_DIR = os.path.join(os.path.dirname(__file__), "outputs")
 PER_FEED_LIMIT = int(os.environ.get("PER_FEED_LIMIT", "15"))
 MAX_CLASSIFY = int(os.environ.get("MAX_CLASSIFY", "60"))  # 1回の新規判定件数の上限（安全弁）
 SIM = float(os.environ.get("DEDUP_SIM", "0.35"))          # タイトル類似のしきい値
-MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "14"))  # これより古い記事は除外（公開日が判る場合）
+MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "2"))   # これより古い記事は除外（既定=昨日と今日）
 
 
 def normalize_url(url: str) -> str:
@@ -132,8 +132,8 @@ def main() -> int:
     store.append_archive([
         {
             "url": art.url, "title": art.title, "source": art.source,
-            "published": art.published, "label": j.label, "confidence": j.confidence,
-            "reason": j.reason, "also": others, "ts": now,
+            "published": art.published, "themes": j.themes, "label": j.label,
+            "confidence": j.confidence, "reason": j.reason, "also": others, "ts": now,
         }
         for art, j, others in clusters
     ])
@@ -148,18 +148,40 @@ def _aggregate(kept: list[tuple[Article, object]]) -> list[tuple[Article, object
     out: list[tuple[Article, object, list[str]]] = []
     for group in dedup.cluster(titles, SIM):
         members = [kept[k] for k in group]
-        # 代表: 対象を優先 → 本文が長い（情報量が多い）順
-        members.sort(key=lambda m: (0 if m[1].label == "対象" else 1, -len(m[0].text or m[0].summary)))
+        # 代表: 対象を優先 → 該当分野(themes)が多い → 本文が長い（情報量が多い）順
+        members.sort(key=lambda m: (
+            0 if m[1].label == "対象" else 1,
+            -len(getattr(m[1], "themes", []) or []),
+            -len(m[0].text or m[0].summary),
+        ))
         rep_art, rep_j = members[0]
         others = [m[0].source for m in members[1:] if m[0].source]
         out.append((rep_art, rep_j, others))
     return out
 
 
+_THEME_COLOR = {"コンテンツ": "#5a3e9e", "AI": "#0b6e8c", "ビジネス": "#1a7f37"}
+
+
+def _theme_chips(themes: list) -> str:
+    chips = []
+    for t in themes:
+        c = _THEME_COLOR.get(t, "#666")
+        chips.append(
+            f'<span style="background:{c};color:#fff;padding:2px 8px;border-radius:10px;'
+            f'font-size:12px;margin-right:4px">{html.escape(t)}</span>'
+        )
+    return "".join(chips)
+
+
 def render_html(items: list[tuple[Article, object, list[str]]]) -> str:
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
-    # 公開日の新しい順（日付不明は末尾）。
-    items = sorted(items, key=lambda x: x[0].published_ts or 0, reverse=True)
+    # 該当分野(themes)が多い順（3分野=最優先）→ 同数なら公開日の新しい順。
+    items = sorted(
+        items,
+        key=lambda x: (len(getattr(x[1], "themes", []) or []), x[0].published_ts or 0),
+        reverse=True,
+    )
     cards = []
     for art, j, others in items:
         badge = "#1a7f37" if j.label == "対象" else "#9a6700"
@@ -167,22 +189,23 @@ def render_html(items: list[tuple[Article, object, list[str]]]) -> str:
         if others:
             uniq = "、".join(dict.fromkeys(others))
             also = f'<div style="font-size:12px;color:#888;margin-top:6px">他{len(others)}媒体でも報道: {html.escape(uniq)}</div>'
+        chips = _theme_chips(getattr(j, "themes", []) or [])
         cards.append(
             f"""<article style="border:1px solid #ddd;border-radius:8px;padding:14px;margin:10px 0">
   <div style="font-size:12px;color:#666">{html.escape(art.source)} ・ {html.escape(art.published)}</div>
   <h3 style="margin:6px 0"><a href="{html.escape(art.url)}" target="_blank">{html.escape(art.title)}</a></h3>
-  <div><span style="background:{badge};color:#fff;padding:2px 8px;border-radius:10px;font-size:12px">{j.label} / 確信度{j.confidence}</span></div>
+  <div>{chips}<span style="background:{badge};color:#fff;padding:2px 8px;border-radius:10px;font-size:12px">{j.label} / 確信度{j.confidence}</span></div>
   <p style="color:#444;font-size:14px;margin:8px 0 0">{html.escape(j.reason)}</p>
   {also}
 </article>"""
         )
-    body = "\n".join(cards) or "<p>新着なし（前回以降の新しいビジネスニュースはありませんでした）</p>"
+    body = "\n".join(cards) or "<p>新着なし（前回以降の新しい該当ニュースはありませんでした）</p>"
     return f"""<!doctype html><html lang="ja"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>アニメビジネスニュース ダイジェスト</title></head>
+<title>コンテンツ×AI×ビジネス ニュース</title></head>
 <body style="font-family:system-ui,'Hiragino Sans',sans-serif;max-width:760px;margin:24px auto;padding:0 16px">
-<h1>アニメ／コンテンツIP ビジネスニュース</h1>
-<p style="color:#666">生成: {now} ・ モデル: {html.escape(MODEL)} ・ 新着 {len(items)} 件</p>
+<h1>コンテンツ × AI × ビジネス ニュース</h1>
+<p style="color:#666">生成: {now} ・ モデル: {html.escape(MODEL)} ・ 新着 {len(items)} 件（分野が多い順）</p>
 {body}
 </body></html>"""
 

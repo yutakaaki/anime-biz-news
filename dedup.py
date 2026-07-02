@@ -14,6 +14,8 @@ _STOP = {
     "a", "an", "the", "and", "or", "of", "to", "for", "in", "on", "at", "as", "by",
     "is", "are", "be", "with", "from", "into", "over", "after", "new", "news",
     "latest", "com", "co", "jp", "anime", "first",
+    # 一般的すぎて固有名にならない語（box office 等のノイズ対策）
+    "box", "office", "weekend", "report", "says", "video",
 }
 # 日本語の助詞・一般語（bigramノイズ低減用）
 _JA_STOP = {"する", "した", "して", "こと", "これ", "それ", "という", "など", "また"}
@@ -43,6 +45,32 @@ def similarity(a: str, b: str) -> float:
     return len(ta & tb) / len(ta | tb)
 
 
+OVERLAP_MIN = 0.45  # 重なり係数（小さい方の集合基準）のしきい値
+MIN_SHARED = 3      # 重なり係数で集約する際に必要な共有トークン数（一般語のみの誤マージ防止）
+
+
+def should_merge(a: str, b: str, threshold: float = 0.5) -> bool:
+    """同一ニュースとみなすか。Jaccardが低くても、言い換え見出しを救うため
+    「小さい方の集合に対する重なり（overlap係数）が高く、共有語が十分」なら集約する。
+    """
+    ta, tb = tokens(a), tokens(b)
+    if not ta or not tb:
+        return False
+    inter = len(ta & tb)
+    if inter == 0:
+        return False
+    if inter / len(ta | tb) >= threshold:          # 通常のJaccard
+        return True
+    # 共有する語が多く、片方にほぼ含まれる（言い換え見出しの同一ニュース）
+    overlap = inter / min(len(ta), len(tb))
+    if overlap >= OVERLAP_MIN and inter >= MIN_SHARED and min(len(ta), len(tb)) >= 4:
+        return True
+    # 4文字以上の固有名（英数語）を2つ以上共有＝同一の出来事（例: MIXI＋Runway）。
+    # 1エンティティ由来（toy story 等）では誤マージしないよう、一般語は _STOP で除外済み。
+    strong = [t for t in (ta & tb) if t.isascii() and t.isalnum() and len(t) >= 4]
+    return len(strong) >= 2
+
+
 def cluster(titles: list[str], threshold: float = 0.5) -> list[list[int]]:
     """貪欲法でタイトルを近接クラスタにまとめ、各クラスタのインデックス列を返す。"""
     n = len(titles)
@@ -56,7 +84,7 @@ def cluster(titles: list[str], threshold: float = 0.5) -> list[list[int]]:
         for j in range(i + 1, n):
             if used[j]:
                 continue
-            if similarity(titles[i], titles[j]) >= threshold:
+            if should_merge(titles[i], titles[j], threshold):
                 group.append(j)
                 used[j] = True
         clusters.append(group)
@@ -64,4 +92,4 @@ def cluster(titles: list[str], threshold: float = 0.5) -> list[list[int]]:
 
 
 def is_similar(a: str, b: str, threshold: float = 0.5) -> bool:
-    return similarity(a, b) >= threshold
+    return should_merge(a, b, threshold)

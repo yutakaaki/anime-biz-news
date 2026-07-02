@@ -30,27 +30,55 @@ DIRECT_FEEDS = [
     ("https://branc.jp/feed", "Branc"),
 ]
 
-# Google ニュース検索クエリ（取りこぼし最小化のため広め）
+# Google ニュース検索クエリ（メインテーマ: コンテンツ × AI × ビジネス）
 GOOGLE_QUERIES_JA = [
+    # コンテンツ × ビジネス
     "アニメ 興行収入",
     "アニメ 配信 契約",
     "アニメ 製作委員会 出資",
     "アニメ ライセンス 海外",
     "アニメ制作会社 決算 OR 買収",
     "コンテンツ 海外売上 OR 市場規模",
+    # コンテンツ × AI
+    "生成AI アニメ OR 映像 OR 映画",
+    "AI 映像制作 OR アニメ制作",
+    "生成AI 著作権 アニメ OR 映画 OR 映像",
+    "AI 吹き替え OR 翻訳 アニメ OR 映画",
+    "AI エンタメ 投資 OR 資金調達",
+    # ペイウォール系・大手新聞を site: 指定で収集（本文は取れないが見出し＋概要で判定・表示）
+    "アニメ OR コンテンツ産業 site:nikkei.com",
+    "アニメ OR コンテンツ産業 site:business.nikkei.com",
+    "アニメ OR コンテンツ産業 site:forbesjapan.com",
+    "アニメ OR コンテンツ産業 site:sankei.com",
+    "アニメ OR コンテンツ産業 site:yomiuri.co.jp",
 ]
 GOOGLE_QUERIES_EN = [
+    # コンテンツ × ビジネス
     "anime box office",
     "anime licensing deal",
     "anime streaming rights",
     "anime studio acquisition OR investment",
+    # コンテンツ × AI
+    "generative AI animation OR anime",
+    "AI film production OR video generation studio",
+    "generative AI content copyright OR licensing",
+    "AI dubbing OR localization film OR anime",
 ]
+
+
+def _label(q: str, lang: str) -> str:
+    """digest表示用のソース名。site: クエリは媒体ドメインを見やすく出す。"""
+    if "site:" in q:
+        dom = q.split("site:", 1)[1].strip()
+        return f"Googleニュース({dom})"
+    prefix = "Googleニュース" if lang == "ja" else "Google News"
+    return f"{prefix}: {q}"
 
 
 def all_feeds() -> list[tuple[str, str]]:
     feeds = list(DIRECT_FEEDS)
     for q in GOOGLE_QUERIES_JA:
-        feeds.append((google_news_rss(q, "ja"), f"Googleニュース: {q}"))
+        feeds.append((google_news_rss(q, "ja"), _label(q, "ja")))
     for q in GOOGLE_QUERIES_EN:
-        feeds.append((google_news_rss(q, "en"), f"Google News: {q}"))
+        feeds.append((google_news_rss(q, "en"), _label(q, "en")))
     return feeds
