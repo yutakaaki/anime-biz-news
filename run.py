@@ -18,6 +18,7 @@ import html
 import os
 import time
 import urllib.parse
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 
 import dedup
@@ -31,6 +32,7 @@ PER_FEED_LIMIT = int(os.environ.get("PER_FEED_LIMIT", "15"))
 MAX_CLASSIFY = int(os.environ.get("MAX_CLASSIFY", "60"))  # 1回の新規判定件数の上限（安全弁）
 SIM = float(os.environ.get("DEDUP_SIM", "0.35"))          # タイトル類似のしきい値
 MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "2"))   # これより古い記事は除外（既定=昨日と今日）
+JUDGE_WORKERS = int(os.environ.get("JUDGE_WORKERS", "4")) # 判定を並列実行するワーカー数（高速化）
 
 
 def normalize_url(url: str) -> str:
@@ -105,16 +107,28 @@ def main() -> int:
         print(f"安全弁: 新規の先頭 {MAX_CLASSIFY} 件に絞って判定")
         to_judge = to_judge[:MAX_CLASSIFY]
 
-    kept_new: list[dict] = []
-    print("判定中...")
-    for art in to_judge:
+    print(f"判定中...（並列 {JUDGE_WORKERS} 本）")
+
+    def _judge_one(art: Article):
+        """1記事を取得＋判定。結果 (art, Judgment) を返す。失敗時は j=例外/None。"""
         fetch_article_text(art)
         if art.error and not (art.text or art.summary):
-            continue
+            return art, None
         try:
-            j = classify(art.for_classification())
+            return art, classify(art.for_classification())
         except Exception as e:  # noqa: BLE001
-            print(f"  [判定失敗] {art.url}: {e}")
+            return art, e
+
+    # 取得＋判定を並列実行して待ち時間を短縮（結果の反映は逐次で安全に）
+    with ThreadPoolExecutor(max_workers=JUDGE_WORKERS) as ex:
+        results = list(ex.map(_judge_one, to_judge))
+
+    kept_new: list[dict] = []
+    for art, j in results:
+        if j is None:
+            continue
+        if isinstance(j, Exception):
+            print(f"  [判定失敗] {art.url}: {j}")
             continue
         seen[normalize_url(art.url)] = {
             "title": art.title, "source": art.source, "label": j.label, "ts": now,
