@@ -211,5 +211,20 @@
   "confidence": "高",
   "reason": "アニメ映画『トイ・ストーリー５』の公開初日の興行成績（歴代NO.１記録）が主題であり、コンテンツ（映画）＋ビジネス（売上・市場成績）が明確に該当する。",
   "ts": 1783139234.709506
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zX3ZtV05VQ2Q0OHZUdFJXcjgteDJTVDlPbG5XcmVQYl9ERllJdHdnME9zeXNrSGtVdFVqWS1ZTzVfZS1vWmxLQmNqRVlzeEF3SlNweVUySjZjczhzZElyaFd2M0Y3NTBNOXc?oc=5",
+  "title": "コミュニティ育成クラウド「IKURA AI System 」広告映像を、氏家物産が全編生成AIで制作 - PR TIMES",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "published": "Thu, 02 Jul 2026 06:10:02 GMT",
+  "published_ts": 1782972602,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "label": "グレー",
+  "confidence": "低",
+  "reason": "タイトルから広告映像の生成AI制作が読み取れるため映像＋AIの要素があるが、本文が示されておらずPR発表に過ぎない可能性が高く、実質的なビジネス情報や制作技術の詳細が不明であるため判定が困難。",
+  "ts": 1783141568.990314
  }
 ]
