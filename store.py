@@ -41,6 +41,29 @@ def recent_titles(seen: dict, days: int = 7) -> list[str]:
     return [v.get("title", "") for v in seen.values() if v.get("ts", 0) >= cutoff]
 
 
+RECENT_PATH = os.path.join(STATE_DIR, "recent.json")
+
+
+def load_recent() -> list:
+    """digest表示用の「直近ウィンドウ」（拾った記事のdictのリスト）。RESET_STATE で空から。"""
+    if os.environ.get("RESET_STATE"):
+        return []
+    try:
+        with open(RECENT_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+
+def save_recent(items: list, retention_days: int) -> None:
+    """公開日(無ければ判定時刻)が retention_days 以内のものだけ残して保存。"""
+    os.makedirs(STATE_DIR, exist_ok=True)
+    cutoff = time.time() - retention_days * 86400
+    pruned = [it for it in items if (it.get("published_ts") or it.get("ts") or 0) >= cutoff]
+    with open(RECENT_PATH, "w", encoding="utf-8") as f:
+        json.dump(pruned, f, ensure_ascii=False, indent=1)
+
+
 def append_archive(records: list[dict]) -> None:
     if not records:
         return

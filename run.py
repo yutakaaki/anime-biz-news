@@ -105,7 +105,7 @@ def main() -> int:
         print(f"安全弁: 新規の先頭 {MAX_CLASSIFY} 件に絞って判定")
         to_judge = to_judge[:MAX_CLASSIFY]
 
-    kept: list[tuple[Article, object]] = []
+    kept_new: list[dict] = []
     print("判定中...")
     for art in to_judge:
         fetch_article_text(art)
@@ -120,43 +120,49 @@ def main() -> int:
             "title": art.title, "source": art.source, "label": j.label, "ts": now,
         }
         if j.keep:
-            kept.append((art, j))
+            kept_new.append({
+                "url": art.url, "title": art.title, "source": art.source,
+                "published": art.published, "published_ts": art.published_ts,
+                "themes": j.themes, "label": j.label, "confidence": j.confidence,
+                "reason": j.reason, "ts": now,
+            })
             print(f"  [{j.label}] {art.title[:50]}")
 
-    clusters = _aggregate(kept)
+    # 直近ウィンドウ（直近 MAX_AGE_DAYS 日の該当ニュース）に新着をマージし、常に全部表示する。
+    # → 実行が新着0でも空にならず、取りこぼしにも強い。
+    by_key = {normalize_url(it["url"]): it for it in store.load_recent()}
+    for it in kept_new:
+        by_key[normalize_url(it["url"])] = it  # 新しい判定で上書き
+    window = list(by_key.values())
+
+    clusters = _aggregate_dicts(window)
     os.makedirs(OUT_DIR, exist_ok=True)
     out_path = os.path.join(OUT_DIR, "digest.html")
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(render_html(clusters))
 
-    store.append_archive([
-        {
-            "url": art.url, "title": art.title, "source": art.source,
-            "published": art.published, "themes": j.themes, "label": j.label,
-            "confidence": j.confidence, "reason": j.reason, "also": others, "ts": now,
-        }
-        for art, j, others in clusters
-    ])
+    store.save_recent(window, MAX_AGE_DAYS)
+    store.append_archive(kept_new)
     store.save_seen(seen)
-    print(f"\n新着の拾った記事: {len(clusters)} 件（集約後） → {out_path}")
+    print(f"\n新着 {len(kept_new)} 件 / 表示 {len(clusters)} 件（直近{MAX_AGE_DAYS}日・集約後） → {out_path}")
     return 0
 
 
-def _aggregate(kept: list[tuple[Article, object]]) -> list[tuple[Article, object, list[str]]]:
-    """拾った記事をタイトル類似で集約。代表1本＋他媒体名のリストにする。"""
-    titles = [art.title for art, _ in kept]
-    out: list[tuple[Article, object, list[str]]] = []
+def _aggregate_dicts(items: list[dict]) -> list[dict]:
+    """直近ウィンドウの記事(dict)をタイトル類似で集約。代表1本＋他媒体名(also)を付ける。"""
+    titles = [it["title"] for it in items]
+    out: list[dict] = []
     for group in dedup.cluster(titles, SIM):
-        members = [kept[k] for k in group]
-        # 代表: 対象を優先 → 該当分野(themes)が多い → 本文が長い（情報量が多い）順
+        members = [items[k] for k in group]
+        # 代表: 対象を優先 → 該当分野(themes)が多い → 理由が長い（情報量が多い）順
         members.sort(key=lambda m: (
-            0 if m[1].label == "対象" else 1,
-            -len(getattr(m[1], "themes", []) or []),
-            -len(m[0].text or m[0].summary),
+            0 if m.get("label") == "対象" else 1,
+            -len(m.get("themes") or []),
+            -len(m.get("reason") or ""),
         ))
-        rep_art, rep_j = members[0]
-        others = [m[0].source for m in members[1:] if m[0].source]
-        out.append((rep_art, rep_j, others))
+        rep = dict(members[0])
+        rep["also"] = [m.get("source", "") for m in members[1:] if m.get("source")]
+        out.append(rep)
     return out
 
 
@@ -174,38 +180,40 @@ def _theme_chips(themes: list) -> str:
     return "".join(chips)
 
 
-def render_html(items: list[tuple[Article, object, list[str]]]) -> str:
+def render_html(items: list[dict]) -> str:
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
     # 該当分野(themes)が多い順（3分野=最優先）→ 同数なら公開日の新しい順。
     items = sorted(
         items,
-        key=lambda x: (len(getattr(x[1], "themes", []) or []), x[0].published_ts or 0),
+        key=lambda x: (len(x.get("themes") or []), x.get("published_ts") or 0),
         reverse=True,
     )
     cards = []
-    for art, j, others in items:
-        badge = "#1a7f37" if j.label == "対象" else "#9a6700"
+    for it in items:
+        label = it.get("label", "")
+        badge = "#1a7f37" if label == "対象" else "#9a6700"
+        others = it.get("also") or []
         also = ""
         if others:
             uniq = "、".join(dict.fromkeys(others))
             also = f'<div style="font-size:12px;color:#888;margin-top:6px">他{len(others)}媒体でも報道: {html.escape(uniq)}</div>'
-        chips = _theme_chips(getattr(j, "themes", []) or [])
+        chips = _theme_chips(it.get("themes") or [])
         cards.append(
             f"""<article style="border:1px solid #ddd;border-radius:8px;padding:14px;margin:10px 0">
-  <div style="font-size:12px;color:#666">{html.escape(art.source)} ・ {html.escape(art.published)}</div>
-  <h3 style="margin:6px 0"><a href="{html.escape(art.url)}" target="_blank">{html.escape(art.title)}</a></h3>
-  <div>{chips}<span style="background:{badge};color:#fff;padding:2px 8px;border-radius:10px;font-size:12px">{j.label} / 確信度{j.confidence}</span></div>
-  <p style="color:#444;font-size:14px;margin:8px 0 0">{html.escape(j.reason)}</p>
+  <div style="font-size:12px;color:#666">{html.escape(it.get("source", ""))} ・ {html.escape(it.get("published", ""))}</div>
+  <h3 style="margin:6px 0"><a href="{html.escape(it.get("url", ""))}" target="_blank">{html.escape(it.get("title", ""))}</a></h3>
+  <div>{chips}<span style="background:{badge};color:#fff;padding:2px 8px;border-radius:10px;font-size:12px">{label} / 確信度{html.escape(it.get("confidence", ""))}</span></div>
+  <p style="color:#444;font-size:14px;margin:8px 0 0">{html.escape(it.get("reason", ""))}</p>
   {also}
 </article>"""
         )
-    body = "\n".join(cards) or "<p>新着なし（前回以降の新しい該当ニュースはありませんでした）</p>"
+    body = "\n".join(cards) or f"<p>直近{MAX_AGE_DAYS}日間に該当ニュースはありませんでした</p>"
     return f"""<!doctype html><html lang="ja"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>コンテンツ×AI×ビジネス ニュース</title></head>
 <body style="font-family:system-ui,'Hiragino Sans',sans-serif;max-width:760px;margin:24px auto;padding:0 16px">
 <h1>コンテンツ × AI × ビジネス ニュース</h1>
-<p style="color:#666">生成: {now} ・ モデル: {html.escape(MODEL)} ・ 新着 {len(items)} 件（分野が多い順）</p>
+<p style="color:#666">生成: {now} ・ モデル: {html.escape(MODEL)} ・ 直近{MAX_AGE_DAYS}日 {len(items)} 件（分野が多い順）</p>
 {body}
 </body></html>"""
 

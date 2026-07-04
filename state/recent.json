@@ -1,0 +1,65 @@
+[
+ {
+  "url": "u1",
+  "title": "ByteDance AI video Hollywood",
+  "source": "S",
+  "published": "p",
+  "published_ts": 1783139069.664296,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "rrrrrrrrrr",
+  "ts": 1783139169.664296
+ },
+ {
+  "url": "u2",
+  "title": "アニメ会社の決算発表",
+  "source": "S",
+  "published": "p",
+  "published_ts": 1783139159.664296,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "rrrrrrrrrr",
+  "ts": 1783139169.664296
+ },
+ {
+  "url": "u3",
+  "title": "MIXI、Runwayと戦略提携 生成AIで映像制作",
+  "source": "S",
+  "published": "p",
+  "published_ts": 1783139164.664296,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "rrrrrrrrrr",
+  "ts": 1783139169.664296
+ },
+ {
+  "url": "u4",
+  "title": "MIXIが映像生成AIのRunwayと戦略的パートナーシップ締結、制作を21日から3日に短縮",
+  "source": "S",
+  "published": "p",
+  "published_ts": 1783139163.664296,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "rrrrrrrrrr",
+  "ts": 1783139169.664296
+ }
+]
