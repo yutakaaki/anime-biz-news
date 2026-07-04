@@ -4030,5 +4030,311 @@
   "source": "Googleニュース(yomiuri.co.jp)",
   "label": "対象外",
   "ts": 1783069221.61126
+ },
+ "https://variety.com/2026/music/news/prince-william-new-heights-taylor-swift-travis-kelce-1236801557": {
+  "title": "Prince William Joins ‘New Heights’ Podcast on Taylor Swift and Travis Kelce’s Wedding Day",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://deadline.com/2026/07/oliver-stone-tribute-producer-moritz-borman-1236974013": {
+  "title": "Oliver Stone Pays Tribute To His ‘Alexander’ & ‘Snowden’ Producer Moritz Borman: “I Very Much Loved And Admired Him”",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS2x3X0dnUkhrYy1JUEVvekcxbTg1LVpJZm5UYmZYUGZkOGdpeTB4WW8tZ2ZiRzVmU2xjVll0WnRMTHFmeW5HRzZUNUw5OWFDR1R6aS1IZHh6cnBkS3FNbnEyMWRnX0V5ZUpWV2xvWHAtSHNFMm5lZjRRVDg2NWV0OGhlcDVpU2gzUVdBcW1qa3JVX0tUdUpYT21zS2g1aVhiQkxXT3lXdEhGRXhYY3p1RmJqZFRUVTJZbzkweXhDLUFnNHM2Rmdlb2cyUzR1WVhnTnhuU2VNejg4ajdkOGFibmQxSTNfc3B4bnc?oc=5": {
+  "title": "The Ghost in the Shell Director Says New Anime Used “Zero GenAI” as Science SARU Takes a Firm Stand on AI - IGN India",
+  "source": "Google News: generative AI animation OR anime",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://variety.com/lists/best-movies-streaming-july-2026": {
+  "title": "22 Best Movies New to Streaming in July: ‘Project Hail Mary,’ ‘Devil Wears Prada 2,’ ‘The Drama,’ ‘Super Mario Galaxy Movie’ and More",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://deadline.com/2026/07/x-games-league-tv-ratings-1236973925": {
+  "title": "X Games League Viewership Gets Serious Vert In TV Debut",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWR2JQMUhtMXQxRDJfQ09TdVgxa1hzSE42cUhlR19WOEltbmdQWEFlZ1ZmU3JjU3QyMHB1VXVvUkM4OFlBSkJ1NTFiUHZzcERC?oc=5": {
+  "title": "「gamebiz」でDLE代表取締役社長・小野亮のインタビューが掲載されました。『生成AIは日本のアニメ業界をどう変えるのか DLE小野亮CEOが語る\"本当の課題\"』 - DLE Dream Link Entertainment",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://deadline.com/2026/07/taylor-swift-wedding-prince-william-1236973926": {
+  "title": "London Calling Indeed: Prince William Isn’t Going To Taylor Swift & Travis Kelce’s Wedding, But Heir Hung With Groom To Talk Eras Tour, World Cup",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://deadline.com/2026/07/indie-films-opening-young-washington-july-4-weekend-1236973770": {
+  "title": "‘Young Washington’ Marches Into Theaters July 4 Weekend – Specialty Preview",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zS2pIUmxqZkk2NEFtOVR0T3RRbVkyUEIyc1NLSFA0OExWdlJUN2Y1el9NV2JSY3Jqai1kb0hhQl91ZUl5Uk5sYk9rQzVQdDM2a1BhYlk1YnRZODRNckRDejJkcEFJZzdHZ3h3VnExT0J2MmNJc1RQdnJEbw?oc=5": {
+  "title": "100studioがアニメーション制作を担当するTVアニメ『BLACK TORCH』、7月4日(土) 22:00から放送の第1話あらすじ＆先行カット公開！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://variety.com/2026/politics/news/donald-trump-great-american-state-fair-postponed-weather-1236801505": {
+  "title": "Donald Trump’s Great American State Fair Postponed Due to Extreme Heat",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://variety.com/2026/biz/news/cannes-lions-nbcuniversal-ibm-variety-strictly-business-1236801488": {
+  "title": "Strictly Business From Cannes Lions: NBCUniversal, IBM, State Farm, Autodesk and Coinbase Leaders on Marketplace Trends, AI and Reaching Consumers",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://variety.com/2026/film/news/minions-monsters-easter-eggs-citizen-kane-the-blob-1236798609": {
+  "title": "‘Minions and Monsters’ Director Breaks Down the Film’s Easter Eggs, From ‘Citizen Kane’ to Old Universal Logos, ‘The Blob’ and More",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://deadline.com/2026/07/love-island-uk-gabriel-garland-breaks-silence-removed-1236973893": {
+  "title": "‘Love Island UK’s Gabriel Garland Breaks Silence After Being Removed For Stabbing Case Involvement: “I Don’t Have A Criminal Record”",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://variety.com/2026/music/news/taylor-swift-travis-kelce-married-madison-square-garden-1236498909": {
+  "title": "Taylor Swift and Travis Kelce Getting Married at Madison Square Garden on Friday",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://deadline.com/2026/07/box-office-minions-monsters-global-1236973852": {
+  "title": "‘Minions & Monsters’ Taking On The World With $62M+ WW Cume To Date – Box Office Update",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/03/100664.html": {
+  "title": "“熱血”キャラといえば？ アンケート〆切は7月10日",
+  "source": "アニメ！アニメ！",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQkM0Qjg0akgwcjlMdlJZMUw2bG1ZekMtd0l2YUZhb3RXa1ZfVC1FNDlGd0JFUTRldURQVlRpNHc3YzB2Yk44NkgwNVhrQkJLYVBZWjFFVG9fUVgwcGhwRTFGWTVqZk5YVFVVNHBoZDdGWXNpV0VqYS1PUGRXWDFCV05rRHNWd2lpNFRUc25kdEJ0Z2NjaU1DUFNxNjBCRzVZeGc?oc=5": {
+  "title": "『ダンガンロンパ』アニメ3作品の3週連続無料一挙放送決定（写真・画像 1/1） - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/04/100673.html": {
+  "title": "「劇場版 俺だけレベルアップな件 -Beyond the System」制作決定 特報＆ティザービジュアル公開",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://0115765.com/archives/193359": {
+  "title": "アニメファンも他人事でない…Blu-rayの再生機器が続々終売、撤退したメーカーが「販売継続」する事例も潮流変わらず",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1783115494.8248372
+ },
+ "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PZzJjR29xVDQtSU1SUWNpSkZQQ0VhNTc2SmVDMHZNemdFb0FZR0xpZk94U1dPRWtzU0x1MlB3UHFId0ZIZ1p4amJQdFR3T0Zid1JfaExUTWw?oc=5": {
+  "title": "重岡大毅、“生成AIとの向き合い方”を語る。プチョン滞在中のほっこりエピソードも披露 - 推し楽",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMzIzTU5lWklGQ21ORkxIMzVoOE1sOTBlc29NNFA0N2Jwb2xrcXBHcFBDdTZ0VkNXblhjaFVGei1Dc1BYLTRFalVWSzROeW9abFgwOC1MVWt2M09uSUdrZzgtbnlNTmpZOVRzV2tYUm1PdENTTXJPdUU5YW03elRGX1hWai1KV0I3NVZRNzlIS2wzYmtrZ3NuQVo3ZkxkZk11ZTRtdlBQSDRJeWpYZ20yU1R2N2FfdlFia1BxOGVLYlBfa2dPSmk2Wmswa0E?oc=5": {
+  "title": "How Netflix anime ‘Cosmic Princess Kaguya!’ became a box office sensation in Japan - Screen Daily",
+  "source": "Google News: anime box office",
+  "label": "対象",
+  "ts": 1783115494.8248372
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uaHhOUXh2QWM5dlU0dGpCMDF3aVJwR0xkcFlXYjNGcGlEM3VPNGlXcWdTUFExQVp5MXVhcjJGZF9TQlRMSGRLcHRJenZaVzlscHRxYTdvX2hyTThsOVlHeEt2VmNrYlBTXzJVc0NJMjZQTXc5MmEzV3FXSQ?oc=5": {
+  "title": "ByteDance Wants Its AI Video Tool In Hollywood’s Creative Process - WeRSM",
+  "source": "Google News: AI film production OR video generation studio",
+  "label": "対象",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/04/100672.html": {
+  "title": "「運命の巻戻士」27年4月アニメ放送決定！小村将、内山昂輝、天崎滉平、上田麗奈らメインキャスト公開♪ティザーPV＆新ビジュアルも",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://0115765.com/archives/193530": {
+  "title": "「涼宮ハルヒ」が『このすば』めぐみんになっちゃった！コラボ衣装の新作フィギュア登場…マントなびかせ躍動感満点",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oM0RkWEZkcE9qMElSWGxKdmw3dndjbUx4ZHlzZ0ZJXzRfUjdRUUMzSVFjMlhnQ2NXcEptcGxacTNnTVBnZy1JcURQdjRVSkZwamhrSGxCQ253UXNka3JJQ3A1WlhHWmk4YlhvM055TENPUnpWWFE?oc=5": {
+  "title": "『魔物使いの娘』アニメ化決定 スタッフ発表で出演は石見舞菜香・小林千晃・大塚明夫 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://variety.com/2026/digital/news/algorithmic-organisms-2-0-opens-kuala-lumpur-1236801509": {
+  "title": "AI ‘Organisms’ Come Alive in Kuala Lumpur as Dutch Artist Unveils Immersive Show",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/04/100671.html": {
+  "title": "青春マンガ「Here U Are」TVアニメ化決定！井上雄貴＆鈴木崚汰がメインキャストに＆音楽は清塚信也が担当",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://0115765.com/archives/193532": {
+  "title": "「ホロライブ」初の公式スマホゲーム、7月23日リリース決定！事前登録は130万人超…Steam版も展開",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sQTRoZ1VWLWIxc0tXeWJjZ0M3QWNDOWlwY2NuSlZSYXdjbGZ3UG9keWthSGp3THJaVW9fVEQ4REtlV2pYZFBwWjE3OHFvU3hxazQ0QVNRTmhUczAxRmo3TA?oc=5": {
+  "title": "［ぷらざ］アニメ曲に 亡き両親と故郷思う - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://variety.com/2026/film/obituaries-people-news/kjell-nilsson-dead-lord-humungus-mad-max-2-road-warrior-1236801512": {
+  "title": "Kjell Nilsson, Who Played Lord Humungus in ‘Mad Max 2: The Road Warrior’, Dies at 76",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://deadline.com/2026/07/england-mexico-world-cup-match-changes-time-earlier-kickoff-1236973946": {
+  "title": "Mexico-England Crunch World Cup Match Set To Move To Earlier Kickoff Time – Reports",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/03/100670.html": {
+  "title": "ちいかわ、ハチワレたちのお顔がキュート♪ 「ちいかわ」コロッとかわいいマカロン型コスメが登場！ 実用性も兼ね備えたホイップ風マグネットも",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://0115765.com/archives/193515": {
+  "title": "『とある』スピンオフ「少女共棲」アニメ化は今秋開幕、MXほかで放送決定　“裏側“を生きる少女描く",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://variety.com/2026/film/global/dustin-hoffman-karlovy-vary-award-maggie-gyllenhaal-1236801477": {
+  "title": "Dustin Hoffman Emotionally Accepts Karlovy Vary Award, Says Filmmaking Makes Him ‘Feel Alive’: ‘Grateful to Have Had the Opportunity to Do What I Love’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/03/100669.html": {
+  "title": "映画「鬼太郎誕生 ゲゲゲの謎」水木&鬼太郎の父が登場！ 映画モチーフアイテムも手に入るゲーム「妖怪横丁」コラボ開催",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://deadline.com/2026/07/great-american-state-fair-postponed-extreme-heat-d-c-1236973908": {
+  "title": "Great American State Fair Postponed Due To Extreme Heat In D.C.",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/03/100668.html": {
+  "title": "「サンリオ」“はぴだんぶい”がサブウェイと初コラボ！ 店員姿のポチャッコ、ばつ丸たちが可愛い限定オリジナルグッズがもらえる！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://deadline.com/2026/07/afternoon-delight-song-1976-bicentennial-1236973194": {
+  "title": "The One-Hit Wonder That Was The Soundtrack Of The Bicentennial Summer Of 1976",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/03/100667.html": {
+  "title": "「ウルトラマン」飛行シーン、シュワッチ、怪獣たちを大胆にデザイン！ HOLLYWOOD RANCH MARKETコラボ第3弾スペシャルTシャツ3型発売",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://variety.com/2026/tv/features/lela-rochon-the-chi-final-season-1236800984": {
+  "title": "Lela Rochon on the Final Season of ‘The Chi,’ the Beauty of Nostalgia and Pushing for More Women-Led Stories",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/03/100666.html": {
+  "title": "「トイ・ストーリー5」声優・あらすじ・カメオ出演・興行収入・特別シアターや入プレ情報も【情報まとめ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/03/100665.html": {
+  "title": "シナモロールがオーブンやキッチンカーになっちゃった!? 「シナモロール」お店屋さんごっこができる「マクドナルド」ハッピーセット登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://deadline.com/2026/07/michelle-dockery-bloodsport-laura-aikman-1236973861": {
+  "title": "Michelle Dockery Returns To London Stage With ‘Bloodsport: After Helen Of Troy’ Co-Starring Laura Aikman",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/03/100663.html": {
+  "title": "「魔物使いの娘」TVアニメ化決定！ 石見舞菜香、小林千晃、大塚明夫がPVから続投、ティザービジュアル＆スタッフ情報公開♪",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://deadline.com/2026/07/dutton-ranch-season-finale-recap-1236973589": {
+  "title": "‘Dutton Ranch’ Closes Out Season 1 With Death, Drugs & Disclosures",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/03/100662.html": {
+  "title": "いのり、司と一緒に会場を巡れる♪ 「メダリスト展」作品ゆかりの地・愛知で開催決定！新規展示や追加グッズが登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/03/100661.html": {
+  "title": "ゴジラの“背びれ”が食べられる!? 「ニジゲンノモリ」ゴジラ迎撃作戦の隣接レストランにて夏季限定「ゴジラ和風ブラックうどん」を提供",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YM0lhcWNKMWdOWmJGekU5dU92MFJfcmpMTW5PQjZpWVlhMDh1QmE4NEhtbnQxV2lSZkZZakhydzl6ZkZzTVJQa0s2NXJ6Z09aNlBGVFFfYU1XQQ?oc=5": {
+  "title": "イシイ ジロウ 書籍一覧 - 日経BOOKプラス",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/03/100660.html": {
+  "title": "ちいかわ、ハチワレ、うさぎが描かれた可愛いデザイン♪ 「ちいかわ」限定デザインの図書カードが発売決定♪ 特製の台紙と封筒付き",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://animeanime.jp/article/2026/07/03/100659.html": {
+  "title": "星街すいせい＆初音ミクのデュエットでキタニタツヤ「青のすみか」を熱唱！ クーリッシュ×爽のTVCMに出演",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783115494.8248372
+ },
+ "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82Wmg3S0k5cndXNFFkNEpvMlJOZm5HY3I5LVh0RFRicXJDUzdiY3FGSVVuZDZaOTdNTXJKQVY3S0lHb0tkNWdKRFdyd0ZQWkZvb1NYbHlpV3dnblhrZGsxT1ZzWnRBZw?oc=5": {
+  "title": "さくらももこさんが愛し、キャラ「ＧＪ８マン」を創作した郡上八幡…つながり紹介する施設あすオープン - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1783115494.8248372
  }
 }
