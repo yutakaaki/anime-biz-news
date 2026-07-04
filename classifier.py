@@ -29,7 +29,7 @@ def _get_client() -> anthropic.Anthropic:
     """
     global _client
     if _client is None:
-        _client = anthropic.Anthropic(max_retries=4, timeout=60.0)
+        _client = anthropic.Anthropic(max_retries=2, timeout=60.0)
     return _client
 
 

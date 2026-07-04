@@ -24,7 +24,14 @@ export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:$HOME/Library/Python/3
 mkdir -p "$DIR/state"
 echo "===== $(date '+%Y-%m-%d %H:%M:%S') 実行開始 =====" >> "$LOG"
 
-/usr/bin/python3 "$DIR/run.py" >> "$LOG" 2>&1
+# 実行全体の時間上限（ハング対策）。RUN_TIMEOUT秒を超えたら強制終了する。
+RUN_TIMEOUT="${RUN_TIMEOUT:-1200}"
+/usr/bin/python3 "$DIR/run.py" >> "$LOG" 2>&1 &
+PYPID=$!
+( sleep "$RUN_TIMEOUT"; kill -9 "$PYPID" 2>/dev/null && echo "!!! ${RUN_TIMEOUT}秒を超過したため強制終了（ハング対策）!!!" >> "$LOG" ) &
+WPID=$!
+wait "$PYPID" 2>/dev/null
+kill "$WPID" 2>/dev/null; wait "$WPID" 2>/dev/null
 
 # 生成した digest を GitHub Pages 用に配置して push（クラウド公開）
 if [ -f "$DIR/outputs/digest.html" ]; then
