@@ -1,82 +1,5 @@
 [
  {
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uaHhOUXh2QWM5dlU0dGpCMDF3aVJwR0xkcFlXYjNGcGlEM3VPNGlXcWdTUFExQVp5MXVhcjJGZF9TQlRMSGRLcHRJenZaVzlscHRxYTdvX2hyTThsOVlHeEt2VmNrYlBTXzJVc0NJMjZQTXc5MmEzV3FXSQ?oc=5",
-  "title": "ByteDance Wants Its AI Video Tool In Hollywood’s Creative Process - WeRSM",
-  "source": "Google News: AI film production OR video generation studio",
-  "published": "Fri, 03 Jul 2026 15:38:15 GMT",
-  "published_ts": 1783093095,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "中",
-  "reason": "ByteDanceのAI動画ツールをハリウッド（映像制作産業）の創作プロセスに導入する事業展開が主題で、AI技術、映像コンテンツ産業、ビジネス戦略の3分野が揃っている。本文がないためconfidenceは中程度。",
-  "ts": 1783139234.709506
- },
- {
-  "url": "https://deadline.com/2026/07/box-office-minions-monsters-1236972754/",
-  "title": "‘Minions & Monsters’ Coming Up Short With $63M 5-Day U.S. — Friday Box Office Update",
-  "source": "Deadline",
-  "published": "Fri, 03 Jul 2026 23:24:00 +0000",
-  "published_ts": 1783121040,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Minions & Monsters（アニメ映画）の米国興行成績を中心に、予想$80Mに対して実績$63.5M、フランチャイズ内での成績比較などボックスオフィス数字と市場動向が主題であり、コンテンツとビジネス（興行売上・経営数字）の両分野が明確に該当。",
-  "ts": 1783139234.709506
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMzIzTU5lWklGQ21ORkxIMzVoOE1sOTBlc29NNFA0N2Jwb2xrcXBHcFBDdTZ0VkNXblhjaFVGei1Dc1BYLTRFalVWSzROeW9abFgwOC1MVWt2M09uSUdrZzgtbnlNTmpZOVRzV2tYUm1PdENTTXJPdUU5YW03elRGX1hWai1KV0I3NVZRNzlIS2wzYmtrZ3NuQVo3ZkxkZk11ZTRtdlBQSDRJeWpYZ20yU1R2N2FfdlFia1BxOGVLYlBfa2dPSmk2Wmswa0E?oc=5",
-  "title": "How Netflix anime ‘Cosmic Princess Kaguya!’ became a box office sensation in Japan - Screen Daily",
-  "source": "Google News: anime box office",
-  "published": "Fri, 03 Jul 2026 09:53:55 GMT",
-  "published_ts": 1783072435,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "中",
-  "reason": "Netflixのアニメ配信作品が日本で興行的大成功を収めた事例を扱う記事。コンテンツ（アニメ作品）とビジネス（Box Office/興行）の両分野が主題と考えられるが、本文詳細が不明確なため確信は中程度。",
-  "ts": 1783139234.709506
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS2x3X0dnUkhrYy1JUEVvekcxbTg1LVpJZm5UYmZYUGZkOGdpeTB4WW8tZ2ZiRzVmU2xjVll0WnRMTHFmeW5HRzZUNUw5OWFDR1R6aS1IZHh6cnBkS3FNbnEyMWRnX0V5ZUpWV2xvWHAtSHNFMm5lZjRRVDg2NWV0OGhlcDVpU2gzUVdBcW1qa3JVX0tUdUpYT21zS2g1aVhiQkxXT3lXdEhGRXhYY3p1RmJqZFRUVTJZbzkweXhDLUFnNHM2Rmdlb2cyUzR1WVhnTnhuU2VNejg4ajdkOGFibmQxSTNfc3B4bnc?oc=5",
-  "title": "The Ghost in the Shell Director Says New Anime Used “Zero GenAI” as Science SARU Takes a Firm Stand on AI - IGN India",
-  "source": "Google News: generative AI animation OR anime",
-  "published": "Fri, 03 Jul 2026 13:01:47 GMT",
-  "published_ts": 1783083707,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Ghost in the Shellの新作アニメをSARUが制作する際に生成AIを『ゼロ』で使わないことを表明しており、アニメコンテンツと生成AI技術の対応が記事の主題。",
-  "ts": 1783139234.709506
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWHhidmhmdmQzYVVvWU4yMG1FMjRSUF9nWEZIR3lxUkVSam5NRTg5ZkV3WllWYlVOaFZVdjctZURkYTNlVXplbUwycFpiRThxNmR4bXRHTW9pV2szb19nTFA4LTk1R2dDelBrWWwyOUI4RldpT3NMc2F2WmlEaXU0SFFmSU82ZXRuWmg5VUM0ejVxQ2poZ2hXV2R0ZWZLWmxGR1BLLWFXbE9SdWtUcmtJY2lRd0ZIQzlwX2JRbW52dXI2ZFlEek1ZQ1ZYR3g?oc=5",
-  "title": "China-backed AI tool behind fake Brad Pitt fight making Hollywood inroads - Los Angeles Times",
-  "source": "Google News: AI film production OR video generation studio",
-  "published": "Fri, 03 Jul 2026 10:00:00 GMT",
-  "published_ts": 1783072800,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "中",
-  "reason": "China-backedのAIツールがハリウッド映画業界に進出（making inroads）する動きが主題。AI動画生成技術（フェイク動画）が映像・映画コンテンツ産業に実質的に侵攻・ビジネス展開する事例であり、3分野が揃っている。本文提示がないため確度は中。",
-  "ts": 1783139234.709506
- },
- {
   "url": "https://0115765.com/archives/193485",
   "title": "ドラクエ効果大？スクエニ、個人株主が“2倍”に急増。一因に抽選で当たる「記念メダル株主優待」や株式分割",
   "source": "アニメ業界ニュース(0115765)",
@@ -89,21 +12,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "スクエニの個人株主数増加（2万3千→4万7千名）という経営成果が、ドラクエ40周年記念メダルなどの株主優待施策と株式分割に直結しており、IP（ドラクエ）を活用した資本政策・ビジネス戦略がメインテーマ。",
-  "ts": 1783139234.709506
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWR2JQMUhtMXQxRDJfQ09TdVgxa1hzSE42cUhlR19WOEltbmdQWEFlZ1ZmU3JjU3QyMHB1VXVvUkM4OFlBSkJ1NTFiUHZzcERC?oc=5",
-  "title": "「gamebiz」でDLE代表取締役社長・小野亮のインタビューが掲載されました。『生成AIは日本のアニメ業界をどう変えるのか DLE小野亮CEOが語る\"本当の課題\"』 - DLE Dream Link Entertainment",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "published": "Fri, 03 Jul 2026 12:49:03 GMT",
-  "published_ts": 1783082943,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "生成AIがアニメ業界に与える影響について、DLEのCEOが語るインタビュー記事であり、コンテンツ（アニメ業界）とAI（生成AI）が記事の中心主題として明確に含まれている。",
   "ts": 1783139234.709506
  },
  {
@@ -149,21 +57,6 @@
   "label": "対象",
   "confidence": "低",
   "reason": "VRコンテンツ制作市場の規模・トレンド分析が主題で、コンテンツとビジネス分野が該当するが、本文が極めて限定的で記事の実内容を十分に確認できない。",
-  "ts": 1783199003.475361
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlY2RIVjFBZlJ0NkdNbkFpQ0FVT3JpejNaZ1hqc1JRcVlMZ3JQTnlzc3FUZ2VSRmxnMHRSS0pWU1c0eWNSNWdCbGp0WVBLRGc?oc=5",
-  "title": "南葛SC選手社員が生成AIでホームゲームPV制作に挑戦株式会社SEプラスによる「動画生成AIワークショップ」を実施 - 南葛SC",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "published": "Fri, 03 Jul 2026 11:47:00 GMT",
-  "published_ts": 1783079220,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "label": "対象",
-  "confidence": "中",
-  "reason": "ホームゲームPVの映像制作（コンテンツ）に動画生成AI（AI）が活用・実装されているワークショップ実施記事であり、コンテンツ＋AIの2分野が明確に組み合わさった対象案件。",
   "ts": 1783199003.475361
  },
  {
@@ -226,5 +119,141 @@
   "confidence": "高",
   "reason": "LGBTQ drama『Tip Toe』のStarzによる北米配信権獲得（ライセンス/取引）が主題であり、コンテンツ（制作・配信）とビジネス（配信契約）の両側面を含む。",
   "ts": 1783244165.661021
+ },
+ {
+  "url": "https://0115765.com/archives/193892",
+  "title": "パチスロ大手サミー、定番機『北斗の拳』に「依存しない開発」言及　直近の『リコリコ』は販売好調との進捗",
+  "source": "アニメ業界ニュース(0115765)",
+  "published": "Sun, 05 Jul 2026 21:00:17 +0000",
+  "published_ts": 1783285217,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ版権タイトル（『甲鉄城のカバネリ』『リコリス・リコイル』など）をパチスロ機に活用する経営戦略と、それに基づく決算実績（売上高1320億6300万円・前期比36.0%増）が主題であり、コンテンツ（IP活用）とビジネス（経営戦略・決算）の両分野が明確に該当する。",
+  "ts": 1783285607.154815
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WZ3lUdk5QVXFzeEdZSU9VMWpBTEhtNnlpTko1Tng1NU1TU2xsYWJKaktBWVV5djk3cmpWVmlKeEJSY2ZucEdBVlRLR051aWU0cGpQdTRjVFloZjdTNXVhOTNocDUwNVVvWlZTRW51dHdIM2FETUlRZV9ZZ3RzeUE?oc=5",
+  "title": "エコノミストリポート：コンテンツ産業「海外売上高20兆円」への挑戦が始まった 尾形拓海 - 週刊エコノミスト Online",
+  "source": "Googleニュース: コンテンツ 海外売上 OR 市場規模",
+  "published": "Sun, 05 Jul 2026 20:04:41 GMT",
+  "published_ts": 1783281881,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "タイトルから『コンテンツ産業』と『海外売上高20兆円』『市場規模』が明確に示されており、コンテンツ産業の経済動向・市場ビジネスが主題の記事と判断される。",
+  "ts": 1783285607.154815
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Db1FmMHk1QnB5eUVxbDdabHN4ck5zak9RQTl4Ql9MdUhDU0FFc2J1VUx6cFB0T3Nsb0pzTGc1S1hUczZZdVZIdHgwbw?oc=5",
+  "title": "アニメ×AIに「フルスタック」で挑む—AiHUBが目指す制作基盤とは？ - thinkit.co.jp",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "published": "Sat, 04 Jul 2026 01:09:01 GMT",
+  "published_ts": 1783127341,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ制作にAI技術を導入するAiHUBの事業戦略・制作基盤が主題で、コンテンツ×AI×ビジネスの3分野が揃う。",
+  "ts": 1783285607.154815
+ },
+ {
+  "url": "https://variety.com/2026/tv/news/diljit-dosanjh-satluj-punjab-95-uncut-zee5-global-1236801418/",
+  "title": "Diljit Dosanjh’s ‘Satluj’ Pulled From India by ZEE5 Two Days After Release, Platform Says Film ‘Unavailable Until Further Notice’",
+  "source": "Variety",
+  "published": "Sun, 05 Jul 2026 18:44:29 +0000",
+  "published_ts": 1783277069,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "配信プラットフォームZEE5が映画『Satluj』をインド向けから削除した経営判断が主題で、映像作品（コンテンツ）と配信ビジネスの戦略的決定（ビジネス）が実質的に関わっている。",
+  "ts": 1783285607.154815
+ },
+ {
+  "url": "https://variety.com/2026/film/global/harvey-keitel-daphna-kastner-ai-michael-caine-1236801929/",
+  "title": "Harvey Keitel Shooting Film Written by Wife Daphna Kastner, Calls Out ‘Danger’ of AI When Mentioning Michael Caine AI-Narrated ‘The Odyssey’ Audiobook",
+  "source": "Variety",
+  "published": "Sun, 05 Jul 2026 18:12:46 +0000",
+  "published_ts": 1783275166,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Harvey Keitelの新作映画製作、Michael Caine のAI音声ナレーション版『オデッセイ』オーディオブック、ElevenLabsの音声ライセンスビジネスを巡り、コンテンツ・AI技術・ビジネスモデルの3分野が主要に関わっている記事。",
+  "ts": 1783285607.154815
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/obsession-box-office-milestone-400-million-globally-1236801943/",
+  "title": "Box Office: ‘Obsession’ Surpasses $400 Million Globally",
+  "source": "Variety",
+  "published": "Sun, 05 Jul 2026 17:31:00 +0000",
+  "published_ts": 1783272660,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画『Obsession』の興行収入（4億ドル超）と収益性（予算75万ドルで大きな利益）、市場トレンド、観客層分析が主題。AIの要素は無く、コンテンツ+ビジネスの2分野に該当。",
+  "ts": 1783285607.154815
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuZ0R6NXZLakpibHdWTGZYQ1JPcHpkTWlwNUNrbFJiUTJkU1liZWZHNWp1SjZZN2FHdGxCdDlxQ1dfcVdvS3FfWkVTTkNNSl8taVNZVFJVcnU4SlVkTVZldXVHcjB0cU94eTR3Rw?oc=5",
+  "title": "稼ぎ続けるエンタメIPの3要素「ストーリー」「キャラクター」「世界観」を分析 - 日経BOOKプラス",
+  "source": "Googleニュース(nikkei.com)",
+  "published": "Sun, 05 Jul 2026 20:00:00 GMT",
+  "published_ts": 1783281600,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "グレー",
+  "confidence": "低",
+  "reason": "タイトルからはエンタメIPとビジネスの両要素が示唆されているが、本文がないため実際の内容が不明。既知情報のまとめ記事か具体的な事例分析かの判別ができず、対象判定の確実性に欠けるため。",
+  "ts": 1783285607.154815
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mQnVXckZDaUpIZkNsbWstYVIwejBZSTV1TmVUaU5BOEVsc004LUMyOWVvRDRHS0llWk01TFpROURtVkx4c2lGVkpBc213UWZSUkc0T1pkMkxWbHRXLTQ1cDJiTTdYR2s?oc=5",
+  "title": "社説：クールジャパン 巨額赤字の責任を明確にせよ - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "published": "Sun, 05 Jul 2026 20:00:00 GMT",
+  "published_ts": 1783281600,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "グレー",
+  "confidence": "低",
+  "reason": "本文がなく、タイトルのみの判断となるため。『クールジャパン』の赤字と責任を扱う社説と読めるが、政府政策の批判論評なのか、具体的なコンテンツビジネスの記事なのかは本文なしでは判定困難。",
+  "ts": 1783285607.154815
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ybDd0YWZxVlZFRzRuaTE5R1dnd0lZWEVicG5URWlBRi1kWVBnTXZMMnVpYmlQNnU1d1BhOWdRU3EwQ3BtVWtTOF9ZcXFFcDR0UlNWMmtVOUNEc0dlb2stY2RKS19ZNnBWQUlJdTVXTTg2al9LNmE3QXpSVG5ZVXc?oc=5",
+  "title": "「AIルート」と「ファンルート」 AI時代のファンベースとは - 日経クロストレンド",
+  "source": "Googleニュース(nikkei.com)",
+  "published": "Sun, 05 Jul 2026 15:00:00 GMT",
+  "published_ts": 1783263600,
+  "themes": [
+   "AI"
+  ],
+  "label": "グレー",
+  "confidence": "低",
+  "reason": "タイトルのみでは記事の主題が不明確です。「AI時代のファンベース」がコンテンツ産業（アニメ・映画・ゲーム等）に関するものか、一般ビジネスの議論かが本文なしには判断できず、コンテンツが明確に含まれているか確認が必要です。",
+  "ts": 1783285607.154815
  }
 ]
