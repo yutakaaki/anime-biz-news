@@ -46,21 +46,6 @@
   "ts": 1783139234.709506
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazBEUy0yYU10bmJqN3VOcEozX3JxZS0yazdBbnVfSmtQSDdyeWU2XzJCSjdlRnpHQUdZMGxrcThIcXRvaW1zU2JKTGY3ay01c0E5bXpHa3FxY0F5RldKLUJkRU00aFZnczAtOHY3QU1NUlhMWHc5TmRXOWZfckFhazhkTjRqbXdwNUNyM0djYW5xX1EwalZXR3gzdThxM2V2SEtkUGxMX2k?oc=5",
-  "title": "AniBiz: Crunchyroll Founder Launches Global Licensing Anime B2B Hub - Resonate Voices",
-  "source": "Google News: anime licensing deal",
-  "published": "Fri, 03 Jul 2026 04:18:24 GMT",
-  "published_ts": 1783052304,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Crunchyroll創設者がグローバルなアニメライセンシングB2Bハブを立ち上げるという、アニメIPのビジネス（ライセンス取引・市場構築）が中心主題であり、コンテンツ＋ビジネスの2分野が明確に揃っているため。",
-  "ts": 1783139234.709506
- },
- {
   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS2x3X0dnUkhrYy1JUEVvekcxbTg1LVpJZm5UYmZYUGZkOGdpeTB4WW8tZ2ZiRzVmU2xjVll0WnRMTHFmeW5HRzZUNUw5OWFDR1R6aS1IZHh6cnBkS3FNbnEyMWRnX0V5ZUpWV2xvWHAtSHNFMm5lZjRRVDg2NWV0OGhlcDVpU2gzUVdBcW1qa3JVX0tUdUpYT21zS2g1aVhiQkxXT3lXdEhGRXhYY3p1RmJqZFRUVTJZbzkweXhDLUFnNHM2Rmdlb2cyUzR1WVhnTnhuU2VNejg4ajdkOGFibmQxSTNfc3B4bnc?oc=5",
   "title": "The Ghost in the Shell Director Says New Anime Used “Zero GenAI” as Science SARU Takes a Firm Stand on AI - IGN India",
   "source": "Google News: generative AI animation OR anime",
@@ -180,5 +165,66 @@
   "confidence": "中",
   "reason": "ホームゲームPVの映像制作（コンテンツ）に動画生成AI（AI）が活用・実装されているワークショップ実施記事であり、コンテンツ＋AIの2分野が明確に組み合わさった対象案件。",
   "ts": 1783199003.475361
+ },
+ {
+  "url": "https://variety.com/2026/film/global/tauron-american-film-festival-us-in-progress-poland-1236801791/",
+  "title": "Tauron American Film Festival Readies for 17th Edition – and U.S. in Progress Continues to Be an ‘Essential Part of the Fabric of American Independent Cinema’",
+  "source": "Variety",
+  "published": "Sun, 05 Jul 2026 08:03:46 +0000",
+  "published_ts": 1783238626,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "中",
+  "reason": "アメリカ独立系映画製作とポーランド映画祭がメイン主題で、グラント・資金支援・ポストプロダクション企業とのビジネスパートナーシップを通じた映画産業支援が副テーマ。AIは記事に一切出現しない。",
+  "ts": 1783244165.661021
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM29uanBTU1gtMmRYVzRoN2NoZ3A1SWVFWV9GWEpxZTBpalEyaG1lTE90MVZiZVd3ZS1BRUFWTG04Zklhanl0SW5LaklWcmdOS2xYdEUyTHJMNDQ2alJuV0VteHpGZ0dZUWNDbVd6Y1RpVlFaQ0FyYThkVXRWX2NXMnRQd3ZSMXJLd2k4ZnZKVXotX3A5dWZyUWwtRVdjZw?oc=5",
+  "title": "John Siracusa Examines Generative AI Creative Ownership - Let's Data Science",
+  "source": "Google News: generative AI content copyright OR licensing",
+  "published": "Sun, 05 Jul 2026 00:13:35 GMT",
+  "published_ts": 1783210415,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "中",
+  "reason": "生成AIのコンテンツ創作における著作権・所有権を主題としており、映像/コンテンツ産業のAI利用と著作権ビジネスの関係を扱う記事と推定されるが、本文不足のため確実性は中程度。",
+  "ts": 1783244165.661021
+ },
+ {
+  "url": "https://0115765.com/archives/193831",
+  "title": "カプコン、自社株価下落について公式見解　AI半導体ブームの外部要因影響との見方　総会で優待方針も説明",
+  "source": "アニメ業界ニュース(0115765)",
+  "published": "Sun, 05 Jul 2026 05:02:50 +0000",
+  "published_ts": 1783227770,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム企業カプコンの株主総会における経営方針（配当方針・営業利益増益目標・自社株買い・株主優待）が主題であり、コンテンツ企業のビジネス決定が中心。AIは外部環境の言及に過ぎず主題ではない。",
+  "ts": 1783244165.661021
+ },
+ {
+  "url": "https://deadline.com/2026/07/russell-t-davies-praises-starz-tip-toe-lgbtq-series-us-1236974254/",
+  "title": "Russell T. Davies Praises Starz For Picking Up ‘Tip Toe’ LGBTQ Series In U.S. Despite Trump’s “Hatred, Bile & Anger”",
+  "source": "Deadline",
+  "published": "Sat, 04 Jul 2026 22:02:20 +0000",
+  "published_ts": 1783202540,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "LGBTQ drama『Tip Toe』のStarzによる北米配信権獲得（ライセンス/取引）が主題であり、コンテンツ（制作・配信）とビジネス（配信契約）の両側面を含む。",
+  "ts": 1783244165.661021
  }
 ]
