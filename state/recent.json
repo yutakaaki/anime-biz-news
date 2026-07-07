@@ -1,51 +1,5 @@
 [
  {
-  "url": "https://variety.com/2026/film/global/tauron-american-film-festival-us-in-progress-poland-1236801791/",
-  "title": "Tauron American Film Festival Readies for 17th Edition – and U.S. in Progress Continues to Be an ‘Essential Part of the Fabric of American Independent Cinema’",
-  "source": "Variety",
-  "published": "Sun, 05 Jul 2026 08:03:46 +0000",
-  "published_ts": 1783238626,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "中",
-  "reason": "アメリカ独立系映画製作とポーランド映画祭がメイン主題で、グラント・資金支援・ポストプロダクション企業とのビジネスパートナーシップを通じた映画産業支援が副テーマ。AIは記事に一切出現しない。",
-  "ts": 1783244165.661021
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM29uanBTU1gtMmRYVzRoN2NoZ3A1SWVFWV9GWEpxZTBpalEyaG1lTE90MVZiZVd3ZS1BRUFWTG04Zklhanl0SW5LaklWcmdOS2xYdEUyTHJMNDQ2alJuV0VteHpGZ0dZUWNDbVd6Y1RpVlFaQ0FyYThkVXRWX2NXMnRQd3ZSMXJLd2k4ZnZKVXotX3A5dWZyUWwtRVdjZw?oc=5",
-  "title": "John Siracusa Examines Generative AI Creative Ownership - Let's Data Science",
-  "source": "Google News: generative AI content copyright OR licensing",
-  "published": "Sun, 05 Jul 2026 00:13:35 GMT",
-  "published_ts": 1783210415,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "中",
-  "reason": "生成AIのコンテンツ創作における著作権・所有権を主題としており、映像/コンテンツ産業のAI利用と著作権ビジネスの関係を扱う記事と推定されるが、本文不足のため確実性は中程度。",
-  "ts": 1783244165.661021
- },
- {
-  "url": "https://0115765.com/archives/193831",
-  "title": "カプコン、自社株価下落について公式見解　AI半導体ブームの外部要因影響との見方　総会で優待方針も説明",
-  "source": "アニメ業界ニュース(0115765)",
-  "published": "Sun, 05 Jul 2026 05:02:50 +0000",
-  "published_ts": 1783227770,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゲーム企業カプコンの株主総会における経営方針（配当方針・営業利益増益目標・自社株買い・株主優待）が主題であり、コンテンツ企業のビジネス決定が中心。AIは外部環境の言及に過ぎず主題ではない。",
-  "ts": 1783244165.661021
- },
- {
   "url": "https://0115765.com/archives/193892",
   "title": "パチスロ大手サミー、定番機『北斗の拳』に「依存しない開発」言及　直近の『リコリコ』は販売好調との進捗",
   "source": "アニメ業界ニュース(0115765)",
@@ -467,5 +421,189 @@
   "confidence": "高",
   "reason": "人気キャラクター（コンテンツ・IP）を活用した硬貨発行に関して、財務省の法改正検討と財源への期待という政策・資金的側面（ビジネス）が主題となっており、コンテンツとビジネスが両立している。",
   "ts": 1783374331.0282109
+ },
+ {
+  "url": "https://0115765.com/archives/194191",
+  "title": "PSA最高の初期ポケカセットが「約2億円」で落札…公開販売の最高更新、投資商品としての価値注目",
+  "source": "アニメ業界ニュース(0115765)",
+  "published": "Tue, 07 Jul 2026 06:56:24 +0000",
+  "published_ts": 1783407384,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "ポケモンカード（コンテンツIP関連）のオークション落札価格と投資商品としての市場価値がテーマで、コンテンツ×ビジネスは成立するが、記事の主軸が『グッズ・収集品市場のビジネス』であり、制作・配信・映像産業の実質的な関わりが薄いため、グッズ販売情報に近い対象外判定との境界線上にある。",
+  "ts": 1783415158.761083
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcGFyMmFMUXgwM1BKd19JVjVXVS1Bd2NwbUhkMld1YXo1SGtURlJJSTBEd2pZdDZHaHhzSXcxSVRMcWlWdlJReXp4NHNkYnNZQl9hU0JoRWltZ2FrbDBnUGhlRHhZOExYVFFOa0xSV25ZUDNpX285Yld5WXU0ZWRkdlBqRy1EX2FhNTV3MllyUDdxbmRJUlZ1emFKTXTSAZwBQVVfeXFMUHBhcjJhTFF4MDNQSndfSVY1V1UtQXdjcG1IZDJXdWF6NUhrVEZSSUkwRHdqWXQ2R2h4c0l3MUlUTHFpVnZSUXl6eDRzZGJzWUJfYVNCaEVpbWdha2wwZ1BoZUR4WThMWFRRTmtMUlduWVAzaV9vOWJXeVl1NGVkZHZQakctRF9hYTU1dzJZclA3cW5kSVJWdXphSk10?oc=5",
+  "title": "テレビ各局、生成AI活用を加速　TBSが「AIスクール」設立発表　日テレ、テレ朝、フジも実践 - ｄメニューニュース",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "published": "Tue, 07 Jul 2026 04:25:00 GMT",
+  "published_ts": 1783398300,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "テレビ局（映像コンテンツ産業）が生成AIを活用し、AIスクール設立などの経営戦略を展開している記事。コンテンツ×AI×ビジネスの3分野が揃う最優先案件。",
+  "ts": 1783415158.761083
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZm83b0plM2ZBMzdsNUQ5YnZJZEFtX2JhNmQtX2hCV3hhcTVYcklCZkliYWpjbWRZRDZlMDVnSVVFdFlpOU9ZbVptQ05pZWp2ZHZ1V3l2YlFYdkhsTEpCbFUzeC13ZkNjRzFYMHY0TFNSaEpDdUhsT0xob0VuUFZlQlRLTmVra3dWcjZTcE9UUGRGNEdKMkF1Ymp2ZFBHeDZQVmR6TFlaOVpuQzhwMmFsMEd3ZVR2M2d6Qk5RZQ?oc=5",
+  "title": "Japan Box Office: Kiki's Delivery Service 4K Edition Climbs Back to No. 8 in 3rd Weekend - Crunchyroll",
+  "source": "Google News: anime box office",
+  "published": "Tue, 07 Jul 2026 00:39:00 GMT",
+  "published_ts": 1783384740,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "中",
+  "reason": "映画『魔女の宅急便』4K版の日本興行ランキング3週目の動向を報道しており、コンテンツ（映画作品）とビジネス（興行成績・売上）の両分野を含むが、ランキング情報のみで経営的な分析や掘り下げが薄い。",
+  "ts": 1783415158.761083
+ },
+ {
+  "url": "https://deadline.com/2026/07/zinc-media-group-launches-ai-focused-label-cicada-1236975439/",
+  "title": "Zinc Media Launches AI Label Cicada Focused On “Creativity That Makes People Stop Scrolling”",
+  "source": "Deadline",
+  "published": "Tue, 07 Jul 2026 09:00:00 +0000",
+  "published_ts": 1783414800,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映像制作・配信会社Zinc MediaがAI専門レーベルCicadaを立ち上げ、既にAI関連で数百万ポンドの収益実績を持ち、コンテンツ制作工程でのAI活用戦略を展開する記事で、コンテンツ・AI・ビジネスが主題として明確に揃っている。",
+  "ts": 1783415158.761083
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VcUpNM01LMHlSbnhCa0JZaWRma1VmVVo3QXdGWlhuaWQwaDFsZlpPNG5VMU9qY1VJcXFJSHFQdFZQRUpKc0V0UHFzV3dxMUVYNnhJcmFkY2dIZEhhNS1TTg?oc=5",
+  "title": "TBSテレビ、宮城明弘氏をパートナー講師に迎え「AI Creative School」を始動。AIクリエイティブディレクター育成とグループ全体のAI力底上げへ - pronews.com",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "published": "Tue, 07 Jul 2026 03:53:11 GMT",
+  "published_ts": 1783396391,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映像制作企業（TBSテレビ）によるAIクリエイティブディレクター育成プログラムの立ち上げが主題であり、コンテンツ業界とAI技術が直結した実質的な施策。",
+  "ts": 1783415158.761083
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE82OGs4UFFaUzdhU2U0bUlaeWpoLWVnZTBrQlFyU01ycnRna0JQOXctbHY5RXZGQXBtV3FGSmRxd2QzbXM?oc=5",
+  "title": "STUDIO MIYAGIがTBSテレビのAI動画生成分野で人材育成支援 - エンタメラッシュ",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "published": "Tue, 07 Jul 2026 01:15:27 GMT",
+  "published_ts": 1783386927,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "中",
+  "reason": "映像制作会社（STUDIO MIYAGI）がテレビ局（TBSテレビ）のAI動画生成分野での人材育成支援を行う企業協業であり、映像産業×AI×ビジネス提携が主題。本文が不足しているため確度は中程度。",
+  "ts": 1783415158.761083
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CR2xkSkZ0b0E2OHE0cVdGd0dqM002dTFNYWlNQ0NzUFJDeG9Nbll6VW5fa0JRcWludFB0aVFhWWJYRmQzQ3NSemNqVGVGNEFSakgxbkdNbjFhS3h3MEZSQVZ3ZDFtd3pRNEdGUG5BN2FDNXB1OEE?oc=5",
+  "title": "米映画界で物議の「AI女優」、長編映画で主演へ 生成した制作会社が発表 米誌報道 - 産経ニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "published": "Tue, 07 Jul 2026 05:35:59 GMT",
+  "published_ts": 1783402559,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "AI生成で作られた女優キャラクターが長編映画で主演することが発表されており、映画制作（コンテンツ）とAI技術の活用（AI）が記事の主題・中心である。",
+  "ts": 1783415158.761083
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFV2JBR2tUYzQ2WDZLSjdwQnhsdFJ4V3ljNHRvb0ZMa0ljZG1vZ2gxcURPMVdvcjdhWFFMMXFZd182bmczTE1GaEFTaGhEVXBabXlCekdXOUVoLU85d094M2JhMXlEU0VTTWdR?oc=5",
+  "title": "魔法科高校の劣等生 四葉継承編：興収4.6億円 動員28.8万人突破 新たな特典も 慶春会衣装の達也と深雪 - Mantan Web",
+  "source": "Googleニュース: アニメ 興行収入",
+  "published": "Tue, 07 Jul 2026 09:00:35 GMT",
+  "published_ts": 1783414835,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画『魔法科高校の劣等生 四葉継承編』の興収4.6億円と動員28.8万人という興行ビジネスの数字が記事の主題であり、コンテンツとビジネスの両分野が該当します。",
+  "ts": 1783415158.761083
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wS21pbVZWZkh4UFFrTURXREVzclk3eHdHakotTEIyVEVOeUNSTW96SUNmNmRmdkg2bjY1Vm1LZDl3T3pQU01JS3ZGckVtUQ?oc=5",
+  "title": "TBSテレビ、AI動画生成の人材育成プロジェクトをSTUDIO MIYAGIと始動 - RTB SQUARE",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "published": "Tue, 07 Jul 2026 02:37:49 GMT",
+  "published_ts": 1783391869,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "TBSテレビとSTUDIO MIYAGIという放送・映像制作企業が連携し、AI動画生成の人材育成プロジェクトを開始するもので、コンテンツ産業、生成AI技術、企業の戦略的な投資・人材育成という3分野すべてが主題となっているため。",
+  "ts": 1783415158.761083
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3aUlhbzNNUl9qVkRMc2RnRlQtTTh5R19nMHhkZTdRVFY3U1FYM2xRdV8wTndCTnBSVUs1ZEVpWlNTMkhfcmZodVBVSzFMZkMxbUFyX2FPR1A?oc=5",
+  "title": "【カンヌ現地レポート】日本アニメ映画は世界でどう売られるのか？ フランスとラテンアメリカの配給会社が語る海外展開の最前線 - Brand New Creativity",
+  "source": "Googleニュース: アニメ 興行収入",
+  "published": "Tue, 07 Jul 2026 03:00:04 GMT",
+  "published_ts": 1783393204,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "日本アニメ映画の国際配給・海外展開戦略が主題で、配給会社による販売方法・ビジネス展開の解説。コンテンツ（アニメ映画）×ビジネス（配給・販売戦略）が揃う。",
+  "ts": 1783415158.761083
+ },
+ {
+  "url": "https://variety.com/2026/tv/global/skys-itv-acquisition-break-down-distribution-1236802310/",
+  "title": "Sky’s ITV Deal Gives U.K. Producers Hope, but U.S. TV Distribution Could See Adverse Ripple Effect",
+  "source": "Variety",
+  "published": "Mon, 06 Jul 2026 22:33:05 +0000",
+  "published_ts": 1783377185,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "SkyによるITV買収（21億ドル規模）というM&Aディール、コンテンツ支出承諾、スポーツ権やテレビ広告市場などが主題であり、放送・制作業界のビジネスに実質的に関わるコンテンツ産業のニュース。",
+  "ts": 1783415158.761083
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUtPWTVOemlEbnFmUS1xUi1WVjEwOFl1c3ItTEJWN1VuekdfaWxUMFQ0WG5rblM2SThZbldVNmVMTk93d2lIcjdITWFuOGo1YjJLYkdHRGVfdnN6S3VzWmFQb0hnM1A1Q19IZ051MlREazhZSF9HTzZrZXlzY0JyZ0ZIa2NqWWZ6?oc=5",
+  "title": "日本のアニメは人気なのに、なぜクールジャパン機構は大赤字なのか？繰り返される官民ファンドの失敗（Wedge（ウェッジ）） - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "published": "Mon, 06 Jul 2026 20:00:36 GMT",
+  "published_ts": 1783368036,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "中",
+  "reason": "アニメ市場の人気と対比させ、クールジャパン機構の赤字・官民ファンドの失敗という投資・経営面の問題を主題としている。コンテンツ＋ビジネスで条件を満たすが、本文が提供されていないため確信度は中。",
+  "ts": 1783415158.761083
  }
 ]
