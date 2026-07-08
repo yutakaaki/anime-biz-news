@@ -1,65 +1,5 @@
 [
  {
-  "url": "https://0115765.com/archives/194105",
-  "title": "『ウルトラマン』中国市場の業績急激悪化が「底打った」認識示す　果たしてV字回復なるか今後の動向に注目",
-  "source": "アニメ業界ニュース(0115765)",
-  "published": "Mon, 06 Jul 2026 21:34:22 +0000",
-  "published_ts": 1783373662,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "『ウルトラマン』IPの中国市場における決算報告（51.6%減収、25.5億円）および中期・長期目標設定（2029年度50億円、営業利益300億円）が主題であり、コンテンツ×ビジネスに該当。AI導入は今後施策の一部として言及されているが、記事の中心主題ではない。",
-  "ts": 1783374331.0282109
- },
- {
-  "url": "https://deadline.com/2026/07/cbs-big-brother-live-feeds-youtube-houseguests-special-1236975078/",
-  "title": "CBS’s ‘Big Brother’ To Debut Live Feeds On YouTube For Limited Periods & ‘Broveal’ Houseguests In New Special",
-  "source": "Deadline",
-  "published": "Mon, 06 Jul 2026 21:00:00 +0000",
-  "published_ts": 1783371600,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "リアリティテレビ番組『Big Brother』Season 28のYouTube・Paramount+・Plutoでの配信戦略拡大とビジネスモデル変更が主題であり、映像コンテンツ＋配信ビジネスに該当する。",
-  "ts": 1783374331.0282109
- },
- {
-  "url": "https://deadline.com/2026/07/vera-drew-trandemic-transgender-film-center-fund-award-2026-1236974988/",
-  "title": "Vera Drew’s ‘Trandemic’ Wins Transgender Film Center’s Inaugural Found Footage Fund Award",
-  "source": "Deadline",
-  "published": "Mon, 06 Jul 2026 18:45:48 +0000",
-  "published_ts": 1783363548,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "中",
-  "reason": "トランスジェンダー映画制作者向けの資金提供ファンドの初期受賞者決定に関する記事であり、映画制作プロジェクトとファンド運営・助成金配分（総額$25,000以上の助成金・支援サービス）がともに主題である。AI要素は無い。",
-  "ts": 1783374331.0282109
- },
- {
-  "url": "https://deadline.com/2026/07/itv-sky-deal-what-you-need-to-know-1236974851/",
-  "title": "Job Cuts, Content Sharing, Exec Rejigs & Protracted Antitrust Scrutiny: Five Things You Need To Know About Sky’s “Historic” Takeover Of ITV",
-  "source": "Deadline",
-  "published": "Mon, 06 Jul 2026 17:17:27 +0000",
-  "published_ts": 1783358247,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "英国放送大手SkyによるITV買収（£1.6B）というメディア業界のM&A取引が主題で、放送・ストリーミング・コンテンツ事業（コンテンツ）と経営統合・規制審査・コスト削減・雇用削減などの経営・財務的側面（ビジネス）が明確に両立している。",
-  "ts": 1783374331.0282109
- },
- {
   "url": "https://0115765.com/archives/194191",
   "title": "PSA最高の初期ポケカセットが「約2億円」で落札…公開販売の最高更新、投資商品としての価値注目",
   "source": "アニメ業界ニュース(0115765)",
@@ -211,36 +151,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "日本アニメ映画の国際配給・海外展開戦略が主題で、配給会社による販売方法・ビジネス展開の解説。コンテンツ（アニメ映画）×ビジネス（配給・販売戦略）が揃う。",
-  "ts": 1783415158.761083
- },
- {
-  "url": "https://variety.com/2026/tv/global/skys-itv-acquisition-break-down-distribution-1236802310/",
-  "title": "Sky’s ITV Deal Gives U.K. Producers Hope, but U.S. TV Distribution Could See Adverse Ripple Effect",
-  "source": "Variety",
-  "published": "Mon, 06 Jul 2026 22:33:05 +0000",
-  "published_ts": 1783377185,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "SkyによるITV買収（21億ドル規模）というM&Aディール、コンテンツ支出承諾、スポーツ権やテレビ広告市場などが主題であり、放送・制作業界のビジネスに実質的に関わるコンテンツ産業のニュース。",
-  "ts": 1783415158.761083
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUtPWTVOemlEbnFmUS1xUi1WVjEwOFl1c3ItTEJWN1VuekdfaWxUMFQ0WG5rblM2SThZbldVNmVMTk93d2lIcjdITWFuOGo1YjJLYkdHRGVfdnN6S3VzWmFQb0hnM1A1Q19IZ051MlREazhZSF9HTzZrZXlzY0JyZ0ZIa2NqWWZ6?oc=5",
-  "title": "日本のアニメは人気なのに、なぜクールジャパン機構は大赤字なのか？繰り返される官民ファンドの失敗（Wedge（ウェッジ）） - Yahoo!ニュース",
-  "source": "Googleニュース: アニメ 興行収入",
-  "published": "Mon, 06 Jul 2026 20:00:36 GMT",
-  "published_ts": 1783368036,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "中",
-  "reason": "アニメ市場の人気と対比させ、クールジャパン機構の赤字・官民ファンドの失敗という投資・経営面の問題を主題としている。コンテンツ＋ビジネスで条件を満たすが、本文が提供されていないため確信度は中。",
   "ts": 1783415158.761083
  },
  {
@@ -456,5 +366,171 @@
   "confidence": "中",
   "reason": "映画制作開始がメイン（コンテンツ）であり、AI女優が主演で人間性を巡る問いが中心（AI）。映像産業にAI導入がもたらす実質的な動向を扱っているが、本文がタイトルのみで詳細不明のため信頼度は中程度。",
   "ts": 1783501758.248852
+ },
+ {
+  "url": "https://variety.com/2026/tv/news/apple-tv-emmys-widows-bay-pluribus-severance-return-1236804984/",
+  "title": "Matt Cherniss on Apple TV’s Impressive Emmys Batting Average, and When ‘Widow’s Bay,’ ‘Pluribus’ and ‘Severance’ Might Return",
+  "source": "Variety",
+  "published": "Wed, 08 Jul 2026 22:28:54 +0000",
+  "published_ts": 1783549734,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Apple TV+のエミー賞ノミネーション成功とコンテンツ戦略（「質重視」）に関するインタビュー記事で、配信プラットフォームのビジネス成果と複数作品の制作・更新スケジュールが主題。AIは関連していない。",
+  "ts": 1783552453.022773
+ },
+ {
+  "url": "https://0115765.com/archives/194140",
+  "title": "セガサミー、大阪IR開業を「絶好の販売機会」に位置付け　実はカジノ関連事業を成長領域で積極展開、韓国での運営も",
+  "source": "アニメ業界ニュース(0115765)",
+  "published": "Wed, 08 Jul 2026 21:04:09 +0000",
+  "published_ts": 1783544649,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "セガサミーのゲーム・エンタテインメント事業（コンテンツ）における大阪IR開業を機会とした販売戦略拡大、M&A、決算・利益見通しなど経営・ビジネス面の実質的な内容が主題であり、コンテンツ＋ビジネスの組み合わせで対象条件を満たす。",
+  "ts": 1783552453.022773
+ },
+ {
+  "url": "https://www.cartoonbrew.com/executives/fathom-entertainment-jason-brenek-ceo-264186.html",
+  "title": "Fathom Entertainment Names Jason Brenek CEO As Company Expands Its Distribution Ambitions",
+  "source": "Cartoon Brew",
+  "published": "Wed, 08 Jul 2026 15:04:37 +0000",
+  "published_ts": 1783523077,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画の劇場配信を専門とする企業Fathom Entertainmentの人事・経営戦略に関する記事で、CEOの交代、同社の劇場配給ビジネスの拡大戦略、アニメ作品（Wildwood、Coraline等）の興行成績が中心的な主題であり、コンテンツ（アニメ・映画の劇場配信産業）とビジネス（経営・配給戦略・興行数字）が実質的に該当する。",
+  "ts": 1783552453.022773
+ },
+ {
+  "url": "https://variety.com/2026/biz/columns/anonymous-contents-darren-walker-10-emmy-nominations-sally-field-1236804893/",
+  "title": "Anonymous Content’s Darren Walker on Company’s 10 Emmy Nominations and Nominee Sally Field’s ‘Motherly’ Dating Advice",
+  "source": "Variety",
+  "published": "Wed, 08 Jul 2026 21:35:20 +0000",
+  "published_ts": 1783546520,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Anonymous Contentという制作会社のCEOがEmmy受賞実績を背景に会社の経営改善と今後の資本調達を語っており、コンテンツ企業の経営・業績・資金調達という実質的なビジネス主題が中心である。AIは記事に含まれない。",
+  "ts": 1783552453.022773
+ },
+ {
+  "url": "https://0115765.com/archives/194361",
+  "title": "スクエニ、『FF7』派生モバイルゲームのサービス終了へ「制作工数と需要のバランス調整困難に」苦渋の決断と経緯明かす",
+  "source": "アニメ業界ニュース(0115765)",
+  "published": "Wed, 08 Jul 2026 11:17:25 +0000",
+  "published_ts": 1783509445,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "スクエニのモバイルゲーム『FF7 EVER CRISIS』のサービス終了発表であり、制作工数と需要のバランス困難によるビジネス判断が主題。コンテンツ（ゲーム）とビジネス（経営判断・サービス方針）の2分野が明確に主題である。",
+  "ts": 1783552453.022773
+ },
+ {
+  "url": "https://variety.com/2026/tv/awards/emmys-analysis-diversity-down-the-pitt-widows-bay-1236804835/",
+  "title": "Emmy Noms Analysis: Diversity in Acting Nominees Down 39% While ‘The Pitt’ Cements Frontrunner Status and ‘Widow’s Bay’ Emerges as Dark Horse",
+  "source": "Variety",
+  "published": "Wed, 08 Jul 2026 21:23:56 +0000",
+  "published_ts": 1783545836,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Emmy Awards（テレビアワード）のノミネーション分析記事で、HBO Max・Netflix・Apple TVなどのストリーミング企業の受賞数競争、ドラマ・コメディ番組の成績、および業界内での企業プレゼンスの変動（Apple TVの台頭、Netflixの相対的な地位など）という、映像コンテンツ産業のビジネス・市場力学が主題である。",
+  "ts": 1783552453.022773
+ },
+ {
+  "url": "https://deadline.com/2026/07/streamers-churn-emerging-ai-startup-versus-viewers-1236977566/",
+  "title": "As Top Streamers Battle Churn, Emerging AI Start-Up Versus Offers Ways To Hold On To Viewers",
+  "source": "Deadline",
+  "published": "Wed, 08 Jul 2026 21:21:36 +0000",
+  "published_ts": 1783545696,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ストリーミングプラットフォーム向けの生成AIサービス企業Versusが、Disney+・Paramount+・HBO Maxなどのコンテンツ配信企業と提携し、視聴者維持や収益化を実現する事例であり、コンテンツ（配信・映像産業）×AI（生成AI技術の活用）×ビジネス（チャーン削減、収益化、投資家）の3分野が揃っている。",
+  "ts": 1783552453.022773
+ },
+ {
+  "url": "https://deadline.com/2026/07/hbo-casey-bloys-emmy-nominations-interview-hacks-the-pitt-1236977670/",
+  "title": "HBO’s Casey Bloys Gets Nostalgic Thinking About All Those Emmy Nominations",
+  "source": "Deadline",
+  "published": "Wed, 08 Jul 2026 21:15:50 +0000",
+  "published_ts": 1783545350,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "HBO/Max傘下のテレビドラマシリーズ(Hacks、The Pitt等)がエミー賞122ノミネーションを獲得したというコンテンツの成功実績と、経営層(Casey Bloys CEO)がこれを企業の業績・競争力・プラットフォーム地位の指標として語っており、ビジネス面での成果・市場ポジション認識が主題の中心である。",
+  "ts": 1783552453.022773
+ },
+ {
+  "url": "https://deadline.com/2026/07/the-cheetah-girls-next-gen-movie-raven-symone-disney-1236977605/",
+  "title": "‘The Cheetah Girls: Next Gen’ Gets Disney Greenlight; Raven-Symoné & Adrienne Bailon To Return For Latest Franchise Installment",
+  "source": "Deadline",
+  "published": "Wed, 08 Jul 2026 21:05:35 +0000",
+  "published_ts": 1783544735,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ディズニーが既存IPの新作映画化をグリーンライトし、Disney ChainelとDisney+で配信する制作決定が主題であり、コンテンツ（映像制作）とビジネス（企業の制作決定・配信戦略）の両分野が実質的に含まれるため。",
+  "ts": 1783552453.022773
+ },
+ {
+  "url": "https://variety.com/2026/tv/news/hbo-emmy-nomination-casey-bloys-future-the-pitt-1236804809/",
+  "title": "Casey Bloys on HBO’s Huge Emmy Noms Haul, ‘The Pitt’ Dominance, Whether He Has ‘Heated Rivalry’ Regrets and His Own Future Post-Merger",
+  "source": "Variety",
+  "published": "Wed, 08 Jul 2026 20:35:01 +0000",
+  "published_ts": 1783542901,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "HBO責任者へのインタビュー記事で、エミー賞受賞作品群の成功、ストリーミングプラットフォームの業績、契約アーティストとの今後の制作計画など、映像コンテンツ産業の経営・ビジネス的な側面が主題であり、コンテンツ×ビジネスの条件を満たす。",
+  "ts": 1783552453.022773
+ },
+ {
+  "url": "https://animeanime.jp/article/2026/07/08/100845.html",
+  "title": "ピカチュウやミュウツーの懐かしいデザイン♪ 30周年記念「ポケモンUT」第二弾が登場！ 7月24日よりユニクロで発売",
+  "source": "アニメ！アニメ！",
+  "published": "2026-07-08T09:30:03Z",
+  "published_ts": 1783503003,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ポケモンのグッズ（Tシャツ）販売発表であり、コンテンツとビジネス（商品化・販売・価格情報）が主題だが、AIは関与していない。新作発表ではなく既存IPの商品化展開として、ビジネス的意義（ユニクロでの大規模販売）があるため対象に該当。",
+  "ts": 1783552453.022773
  }
 ]
