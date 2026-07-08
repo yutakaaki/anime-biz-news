@@ -33,13 +33,16 @@ def _get_client() -> anthropic.Anthropic:
     return _client
 
 
-def _thinking_param(model: str) -> dict:
-    """モデルごとの思考設定。
+def _thinking_param(model: str):
+    """モデルごとの思考設定。None なら思考なし。
 
-    adaptive 思考は opus/sonnet 系のみ対応。haiku は budget 指定の enabled を使う。
+    haiku は思考を無効化（出力トークンを大幅削減し、APIレート制限の回避＋高速化）。
+    環境変数 HAIKU_THINK に数値を入れると、その budget で思考を有効化できる。
+    adaptive 思考は opus/sonnet 系のみ対応。
     """
     if "haiku" in model:
-        return {"type": "enabled", "budget_tokens": 1600}
+        budget = int(os.environ.get("HAIKU_THINK", "0"))
+        return {"type": "enabled", "budget_tokens": budget} if budget > 0 else None
     return {"type": "adaptive"}
 
 
@@ -77,14 +80,15 @@ def _extract_json(resp) -> dict | None:
 def classify(article_text: str) -> Judgment:
     messages = [{"role": "user", "content": f"次の記事を判定してください。\n\n{article_text}"}]
 
-    resp = _get_client().messages.create(
-        model=MODEL,
-        max_tokens=4096,
-        thinking=_thinking_param(MODEL),  # 主題判定は微妙なので推論を有効化（モデル別）
-        system=_SYSTEM,
-        messages=messages,
-        output_config=_OUTPUT_CONFIG,
+    kwargs = dict(
+        model=MODEL, max_tokens=1024, system=_SYSTEM,
+        messages=messages, output_config=_OUTPUT_CONFIG,
     )
+    tp = _thinking_param(MODEL)
+    if tp is not None:  # 思考ありのモデルは出力枠を広げる
+        kwargs["thinking"] = tp
+        kwargs["max_tokens"] = 4096
+    resp = _get_client().messages.create(**kwargs)
     data = _extract_json(resp)
 
     if data is None:
