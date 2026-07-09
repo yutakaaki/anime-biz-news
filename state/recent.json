@@ -1,81 +1,5 @@
 [
  {
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk1DZWswa01DMlRINnJwWVd4bWJGV3pRVUpCTXN2bnRWNmVDc2RJN1FtMFVXSThOcWgzdk9NR1Z2b1QwbDlVNkhNUkozcEg5WEVHQktaNkRxV29OdW1IdUpSZEY2OG8zc0RzSXBiSWFTSUlxZDdrTmFfRDl5cHZXVUhseW1fRzJCYzJvbS1JZXl3Wl9MRGpNRFBxV1JmNG5vSXc5UGpR?oc=5",
-  "title": "Generative AI in Animation Market: Forecast to Expand from $2.37 Billion in 2025 to $9.28 Billion by 2030 at 30.2% CAGR - Yahoo Finance",
-  "source": "Google News: generative AI animation OR anime",
-  "published": "Tue, 07 Jul 2026 15:25:00 GMT",
-  "published_ts": 1783437900,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "生成AIがアニメーション市場で2025年の23.7億ドルから2030年の92.8億ドルへと急速に拡大する市場予測が主題であり、コンテンツ（アニメーション）×AI（生成AI）×ビジネス（市場規模・投資額）の三分野がすべて揃った最優先記事。",
-  "ts": 1783460662.464278
- },
- {
-  "url": "https://deadline.com/2026/07/karlovy-vary-promises-industry-award-winners-1236975954/",
-  "title": "Karlovy Vary’s Promises Industry Section Announces Award Winners",
-  "source": "Deadline",
-  "published": "Tue, 07 Jul 2026 20:45:00 +0000",
-  "published_ts": 1783457100,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "映画祭の映画・シリーズプロジェクト開発支援プログラムの受賞発表で、Eurimages資金による20,000EUR助成が言及されているが、主題はアワード発表という形式的なニュースであり、ビジネス面での実質的な経営・投資ニュースとしては限定的。",
-  "ts": 1783460662.464278
- },
- {
-  "url": "https://variety.com/2026/film/news/rachel-zegler-nda-bleecker-street-audrey-ellis-fox-1236803454/",
-  "title": "Rachel Zegler-Led Psychological Thriller ‘NDA’ Acquired by Bleecker Street",
-  "source": "Variety",
-  "published": "Tue, 07 Jul 2026 19:15:00 +0000",
-  "published_ts": 1783451700,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "心理スリラー映画『NDA』のBlecker Streetによる米国配給権の獲得という、映像作品の配信/流通に関わるビジネス取引が主題。コンテンツ+ビジネスの組み合わせで対象に該当する。",
-  "ts": 1783460662.464278
- },
- {
-  "url": "https://deadline.com/2026/07/rachel-zegler-nda-bleecker-street-1236975771/",
-  "title": "Rachel Zegler, Penn Badgley & Amy Ryan Thriller ‘NDA’ Acquired By Bleecker Street",
-  "source": "Deadline",
-  "published": "Tue, 07 Jul 2026 19:15:00 +0000",
-  "published_ts": 1783451700,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映画『NDA』の米国配給権をBleecker Streetが獲得したというライセンス/取引（ビジネス）に関する記事で、コンテンツ×ビジネスの組み合わせが明確です。",
-  "ts": 1783460662.464278
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jclhCMGlja3MxX1ZXRzA3eW9IUktiUTVRUjB2ZkJIaHNJbFltTlM3VllHZUp1V0NrY3lmaXVRc214RUxZNFdUcGlZT3pmT3lLNWxsY1VmaFFrMEZqVFFfUUozSm5SRUMtbkFqVA?oc=5",
-  "title": "『ガンダム』が到達したIP戦略の境地 半世紀を経て年商2500億円 - 日経BOOKプラス",
-  "source": "Googleニュース(nikkei.com)",
-  "published": "Tue, 07 Jul 2026 20:00:00 GMT",
-  "published_ts": 1783454400,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ガンダムというコンテンツIPの年商2500億円と市場規模・IP戦略がビジネスの主題。コンテンツ必須軸＋ビジネスで選別条件を満たす。",
-  "ts": 1783460662.464278
- },
- {
   "url": "https://deadline.com/2026/07/mubi-acquires-eleanor-coppola-making-marie-antoinette-1236976718/",
   "title": "Mubi Acquires Worldwide Rights To Eleanor Coppola’s ‘Making Marie Antoinette’",
   "source": "Deadline",
@@ -422,5 +346,170 @@
   "confidence": "中",
   "reason": "映像・画像の真贋判定技術開発は、AI（生成AI検出）とコンテンツ（報道映像の信頼性）の両分野を含むが、主題がビジネス（資金調達・事業化の金銭的側面）に欠けるため微妙であり、確認が必要。",
   "ts": 1783587631.204022
+ },
+ {
+  "url": "https://animeanime.jp/article/2026/07/10/100891.html",
+  "title": "アイナ・ジ・エンドが『ポケモン GO』10週年の新CM「Sing like GO♪」で“外に出るワクワク”を歌う　妹REiKAと共演も！",
+  "source": "アニメ！アニメ！",
+  "published": "2026-07-09T19:00:03Z",
+  "published_ts": 1783623603,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "記事の主題はポケモンGOの10周年記念CM制作・タレント出演の告知であり、制作発表・広告宣伝が中心だが、AR技術の活用とゲーム産業の大型タイトル（累計10億DL、社会現象）というビジネス規模への言及が背景にあるため、コンテンツ+ビジネスの境界線上にあり確認が必要。",
+  "ts": 1783630827.476365
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CSWhFUDR2MUI0U2xxM0FiUWs2NDJ0T0hlYXR1X19HUEsyYmVGcEh0Y2diWHJydERtTmJFLW5ra21JQUpNT3I2MTJfYURlZ2VKa2ZGQ3JURGM2Ymc?oc=5",
+  "title": "実写化AI生成ツールおすすめ5選！イラストやアニメを簡単に変換！できることや注意点も解説！ - ai-market.jp",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "published": "Thu, 09 Jul 2026 14:47:41 GMT",
+  "published_ts": 1783608461,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "アニメ・イラストを実写化するAI生成ツールの紹介記事であり、コンテンツとAIの両要素が含まれていますが、ツール比較・解説が主体で、具体的なビジネス活動（実際の制作・商用利用・市場動向など）の記述が明確でないため、対象の確定性が低い。",
+  "ts": 1783630827.476365
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0ZUZDc2JVWFlYZGVhRkgxUExFNEE2NEZGQWtsZFlxczlZUnNwZ0EtQU55TndYb0x2MDB6Vnp3cUYtZ2YzWG1QUmtuOThNUWJHMlVlM1J6NXVBZy1qNXdoRzY4dHBXLUk?oc=5",
+  "title": "伊藤忠、SNS発キャラ「パーフェクトピギー」世界展開 年9％成長市場を狙う - 日経ビジネス電子版",
+  "source": "Googleニュース(business.nikkei.com)",
+  "published": "Thu, 09 Jul 2026 20:00:00 GMT",
+  "published_ts": 1783627200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "SNS発のキャラクターIPを伊藤忠が世界展開する経営・ビジネス展開の記事であり、コンテンツ（キャラクター/IP）とビジネス（市場拡大・グローバル戦略）の2分野が主題に含まれているため。",
+  "ts": 1783630827.476365
+ },
+ {
+  "url": "https://www.cartoonbrew.com/executives/adult-swim-president-michael-ouweleen-interview-264214.html",
+  "title": "Adult Swim President Michael Ouweleen On Finding Animation’s Next Generation Of Creators",
+  "source": "Cartoon Brew",
+  "published": "Thu, 09 Jul 2026 14:06:05 +0000",
+  "published_ts": 1783605965,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Adult Swim会長へのインタビュー記事で、アニメーション制作スタジオの経営戦略・クリエイター発掘・国際展開・事業モデル（レコードレーベル比喩）などビジネス観点からの実質的な経営内容が主題であり、コンテンツ産業（アニメーション）と経営の両分野が明確に該当する。",
+  "ts": 1783630827.476365
+ },
+ {
+  "url": "https://variety.com/2026/film/global/israeli-culture-minister-miki-zohar-mocks-film-industry-1236805822/",
+  "title": "Israeli Culture Minister Miki Zohar Mocks Film Industry in Campaign Spot, Vows to Defund Anti-Israel Movies",
+  "source": "Variety",
+  "published": "Thu, 09 Jul 2026 20:07:39 +0000",
+  "published_ts": 1783627659,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "イスラエルの映画産業への政府資金配分削減をめぐる政策論争が主題であり、コンテンツ（映画業界）とビジネス（公的資金・補助金の配分）の両分野に実質的に該当するため。",
+  "ts": 1783630827.476365
+ },
+ {
+  "url": "https://0115765.com/archives/194532",
+  "title": "カドカワ、アメリカで「マンガ持ち込み」編集部が初の試み　海外でヒット作の原石発掘、参加者の9割「日本でデビューしたい」",
+  "source": "アニメ業界ニュース(0115765)",
+  "published": "Thu, 09 Jul 2026 09:19:38 +0000",
+  "published_ts": 1783588778,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "カドカワが海外でのマンガ人材発掘・育成事業を展開する記事で、出版ビジネスの国際展開戦略（海外編集部設立、イベント企画、グローバル才能獲得）が主題であり、コンテンツ産業のビジネス拡大に該当する。",
+  "ts": 1783630827.476365
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4yeU5NX2ZrWGFlb3ZkemJBUU5oVTBYU082WnlMT1ZqTDRVOGVMc2EyeVFQZ0tNVURLM0cweU1RZGE0TGw1b3c?oc=5",
+  "title": "物議のAI「俳優」ティリー・ノーウッド、長編映画で初主演 | ニュース | IT×エンタメの最前線を届ける - MEDIAMIXI",
+  "source": "Googleニュース: 生成AI 著作権 アニメ OR 映画 OR 映像",
+  "published": "Thu, 09 Jul 2026 12:41:43 GMT",
+  "published_ts": 1783600903,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "AI生成の『俳優』が映画で初主演という点でコンテンツ（映画制作）とAI技術の双方が関わるが、記事全文がなく、実際にはAI俳優の権利問題や制作手法などの詳細・ビジネスの実質性が不明確なため確度が中程度。",
+  "ts": 1783630827.476365
+ },
+ {
+  "url": "https://deadline.com/2026/07/cbs-studios-ghosts-eternally-yours-panels-sdcc-2026-1236978692/",
+  "title": "CBS Studios Sinks Teeth Into San Diego Comic-Con With ‘Eternally Yours’ Premiere Screening; ‘Ghosts’ To Return For Year 5",
+  "source": "Deadline",
+  "published": "Thu, 09 Jul 2026 19:29:03 +0000",
+  "published_ts": 1783625343,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "中",
+  "reason": "CBS Studiosが制作するテレビドラマ2作品（『Ghosts』『Eternally Yours』）のサンディエゴ・コミコン出展・パネル開催・放送予定に関する記事で、コンテンツ（TV番組の制作・配信）とビジネス（イベント企画・放送枠編成などの経営施策）の両要素がありますが、AIの要素は含まれていません。",
+  "ts": 1783630827.476365
+ },
+ {
+  "url": "https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-july-6-1236803788/",
+  "title": "Union Video Game Workers ‘Extremely Disappointed’ With Xbox Leadership Following Layoffs (Gaming News Roundup)",
+  "source": "Variety",
+  "published": "Thu, 09 Jul 2026 19:32:00 +0000",
+  "published_ts": 1783625520,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム産業（コンテンツ）を主軸として、Microsoftのレイオフに伴う経営・労務問題（ビジネス）が記事の中心であり、AIは実質的に関わっていない。",
+  "ts": 1783630827.476365
+ },
+ {
+  "url": "https://deadline.com/2026/07/jeff-zucker-marco-bassetti-on-banijay-all3media-merger-plan-1236978452/",
+  "title": "Jeff Zucker Says Scale Is Key As Banijay-All3Media Deal Closes; Marco Bassetti Outlines Growth Plans",
+  "source": "Deadline",
+  "published": "Thu, 09 Jul 2026 18:55:44 +0000",
+  "published_ts": 1783623344,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Banijay EntertainmentとAll3Mediaの経営統合により8BN規模の大型エンタテインメント制作・配信企業が誕生し、IPポートフォリオ（The Traitors、Goggleboxなど）の活用、M&A戦略、コスト削減と制作投資、米国市場進出などの経営・事業展開が主題であるため、コンテンツ×ビジネスに該当する。",
+  "ts": 1783630827.476365
+ },
+ {
+  "url": "https://deadline.com/2026/07/king-richard-reinaldo-marcus-green-roberto-clemente-1236978101/",
+  "title": "‘King Richard’ Director Reinaldo Marcus Green To Helm Roberto Clemente Biopic For Teton Ridge",
+  "source": "Deadline",
+  "published": "Thu, 09 Jul 2026 18:20:00 +0000",
+  "published_ts": 1783621200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画制作プロジェクト（伝記映画）の主題であり、肖像権・ライセンス獲得・裁判勝利・製作会社間の権利争いなど実質的なビジネス（知的財産権・取引）が中心となっているため。",
+  "ts": 1783630827.476365
  }
 ]
