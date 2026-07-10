@@ -30,21 +30,6 @@
   "ts": 1783552453.022773
  },
  {
-  "url": "https://www.cartoonbrew.com/executives/fathom-entertainment-jason-brenek-ceo-264186.html",
-  "title": "Fathom Entertainment Names Jason Brenek CEO As Company Expands Its Distribution Ambitions",
-  "source": "Cartoon Brew",
-  "published": "Wed, 08 Jul 2026 15:04:37 +0000",
-  "published_ts": 1783523077,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ映画の劇場配信を専門とする企業Fathom Entertainmentの人事・経営戦略に関する記事で、CEOの交代、同社の劇場配給ビジネスの拡大戦略、アニメ作品（Wildwood、Coraline等）の興行成績が中心的な主題であり、コンテンツ（アニメ・映画の劇場配信産業）とビジネス（経営・配給戦略・興行数字）が実質的に該当する。",
-  "ts": 1783552453.022773
- },
- {
   "url": "https://variety.com/2026/biz/columns/anonymous-contents-darren-walker-10-emmy-nominations-sally-field-1236804893/",
   "title": "Anonymous Content’s Darren Walker on Company’s 10 Emmy Nominations and Nominee Sally Field’s ‘Motherly’ Dating Advice",
   "source": "Variety",
@@ -57,21 +42,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "Anonymous Contentという制作会社のCEOがEmmy受賞実績を背景に会社の経営改善と今後の資本調達を語っており、コンテンツ企業の経営・業績・資金調達という実質的なビジネス主題が中心である。AIは記事に含まれない。",
-  "ts": 1783552453.022773
- },
- {
-  "url": "https://0115765.com/archives/194361",
-  "title": "スクエニ、『FF7』派生モバイルゲームのサービス終了へ「制作工数と需要のバランス調整困難に」苦渋の決断と経緯明かす",
-  "source": "アニメ業界ニュース(0115765)",
-  "published": "Wed, 08 Jul 2026 11:17:25 +0000",
-  "published_ts": 1783509445,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "スクエニのモバイルゲーム『FF7 EVER CRISIS』のサービス終了発表であり、制作工数と需要のバランス困難によるビジネス判断が主題。コンテンツ（ゲーム）とビジネス（経営判断・サービス方針）の2分野が明確に主題である。",
   "ts": 1783552453.022773
  },
  {
@@ -133,36 +103,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "ディズニーが既存IPの新作映画化をグリーンライトし、Disney ChainelとDisney+で配信する制作決定が主題であり、コンテンツ（映像制作）とビジネス（企業の制作決定・配信戦略）の両分野が実質的に含まれるため。",
-  "ts": 1783552453.022773
- },
- {
-  "url": "https://variety.com/2026/tv/news/hbo-emmy-nomination-casey-bloys-future-the-pitt-1236804809/",
-  "title": "Casey Bloys on HBO’s Huge Emmy Noms Haul, ‘The Pitt’ Dominance, Whether He Has ‘Heated Rivalry’ Regrets and His Own Future Post-Merger",
-  "source": "Variety",
-  "published": "Wed, 08 Jul 2026 20:35:01 +0000",
-  "published_ts": 1783542901,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "HBO責任者へのインタビュー記事で、エミー賞受賞作品群の成功、ストリーミングプラットフォームの業績、契約アーティストとの今後の制作計画など、映像コンテンツ産業の経営・ビジネス的な側面が主題であり、コンテンツ×ビジネスの条件を満たす。",
-  "ts": 1783552453.022773
- },
- {
-  "url": "https://animeanime.jp/article/2026/07/08/100845.html",
-  "title": "ピカチュウやミュウツーの懐かしいデザイン♪ 30周年記念「ポケモンUT」第二弾が登場！ 7月24日よりユニクロで発売",
-  "source": "アニメ！アニメ！",
-  "published": "2026-07-08T09:30:03Z",
-  "published_ts": 1783503003,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ポケモンのグッズ（Tシャツ）販売発表であり、コンテンツとビジネス（商品化・販売・価格情報）が主題だが、AIは関与していない。新作発表ではなく既存IPの商品化展開として、ビジネス的意義（ユニクロでの大規模販売）があるため対象に該当。",
   "ts": 1783552453.022773
  },
  {
@@ -509,5 +449,111 @@
   "confidence": "高",
   "reason": "映画『Batgirl』の製作中止をめぐるDCEU/WBDの経営判断（WBD合併時のコスト削減施策）が主題であり、コンテンツ（映画作品）とビジネス（企業決定・資産処分）の両分野が揃っているため。",
   "ts": 1783674034.6188312
+ },
+ {
+  "url": "https://deadline.com/2026/07/backrooms-digial-release-date-1236979465/",
+  "title": "‘Backrooms’ Arriving In Homes Next Week",
+  "source": "Deadline",
+  "published": "Fri, 10 Jul 2026 20:36:58 +0000",
+  "published_ts": 1783715818,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画『Backrooms』のデジタル配信化（配信戦略）と、A24史上最高の興行成績・売上といったビジネス成績が記事の主題であり、コンテンツ＋ビジネスの2分野が揃っている。",
+  "ts": 1783717231.639034
+ },
+ {
+  "url": "https://www.cartoonbrew.com/animators/wabie-velasquez-indie-animation-264237.html",
+  "title": "Meet Wabie Velasquez, A Self-Taught Musician-Turned-Animator Building One of the Internet’s Favorite Indie Cartoon Series (EXCLUSIVE)",
+  "source": "Cartoon Brew",
+  "published": "Fri, 10 Jul 2026 15:08:20 +0000",
+  "published_ts": 1783696100,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "インディーアニメ制作者の成功物語であり、Blenderを使った3D/2Dアニメ制作過程が主題だが、AIの言及がなく、ビジネス面（収益・投資・配信契約等）の実質的記述も乏しいため、コンテンツ単独に近い。ただしBlenderのようなツール活用と制作過程の詳細が強調されており、技術軸の記事として判定に迷う。",
+  "ts": 1783717231.639034
+ },
+ {
+  "url": "https://deadline.com/2026/07/nicholas-hoult-zoe-kravitz-how-to-rob-a-bank-changes-release-date-1236979381/",
+  "title": "Nicholas Hoult, Zoë Kravitz & Pete Davidson Action Pic ‘How To Rob A Bank’ Heads To November",
+  "source": "Deadline",
+  "published": "Fri, 10 Jul 2026 19:00:23 +0000",
+  "published_ts": 1783710023,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画『How to Rob a Bank』の公開日変更（9月4日→11月13日）という配給戦略上の経営判断が主題であり、劇場興行・ターゲット層・競合作品との関係性など「お金/経営」の実質を扱っているため。",
+  "ts": 1783717231.639034
+ },
+ {
+  "url": "https://www.cartoonbrew.com/anime/taiki-sakurai-salamander-pictures-20001-an-earth-odyssey-264265.html",
+  "title": "Taiki Sakurai Bets On Original Anime With ‘20001 An Earth Odyssey,’ Salamander Pictures’ First Short (EXCLUSIVE TRAILER)",
+  "source": "Cartoon Brew",
+  "published": "Fri, 10 Jul 2026 13:17:45 +0000",
+  "published_ts": 1783689465,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "中",
+  "reason": "Taiki Sakuraiの新スタジオSalamander Picturesによるオリジナルアニメ短編『20001 An Earth Odyssey』の制作・公開についての記事で、コンテンツ（アニメ制作・作品展開）とビジネス（スタジオ設立・制作パートナー探索・配信戦略）が主題。ただしAIの要素は無く、ビジネス面も経営数字より制作プロジェクト中心のため信頼度は中程度。",
+  "ts": 1783717231.639034
+ },
+ {
+  "url": "https://deadline.com/2026/07/neon-department-m-1236979301/",
+  "title": "Neon Sells Majority Stake To Department M, With Michael Schaefer Named Chief Content Officer Of ‘Anora’ & ‘Parasite’ Studio; Neon TV Launches",
+  "source": "Deadline",
+  "published": "Fri, 10 Jul 2026 18:30:52 +0000",
+  "published_ts": 1783708252,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画スタジオNeonの過半数買収、資本注入、TV部門立ち上げなど、映像制作企業の経営・M&A・事業拡大が主題であり、コンテンツ産業とビジネスの両軸が明確に含まれている。",
+  "ts": 1783717231.639034
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTE1FVWoyQzdNZ3ZiREQ4MWlCRnVFQXZEQ0hUdWd0NUxneEhqSW5seDZZRGh6eUN1UHB6YWpBZU5TRkJWd3BtVWVJemt5ZXhoRXhVSFM5TEZ6ZjFRanhfOUJiMUJLc09MTGE3U3lkUnpjVDhTajgxZnFCSzNZSzdTeE04ZkZQUVFZclBMakRMTmFwQ21NYXk5dHM0eENZWEhlRXdLUVNB?oc=5",
+  "title": "中国キャラ祭典、光と影 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "published": "Fri, 10 Jul 2026 17:06:05 GMT",
+  "published_ts": 1783703165,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "グレー",
+  "confidence": "低",
+  "reason": "タイトルと短い本文から、中国のキャラクター関連のイベント/市場の光と影を論じる記事と推測されるが、記事内容の詳細が不明なため、ビジネス要素の実質的な有無（経営・市場・数字など）の判定が確実ではなく、グレー判定とした。",
+  "ts": 1783717231.639034
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYjJFTVB2RHplYjhyTkxicjVaajZaSllNNWljdG5YQTREeWgwaWEzTjQ1ei16SHZBa3lqc3JfdG9CcWxGQU9CYklxOTY4SXdXbUU3ZjVKRldDYkd2MFpIbWJzV3NfUnZyOXB3bXk2YWlxbmFGMF9vSmNXM2hNdnlObk1nZldycXBiLVNBYXh4YnViYU1hdlNHSFl3?oc=5",
+  "title": "北米で日本漫画サブスク オレンジ、AI活用し翻訳 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "published": "Fri, 10 Jul 2026 06:07:31 GMT",
+  "published_ts": 1783663651,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "漫画（コンテンツ）のサブスク配信（ビジネス）において、生成AIを翻訳に活用（AI）する具体的な事例であり、3分野すべてが揃っている。",
+  "ts": 1783717231.639034
  }
 ]
