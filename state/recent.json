@@ -1,112 +1,5 @@
 [
  {
-  "url": "https://deadline.com/2026/07/mubi-acquires-eleanor-coppola-making-marie-antoinette-1236976718/",
-  "title": "Mubi Acquires Worldwide Rights To Eleanor Coppola’s ‘Making Marie Antoinette’",
-  "source": "Deadline",
-  "published": "Wed, 08 Jul 2026 09:00:35 +0000",
-  "published_ts": 1783501235,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Mubiが映像作品（Eleanor Coppolaのドキュメンタリー）のワールドワイドライセンスを取得した配信ビジネスの取引が主題で、コンテンツ+ビジネスの2分野が明確に該当する。",
-  "ts": 1783501758.248852
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15YUNGcVNYSGpldkllU2FlWFRpSHU5REtvQ1JyMVV5OVo4MTAwOXpRb0NGR201YzlwVWlhMkl4Z1MwSjNQaFFSREZWdFBraTl4VEYxZi03bWlpeWROU2gzUkVnMFN1d180dFE?oc=5",
-  "title": "アマナのAI専門組織「A³」、VIDEO SALON『AI映像制作アーカイブス2026』公開ウェビナーに登壇 - PR TIMES",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "published": "Wed, 08 Jul 2026 02:00:03 GMT",
-  "published_ts": 1783476003,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "label": "対象",
-  "confidence": "中",
-  "reason": "AI映像制作がタイトルの中心であり、映像産業とAI技術の結合が主題。本文がないため詳細は不明確だが、タイトルのみでコンテンツ＋AI の要件を満たす。",
-  "ts": 1783501758.248852
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzJTVlg0WWMtamd3NnNpeEdYNmM5Rm1EZGRYUkpoUDRuSmNvQV9UNmtkQkdoR09rby1XM3ViXzViWWlwc3A1LXZmYmZ3U082OWZzWUNSVDFRQUFkMFZ1ak5PcUdZdUwxVk44M3JKbE1IbXVhZ2RtVDJ3RzFNWFQ4ZFl4Q0E3R0dpUE5HZWJ1X1Jtd0Y3MXJDSEoyaXcxeU5ORVpiRmV4aVc5TFVmVnhULW5RX1Y4TjZsR2t0alI0QlIxRHJIampjclRDVks2VGRVM0E?oc=5",
-  "title": "Media, creative agencies' AI push faces copyright spotlight & policy uncertainty - Exchange4Media",
-  "source": "Google News: generative AI content copyright OR licensing",
-  "published": "Wed, 08 Jul 2026 04:00:30 GMT",
-  "published_ts": 1783483230,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "中",
-  "reason": "メディア・クリエイティブエージェンシーによるAI活用推進と著作権・ポリシー不確実性が主題であり、コンテンツ業界＋AI＋規制/ビジネス的課題の3分野が揃う記事。",
-  "ts": 1783501758.248852
- },
- {
-  "url": "https://deadline.com/2026/07/eleanor-coppola-making-marie-antoinette-mubi-1236976667/",
-  "title": "Mubi Takes Worldwide To Eleanor Coppola’s Documentary ‘Making Marie Antoinette’",
-  "source": "Deadline",
-  "published": "Wed, 08 Jul 2026 09:00:00 +0000",
-  "published_ts": 1783501200,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Eleanor Coppola監督のドキュメンタリー『Making Marie Antoinette』がMubiに全世界配信権を取得された、という映像作品の配信ライセンス取引についての記事。コンテンツ（ドキュメンタリー映画）とビジネス（配信権取得）を明確に含む。",
-  "ts": 1783501758.248852
- },
- {
-  "url": "https://variety.com/2026/film/global/the-kitchen-director-alonso-ruizpalacios-bam-1236804119/",
-  "title": "‘The Kitchen’ Director Alonso Ruizpalacios at BAM: ‘We Need More Trojan Horses’",
-  "source": "Variety",
-  "published": "Wed, 08 Jul 2026 07:04:50 +0000",
-  "published_ts": 1783494290,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "中",
-  "reason": "映画監督のスピーチ記事。映画制作（コンテンツ）が主軸で、AIの危険性・プロセス軽視への警告、および映画資金調達・共同制作モデル（ビジネス）がスピーチの重要な部分を占めているが、記事全体の中心はあくまで監督の映画制作哲学であり、AIとビジネスは付随的。",
-  "ts": 1783501758.248852
- },
- {
-  "url": "https://deadline.com/2026/07/mediaset-orders-the-wall-italy-hosted-by-max-giusti-1236976688/",
-  "title": "Mediaset Orders New Italian Version Of ‘The Wall’ Hosted By Max Giusti",
-  "source": "Deadline",
-  "published": "Wed, 08 Jul 2026 08:44:53 +0000",
-  "published_ts": 1783500293,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "中",
-  "reason": "イタリア版『The Wall』のフォーマット発注という制作発表が中心ですが、NBCUniversalのフォーマット販売・国際展開戦略とその一環としての今回の契約が記事の実質的な主題であり、テレビゲームショーのIP/フォーマットとしてのビジネス取引の側面が重要です。",
-  "ts": 1783501758.248852
- },
- {
-  "url": "https://deadline.com/2026/07/mel-b-spice-world-available-stream-not-too-distant-future-1236976432/",
-  "title": "Mel C Teases ‘Spice World’ Will Be Available To Stream In “Not-Too-Distant Future”: “The Spice Girls Now Fully Own It”",
-  "source": "Deadline",
-  "published": "Wed, 08 Jul 2026 01:25:22 +0000",
-  "published_ts": 1783473922,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "1997年の映画『Spice World』のIP所有権変化（Spice Girlsが完全所有）とストリーミング配信予定という経営・ライセンス面の動きが記事の主題であり、映像コンテンツとビジネスの両分野に該当する。",
-  "ts": 1783501758.248852
- },
- {
   "url": "https://variety.com/2026/tv/news/apple-tv-emmys-widows-bay-pluribus-severance-return-1236804984/",
   "title": "Matt Cherniss on Apple TV’s Impressive Emmys Batting Average, and When ‘Widow’s Bay,’ ‘Pluribus’ and ‘Severance’ Might Return",
   "source": "Variety",
@@ -318,21 +211,6 @@
   "ts": 1783587631.204022
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sR0NOdDhTQXRIMHhDdl9XS1U2dURQaEk0bDFnRHExVFdzUU9oUU53N3l6amNxSTFRTFR5dDN0cFFiSk5kSFQteHpKRUtMOGMzVEE?oc=5",
-  "title": "『ズートピア2』興行収入140億円突破 国内洋画アニメーション歴代2位に…『ザ・スーパーマリオブラザーズ・ムービー』を抜く 上戸彩ら感謝の言葉 - 山陽新聞",
-  "source": "Googleニュース: アニメ 興行収入",
-  "published": "Wed, 08 Jul 2026 00:31:23 GMT",
-  "published_ts": 1783470683,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメーション映画作品の興行収入という売上/ビジネス数字が主題であり、コンテンツ（映画）とビジネスの両軸が明確に該当するため。",
-  "ts": 1783587631.204022
- },
- {
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhNkNpR2c0eXQxaHVfUHRHUUluaGI4Ri1zSHNaSURfVkgtTkxNTW1zT1loRThSMTRLTTZGd1BSV0lxajkyY0hncjNCaEMycG5Ja0JFQVlxUk4?oc=5",
   "title": "生成AI時代の報道の信頼性を守る、映像・画像の「真贋判定技術」開発へ ロジック・アンド・デザインが日本テレビとの共同プロジェクトを発足 - 日刊工業新聞",
   "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
@@ -511,5 +389,125 @@
   "confidence": "高",
   "reason": "映画制作プロジェクト（伝記映画）の主題であり、肖像権・ライセンス獲得・裁判勝利・製作会社間の権利争いなど実質的なビジネス（知的財産権・取引）が中心となっているため。",
   "ts": 1783630827.476365
+ },
+ {
+  "url": "https://variety.com/2026/tv/global/mediawan-kinetic-content-gameshow-trojan-horse-1236806319/",
+  "title": "Greek Myth Summer Continues as Mediawan Rolls Out Kinetic Content Gameshow ‘Trojan Horse’ Across Europe",
+  "source": "Variety",
+  "published": "Fri, 10 Jul 2026 08:53:07 +0000",
+  "published_ts": 1783673587,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "フランスの制作会社Mediawanがゲームショー『Trojan Horse』のフォーマット化権を取得し、ヨーロッパ複数国での展開を開始する映像コンテンツのビジネス展開（ライセンス取引・国際展開）が主題であり、コンテンツとビジネスの両軸が明確に該当する。",
+  "ts": 1783674034.6188312
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBGVGppVHpjby0ydU1kTUJuT1BpSUJmNXBiVmdyaHJVYU9TaFZQbzZQNTFPM0RMZ2JNMWJxUzEtOHNGd2xi?oc=5",
+  "title": "AIアニメーション制作ハッカソンが示す、生成AI映像の新しい表現領域 - Koubo",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "published": "Fri, 10 Jul 2026 01:56:52 GMT",
+  "published_ts": 1783648612,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "生成AIによるアニメーション制作の技術・表現領域が主題であり、コンテンツ×AIは該当するが、記事本文が不十分で経営・投資・ビジネス的な実質的な要素が確認できず、ビジネス軸の判断が難しいため。",
+  "ts": 1783674034.6188312
+ },
+ {
+  "url": "https://0115765.com/archives/194633",
+  "title": "『ケロロ軍曹』新作映画めぐり委員会構成社から声明、バンダイナムコに続きテレ東も謝意表明",
+  "source": "アニメ業界ニュース(0115765)",
+  "published": "Fri, 10 Jul 2026 02:34:18 +0000",
+  "published_ts": 1783650858,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "新作映画公開に伴う制作過程の問題（著作権・パロディ権利対応）と企業の謝罪・再発防止策が主題であり、コンテンツ＋ビジネス（権利・ガバナンス）の2分野を含むが、『著作権問題の解決報告』が中心で『経営規模・投資・売上などの金銭的インパクト』の実質が不透明なため判定に迷う。",
+  "ts": 1783674034.6188312
+ },
+ {
+  "url": "https://variety.com/2026/film/news/malaysian-sci-fi-mimpi-kita-castle-in-the-air-abnormal-studios-1236806294/",
+  "title": "Malaysian Sci-Fi ‘Mimpi Kita: Castle in the Air’ Lands Distributor and Sales Agent Abnormal Studios (EXCLUSIVE)",
+  "source": "Variety",
+  "published": "Fri, 10 Jul 2026 06:42:22 +0000",
+  "published_ts": 1783665742,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "マレーシアのSF映画『Mimpi Kita: Castle in the Air』の劇場配給権取得と国際販売代理店契約という実質的なビジネス（流通・販売）の取引が主題であり、コンテンツ（映画製作・配信）と直結しているため。",
+  "ts": 1783674034.6188312
+ },
+ {
+  "url": "https://0115765.com/archives/194489",
+  "title": "ガンダム、新作アニメを“アメリカで初解禁”異例の予告にある背景　事業も北米のテコ入れも顕著",
+  "source": "アニメ業界ニュース(0115765)",
+  "published": "Thu, 09 Jul 2026 21:02:14 +0000",
+  "published_ts": 1783630934,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ガンダム新作アニメの企画発表（コンテンツ）と、北米市場への本格展開・子会社設立・ハリウッド映画化・グローバル事業戦略（ビジネス）が記事の中心であり、コンテンツ＋ビジネスの2軸で判定対象。",
+  "ts": 1783674034.6188312
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBMck5VNkNwWWVyY1VjNjViekpvbkFINV91QmxGYjBUc05XaUt4X0ZJQjNQcDJPNDcyTEZvMWMwNGw?oc=5",
+  "title": "ByteDance「Seedream 5.0 Pro」にアニメ絵師が殺到、公開直後からX上に作例が続々 - shiritomo",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "published": "Fri, 10 Jul 2026 03:15:16 GMT",
+  "published_ts": 1783653316,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "生成AIツール『Seedream 5.0 Pro』がアニメ絵師によって活用される事例を報じており、AI技術がアニメなどのコンテンツ制作に実際に影響を与えている状況が主題であるため。",
+  "ts": 1783674034.6188312
+ },
+ {
+  "url": "https://deadline.com/2026/07/jennifer-garner-so-important-film-la-1236978982/",
+  "title": "Jennifer Garner On Why It’s “So Important” To Film In LA “As Much As Possible”",
+  "source": "Deadline",
+  "published": "Fri, 10 Jul 2026 01:29:06 +0000",
+  "published_ts": 1783646946,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映像制作業界の立地・税制インセンティブをめぐるビジネス/政策の議論が主題であり、女優個人の意見表明を通じてロサンゼルスでの映画・TV制作産業の経営環境（予算削減、州の税額控除プログラム）が実質的に扱われているため、コンテンツ＋ビジネスに該当。",
+  "ts": 1783674034.6188312
+ },
+ {
+  "url": "https://deadline.com/2026/07/jk-simmons-wbd-bizarre-shelf-batgirl-movie-1236978897/",
+  "title": "J.K. Simmons On WBD’s “Bizarre” Decision To Shelf ‘Batgirl’ Movie: “Maybe We’ll Never Know”",
+  "source": "Deadline",
+  "published": "Thu, 09 Jul 2026 23:09:38 +0000",
+  "published_ts": 1783638578,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画『Batgirl』の製作中止をめぐるDCEU/WBDの経営判断（WBD合併時のコスト削減施策）が主題であり、コンテンツ（映画作品）とビジネス（企業決定・資産処分）の両分野が揃っているため。",
+  "ts": 1783674034.6188312
  }
 ]
