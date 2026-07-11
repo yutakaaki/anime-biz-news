@@ -28,6 +28,9 @@ DIRECT_FEEDS = [
     ("https://0115765.com/feed", "アニメ業界ニュース(0115765)"),
     ("http://animationbusiness.info/feed", "アニメーションビジネス・ジャーナル"),
     ("https://branc.jp/feed", "Branc"),
+    # アニメ・業界特化の深掘り/ニュース媒体（低ノイズ）
+    ("https://www.animenewsnetwork.com/news/rss.xml", "Anime News Network"),
+    ("https://news.animenomics.com/feed", "Animenomics"),
 ]
 
 # Google ニュース検索クエリ（メインテーマ: コンテンツ × AI × ビジネス）
@@ -51,6 +54,8 @@ GOOGLE_QUERIES_JA = [
     "アニメ OR コンテンツ産業 site:forbesjapan.com",
     "アニメ OR コンテンツ産業 site:sankei.com",
     "アニメ OR コンテンツ産業 site:yomiuri.co.jp",
+    "アニメ OR コンテンツ産業 site:newsweekjapan.jp",
+    "アニメ OR 生成AI site:gamebiz.jp",
 ]
 GOOGLE_QUERIES_EN = [
     # コンテンツ × ビジネス
@@ -63,6 +68,11 @@ GOOGLE_QUERIES_EN = [
     "AI film production OR video generation studio",
     "generative AI content copyright OR licensing",
     "AI dubbing OR localization film OR anime",
+    # コラム/深掘りが多い一般媒体を site: 指定でテーマ絞り収集
+    "anime OR animation OR \"generative AI\" site:hollywoodreporter.com",
+    "anime OR animation OR \"generative AI\" site:reuters.com",
+    "anime OR animation OR \"generative AI\" site:economist.com",
+    "anime OR animation OR \"generative AI\" site:forbes.com",
 ]
 
 
