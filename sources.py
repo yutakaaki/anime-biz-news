@@ -74,6 +74,7 @@ GOOGLE_QUERIES_EN = [
     "anime OR animation OR \"generative AI\" site:economist.com",
     "anime OR animation OR \"generative AI\" site:forbes.com",
     "anime OR animation OR \"generative AI\" site:newsweek.com",
+    "anime OR animation OR \"generative AI\" site:bloomberg.com",
 ]
 
 
