@@ -748,5 +748,287 @@
   "source": "Googleニュース(sankei.com)",
   "label": "対象外",
   "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHQwU1JMNk93M1o4emQzS1BZX205X041TTNZOGs1TDhPUWhPVGFuU181ajN1dFZiSDloN3NFNnNiSkVSdzRKUERKejVCSkVEWk5IRTNCcDlueFJhczJlbU9xSzhlR2hqcGdlUmJOeHVhSzM5MExPOXJMdTRIeFEzZHRfVjBKdlJBZnJsMkZKWkpZeTlJUTRjV29JQVlycmloZzlzVmpIVHhxUE16aTBWV0RkVW41THZkLTlyONIBwgFBVV95cUxOY3lVSEYwZFlzWU02OWpZVXFrU2hBa0xFQ2NZaFdyRzRFM2VMZEJ2OWh1MEN2OEJSdkxwYXkzOUxxQWtNcWlVQVRNWllfQWNXOXM1OEk5a2pYOG9nS2Q1anlQSk1OQmZkX3Y0WXJhZVhqams1QW5iM1RZWUVhdVM3cGNrczlob01GRlE5U3Q2bnpnV2hLNmxnQ1RPd2N4RWJxcndfNEZRbXJhOWZkekhSbldScXB1ODZJVTZ2bHR3Z0RtZw?oc=5": {
+  "title": "Bollywood Embraces AI-Powered Filmmaking as Studios Invest in Next-Generation Visual Effects - boldnewsonline.com",
+  "source": "Google News: AI film production OR video generation studio",
+  "label": "重複スキップ",
+  "ts": 1783808954.479296
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-11/webtoon-launches-ai-story-chat-service-byus-featuring-creator-approved-webtoon-ip/.239448": {
+  "title": "WEBTOON Launches AI Story Chat Service byUs Featuring Creator-Approved Webtoon IP",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE90bnhNNkZLOVVMWG1HaldFMk9OZHptM0lMclFIUDhsOVppeWJKOENlenMycVpuWU5kdkFiUURfMENfWklVZ1dkNE5xbXJHVHNrMFFTR1FIN21kbWRXYnBEaE1mbVN3bFNFdEEwZmJwUHFMOGNGeUxBUXNfbw?oc=5": {
+  "title": "Meta Scraps AI Image Feature After Backlash: ‘Missed the Mark’ - Newsweek",
+  "source": "Googleニュース(newsweek.com)",
+  "label": "重複スキップ",
+  "ts": 1783808954.479296
+ },
+ "https://variety.com/2026/film/markets-festivals/tis-studios-stage-7-bogota-soundstage-expansion-1236807306": {
+  "title": "TIS Studios Expands Bogotá Production Hub With New 18,300-Square-Foot Soundstage (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTZzZzFCQVpGeTNrMHhvbnUyQWg4V29XZG5EeFllVUV3cXdDRGVORGV0UGFLLXk3TWhHLWtIQWJFWjFsNjdDNDJJVU5SbmZray12T3huRUVLUHExd2VicEVDeHJjel9FeXg2aS1kWVFqdzR0c0MzbE8wRFh4cTB6cldkczhVTGpVeGRaQ0FULVRFc1NnYkYxV196bw?oc=5": {
+  "title": "『ノンタン』新作アニメ制作決定 最新3DCG技術で表現！生誕50周年記念 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1783808954.479296
+ },
+ "https://variety.com/2026/film/news/whispers-of-fatimah-release-date-first-look-video-1236806380": {
+  "title": "Indonesian Virtual-Production Horror Feature ‘Whispers of Fatimah’ Sets September Release, Unveils First-Look Video (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783808954.479296
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-11/crunchyroll-reveals-cast-staff-for-same-day-english-dub-of-hanaori-san-still-wants-to-fight-in-the-/.239521": {
+  "title": "Crunchyroll Reveals Cast, Staff for Same-Day English Dub of Hanaori-san Still Wants to Fight in the Next Life Anime",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1783808954.479296
+ },
+ "https://variety.com/2026/film/features/moana-creatives-polynesian-culture-traditions-1236807177": {
+  "title": "‘Moana’ Creatives on Working Closely to Honor Polynesian Culture and Traditions, and Why Representation Matters in the Live-Action Film",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUNraEkySi13WEpoaXJSNS1aaDUtTF9hTkxOWFpuWEZ2eVVQMVdQRHd2Xzl5a1NJbUl0NGdwNjVOdkdZS0F3NGxFa21jamxvSUlObFRMTzBON2ZUWDRXbzdGWklfNF8yR25HWndFUnRKRlpSc3F2VERaeHFnQVVsUFp2M1FkZXZycUI4T2JxMmJJMXRZY2ZGc2JQbDVEU2hYalpxejJ3?oc=5": {
+  "title": "中国キャラ祭典、日本コンテンツの人気根強く 日中冷え込みが影 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "重複スキップ",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNlJQMUplcWVVdEY0TlgtNVdPVndtaUpFbHdOdUJWYWVLWWNra3hpeEN0MXNBelhwT3NWeUhORUJhTTNCaC1lcnlBdEw3N3VIQWxLY1RzZXFQQkh3d0RMWkRVTHhzYXl1VVRnMTNGRi1CRUNPNWxFaE1CdTVxVzRBV3Fpa3FRWkRFWExZa0VB?oc=5": {
+  "title": "生成AI×映画制作 クリストファー・ノーランが語る「本物」が求められる時代 (The Hollywood Reporter Japan) - Yahoo!ニュース",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "重複スキップ",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVNiTWtmRkdKcDlVWnJjQkU5ZGxodFplSHZYei15RTU5Sjk0bmx0WjUzT1hyZGxWTXZXS2ZqYmk5LVV1WU9TZlY3WmlXVlZtVWF2cV82a0JUQkxpMko3QVR6aklLTk4tTHFaU0Y4R1M2TjY1WXhmb3JLa2tkZDl5WExEaHJlLXp5UmpqV196VmJtbV9IaXRjSTloOU9jWWFXbmc?oc=5": {
+  "title": "『ロボットアニメ』オーケストラコンサート開催決定 豪華な参加歌手！ガンダム、エルガイム、ナデシコなどの名曲（写真・画像 1/1） - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1783808954.479296
+ },
+ "https://variety.com/2026/tv/features/elle-legally-blonde-james-van-der-beek-season-2-1236801616": {
+  "title": "‘Elle’ Bosses on Lexi Minetree’s Elle Woods Transformation and How the Late James Van Der Beek Rewrote His Character’s Ending",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1783808954.479296
+ },
+ "https://deadline.com/2026/07/little-house-prairie-ingalls-backstory-anne-green-gables-1236979722": {
+  "title": "How ‘Little House On The Prairie’ Showrunner Crafted “Compelling” Fever Dream Flashbacks To Fill In “Stakes” Of Ingalls Family Backstory",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://animeanime.jp/article/2026/07/11/100968.html": {
+  "title": "喝采せよ──「オーバーロード」10周年記念イラストのアインズがフィギュアに！ 王者の風格を再現",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://0115765.com/archives/194872": {
+  "title": "『ヤマトよ永遠に』森雪が“デザリアムスーツ”姿でフィギュア化！ポニテールや造形に特徴、第5章のシーンを再現",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-11/japanese-animation-tv-ranking-june-29-july-5/.239490": {
+  "title": "Japanese Animation TV Ranking, June 29-July 5",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1ZiME9GVFpkYmdkblNOV3psUDdlbGtZTF9FT1Q2MGllenotVlpJZFlfc3ZnMW9kZllvX18yQzIwbWR2cGF3VGUxZjg0ODBJOXBGUEk5MDF5Zmp3S09BSmZrQU1OajZsc2QwM0FCYlBtNkR1bkczMVJwRFpQZTAyU2hFaTh2bWVrN0JPS29MRHd6aUJETHhBMUNYaWxKcnkzZ2c0WU1TVQ?oc=5": {
+  "title": "Japan’s New Systems for Structural Change - d.newsweek.com",
+  "source": "Googleニュース(newsweek.com)",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://variety.com/2026/tv/news/byron-allen-donates-nolan-wells-tyler-perry-funeral-costs-1236807312": {
+  "title": "Byron Allen Donates $100,000 to Nolan Wells Family’s GoFundMe as Tyler Perry Covers Funeral Costs",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://deadline.com/2026/07/barbara-ling-dead-michael-production-designer-1236979877": {
+  "title": "Barbara Ling Dead: ‘Michael’ & ‘Once Upon a Time in Hollywood’ Production Designer Was 73",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://animeanime.jp/article/2026/07/11/100967.html": {
+  "title": "「ブルーロック」潔、凛、凪がモノトーンストリートファッション姿に！ 描き下ろしグッズが登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://0115765.com/archives/194868": {
+  "title": "【夏アニメ情報】dアニメストアは“74作品”も入荷！月額660円に改定も『幼女戦記』など地上波より先に見られる",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMia0FVX3lxTE96cWpIR0w5a0VTdWhGTmRya2I1TkNFYXNIVXpMTUd4NkJidjBfYzlQczhSeU1nTlZLQldtRnB2c1dLU3ktZkVIcFBzQ0otV0VxNWFxWVRra2ZfVHNFU1gyNlB1S29sTDNyWUk0?oc=5": {
+  "title": "マーケティング - Forbes JAPAN",
+  "source": "Googleニュース(forbesjapan.com)",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://variety.com/2026/film/reviews/lover-not-a-fighter-review-1236807148": {
+  "title": "‘Lover, Not a Fighter’ Review: Freewheeling Slovak Charmer Charts a Sober (but Not Solemn) GenZ Romance",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://deadline.com/2026/07/karlovy-vary-aung-phyoe-fruit-gathering-wins-crystal-globe-1236979833": {
+  "title": "Karlovy Vary Reveals Award Winners: Aung Phyoe’s ‘Fruit Gathering’ Wins The Crystal Globe",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://animeanime.jp/article/2026/07/11/100966.html": {
+  "title": "「名探偵コナン」Jリーグのコラボエピソードを放送！元サッカー日本代表・森島寛晃が出演 影山優佳は二度目のゲストに",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://0115765.com/archives/194677": {
+  "title": "「ウルトラマンの日」に円谷プロ、自社直営ストアを原宿に開業　目指すは原宿のランドマーク、体験型で3mのウルトラマン像も",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1783808954.479296
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-11/aic-wins-legal-battle-to-return-as-shareholder-of-aic-rights/.239366": {
+  "title": "AIC Wins Legal Battle to Return as Shareholder of AIC Rights",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53OXY2ZVNPcnVoYlotLUJxXzRIWDhuVm9UV3ZLRVVRV3FkVktGU1ZhSnNHOEFtazItenlWRjh4YlVaalhzM0QwS0k5cmxkUEc5STdwdEk3S0h3SHdHUmZZTVVDZw?oc=5": {
+  "title": "モンスト欧州展開へ ミクシィ社長 アニメ連携も - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象",
+  "ts": 1783808954.479296
+ },
+ "https://deadline.com/2026/07/dwayne-johnson-tried-revive-odd-couple-broadway-kevin-hart-1236979858": {
+  "title": "Dwayne Johnson Tried To Revive ‘The Odd Couple’ On Broadway With Kevin Hart: “Not Letting That Dream Go”",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1783808954.479296
+ },
+ "https://animeanime.jp/article/2026/07/11/100965.html": {
+  "title": "浴衣が似合う女性キャラといえば？ 3位「お隣の天使様」椎名真昼、2位「NARUTO」日向ヒナタ、1位は… ＜26年版＞",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://0115765.com/archives/194766": {
+  "title": "『千歳くんはラムネ瓶のなか』アニメ“後半”は今秋放送スタート！舞台を東京に移し再開、前半振り返る「13.5話」も",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-11/icheon-city-government-launches-ai-generated-webtoon-contest/.239518": {
+  "title": "Icheon City Government Launches AI-Generated Webtoon Contest",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zYlVxRV9qejdubWlmbTJlR2RHSnpKWDRzTGpsQ25iZ3c0YTB4c3pESDRKNF9kZUw5T0tmWDhCQzNqSW1sWHNVSlVzMm9kXzg4dGVVTDhnVHF1bDJTSkd2TGxGVWtrSGFqTzBoZW5qanpXWEEzbGlVOWp3UQ?oc=5": {
+  "title": "キャリア採用業務で「生成AIを利用している」28.7％ 今後も人間による対応を重視したいのは「面接・面談」75.3％ 学情調査 - au Webポータル",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://variety.com/2026/film/global/christos-nikou-apples-fingernails-tender-cinema-1236807307": {
+  "title": "Greek Filmmaker Christos Nikou, the Director of ‘Apples’ and ‘Fingernails,’ on Creating ‘Tender Cinema’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://deadline.com/2026/07/larry-birkhead-anna-nicole-smith-movie-dr-kapoor-complaint-1236979843": {
+  "title": "Larry Birkhead “Not Involved” With Anna Nicole Smith Movie Based On Dr. Sandeep Kapoor’s Book, Filed Complaint With California Medical Board",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-11/anime-expo-sets-new-record-of-422000-turnstile-attendees/.239520": {
+  "title": "Anime Expo Sets New Record of 422,000 Turnstile Attendees",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1783808954.479296
+ },
+ "https://deadline.com/2026/07/jayden-adams-dead-south-african-fifa-world-cup-1236979825": {
+  "title": "Jayden Adams Dead: South African Soccer Pro Who Played 2026 FIFA World Cup Was 25",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://variety.com/2026/streaming/columns/i-will-find-you-logan-browning-sam-worthington-guns-1236807256": {
+  "title": "‘I Will Find You’: Logan Browning on Sam Worthington Teaching Her How to Reload a Gun and the Show’s Wild Action Scenes: ‘I Can Hop Buildings, Didn’t You Know That?’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkM3hhemhOOEYxVEhnSTZGOG12TVh3c0o0OFJTRU1aZEJHejdHRjFuMjgwZDlkT1RKOVoyc3FhMS1YRS1PMWctZmxyUmdjYlhscnhJU2xVVFhFdjFHd01hV1Y3N2dDQnVZSTUxdFZ6cDBIeVN6QmZlbmxRMNIBgAFBVV95cUxPUnZUMGZlQWg3aFZndmhlc1A0U29RMzZGQTZaTkJhalVsSjY3ODJvTWpXQTV4aVJlb3pmd1QxclRyMXZfRUdlWDVLSWFQNVZRcHk5dGlzOUpfQXdOVXpzM1puVTlvb2JrYmg1aGtKM0dud3k2Mm9WX1hvT2h0Z1dKQQ?oc=5": {
+  "title": "「AI女優」は“脅威”か“新たな選択肢”かーー。エンタメ業界への生成AI進出に意見が二分 - ｄメニューニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象",
+  "ts": 1783808954.479296
+ },
+ "https://deadline.com/2026/07/ann-widdecombe-death-homicide-1236979243": {
+  "title": "Arrested Man Released Without Charges In Death Of Former MP & UK Reality Star Ann Widdecombe",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://variety.com/2026/awards/awards/fruit-gathering-karlovy-vary-crystal-globe-juliette-binoche-1236807179": {
+  "title": "Myanmar-Set ‘Fruit Gathering’ Wins at Karlovy Vary: ‘Harrowing Drama of Obsession and Queer Desire’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://deadline.com/2026/07/trump-doj-subpoenas-new-york-times-air-force-one-1236979805": {
+  "title": "DOJ Subpoenas New York Times Journalists After Report On Trump’s New Air Force One",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://variety.com/2026/shopping/news/watch-ufc-329-conor-mcgregor-vs-holloway-2-live-online-free-1236804599": {
+  "title": "UFC 329 Livestream: Here’s Where to Watch the McGregor vs. Holloway Rematch Online",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHBJa2stdUd4RldweHl4RGRLWkg2U0tHakxCR0ZhYm5xSFgxZHNzcmNUMWVwc053ZlZTTk9iRDNXa1dkRnJrQlloLTFkRkh6MHM0ay1yVkxZUmRpWmlLYlJTbFNzUXlsbFR4X1dlc0toYWJqeVgzdTFZeU5YTnU3NHdmMDNSRDktUF9JanROZnNocERxcEgzcjVkUUNzb2l3NVNSVzNKVmpjb0drSUdic1p2bEFFdTdqWjVQMW9mVllaMUVSRFE?oc=5": {
+  "title": "At The University Of Chicago Law School, Socrates Is In, Laptops Are Out - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWTA2akVoTVJvNE83NThaOVY2ZUVRRXl2dXhrUHdTUk9tSUJiejFiLWRpQ0FnZXhMZkFhV2s2ZFFQc0dzbUxrV1Vwc3VUT1FjZlhHejZnN3JnREJWNWkxRHA3LTVNNmFrbkRIZXJEa2xXWGF3YmwyWGdOWU9rb0p4RHhyNHJTeGROY05TemVqQUVxekpMeHFBaE96RGdPMVl1Vk90SE1feHFDdw?oc=5": {
+  "title": "This Startup Aims To Catapult Satellites Into Space - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYjJFTVB2RHplYjhyTkxicjVaajZaSllNNWljdG5YQTREeWgwaWEzTjQ1ei16SHZBa3lqc3JfdG9CcWxGQU9CYklxOTY4SXdXbUU3ZjVKRldDYkd2MFpIbWJzV3NfUnZyOXB3bXk2YWlxbmFGMF9vSmNXM2hNdnlObk1nZldycXBiLVNBYXh4YnViYU1hdlNHSFl3?oc=5": {
+  "title": "北米で日本漫画サブスク オレンジ、AI活用し翻訳 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象",
+  "ts": 1783808954.479296
+ },
+ "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0N3SWJTZ1BqbzlibXVsR2RIOHAwa1F5bmJISkhqR2NzcTIzT2t2S2FmSkxJQjJTdm9JWVIwaWM3d05ieGpFYUxBbzdQMWlQVnFjNnBkbk12M2hhMlA4OFlUZ0I4UWVfMXk0bXIydGM4V1YwT1Zzb2FxNksxYjZYMlFkOVZZUjFjSmtpRWlKd3lDeThlRWFrVjFQaXFHZjBXVVl6MmVaUmFtV0o5QWthVXhxeExHNG8tUlp0ZTN3?oc=5": {
+  "title": "Humanoid Robots Just Performed Live Surgery For The First Time Ever - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1783808954.479296
  }
 }
