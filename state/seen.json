@@ -358,5 +358,395 @@
   "source": "Googleニュース(reuters.com)",
   "label": "対象外",
   "ts": 1783754408.014005
+ },
+ "https://animeanime.jp/article/2026/07/11/100962.html": {
+  "title": "夏アニメ「グロウアップショウ」“ひまわりサーカス”存亡の危機!?　第2話先行カット",
+  "source": "アニメ！アニメ！",
+  "label": "重複スキップ",
+  "ts": 1783760437.218554
+ },
+ "https://variety.com/lists/moana-cast-characters-live-action-animated": {
+  "title": "‘Moana’ Cast Guide: Every Live-Action Character vs. the Original Animation",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783760437.218554
+ },
+ "https://deadline.com/2026/07/meta-removes-muse-image-ai-feature-backlash-1236979605": {
+  "title": "Meta Removes Muse Image AI Feature After Backlash: “Missed The Mark”",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1783760437.218554
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-10/live-action-happy-kanako-killer-life-series-gets-2nd-season/.239470": {
+  "title": "Live-Action Happy Kanako's Killer Life Series Gets 2nd Season",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4yeU5NX2ZrWGFlb3ZkemJBUU5oVTBYU082WnlMT1ZqTDRVOGVMc2EyeVFQZ0tNVURLM0cweU1RZGE0TGw1b3c?oc=5": {
+  "title": "物議のAI「俳優」ティリー・ノーウッド、長編映画で初主演 | ニュース | IT×エンタメの最前線を届ける - MEDIAMIXI",
+  "source": "Googleニュース: 生成AI 著作権 アニメ OR 映画 OR 映像",
+  "label": "重複スキップ",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wcENSV25ialptRXVqa3kyQkk0blJ1aDktS0hIR3ZtdElDZmlacUM2aEJKSTU4TjRFRklxOUwtOE5nZm1xcXRXa1Ixemx3WklsRXpBQlRlZVMzLTF6MlJZQW1Ca3Q5blowT0VydVlpUXNVVHZXcFpZVFln?oc=5": {
+  "title": "What Is A Data Center And Why Are They Suddenly Everywhere? - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "重複スキップ",
+  "ts": 1783760437.218554
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-09/live-action-naruto-hollywood-film-launches-global-casting-call-for-3-main-leads/.239468": {
+  "title": "Live-Action Naruto Hollywood Film Launches Global Casting Call for 3 Main Leads",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUxsRWEyOVYzODRLRzZ5YWVrUllHSXlWbWxtQnplWUM3XzVXemJlTnNLVFQ2NnNHc3ZnZk55aDBpQ2gzN2k5YjhHbERJSTl1aVJKa3k4R29XalNTcFJpbjhvVGtuMHMycG81VDJKSkhQUEdyeDVDbjRoMkJSdEVlQ1dMb21ZWXNwLWdSUkdNNXZHdk5wa3BVYkxCVDVXX1dfVFFFdW9fb2w4dw?oc=5": {
+  "title": "Christopher Nolan Addresses ‘The Odyssey’ Online Backlash - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "重複スキップ",
+  "ts": 1783760437.218554
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-09/flipflops-darwin-game-manga-gets-live-action-film-in-2027/.239460": {
+  "title": "FLIPFLOPs' Darwin's Game Manga Gets Live-Action Film in 2027",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1783760437.218554
+ },
+ "https://animeanime.jp/article/2026/07/11/100964.html": {
+  "title": "ポムプリ、シナモン、キティたちが人気9ブランドとのコラボ☆ スナイデル、ジェラート ピケ オムなど激かわアイテム登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://0115765.com/archives/194834": {
+  "title": "“ドコモ系”に生まれ変わる住信SBIネット銀、ドコモユーザーは「約3割」推定　銀行別キャリア内訳調査が公開",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://animeanime.jp/article/2026/07/11/100963.html": {
+  "title": "夏アニメ「才女のお世話」伊月を知る謎の女子生徒も出現!? 第2話先行カット",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://animeanime.jp/article/2026/07/11/100961.html": {
+  "title": "夏アニメ「天幕のジャードゥーガル」トルイに謁見したシタラは自らを「ファーティマ」と名乗り…第3話先行カット",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTXRlTmxQLWFydzQtV0tiNk90TEVMNFU0RjRMMlRoeHBpODg3aFJHYVh1bnYtMFZGbDdvSzhMXy1rNmF1NUNwZTRIN3ZzaHZENEE5Q0ZJZ2h2UjUzM0YxdDc3UG1SS2hIbjJmVk5QbDU5cVgtSFliV0UzdjdueEVqa3pRUEN5d2owODloNlNQaThqZXhjeFlwV0FLdW44SFBSMUZ6NHpTVjNkSWNKblJSanVhUUZScWs?oc=5": {
+  "title": "740 Million People Are Living With a Condition They Rarely Talk About - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://animeanime.jp/article/2026/07/11/100960.html": {
+  "title": "「ズートピア」ジュディとニックのセットリングが再登場♪ 2人をイメージした色の石やモチーフをデザイン",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGlCT3RPbjhMMi1lWE5NWmk1WjlQYkRMdTU5NFdFLUZqQVU2dzJIWUs4UTQ0S3QyNXZSTWVVZDAzbTdnUXFFa3I4R2NIajRya1RDZkxkTld3eFluY19DeHI5cUdTamphZEw4SEpWUnczUkwtbV9fbllZaWFTejlIY2tMTVFCWHJodUpPb1R3YVlIM0Z6ampMTHZSd25hdjdjcHFhSmpOcGVIdHBwck5GNTlpTUxCWnZtcGVFcXpOWQ?oc=5": {
+  "title": "Character.ai Enters The Microdrama Race With Characters That Talk Back - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://animeanime.jp/article/2026/07/11/100959.html": {
+  "title": "世一や凪＆玲王のシールが収録！ 「にふぉるめーしょん ブルーロック」がプレバンで販売中！アニメ第1期が蘇る最高にエゴいシーンが多数",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX01aWXBOV1VXZ1pKd0lOWDRSa0JKRlM5S3VBV3ZDclNVUXFWMkRLQnpjdVZVYTdib3Y5Z2x4dEFwV0NPM0tSZ29rc1VpampkWGxfUEVqZkFQdmJhM1dIMFk3NWdRU1NwMmp1UVNucFVKUkxBUmlEdXlTSGxGV1J6LWtZVGJXQzBTdlV1ZkhaYUhqa09TSGg2M0gzRzREV2JFMVFGeXFEV3MtZEtZc1Y5SjBuYw?oc=5": {
+  "title": "Microsoft Confirms Windows 11 Storage Bug Fix In New Update - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NLUVFX1AwWUlrOWhQZzJEX1BJQm5adEc5MjdHY1ExTkt3UEhMQnVCVXYxdWxXbGk3TGl4WERiOEJpUHlpbnFKYVJ2UFpmckdGVHh6TFYtYUQ2elJaWVhYajA2cjBkLWN4d1RoN2szaVRRVTgzdlRuZmRB?oc=5": {
+  "title": "A Tiny Island Near Singapore Has Become Asia’s Hub for Russian Oil - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://deadline.com/2026/07/randolph-mantooth-dead-emergency-1236979651": {
+  "title": "Randolph Mantooth Dies: ‘Emergency!’ Star Who Appeared On Soap Operas & Other Series Was 80",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://www.cartoonbrew.com/executives/adult-swim-president-michael-ouweleen-interview-264214.html": {
+  "title": "Adult Swim President Michael Ouweleen On Finding Animation’s Next Generation Of Creators",
+  "source": "Cartoon Brew",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://animeanime.jp/article/2026/07/11/100958.html": {
+  "title": "ちいかわ＆ハチワレの“なんとか…なれーッ!!”や“再現性すごいよッ!!”がデザイン！3種類のレアも入ったキャラマグネット登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-10/villains-are-destined-to-die-webtoon-concludes-main-story-in-korea/.239485": {
+  "title": "Villains Are Destined to Die Webtoon Concludes Main Story in Korea",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DbE9ZLVIwY3V1eW5rV19zSFNtQ1duZnp3X0g4TkJXRWRjbUlQUmlQeTcwT25oVkQtclBfX3dhWG5OTWtTNExyX3pxQlFodldya2ZhWUJLWHE?oc=5": {
+  "title": "TBSテレビ、生成AI人材育成プログラム「AI Creative School」始動 ドラマ制作へのAI導入も視野 - Brand New Creativity",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE51N1NERGUxRm1tTmxaUTFBY0dOMjNxQWpZSVlxcEktb0t2bHZnRVR1OG1ZN1JQZVJocTN1Q1MwMmdqdTRFV1Y3c0F0SUk1bUJfRHFETGhZN1lxZFJCMERJelhGZVlfeFlLVmhGQ2FPX01VNjV0MU55czRmTQ?oc=5": {
+  "title": "100studioがアニメーション制作を担当するTVアニメ『BLACK TORCH』、7月11日(土) 22:00から放送の第2話あらすじ＆先行カット公開！ノンクレジットエンディング映像公開中 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWhfUlhlblhhaGF4ZDZ0S0JJWURwem9SdHFIbUdmYlliRHF1Rm9taHpFdV9UVFl5a2tpRXlMSUk1ZkdZamY2dmhMTklnVXJTTzhXTlRPSElyVlB2UmF1Y0NWdkgxalVNSFdMRVVLZGxqVV9aZHZLVFI0NFc2MFI1Mm5rcHZrXzc2ZVVBRnpmakQ4bEtsZUthdjV3?oc=5": {
+  "title": "Breakingviews - The good, bad and ugly of AI’s economic impact - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRlkxSGVNZXp0dXZybDkxV0dpLWxFMnUxTmlkakxjQTh2QkVEaFByUi15aWdMZ29fTmxqaFhRX1pQcDM4c0gyeUdwVThocm12ZHYteWdSZGtUWWp6YkNVQVN4X255YlcyYkkxSGhOYzg0OTBqMlJkTVk0NGM0c2h3ejF5cG90TXE5Qlc2OUpkcDZ1dVJtTW80MENhTm5yajF1b1dxalpOMzR2X0JXUU56WDdLdlNmdDcyQkFBUFB5SzJRTWczVmNXb2xaWFNBYjg?oc=5": {
+  "title": "Thinking Very Carefully About Whether Anthropic Found The Seat Of AI Consciousness - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOGJjWFRTd3VPOXVlem5JY0RDakE5RUNWdjRCUTQzNGRXTFM3bmM2Z2p3UW9qcnR1ZE83ZXNPU2E5VUV2NkhqX1JhZk9Ibmxoa1BUVTZ1ejlqeUx4M3JwS0RjRE5sUjFPUnkxQlpsTUVxbFlReWdIMktwVDNtankzZDdCNTBEQnZGakdDcDdfV3ItRXRUN0MxY21QMWk3UXJ3eWI3UnBUeDlVSjhjVmwwblFoWU50dw?oc=5": {
+  "title": "Former Fed Chairman Ben Bernanke Joins Anthropic Oversight Trust - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://variety.com/2026/tv/news/randolph-mantooth-dead-emergency-1236806971": {
+  "title": "Randolph Mantooth, Who Played Johnny Gage on ‘Emergency!,’ Dies at 80",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://0115765.com/archives/194680": {
+  "title": "ヴィレヴァン、通期決算で黒字転換　純損失42億円から改善、理由に「販管費削減」も今期減益見込み",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-10/chitose-is-in-the-ramune-bottle-anime-2nd-part-debuts-in-october/.239494": {
+  "title": "Chitose Is in the Ramune Bottle Anime's 2nd Part Debuts in October",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HN3dxRlJLTzk5ZG9zdHRjU2ZDSkxleGZ5VE5RTEN1ajk2dVRRYklfcmJ0SnhsbUgtY2RwbzJtM202dWo2UE96U0FtZVpnUDVSX3poSXRSTTN3UjAyVWZKa2lyWVNXTWFLTEJrS2s4cWhTeWlhNjRlQjhQaw?oc=5": {
+  "title": "TVアニメ『BLACK TORCH』7月11日(土) 22:00～放送の第2話あらすじ＆先行カット公開！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0JmSXdiWWIwOVlNb0doSVpMbWZpSnB0eF9KZFpYbzZPc25TY1R5aldsZU1mNlFfcGpHbHZKejVIXzgtdkJyZ2IwNzFteUx3MElWR0dlUjRUMDZWMlpqellHVTRQdWJacHRBM3BxRWNhcjJKUjE0MjBRN2FYTXFIM25tUzl4ZWpnNWVwLXlmT18taW4x?oc=5": {
+  "title": "The Great American Fun Shortage of 2026 - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://variety.com/2026/gaming/news/pokemon-go-fest-10-year-anniversary-mewtwo-times-square-1236806876": {
+  "title": "‘Pokémon Go’ Exec Promises 1,000-Person Times Square Mewtwo Event Is Just the Start of 10th Anniversary: ‘My Personal Goal Is to Create Core Memories’ for All Players",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://deadline.com/2026/07/box-office-moana-1236979144": {
+  "title": "‘Moana’ Lost At Sea With $40M-$45M U.S. Opening – Box Office Update",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://0115765.com/archives/194685": {
+  "title": "星街すいせい＆初音ミク、千葉ロッテマリーンズ戦で始球式に抜擢！セレモニアルピッチやビジョン出演務める",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0FHWHllUGt4RlpNdjVKak5oLUt1VFRZZFQ3MnRBWnhyX2dOT2ZFTFRCcm5hMnlZUlh4ODRyYXl3TVhxV080NjBrQUNxVVJNSTFyUS1Za1JGWW1QNnk5RFZTN0t2QzZfckFfUmJXQmdCa3B0a01pa3dCUUh4VkN4ejhSS0t1TGtHMFNXN1ZEVkEzT29LUTNOTko1b1pJMW9RNUYybnpB?oc=5": {
+  "title": "中国キャラ祭典、光と影 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "グレー",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmxodkpDZ2wzNHphRTFlclc5THRnODg5ckNlTE54c0J1N2xkWlpWQVI5QzVhN1B6YmxqWWV1VUNfcjNNMExOU3U3Y3NPbk5SdkFUNjVXLXBhNC13and0czc5Sng4X25EdTJmQ2xrYXpMNzNtVzJUNF9ZTEJXejFMZ1NaTUR1LTI5NTdxempSS05KQXUzRW1keWtaZw?oc=5": {
+  "title": "注目の夏アニメ『乙女怪獣キャラメリゼ』東京デスティニーランドで初デート 第3話あらすじ＆場面カット解禁 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MM3p0LUk0N2I0MER1OHZraml4Y3Q3NDdzU3Y2d180WjNGVGhjeVc4WHlWcldVSGRocmZNZUR0MXdBbXN5?oc=5": {
+  "title": "【今日は何の日？】Bliss Brain、『プリンセスメーカー2 リジェネレーション』発売…米子ガイナックスによるOPアニメやグラフィックの描き直しなどクオリティUP（2024年7月11日） - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTdBQU5JZkhCZHZwVkF5RmVMSlhZMW5NaHNrSjVwZFlFVTEtakZucWNrWUNqVDBUcENvZ1U3MUI0VGtzZlpmYzFuOHVmN01GOEQzcEFNR3pGVWFIN1FZU0x3TzBnYVh3OE5nNG90RE5tbmVwVVAtZHJzemlndFRYTml5TFdVelNXaHR0UmItN1l4ZWd0cU5qNmplMzh4dTJfNU1DelZPOU5HblRPS09WWng1QQ?oc=5": {
+  "title": "Meta’s Zuckerberg Says Exploring AI Cloud Business Makes Sense - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://variety.com/2026/tv/news/love-island-usa-caleb-mcdaniel-jaiden-melanie-fame-1236806903": {
+  "title": "‘Love Island USA’ Season 8 Contestant Caleb McDaniel on His Relationship With Jaiden, Not Exploring Melanie and His Newfound Fame: ‘I’m Just Now Starting to Realize It’s As Big As It Is’",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://deadline.com/2026/07/gemma-chan-update-anna-may-wong-biopic-1236979528": {
+  "title": "Gemma Chan Shares Update On Anna May Wong Biopic: “It’s A Really Resonant Story”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://0115765.com/archives/194566": {
+  "title": "【コメント全文】新作『攻殻機動隊』草薙素子役は坂本真綾、後任としての決意語る…新ビジュアルも披露",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-10/crunchyroll-streams-same-day-english-dub-for-goodbye-lara-anime/.239344": {
+  "title": "Crunchyroll Streams Same-Day English Dub for 'Goodbye, Lara' Anime",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WenljMEo3NVQ5dzdZTzI0ZjlBSF9BTmpqNlpJTE9uZ1ZGa1dkLXk3dkVja0Rha1NKTnIxYkl6MkdCc3hHWThRNTd4VjEwaWVrVlczRjI1M2ZUU0JGOFlnU1YxaFFhaTYzYWl6OThHTXUxYURESktTQnpiQQ?oc=5": {
+  "title": "日本発の新規アニメIPが海外先行公開 ―『タイニーメタル：零戦線』パイロットエピソードがJapan Expo 2026で世界初上映 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ3RmQzlsUnVUMXRleDBHVW5MR296bTVLdUx6V0g5SFdvY2gzVkotU0NLaXlYaU5NM1ZVZkNfNGNyUUg0aDJ1WVZ2RTN2b3pvcVhQMU16UHc1UTAxa3E2VUViS0VXd2ZqTzhkb2hIYjM4LWduS0VBX0lZd1YwOWJOT21hbk85TTU5NzhTX0dwR1pQZDZUVDUzY0FCSkIweGpFZEJXa3BB?oc=5": {
+  "title": "Character.ai’s New Business? Microdramas - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://deadline.com/2026/07/chris-kattan-trash-queen-1236979544": {
+  "title": "Chris Kattan Returns To Horror With Feature ‘Trash Queen’",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-10/armiger-entertainment-launches-kickstarter-campaign-for-tenchi-galaxy-anime-pilot/.239469": {
+  "title": "Armiger Entertainment Launches Kickstarter Campaign for Tenchi Galaxy Anime Pilot",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxRXhaYlJ1QlRzYVUzUjhFWXVxdmZrdy1pSFBSZnhqQlpydzc1VzNnbDZTcDlaNFFGalZtTWlETEd3a0h3bUtHUWkxa1hSdF9GWXdralBqaEUxUQ?oc=5": {
+  "title": "生成AI時代の報道の信頼性を守る、映像・画像の「真贋判定技術」開発へ ロジック・アンド・デザインが日本テレビとの共同プロジェクトを発足 - 新Screens",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbi1GRmxwcDE2Z0hGcVIzVlZtdW5vVmlPOF90dUFEX3ExNk0wNTRuVXlZWWRKY0lHUjh6MkVyR2ZZc2JRWWNHOXE3ekNjTWgtRTA1NEo3SFloN2U2XzJiOG5ZZkQ0MjB2bnNLa3Y3UnR2U3hycUIzaHhHQVpDMG5MYnBKSGluSVdzbElTUDVqbDdSLWRBQzE0OG9fVFg5cEUwRmlLZml2Zlk?oc=5": {
+  "title": "中国キャラ祭典、日本コンテンツの人気根強く 日中冷え込みが影 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFRLc2kzcUNQTzBWWXlwakFuTzlFdnB5R3RNWEs3TUk1bTZyeHJ2NE41N1E3Z0E3Rm1xcldPczFXeHV1UlhUU0VOWTdkUHpnTHBiLTRGQ1ZZMXdPcE9XQmQ2YTVEUDVjOHdtU19nLU5lSm0xRXNCUVJxOUNjeWxoVFc0TW9xWVZSaHgtalNrb3NyOVBQbWlSRU4xSQ?oc=5": {
+  "title": "ニルヴァーナ「Breed」起用のアニメ『気になってる人が男じゃなかった』 海外でも反響拡大 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ0R5MXA0dXJucldMZTA4cFdxNkY1aXI4ZDlNVm5tWXdndlZMczlYUzF3U0RzQVJpZUFSTUxHQzVzTE5wcEM0T0xobmsyZ0tXTGVWVlRvWVFiTFlKcEowYUUxWWhmR1Q3YnlCU3RqY3U1TWVLSFVBMXRhMU81RE1XSnZFY1l6amVoWmg4?oc=5": {
+  "title": "‘Summer House’ Headed to Canada (Exclusive) - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://deadline.com/feature/the-nightingale-movie-news-updates-kristin-hannah-book-1236690359": {
+  "title": "Everything We Know About ‘The Nightingale’ Movie So Far: Release Date, Stars & More",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-09/xbox-announces-layoffs-amid-reset-of-video-game-division/.239363": {
+  "title": "Xbox Announces Layoffs Amid 'Reset' of Video Game Division",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FMDBZQUdhUFROOFVubmE3c3RoOE9kQ1doZy14MUllNEpXdVp4bm1TZkFjQmY3R0l6a1llLU1FODBnYWVKQXRrcm1WSExmRTB2bG85SXEtd0U5UQ?oc=5": {
+  "title": "「超知能」担当記者が激白 連載1年、爆速のAI進化 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTE41dnZMM2M5RnUwOUFPQmlkREZSUTZPTFR1ZERLS1dUam5jY1ZJdXZmWnBFLTVlY0UxS1B6dTJyM2xhRXUwR3FCSnJpT09tVUVaaUNuTlRGU1h3Mjhpc1pMcWVhZFV6b1FhRkpNRzYzRDB2N2xfc2c?oc=5": {
+  "title": "ずっと真夜中でいいのに。新曲「イチジク煙」起用 アニメ『スーパーの裏でヤニ吸うふたり』ノンクレジットOP公開 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXRXMGRTTUpMWDk4MzhfcDV4Q3Ixc1A4TXZSX01PTi14OXdLNkV3Y2VRLXAzNjNQUlJzS3JtNEk4TWMwOEExNEdMY0VVVm9yanh5MnU2NE9UOVpjcGpFQUI1dVcwaTR1ckYxMTA4Yk1rWm9qaGZ6UWp4X2F5RUhGMFNyeE9UdTNCdVI2a1IyTFRRTHY0Z19adm83WW9DZEFoVlpBeTBOa29EYkg5cGVyeg?oc=5": {
+  "title": "Brunson’s NBA Finals Jersey Sells for $1 Million at Sotheby’s - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CSWhFUDR2MUI0U2xxM0FiUWs2NDJ0T0hlYXR1X19HUEsyYmVGcEh0Y2diWHJydERtTmJFLW5ra21JQUpNT3I2MTJfYURlZ2VKa2ZGQ3JURGM2Ymc?oc=5": {
+  "title": "実写化AI生成ツールおすすめ5選！イラストやアニメを簡単に変換！できることや注意点も解説！ - ai-market.jp",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "グレー",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR1FFb25kT284UmdCcDBFdHJoZlhGSmh2RVlBdGhieGpqb0xMNWdZcmpPQ0tpOW1OSjFVdFVrdFhOeDlucFJBV0lCcTFCSUd5NlVsbFBvVWRXSWx5NFp4RGVKb3lVWXN0b2xEN3ROYnpGT09Bbjc1clZUWTlkZjRZNmdONk1sMmVjM1p4aXN2Wl9QX2F5UU51clZpc3FkQmctckE?oc=5": {
+  "title": "『ノンタン』新作アニメのビジュアル （C）キヨノサチコ／偕成社 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://animeanime.jp/article/2026/07/11/100951.html": {
+  "title": "「ONE PIECE」ナミの劇中サンダルを再現！ヒロインの戦える靴が商品化♪ ダイアナと初のコラボに注目！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-09/fantasia-intl-film-fest-screens-grotesqqque-a-new-dawn-cocoon-anime/.239327": {
+  "title": "Fantasia Int'l Film Fest Screens Grotesqqque, A New Dawn, cocoon Anime",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tS0JMZ3lYSDdOdFNEcmdZS0NmQ3kzckNOanF1TzRIOHo1aG9FdVdhc0VrQ2k2dVU5bTNfWnVIZG94YnFqeVdUMUM0ZUFILWI3VjdfQ0ZNUEpuc2VVS0F3V2ZaaU5JeWM1c2I2Z0E1WjREQmJNQjlSNG5NQQ?oc=5": {
+  "title": "TVアニメ『LV999の村人』第3話「Lv3 魔族と人間の共存」先行カット＆あらすじ、WEB予告を公開！緑川光さんがエステラー役で新登場！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://animeanime.jp/article/2026/07/11/100950.html": {
+  "title": "「トイ・ストーリー」アンディが描いたウッディ＆バズにグッとくる！ 1作目の感動を呼び起こす新作Tシャツが登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMiRkFVX3lxTE41eGRjY3dPZXBlQkdVZHRPLU1NOEU3aW5LRWxOLV9sTFZ3YUY3dFBTTURuT1Uzck9peHN4aHRoVmRPV2lqOWc?oc=5": {
+  "title": "日本テレビ、生成AI映像・画像の「真贋判定技術」開発へ ロジック・アンド・デザインと共同プロジェクト発足 - MEDIAMIXI",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象",
+  "ts": 1783760437.218554
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YU2JpOUt0WjFqNndORVU3a3Y2Y1Fobkp2aDQ1TzJka24tQnA0YnRoWUtNb2Vrajk3Yzl6UTRDVTlVUWRtYjVWMHBqZlpLdm1GUUUtRkk2cUduX1ZaMVFWYmtLWVZ3XzBXWXR3NWhOaUlkSjR0VFFqdkRBaw?oc=5": {
+  "title": "TVアニメ「死亡遊戯で飯を食う。」より、松本淳一氏が手掛けた劇伴音楽を収録したオリジナル・サウンドトラックが本日発売＆配信開始！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1783760437.218554
  }
 }
