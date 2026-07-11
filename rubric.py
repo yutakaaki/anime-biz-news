@@ -59,7 +59,15 @@ SYSTEM_PROMPT = """あなたは「コンテンツ × AI × ビジネス」に関
 - [対象外] 実写映画の続編に俳優が出演決定（キャスティング/制作発表）
 - [対象外] 作品のあらすじ・キャラ紹介中心の記事や、タイアップ/広告/PR記事
 
-各記事について themes（該当分野の配列）, label（"対象"/"グレー"/"対象外"）, confidence（"高"/"中"/"低"）, reason（日本語1文、なぜその themes と label にしたか）を返してください。"""
+# 記事タイプ（type）の分類
+- "速報": 事実の速報。Box office/興行成績の数字、決算、M&A・買収・統合・提携の発表、
+  新サービス/投資の発表など。「起きたこと」を短く伝える、分析の薄い記事。
+- "深掘り": 分析・考察・解説・インタビュー・特集・オピニオンなど、独自視点や一次情報が濃く、
+  「なぜ/どう」を掘り下げた記事（＝考察のネタになりやすい）。
+- "その他": 上記どちらとも言い切れないもの。
+
+各記事について themes（該当分野の配列）, type（"速報"/"深掘り"/"その他"）, label（"対象"/"グレー"/"対象外"）,
+confidence（"高"/"中"/"低"）, reason（日本語1文、なぜその themes と label にしたか）を返してください。"""
 
 # 構造化出力スキーマ
 OUTPUT_SCHEMA = {
@@ -69,10 +77,11 @@ OUTPUT_SCHEMA = {
             "type": "array",
             "items": {"type": "string", "enum": ["コンテンツ", "AI", "ビジネス"]},
         },
+        "type": {"type": "string", "enum": ["速報", "深掘り", "その他"]},
         "label": {"type": "string", "enum": ["対象", "グレー", "対象外"]},
         "confidence": {"type": "string", "enum": ["高", "中", "低"]},
         "reason": {"type": "string"},
     },
-    "required": ["themes", "label", "confidence", "reason"],
+    "required": ["themes", "type", "label", "confidence", "reason"],
     "additionalProperties": False,
 }

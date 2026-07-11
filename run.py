@@ -149,8 +149,8 @@ def main() -> int:
             kept_new.append({
                 "url": art.url, "title": art.title, "source": art.source,
                 "published": art.published, "published_ts": art.published_ts,
-                "themes": j.themes, "label": j.label, "confidence": j.confidence,
-                "reason": j.reason, "ts": now,
+                "themes": j.themes, "type": j.type, "label": j.label,
+                "confidence": j.confidence, "reason": j.reason, "ts": now,
             })
             print(f"  [{j.label}] {art.title[:50]}")
 
@@ -187,7 +187,13 @@ def _aggregate_dicts(items: list[dict]) -> list[dict]:
             -len(m.get("reason") or ""),
         ))
         rep = dict(members[0])
-        rep["also"] = [m.get("source", "") for m in members[1:] if m.get("source")]
+        others = [m.get("source", "") for m in members[1:] if m.get("source")]
+        rep["also"] = others
+        # 話題度 = このニュースを報じた媒体数（重複集約したクラスタの大きさ）
+        rep["media_count"] = len(dict.fromkeys([rep.get("source", "")] + others))
+        # クラスタ内に「深掘り」があれば代表のtypeも深掘りに寄せる（見逃し防止）
+        if any(m.get("type") == "深掘り" for m in members):
+            rep["type"] = "深掘り"
         out.append(rep)
     return out
 
@@ -206,40 +212,64 @@ def _theme_chips(themes: list) -> str:
     return "".join(chips)
 
 
-def render_html(items: list[dict]) -> str:
-    now = datetime.now().strftime("%Y-%m-%d %H:%M")
-    # 該当分野(themes)が多い順（3分野=最優先）→ 同数なら公開日の新しい順。
-    items = sorted(
-        items,
-        key=lambda x: (len(x.get("themes") or []), x.get("published_ts") or 0),
-        reverse=True,
-    )
-    cards = []
-    for it in items:
-        label = it.get("label", "")
-        badge = "#1a7f37" if label == "対象" else "#9a6700"
-        others = it.get("also") or []
-        also = ""
-        if others:
-            uniq = "、".join(dict.fromkeys(others))
-            also = f'<div style="font-size:12px;color:#888;margin-top:6px">他{len(others)}媒体でも報道: {html.escape(uniq)}</div>'
-        chips = _theme_chips(it.get("themes") or [])
-        cards.append(
-            f"""<article style="border:1px solid #ddd;border-radius:8px;padding:14px;margin:10px 0">
+_TYPE_STYLE = {"深掘り": "#b3541e", "速報": "#37507a", "その他": "#888"}
+
+
+def _badge(text: str, color: str) -> str:
+    return (f'<span style="background:{color};color:#fff;padding:2px 8px;border-radius:10px;'
+            f'font-size:12px;margin-right:4px">{html.escape(text)}</span>')
+
+
+def _card(it: dict) -> str:
+    label = it.get("label", "")
+    itype = it.get("type", "その他")
+    mc = it.get("media_count", 1)
+    chips = _theme_chips(it.get("themes") or [])
+    buzz = _badge(f"🔥話題 {mc}媒体", "#c0392b") if mc >= 2 else ""
+    type_b = _badge(itype, _TYPE_STYLE.get(itype, "#888"))
+    label_b = _badge(f"{label}/確信度{it.get('confidence','')}", "#1a7f37" if label == "対象" else "#9a6700")
+    others = it.get("also") or []
+    also = ""
+    if others:
+        uniq = "、".join(dict.fromkeys(others))
+        also = f'<div style="font-size:12px;color:#888;margin-top:6px">報道媒体: {html.escape(uniq)}</div>'
+    return f"""<article style="border:1px solid #ddd;border-radius:8px;padding:14px;margin:10px 0">
   <div style="font-size:12px;color:#666">{html.escape(it.get("source", ""))} ・ {html.escape(it.get("published", ""))}</div>
   <h3 style="margin:6px 0"><a href="{html.escape(it.get("url", ""))}" target="_blank">{html.escape(it.get("title", ""))}</a></h3>
-  <div>{chips}<span style="background:{badge};color:#fff;padding:2px 8px;border-radius:10px;font-size:12px">{label} / 確信度{html.escape(it.get("confidence", ""))}</span></div>
+  <div>{buzz}{type_b}{chips}{label_b}</div>
   <p style="color:#444;font-size:14px;margin:8px 0 0">{html.escape(it.get("reason", ""))}</p>
   {also}
 </article>"""
-        )
-    body = "\n".join(cards) or f"<p>直近{MAX_AGE_DAYS}日間に該当ニュースはありませんでした</p>"
+
+
+def _sort_key(x: dict):
+    # 話題度(媒体数)が多い順 → 該当分野が多い順 → 公開日の新しい順
+    return (x.get("media_count", 1), len(x.get("themes") or []), x.get("published_ts") or 0)
+
+
+def render_html(items: list[dict]) -> str:
+    now = datetime.now().strftime("%Y-%m-%d %H:%M")
+    deep = sorted([x for x in items if x.get("type") == "深掘り"], key=_sort_key, reverse=True)
+    rest = sorted([x for x in items if x.get("type") != "深掘り"], key=_sort_key, reverse=True)
+
+    def section(title, note, arr):
+        if not arr:
+            return ""
+        body = "\n".join(_card(it) for it in arr)
+        return (f'<h2 style="margin:24px 0 4px;font-size:18px">{title}'
+                f'<span style="color:#888;font-size:13px;font-weight:normal"> {note}</span></h2>{body}')
+
+    sections = (
+        section("📝 考察ネタ候補（深掘り）", f"{len(deep)}件・話題順", deep)
+        + section("⚡ 速報・その他", f"{len(rest)}件・話題順", rest)
+    )
+    body = sections or f"<p>直近{MAX_AGE_DAYS}日間に該当ニュースはありませんでした</p>"
     return f"""<!doctype html><html lang="ja"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>コンテンツ×AI×ビジネス ニュース</title></head>
 <body style="font-family:system-ui,'Hiragino Sans',sans-serif;max-width:760px;margin:24px auto;padding:0 16px">
 <h1>コンテンツ × AI × ビジネス ニュース</h1>
-<p style="color:#666">生成: {now} ・ モデル: {html.escape(MODEL)} ・ 直近{MAX_AGE_DAYS}日 {len(items)} 件（分野が多い順）</p>
+<p style="color:#666">生成: {now} ・ モデル: {html.escape(MODEL)} ・ 直近{MAX_AGE_DAYS}日 {len(items)}件（深掘り{len(deep)}／速報他{len(rest)}）</p>
 {body}
 </body></html>"""
 

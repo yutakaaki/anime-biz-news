@@ -49,6 +49,7 @@ def _thinking_param(model: str):
 @dataclass
 class Judgment:
     themes: list          # ["コンテンツ","AI","ビジネス"] の部分集合
+    type: str             # 速報 / 深掘り / その他
     label: str            # 対象 / グレー / 対象外
     confidence: str       # 高 / 中 / 低
     reason: str
@@ -107,6 +108,7 @@ def classify(article_text: str) -> Judgment:
 
     return Judgment(
         themes=data.get("themes", []),
+        type=data.get("type", "その他"),
         label=data["label"],
         confidence=data["confidence"],
         reason=data["reason"],
