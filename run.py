@@ -100,30 +100,40 @@ def main() -> int:
     print("収集中...")
     candidates = collect()
     seen = store.load_seen()
-    recent = store.recent_titles(seen, days=7)
+    window = store.load_recent()  # 直近ウィンドウ（採用済みストーリー）
+    for it in window:
+        it.setdefault("sources", [it.get("source", "")])  # 媒体リスト（話題度の元）
+    recent_seen_titles = store.recent_titles(seen, days=7)
     now = time.time()
 
-    # 既読・古い記事・クロスラン重複を除外して、新規だけを判定対象に
+    # 既読・古い記事・クロスラン重複を仕分け（重複は「媒体加算」して話題度に反映）
     age_cutoff = now - MAX_AGE_DAYS * 86400
     to_judge: list[Article] = []
-    n_read = n_dup = n_old = 0
+    n_read = n_dup = n_old = n_buzz = 0
     for art in candidates:
         key = normalize_url(art.url)
         if key in seen:
             n_read += 1
             continue
         if art.published_ts is not None and art.published_ts < age_cutoff:
-            # 公開日が判り、かつ古い記事は除外（判定もしない）。
             n_old += 1
             continue
-        if any(dedup.is_similar(art.title, t, SIM) for t in recent):
-            # 既出ニュースの別ソース。判定せず既読として記録。
+        # 既に窓にある採用済みストーリーと同一 → その媒体リストに加算（＝話題度が増える）
+        hit = next((it for it in window if dedup.is_similar(art.title, it["title"], SIM)), None)
+        if hit is not None:
+            if art.source and art.source not in hit["sources"]:
+                hit["sources"].append(art.source)
+            seen[key] = {"title": art.title, "source": art.source, "label": "媒体加算", "ts": now}
+            n_buzz += 1
+            continue
+        # 過去に判定して落とした(対象外)ニュースの別媒体 → 判定せずスキップ
+        if any(dedup.is_similar(art.title, t, SIM) for t in recent_seen_titles):
             seen[key] = {"title": art.title, "source": art.source, "label": "重複スキップ", "ts": now}
             n_dup += 1
             continue
         to_judge.append(art)
 
-    print(f"収集 {len(candidates)} 件（既読 {n_read} / 古い {n_old} / 重複スキップ {n_dup} / 新規 {len(to_judge)}）")
+    print(f"収集 {len(candidates)} 件（既読 {n_read} / 古い {n_old} / 媒体加算 {n_buzz} / 重複スキップ {n_dup} / 新規 {len(to_judge)}）")
     if len(to_judge) > MAX_CLASSIFY:
         print(f"安全弁: 新規の先頭 {MAX_CLASSIFY} 件に絞って判定")
         to_judge = to_judge[:MAX_CLASSIFY]
@@ -157,17 +167,22 @@ def main() -> int:
         if j.keep:
             kept_new.append({
                 "url": art.url, "title": art.title, "source": art.source,
-                "published": art.published, "published_ts": art.published_ts,
-                "themes": j.themes, "type": j.type, "label": j.label,
-                "confidence": j.confidence, "reason": j.reason, "ts": now,
+                "sources": [art.source], "published": art.published,
+                "published_ts": art.published_ts, "themes": j.themes, "type": j.type,
+                "label": j.label, "confidence": j.confidence, "reason": j.reason, "ts": now,
             })
             print(f"  [{j.label}] {art.title[:50]}")
 
-    # 直近ウィンドウ（直近 MAX_AGE_DAYS 日の該当ニュース）に新着をマージし、常に全部表示する。
-    # → 実行が新着0でも空にならず、取りこぼしにも強い。
-    by_key = {normalize_url(it["url"]): it for it in store.load_recent()}
+    # 窓(媒体加算済み)に新着をマージ。同一URLの再判定は既存の媒体リストを引き継ぐ。
+    by_key = {normalize_url(it["url"]): it for it in window}
     for it in kept_new:
-        by_key[normalize_url(it["url"])] = it  # 新しい判定で上書き
+        k = normalize_url(it["url"])
+        old = by_key.get(k)
+        if old:
+            for s in old.get("sources", []):
+                if s not in it["sources"]:
+                    it["sources"].append(s)
+        by_key[k] = it
     window = list(by_key.values())
 
     clusters = _aggregate_dicts(window)
@@ -196,10 +211,15 @@ def _aggregate_dicts(items: list[dict]) -> list[dict]:
             -len(m.get("reason") or ""),
         ))
         rep = dict(members[0])
-        others = [m.get("source", "") for m in members[1:] if m.get("source")]
-        rep["also"] = others
-        # 話題度 = このニュースを報じた媒体数（重複集約したクラスタの大きさ）
-        rep["media_count"] = len(dict.fromkeys([rep.get("source", "")] + others))
+        # 全メンバーの媒体リストを統合＝話題度（何媒体が報じたか）
+        srcs: list[str] = []
+        for m in members:
+            for s in (m.get("sources") or [m.get("source", "")]):
+                if s and s not in srcs:
+                    srcs.append(s)
+        rep["sources"] = srcs
+        rep["media_count"] = len(srcs)
+        rep["also"] = [s for s in srcs if s != rep.get("source", "")]
         # クラスタ内に「深掘り」があれば代表のtypeも深掘りに寄せる（見逃し防止）
         if any(m.get("type") == "深掘り" for m in members):
             rep["type"] = "深掘り"
