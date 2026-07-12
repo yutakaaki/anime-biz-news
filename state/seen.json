@@ -664,5 +664,335 @@
   "source": "Googleニュース(forbes.com)",
   "label": "対象",
   "ts": 1783846844.485429
+ },
+ "https://variety.com/2026/film/news/evil-dead-burn-director-practical-effects-post-credits-scene-1236808969": {
+  "title": "‘Evil Dead Burn’ Director Breaks Down His Brand of French Brutality, From Practical Effects and Real Fire to That Post-Credits Scene",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80WVNjbV9oTHVZRklWR2JlVkJDUlFKb24zRGNtbGY2NDZzRE1IdEZESFAzUC1Sbk1IaXUxSEpQdkdYNWd5MVhXVEJkR3M0X09FZWI3ZTV4WUlqeHF2RnJN?oc=5": {
+  "title": "【アニメ制作にAI導入の波】人手不足の救世主？人間を淘汰？『1枚30分』→『200枚を10～20分』歴46年のアニメーターは「私の仕事がなくなっても全て許容しなければ」 - TBS NEWS DIG",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "媒体加算",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PTDlzNExrcWV1UHotSXlLd0JkS3RpOFFHaW1GR2tVWEdiMElNU2FzaFlQMlRuRm5xRDBrcTZ1M2hmX0VmUkE2S0dKeDVQeTg5ZHhYaXpEQTlzNWYzTzZFM0Mxb2ZhMDNSdDNiZHRuVmJRRUtoXzRaNGI2cWMxQW8?oc=5": {
+  "title": "戸田奈津子さん 「AIに映画字幕は無理」、理想は「存在感のない字幕」（日刊スポーツ） - Yahoo!ニュース",
+  "source": "Googleニュース: AI 吹き替え OR 翻訳 アニメ OR 映画",
+  "label": "媒体加算",
+  "ts": 1783892019.697291
+ },
+ "https://deadline.com/2026/07/moana-bombs-box-office-1236980125": {
+  "title": "‘Moana’ Capsizes With $95M WW Opening; Dwayne Johnson Pic Poised To Lose $100M-$125M: Here’s Why",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VWDF4Mzd5THNJQVdUYVVoWDk0UUpvMmk1SWxlUThlb2p0TF9Pa09ZTWZCdWx5b0pXcFhFZVh0QUZjQTQxcnRBczBjRk81dHNVSkkwQlpldllVOFFHWVE2bjhia1lQVGZTRFJXY1g3T1pjbU9XZXdTQWV6SGdsX3PSAYQBQVVfeXFMTjN0SFdsVThkQkpoM1BGVFlaSjF3Tk80ZjQ4S2xXRTZLT3dDRl9Yc0YwbHY5dF9iZk5oaEhUOC1vR2Nkdlcwcy1JTDhjQTEtUTRWV2w5amxPWGhUWGhHZ3NSNWpTc0dFcHdWVjlQTjRTQTFPajVST0EzQWJtZmlVcFpmVnlD?oc=5": {
+  "title": "【アニメ制作にAI導入の波】人手不足の救世主？人間を淘汰？『1枚30分』→『200枚を10〜20分』歴46年のアニメーターは「私の仕事がなくなっても全て許容しなければ」 - ｄメニューニュース",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "媒体加算",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHQwU1JMNk93M1o4emQzS1BZX205X041TTNZOGs1TDhPUWhPVGFuU181ajN1dFZiSDloN3NFNnNiSkVSdzRKUERKejVCSkVEWk5IRTNCcDlueFJhczJlbU9xSzhlR2hqcGdlUmJOeHVhSzM5MExPOXJMdTRIeFEzZHRfVjBKdlJBZnJsMkZKWkpZeTlJUTRjV29JQVlycmloZzlzVmpIVHhxUE16aTBWV0RkVW41THZkLTlyONIBwgFBVV95cUxOY3lVSEYwZFlzWU02OWpZVXFrU2hBa0xFQ2NZaFdyRzRFM2VMZEJ2OWh1MEN2OEJSdkxwYXkzOUxxQWtNcWlVQVRNWllfQWNXOXM1OEk5a2pYOG9nS2Q1anlQSk1OQmZkX3Y0WXJhZVhqams1QW5iM1RZWUVhdVM3cGNrczlob01GRlE5U3Q2bnpnV2hLNmxnQ1RPd2N4RWJxcndfNEZRbXJhOWZkekhSbldScXB1ODZJVTZ2bHR3Z0RtZw?oc=5": {
+  "title": "Bollywood Embraces AI-Powered Filmmaking as Studios Invest in Next-Generation Visual Effects - boldnewsonline.com",
+  "source": "Google News: AI film production OR video generation studio",
+  "label": "媒体加算",
+  "ts": 1783892019.697291
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-12/visual-effects-society-inducts-godzilla-ishiro-honda-tomoyuki-tanaka-into-hall-of-fame/.239523": {
+  "title": "Visual Effects Society Inducts Godzilla's Ishirō Honda, Tomoyuki Tanaka into Hall of Fame",
+  "source": "Anime News Network",
+  "label": "媒体加算",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVBCRWIzdzMxckNOQmpFa3Q3ZW5VSHdSSUtrMWFDeExsN0xvTjlkeE1Vak1Bekt6M21vY2VmVE92WDVZS3J2QUFlemluU1NKbFFYZjRTUWlyMVBCa08wemQ1V1N4eTBkU3ljaXVTZ2E5aUJSSHZ4M3FoWGlkb3lqS1ZvZXJnbkFYRzBtakRn?oc=5": {
+  "title": "【アニメ制作にAI導入の波】人手不足の救世主?人間を淘汰?『1枚30分』→『200枚を10〜20分』歴46年のアニメーターは「私の仕事がなくなっても全て許容しなければ」 - Yahoo!ニュース",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "媒体加算",
+  "ts": 1783892019.697291
+ },
+ "https://variety.com/2026/film/box-office/box-office-moana-struggles-overseas-toy-story-5-milestone-1236809109": {
+  "title": "Box Office: ‘Moana’ Struggles With $52 Million Overseas, ‘Toy Story 5’ Powers to $879 Million Globally",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1783892019.697291
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-12/darkroom-streaming-service-adds-crusher-joe-simoun-more-anime/.239522": {
+  "title": "Darkroom Streaming Service Adds Crusher Joe, Simoun, More Anime",
+  "source": "Anime News Network",
+  "label": "媒体加算",
+  "ts": 1783892019.697291
+ },
+ "https://deadline.com/2026/07/seattle-seahawks-sold-vinod-khosla-led-group-1236980103": {
+  "title": "Seattle Seahawks Sold To Vinod Khosla-Led Group For Record $9.6B",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1783892019.697291
+ },
+ "https://variety.com/2026/tv/news/little-house-on-the-prairie-season-2-caroline-ingalls-1236805789": {
+  "title": "‘Little House’ Star Crosby Fitzgerald on ‘American Primeval’ Inspiration, the Ingalls’ ‘Risky Move’ and Welcoming a Baby Cow in Season 2",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783892019.697291
+ },
+ "https://deadline.com/2026/07/box-office-moana-1236979144": {
+  "title": "‘Moana’ Misfires With $43M U.S. Opening; Looks To Horizon With A- CinemaScore – Sunday Box Office Update",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53SDJTRi1BaU1iVUtTVkxzN0tVUkRUYm5IOVJydVExOUJCZXB6QWFTV01GRDVXTW4xTzdrWlYxYTZZdWFVdGtCd1lRMk9qTEFwYk5IYVZOYlZyM0ZWUHhicEhfeE1iUQ?oc=5": {
+  "title": "よみうりランドに「U.F.O.ソースシューティング」 未来消費カレンダー - 日経クロストレンド",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "重複スキップ",
+  "ts": 1783892019.697291
+ },
+ "https://variety.com/2026/tv/reviews/the-westies-review-jk-simmons-1236807018": {
+  "title": "J.K. Simmons Crime Drama ‘The Westies’ Is a Flat Take on New York’s Irish Mob: TV Review",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783892019.697291
+ },
+ "https://deadline.com/2026/07/england-norway-tv-rating-world-cup-1236980082": {
+  "title": "England’s Victory Over Norway Draws Biggest UK Audience For World Cup 2026",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xZWgzOWVCaExiTEtPcm1RYVFTSzlQTW9TeTFpT0QtVkNBNGJIeVVuUEQ0QWtMcV95ZkYtTmZQQlYyTGJFaUg0SThjaFJlOXNYcS1ha0VUX0ZZbXdxVnl1Tg?oc=5": {
+  "title": "【アニメ制作にAI導入の波】人手不足の救世主？人間を淘汰？『1枚30分』→『200枚を10～20分』歴46年のアニメーターは「私の仕事がなくなっても全て許容しなければ」 - TBS NEWS DIG",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "媒体加算",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlVsUy0yM1BaaXBkVlZRbVdtVkhZY2tBaUNzRW1fY29sOHk1c24tSjc1UzV5Z1hRbi1ic2xBWldjMFJwWHVKTGxWVEF0d1hiWGllM0N2VThPRmdjUEhZOEJlUk9VM0lmQlNaeU9nYVpWb0dQY0w4bnUyd2YwZDM3aTRwVUU3VWRsb2FGTlRn?oc=5": {
+  "title": "生成AI×映画制作 クリストファー・ノーランが語る「本物」が求められる時代 (The Hollywood Reporter Japan) - Yahoo!ニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "媒体加算",
+  "ts": 1783892019.697291
+ },
+ "https://deadline.com/2026/07/off-campus-creator-slams-pay-disparity-reports-1236980254": {
+  "title": "‘Off Campus’ Series Creator Slams Pay Disparity Reports As “Far From Correct”: “I Fight For Gender Pay Parity”",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1783892019.697291
+ },
+ "https://animeanime.jp/article/2026/07/12/101001.html": {
+  "title": "アニサマが福岡にやってくる！「ANISAMA FUKUOKA 2027」27年3月にみずほPayPayドーム福岡にて2DAYS開催決定",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://0115765.com/archives/194899": {
+  "title": "閉店続出のヴィレヴァン、本決算で「黒字転換」も好転は道半ば？「今期大幅減益」予想に滲む一筋縄にはいかぬ状況",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-12/netflix-adds-banana-fish-anime-on-august-12/.239519": {
+  "title": "Netflix Adds Banana Fish Anime on August 12",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSZWtlaGg4eWhjbjU1SklvRkphTFdRZzVaOGFwUEhPMzRoejZtQ3JkRGF2RmhSSG1LYUw3OWNPUHdwcW1tUnNNUk1QX07SAU9BVV95cUxNTlZjd2RmWmRrRE9QNmhDUHltWWZxYVZ0VGU5b3J0QlpEVkdheGhJRmRvcDl4bk5PR1Q5OW8xQVVJSWtGdEp6MTNST2ZGcGdr?oc=5": {
+  "title": "AI動画を見続ける人に起きる「恐ろしい変化」とは？専門家「感覚そのものが失われていくんです」 - ダイヤモンド・オンライン",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "グレー",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE5BRUpCYks1SXUwX3R1bnFFc2ZxRUYwUzlmejZjSnAyRHFoQ0laUDM2bEVoZzJaM3pfVnhuMDZNY185X3lE?oc=5": {
+  "title": "MIXI、『モンスターストライク』でTVアニメ「呪術廻戦」コラボ第3弾を26年7月14日12時より開催 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://variety.com/2026/tv/news/married-at-first-sight-season-20-peacock-replacing-experts-1236806682": {
+  "title": "‘Married at First Sight’ EP on Season 20’s Major Overhaul, Changing Out the Experts and Adding a Familiar Face",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1783892019.697291
+ },
+ "https://deadline.com/2026/07/ali-g-wimbledon-sacha-baron-cohen-1236980220": {
+  "title": "Sacha Baron Cohen’s Ali G Shows Up At Wimbledon Amid News Of New Movie",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1783892019.697291
+ },
+ "https://animeanime.jp/article/2026/07/12/101000.html": {
+  "title": "サンリオタッチのゴシムちゃんがかわいすぎる！ コラボ限定アイテム大集合のポップアップショップが大宮にオープン",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://0115765.com/archives/195041": {
+  "title": "『ガンダム』ジオン軍の“シャア専用ノーマルスーツ”がジャージになり登場！日本製にこだわり約3.7万円",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-12/code-geass-gundam-wing-crossover-manga-launches/.239528": {
+  "title": "Code Geass, Gundam Wing Crossover Manga Launches",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BWmxMUDBxOVo4UFMtRGVGd1lvTkpyYUdyeXBNZzZoUjM1TGs3bkQ5dUZ1bm15MldMNXJNcTFGcGxZaWhtTnlVRjA3STd1S1pHMEhmS3Noc3dnTVlOTzRLYkxoc2F0VmtvRmRkbXE2Q05JWllH?oc=5": {
+  "title": "アニメ制作にAI革命、人手不足解消へ「中割り」200枚を10分で生成 現場は共存模索 - BigGo ファイナンス",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "対象",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlJwNndmWnQ0NFR1TlE4dWhKRmRVN3FKbVhCV3JGejNxQkEwdVFZRjV3eEpnbEhieTN0cHZlNGNVNzZEUjF2Z2VoU0h4by1WdTRQTEViaDRkanpQWWl4bm5IZUpRMDJzU0lzSlNJWFduNzBOSHpOTFVHSm1wajNydGhoV1h4Y0ZuRThlZ2hacXdBSkhtNkNYSkYyUG1YaldEUmtOYUNWUWhlNXNFUkRGMzdR?oc=5": {
+  "title": "アニメ映画&os=0の記事のまとめ - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://variety.com/2026/tv/news/wai-ching-ho-dead-dies-daredevil-iron-fist-1236809167": {
+  "title": "Wai Ching Ho, Veteran Actor Who Appeared in ‘Daredevil’ and ‘Iron Fist,’ Dies at 82",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://animeanime.jp/article/2026/07/12/100999.html": {
+  "title": "夏アニメ「100カノ 第3期」新・彼女の知与は、乱れを正さずにいられず…第26話先行カット",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://0115765.com/archives/195038": {
+  "title": "「学マス」声優・七瀬つむぎ、1st写真集を発売へ　超ロング→ショートにイメチェン、その“瞬間”も収めた軌跡の一冊に",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-12/nontan-picture-books-get-new-3d-cg-anime/.239525": {
+  "title": "Nontan Picture Books Get New 3D CG Anime",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://variety.com/2026/music/news/madonna-billboard-album-chart-confessions-debut-top-1236809163": {
+  "title": "Madonna’s ‘Confessions II’ Debuts at No. 1 on Album Chart, as Ken Carson and Sienna Spiro Also Bow in Top 10",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1783892019.697291
+ },
+ "https://deadline.com/2026/07/indie-film-box-office-the-invite-no-6-1236980119": {
+  "title": "‘The Invite’ Dines Out At No. 6 For Weekend In Solid National Expansion; ‘Reading Lolita in Tehran’ At The Angelika – Specialty Box Office",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1783892019.697291
+ },
+ "https://animeanime.jp/article/2026/07/12/100998.html": {
+  "title": "「進撃の巨人」\"看守・囚人\"のエレンとリヴァイ、どちらがお好き？ アニメイトフェア2026開催決定",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSnF4Y2lvemFqa0tYZEltcWZIWkpBV0xMTHhkNG5pRTNleko4UFVsNlExX1FocHlLeHdkNGtZNTRpdXh0b29YNExGdW9uUUpYZ3YtVUdsT2xzRUdtbjMyN2dndUc2MlgxZnRqWDdYbXJkY2pyX1o2QjNLdjdfTkMxR0RTNXhjZS00MWF1ekRfWDhudmtCX2FxaGFJY1pGVXpqNGhRS3ZoYw?oc=5": {
+  "title": "The ‘Moana’ Rotten Tomatoes Audience Review Score Is In - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://variety.com/2026/film/global/directors-brave-curious-karlovy-vary-1236806946": {
+  "title": "Emerging Directors Need to Be ‘Brave,’ ‘Curious,’ ‘Pushy’ and ‘Fearless,’ Say Industry Leaders Behind Future Frames Program",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1783892019.697291
+ },
+ "https://deadline.com/2026/07/avengers-doomsday-art-director-character-illustration-1236980147": {
+  "title": "‘Avengers: Doomsday’ Art Director Unveils Character Illustration: “A Beast To Paint”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://animeanime.jp/article/2026/07/12/100997.html": {
+  "title": "「鬼滅の刃」伊之助の素顔にビックリ！「ギャップやばい」「超絶美人」善逸の運命の出会いに「ギャグ化が加速」…再放送第十四話【ネタバレあり反応まとめ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-12/mob-psycho-100-iii-anime-marks-10th-anniversary-with-new-short/.239542": {
+  "title": "Mob Psycho 100 III Anime Marks 10th Anniversary With New Short",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oV3UyVTRpbEtRLXdxMlZLWFEta0FYQUFfNm83WnpuT2k0bF84S284V2tZbXRvQ2ZqSnF1QkVhYnlvTm1zUDRRZ0lqRlhvcHBhRDViQ2txMDVDNjlnV1o2d2RLdkJBdw?oc=5": {
+  "title": "データで読み解く「推し活」最新トレンドと、2027年ヒット予測 - 日経クロストレンド",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://deadline.com/2026/07/wai-ching-ho-dead-daredevil-1236980099": {
+  "title": "Wai Ching Ho Dead: ‘Daredevil’ & ‘Hustlers’ Actress Was 82",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://animeanime.jp/article/2026/07/12/100996.html": {
+  "title": "「オーバーロード」アルベド、シャルティアの美麗フィギュアに釘付け！ ちょこのっこ、 アクスタなど豪華賞品に注目♪【一番くじ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2RUJaMXNTZ3FyYzZ3TERTVmJCOVZnanVOY1lWcW5jNUx5YTRKa0Y4TkowWXd5QTBsWDJTRkN5c0xnaGVmR2JrVkxJQVlVNUxwU1E?oc=5": {
+  "title": "『銀魂』完全新作映画、興行収入10億突破で空知英秋「僕は興収半分もらえれば大丈夫」 シリーズ最高の好推移 - 山陽新聞",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1783892019.697291
+ },
+ "https://variety.com/2026/tv/global/anson-mount-richard-gadd-natasha-lyonne-marco-bellocchio-1236809133": {
+  "title": "Marco Bellocchio, Sally Wainwright Win Big at Italian Global Series Festival Which Celebrated ‘Star Trek’ and ‘Lost’ and Lamented Industry Crisis",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-12/kiki-delivery-service-illustrator-akiko-hayashi-dies-at-81/.239527": {
+  "title": "Kiki's Delivery Service Illustrator Akiko Hayashi Dies at 81",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://deadline.com/2026/07/michael-box-office-billion-1236980104": {
+  "title": "‘Michael’ Crosses $1B Worldwide, Lionsgate’s First Movie To Hit Milestone",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMickFVX3lxTE1jVDVwY3Y2YUZybE9mSWpLUFdpc2xMMHNqd2R5WU90cVBfUnNOUjRzNWtEMlRtU2wya2FYNzR2cWVUckRVMjc1MXc5bm1WUUtNUnNMQURId2dBQzNFdW1PTE1EYy1NZ3FVY29pMVJHYnIwZw?oc=5": {
+  "title": "「やってみたい」原動力…細田守作品の展覧会:ジュニアプレス - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://variety.com/2026/film/news/avengers-doomsday-art-doctor-doom-mask-x-men-1236809075": {
+  "title": "‘Avengers: Doomsday’ Concept Art Reveals First Look at Robert Downey Jr.’s Doctor Doom, Returning X-Men Characters",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02NDdZekoxRGxGaWVVR3ZnbC1EQU5CV0xkZDZiOXJEV3pTQ1VjX3RpRjBqUzNNNmdUVnFkQjhKNWVJMU1CTE9rc2xUeFpaeXhQWU5OTERPZDZ2aWUzOUJ4Z0R4UFJOZw?oc=5": {
+  "title": "エンタメの力を社会の“スパイス”に USJが仕掛ける次の一手 - 日経クロストレンド",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZW42ZldoVTZVWk9zS1pPV3RTS29XOURQbGVSUDZ2NkZpb3IzR2RDNWlpdjNLWlRqOVh2XzQzLV95dUlIcGNiR0ZDSnpxandZZzVXcmRQcG9pLXYyTEtCTnNRNXp6dTQ2NkVQR2Vscm44eGhld1ZMdTNJSTBmSzZQU3Bweko5MEVZNFBBRkVJWVBxMkJKMk1iaWszSG5NYnJkaWlCYWRNWXBwb01wUWZGQnpZMWxhbllrc3BNSkRTMA?oc=5": {
+  "title": "Dating Apps Are Ditching The Swipe. These Startups Are Racing To Replace It. - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1783892019.697291
+ },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXQ5cno1S2g4aGZaSkNzejBtZG9tLXprSXctZ2laTlVmdm00T2tiN005ZnNVd29fTEpDcWJwSWNORWZlYUlpbTdBWkN2bUxldGU0RmR6OEtoSHItS21ITGxEUklBeDhfdTZsbVdINFVpM05ldVEzajhhT3lreE5iSlJHbjZmSWxNbzU5MVNncW1kdl8zQTgxZjZVNnlrR3AzU3B1SVlqck1ZYndUcjJiYg?oc=5": {
+  "title": "‘Supergirl’ Is The Worst-Earning DC Movie Since 2004’s ‘Catwoman’ - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1783892019.697291
  }
 }

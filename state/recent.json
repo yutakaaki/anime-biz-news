@@ -158,7 +158,8 @@
   "title": "Bollywood Embraces AI-Powered Filmmaking as Studios Invest in Next-Generation Visual Effects - boldnewsonline.com",
   "source": "Google News: AI film production OR video generation studio",
   "sources": [
-   "Google News: AI film production OR video generation studio"
+   "Google News: AI film production OR video generation studio",
+   "Anime News Network"
   ],
   "published": "Sat, 11 Jul 2026 12:29:15 GMT",
   "published_ts": 1783772955,
@@ -232,44 +233,6 @@
   "ts": 1783838527.2705112
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0FHWHllUGt4RlpNdjVKak5oLUt1VFRZZFQ3MnRBWnhyX2dOT2ZFTFRCcm5hMnlZUlh4ODRyYXl3TVhxV080NjBrQUNxVVJNSTFyUS1Za1JGWW1QNnk5RFZTN0t2QzZfckFfUmJXQmdCa3B0a01pa3dCUUh4VkN4ejhSS0t1TGtHMFNXN1ZEVkEzT29LUTNOTko1b1pJMW9RNUYybnpB?oc=5",
-  "title": "中国キャラ祭典、光と影 - 日本経済新聞",
-  "source": "Googleニュース(nikkei.com)",
-  "sources": [
-   "Googleニュース(nikkei.com)"
-  ],
-  "published": "Fri, 10 Jul 2026 17:06:52 GMT",
-  "published_ts": 1783703212,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "グレー",
-  "confidence": "低",
-  "reason": "タイトルのみから判断すると『中国キャラ祭典』はコンテンツ（キャラクター文化・ポップカルチャー関連）を示唆し、『光と影』は分析的なフレーミングを示唆するが、提供されたテキストが不完全であり、実際にビジネス面（市場規模・産業動向など）の実質的な記述があるかどうか、またAIが関わるかどうか不明であるため、確信が持てない状態。詳細本文がないため取りこぼしを避けてグレーとした。",
-  "ts": 1783838527.2705112
- },
- {
-  "url": "https://www.cartoonbrew.com/anime/taiki-sakurai-salamander-pictures-20001-an-earth-odyssey-264265.html",
-  "title": "Taiki Sakurai Bets On Original Anime With ‘20001 An Earth Odyssey,’ Salamander Pictures’ First Short (EXCLUSIVE TRAILER)",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 10 Jul 2026 13:17:45 +0000",
-  "published_ts": 1783689465,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "新作アニメ短編『20001 An Earth Odyssey』の制作・配信戦略、スタジオ独立、資金調達、シリーズ化の可能性など、制作者の経歴とビジネス判断を中心に掘り下げたインタビュー記事。コンテンツ制作とビジネス展開が主題である。",
-  "ts": 1783838527.2705112
- },
- {
   "url": "https://www.animenewsnetwork.com/news/2026-07-11/aic-wins-legal-battle-to-return-as-shareholder-of-aic-rights/.239366",
   "title": "AIC Wins Legal Battle to Return as Shareholder of AIC Rights",
   "source": "Anime News Network",
@@ -305,25 +268,6 @@
   "label": "対象",
   "confidence": "中",
   "reason": "AI生成技術を用いた映画製作という、コンテンツ（映画）とAIの融合事例であり、実質的にAIが映画制作の中心にある記事だが、ビジネス面（投資額・市場規模・収益見通しなど）の具体的な言及が明確でないため中程度の確度とした。",
-  "ts": 1783838527.2705112
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUNraEkySi13WEpoaXJSNS1aaDUtTF9hTkxOWFpuWEZ2eVVQMVdQRHd2Xzl5a1NJbUl0NGdwNjVOdkdZS0F3NGxFa21jamxvSUlObFRMTzBON2ZUWDRXbzdGWklfNF8yR25HWndFUnRKRlpSc3F2VERaeHFnQVVsUFp2M1FkZXZycUI4T2JxMmJJMXRZY2ZGc2JQbDVEU2hYalpxejJ3?oc=5",
-  "title": "中国キャラ祭典、日本コンテンツの人気根強く 日中冷え込みが影 - 日本経済新聞",
-  "source": "Googleニュース(nikkei.com)",
-  "sources": [
-   "Googleニュース(nikkei.com)"
-  ],
-  "published": "Fri, 10 Jul 2026 09:58:00 GMT",
-  "published_ts": 1783677480,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "中国での日本コンテンツキャラクターの人気動向と、日中関係の冷え込みが市場・ビジネスに与える影響を報じており、コンテンツとビジネス（市場）の両軸が主題である。",
   "ts": 1783838527.2705112
  },
  {
@@ -481,69 +425,13 @@
   "ts": 1783846844.485429
  },
  {
-  "url": "https://www.animenewsnetwork.com/news/2026-07-10/live-action-film-tazza-the-song-of-beelzebub-sets-september-release/.239483",
-  "title": "Live-Action Film Tazza: The Song of Beelzebub Sets September Release",
-  "source": "Anime News Network",
-  "sources": [
-   "Anime News Network"
-  ],
-  "published": "Fri, 10 Jul 2026 13:15:00 -0400",
-  "published_ts": 1783703700,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映画化作品（Tazzaシリーズの実写映画）の公開発表及び興行実績（過去作の動員数）が記事の中心であり、コンテンツとビジネス（興行成績・市場）が両立している。",
-  "ts": 1783846844.485429
- },
- {
-  "url": "https://www.animenewsnetwork.com/news/2026-07-10/agent-kim-reactivated-becomes-1st-korean-live-action-series-to-feature-fully-ai-generated-story-/.239484",
-  "title": "Agent Kim Reactivated Becomes 1st Korean Live-Action Series to Feature Fully AI-Generated Story Sequence",
-  "source": "Anime News Network",
-  "sources": [
-   "Anime News Network"
-  ],
-  "published": "Fri, 10 Jul 2026 10:15:00 -0400",
-  "published_ts": 1783692900,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "韓国ドラマ（コンテンツ）がAI生成技術を使用して3分間の映像シーケンスを制作し、制作コスト削減（ビジネス）を実現した事例であり、3分野すべてが揃う。",
-  "ts": 1783846844.485429
- },
- {
-  "url": "https://www.animenewsnetwork.com/news/2026-07-10/mushoku-tensei-redundant-reincarnation-epilogue-novels-end-with-4th-volume/.239438",
-  "title": "Mushoku Tensei: Redundant Reincarnation Epilogue Novels End With 4th Volume",
-  "source": "Anime News Network",
-  "sources": [
-   "Anime News Network"
-  ],
-  "published": "Fri, 10 Jul 2026 09:15:00 -0400",
-  "published_ts": 1783689300,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "転生したらスライムだった件の関連作品（小説エピローグ）の英語版出版がSeven Seas Entertainmentによってライセンス化・配信されており、コンテンツのライセンス取引・出版ビジネスが明確に主題である。",
-  "ts": 1783846844.485429
- },
- {
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUx5MjRoVEMtWUlBeDAwS2IwQTlhb1RDN0h5c2d3SS1LVGU3Q1RlakhyVGc5Y3BxekY1QUxibVJCOGZMRGM1Z2JFS1pvbi05N1pocExydkJ3U1BiaHFyeVNjMDlnamtwTmwzbEI5MXRVWWZnNG5vMW9NejhQaVNKYmRyYjg1Z0JNa2Vxb3hrRTB1NUdrRjliQVRFcGowR2JuWDRUdDZLN01uei04MmNLT3BlRFFKX1QzSXNMYWpzWkpiWUZLcUE?oc=5",
   "title": "‘Moana’ Sinking At Box Office With Projected $42 Million To $46 Million Opening - Forbes",
   "source": "Googleニュース(forbes.com)",
   "sources": [
-   "Googleニュース(forbes.com)"
+   "Googleニュース(forbes.com)",
+   "Deadline",
+   "Variety"
   ],
   "published": "Sat, 11 Jul 2026 04:19:16 GMT",
   "published_ts": 1783743556,
@@ -594,5 +482,215 @@
   "confidence": "高",
   "reason": "A24による映画配信戦略の変更とそれに伴う『Backrooms』のストリーミング配信リリースは、映像コンテンツの流通・配信モデルに関わるビジネス上の重要な決定であり、コンテンツ＋ビジネスが主題である。",
   "ts": 1783846844.485429
+ },
+ {
+  "url": "https://deadline.com/2026/07/off-campus-creator-slams-pay-disparity-reports-1236980254/",
+  "title": "‘Off Campus’ Series Creator Slams Pay Disparity Reports As “Far From Correct”: “I Fight For Gender Pay Parity”",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 12 Jul 2026 20:38:20 +0000",
+  "published_ts": 1783888700,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Prime Video配信ドラマシリーズの製作における性別賃金格差問題をめぐる経営/待遇の実態が主題であり、コンテンツ（映像作品）とビジネス（給与・報酬体系）の両分野が該当する。",
+  "ts": 1783892019.697291
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSZWtlaGg4eWhjbjU1SklvRkphTFdRZzVaOGFwUEhPMzRoejZtQ3JkRGF2RmhSSG1LYUw3OWNPUHdwcW1tUnNNUk1QX07SAU9BVV95cUxNTlZjd2RmWmRrRE9QNmhDUHltWWZxYVZ0VGU5b3J0QlpEVkdheGhJRmRvcDl4bk5PR1Q5OW8xQVVJSWtGdEp6MTNST2ZGcGdr?oc=5",
+  "title": "AI動画を見続ける人に起きる「恐ろしい変化」とは？専門家「感覚そのものが失われていくんです」 - ダイヤモンド・オンライン",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Sun, 12 Jul 2026 20:00:00 GMT",
+  "published_ts": 1783886400,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "AI生成動画の視聴による人間への影響を扱い、コンテンツ（動画）とAI技術の両者が主題だが、記事の焦点が心理学的な考察にあるため、ビジネス面が明確に欠ける。ただし映像産業への示唆がある可能性があるため確実には対象外としない。",
+  "ts": 1783892019.697291
+ },
+ {
+  "url": "https://variety.com/2026/tv/news/married-at-first-sight-season-20-peacock-replacing-experts-1236806682/",
+  "title": "‘Married at First Sight’ EP on Season 20’s Major Overhaul, Changing Out the Experts and Adding a Familiar Face",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sun, 12 Jul 2026 20:30:00 +0000",
+  "published_ts": 1783888200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "リアリティTV番組『Married at First Sight』のシーズン20がLifetimeからPeacockへの移動に伴う大幅改編（プラットフォーム変更、専門家の入れ替え、フォーマット改善）について、制作側のインタビューを通じた配信ビジネス・制作方針の転換を報じており、コンテンツ＋ビジネスの構成。",
+  "ts": 1783892019.697291
+ },
+ {
+  "url": "https://deadline.com/2026/07/ali-g-wimbledon-sacha-baron-cohen-1236980220/",
+  "title": "Sacha Baron Cohen’s Ali G Shows Up At Wimbledon Amid News Of New Movie",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 12 Jul 2026 18:57:57 +0000",
+  "published_ts": 1783882677,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "サッシャ・バロン・コーエンの新作Ali G映画の制作と配給に関するビジネス展開の報道であり、コンテンツ（映画制作）とビジネス（配給・興行規模の言及）が主題であるため対象。",
+  "ts": 1783892019.697291
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BWmxMUDBxOVo4UFMtRGVGd1lvTkpyYUdyeXBNZzZoUjM1TGs3bkQ5dUZ1bm15MldMNXJNcTFGcGxZaWhtTnlVRjA3STd1S1pHMEhmS3Noc3dnTVlOTzRLYkxoc2F0VmtvRmRkbXE2Q05JWllH?oc=5",
+  "title": "アニメ制作にAI革命、人手不足解消へ「中割り」200枚を10分で生成 現場は共存模索 - BigGo ファイナンス",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Sun, 12 Jul 2026 13:35:00 GMT",
+  "published_ts": 1783863300,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ制作現場でのAI活用による業務効率化（人手不足解消）が中心で、3分野が揃い、現場の実態と課題を掘り下げた記事と判断される。",
+  "ts": 1783892019.697291
+ },
+ {
+  "url": "https://variety.com/2026/music/news/madonna-billboard-album-chart-confessions-debut-top-1236809163/",
+  "title": "Madonna’s ‘Confessions II’ Debuts at No. 1 on Album Chart, as Ken Carson and Sienna Spiro Also Bow in Top 10",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sun, 12 Jul 2026 19:46:49 +0000",
+  "published_ts": 1783885609,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "マドンナの新作アルバムがチャートNo.1を獲得した音楽チャート成績（ビジネス・興行実績）と、その販売数・ストリーミング数といった具体的な数字が報じられている記事であり、コンテンツ（音楽）とビジネス（売上・チャート成績）の両分野が主題であるため。",
+  "ts": 1783892019.697291
+ },
+ {
+  "url": "https://deadline.com/2026/07/indie-film-box-office-the-invite-no-6-1236980119/",
+  "title": "‘The Invite’ Dines Out At No. 6 For Weekend In Solid National Expansion; ‘Reading Lolita in Tehran’ At The Angelika – Specialty Box Office",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 12 Jul 2026 18:15:22 +0000",
+  "published_ts": 1783880122,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画作品の興行成績・ボックスオフィス数字と複数作品の週末成績の動きを報じており、コンテンツ（映画）とビジネス（興行/売上）が主題である。",
+  "ts": 1783892019.697291
+ },
+ {
+  "url": "https://variety.com/2026/film/global/directors-brave-curious-karlovy-vary-1236806946/",
+  "title": "Emerging Directors Need to Be ‘Brave,’ ‘Curious,’ ‘Pushy’ and ‘Fearless,’ Say Industry Leaders Behind Future Frames Program",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sun, 12 Jul 2026 18:25:28 +0000",
+  "published_ts": 1783880728,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "映画制作の新進監督育成プログラム（Future Frames）について、業界リーダーによる人材開発・メンターシップ・資金支援などビジネス面を含む深掘り記事であり、コンテンツ産業（映画制作）とビジネス（人材育成・スポンサーシップ・機会創出）が主題だが、AIについては言及されていないため。",
+  "ts": 1783892019.697291
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2RUJaMXNTZ3FyYzZ3TERTVmJCOVZnanVOY1lWcW5jNUx5YTRKa0Y4TkowWXd5QTBsWDJTRkN5c0xnaGVmR2JrVkxJQVlVNUxwU1E?oc=5",
+  "title": "『銀魂』完全新作映画、興行収入10億突破で空知英秋「僕は興収半分もらえれば大丈夫」 シリーズ最高の好推移 - 山陽新聞",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Sat, 11 Jul 2026 07:00:00 GMT",
+  "published_ts": 1783753200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画（銀魂）の興行収入10億円突破という具体的な数字を報じており、コンテンツ＋ビジネス（興行成績）が明確に揃っているため対象。",
+  "ts": 1783892019.697291
+ },
+ {
+  "url": "https://deadline.com/2026/07/michael-box-office-billion-1236980104/",
+  "title": "‘Michael’ Crosses $1B Worldwide, Lionsgate’s First Movie To Hit Milestone",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 12 Jul 2026 15:36:17 +0000",
+  "published_ts": 1783870577,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画作品『Michael』の興行成績（10億ドル突破）という数字ベースのビジネス実績を速報する記事であり、コンテンツ（映画）とビジネス（興行収入・マイルストーン）の両分野が主題である。",
+  "ts": 1783892019.697291
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02NDdZekoxRGxGaWVVR3ZnbC1EQU5CV0xkZDZiOXJEV3pTQ1VjX3RpRjBqUzNNNmdUVnFkQjhKNWVJMU1CTE9rc2xUeFpaeXhQWU5OTERPZDZ2aWUzOUJ4Z0R4UFJOZw?oc=5",
+  "title": "エンタメの力を社会の“スパイス”に USJが仕掛ける次の一手 - 日経クロストレンド",
+  "source": "Googleニュース(nikkei.com)",
+  "sources": [
+   "Googleニュース(nikkei.com)"
+  ],
+  "published": "Sun, 12 Jul 2026 15:00:00 GMT",
+  "published_ts": 1783868400,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "USJはエンタメ・テーマパーク運営（コンテンツ関連の映像/IP活用産業）であり、経営戦略・事業展開（ビジネス）に関する特集・インタビュー記事と判断される。ただしタイトルのみでは詳細が不明確なため信頼度は中程度。",
+  "ts": 1783892019.697291
  }
 ]
