@@ -20,7 +20,16 @@ import threading
 import time
 import urllib.parse
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
+
+JST = timezone(timedelta(hours=9))
+
+
+def _fmt_jst(ts, fallback: str = "") -> str:
+    """UTC epoch を JST の "YYYY-MM-DD HH:MM JST" に整形。ts無しは fallback。"""
+    if not ts:
+        return fallback
+    return datetime.fromtimestamp(ts, JST).strftime("%Y-%m-%d %H:%M") + " JST"
 
 import dedup
 import store
@@ -225,7 +234,7 @@ def _card(it: dict) -> str:
     itype = it.get("type", "その他")
     mc = it.get("media_count", 1)
     chips = _theme_chips(it.get("themes") or [])
-    buzz = _badge(f"🔥話題 {mc}媒体", "#c0392b") if mc >= 2 else ""
+    buzz = _badge(f"🔥{mc}媒体", "#c0392b") if mc >= 2 else _badge(f"{mc}媒体", "#888")
     type_b = _badge(itype, _TYPE_STYLE.get(itype, "#888"))
     label_b = _badge(f"{label}/確信度{it.get('confidence','')}", "#1a7f37" if label == "対象" else "#9a6700")
     others = it.get("also") or []
@@ -233,8 +242,9 @@ def _card(it: dict) -> str:
     if others:
         uniq = "、".join(dict.fromkeys(others))
         also = f'<div style="font-size:12px;color:#888;margin-top:6px">報道媒体: {html.escape(uniq)}</div>'
+    when = _fmt_jst(it.get("published_ts"), it.get("published", ""))
     return f"""<article style="border:1px solid #ddd;border-radius:8px;padding:14px;margin:10px 0">
-  <div style="font-size:12px;color:#666">{html.escape(it.get("source", ""))} ・ {html.escape(it.get("published", ""))}</div>
+  <div style="font-size:12px;color:#666">{html.escape(it.get("source", ""))} ・ {html.escape(when)}</div>
   <h3 style="margin:6px 0"><a href="{html.escape(it.get("url", ""))}" target="_blank">{html.escape(it.get("title", ""))}</a></h3>
   <div>{buzz}{type_b}{chips}{label_b}</div>
   <p style="color:#444;font-size:14px;margin:8px 0 0">{html.escape(it.get("reason", ""))}</p>
@@ -248,7 +258,7 @@ def _sort_key(x: dict):
 
 
 def render_html(items: list[dict]) -> str:
-    now = datetime.now().strftime("%Y-%m-%d %H:%M")
+    now = datetime.now(JST).strftime("%Y-%m-%d %H:%M") + " JST"
     deep = sorted([x for x in items if x.get("type") == "深掘り"], key=_sort_key, reverse=True)
     rest = sorted([x for x in items if x.get("type") != "深掘り"], key=_sort_key, reverse=True)
 

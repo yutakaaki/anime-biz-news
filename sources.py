@@ -27,7 +27,7 @@ DIRECT_FEEDS = [
     ("https://animeanime.jp/rss/index.rdf", "アニメ！アニメ！"),
     ("https://0115765.com/feed", "アニメ業界ニュース(0115765)"),
     ("http://animationbusiness.info/feed", "アニメーションビジネス・ジャーナル"),
-    ("https://branc.jp/feed", "Branc"),
+    # ("https://branc.jp/feed", "Branc"),  # フィードが404のため無効化
     # アニメ・業界特化の深掘り/ニュース媒体（低ノイズ）
     ("https://www.animenewsnetwork.com/news/rss.xml", "Anime News Network"),
     ("https://news.animenomics.com/feed", "Animenomics"),
