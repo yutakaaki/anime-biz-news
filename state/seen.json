@@ -994,5 +994,455 @@
   "source": "Googleニュース(forbes.com)",
   "label": "対象外",
   "ts": 1783892019.697291
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-13/amekiri-chotto-mato-yo-harutora-kun-bl-manga-gets-live-action-series/.239545": {
+  "title": "Amekiri's 'Chotto Matō yo, Harutora-kun' BL Manga Gets Live-Action Series",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1783933910.256779
+ },
+ "https://variety.com/2026/music/news/jay-z-closes-yankee-stadium-residency-beyonce-rihanna-usher-1236809402": {
+  "title": "Jay-Z Closes Yankee Stadium Residency With Epic Late Night Show Featuring Beyoncé, Rihanna, Usher, Teyana Taylor and More",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1783933910.256779
+ },
+ "https://deadline.com/2026/07/hunt-we-need-to-talk-about-james-into-production-1236980585": {
+  "title": "‘Hunt: We Need To Talk About James’: Feature Doc On Legendary Late Formula 1 Driver Goes Into Production",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1783933910.256779
+ },
+ "https://variety.com/2026/film/global/sacha-baron-cohen-ali-g-wimbledon-tries-selling-weed-1236809387": {
+  "title": "Sacha Baron Cohen Revives Ali G at Wimbledon Ahead of New Film — and Tries Selling Weed on Center Court",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1783933910.256779
+ },
+ "https://deadline.com/2026/07/sam-neill-jurassic-park-actor-dead-1236980409": {
+  "title": "Sam Neill Dies: ‘Jurassic Park’ Actor Was 78",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1783933910.256779
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-13/koji-miura-blue-box-manga-ends/.239547": {
+  "title": "Kōji Miura's Blue Box Manga Ends",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1783933910.256779
+ },
+ "https://deadline.com/2026/07/ariana-madix-tribute-love-island-usa-producer-james-barker-1236980394": {
+  "title": "Ariana Madix Pays Tribute To Late ‘Love Island USA’ Producer James Barker After Unexpected Death",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1783933910.256779
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-12/the-eternal-fool-words-of-wisdom-anime-reveals-teaser-cast-staff-january-2027-debut/.239543": {
+  "title": "The Eternal Fool's Words of Wisdom Anime Reveals Teaser, Cast, Staff, January 2027 Debut",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wTHI4aWpHa0tYUnpWYjVnaWlJczgtaE8xSkczV2FTNzBoWm4ydDZzcF81OXhwX3JQU3lQLXNCamlSNVVSMHl5ZEMteTZ4a1hSZ21KUzA0TE9mamJQTy04ZHUwRnhHQ1UtNjdGbmQ1UURkWm9yNEl5aUhDTQ?oc=5": {
+  "title": "TVアニメ「呪術廻戦」×「モンスト」コラボ第3弾を7月14日（火）12時開催！「虎杖悠仁」「七海建人」「五条悟」がコラボキャラクター初の真獣神化！モンストWebショップで本コラボ初のガチャ先行販売も - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1783933910.256779
+ },
+ "https://0115765.com/archives/195076": {
+  "title": "アニソンの祭典「アニサマ」が初の“福岡”進出、初手に「PayPayドーム」の自信　2027年3月開催決定",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "重複スキップ",
+  "ts": 1783933910.256779
+ },
+ "https://variety.com/2026/film/box-office/china-box-office-kung-fu-soccer-73-million-opening-1236809349": {
+  "title": "China Box Office: ‘Kung Fu Soccer’ Scores Massive $73.6 Million Opening",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1783933910.256779
+ },
+ "https://deadline.com/2026/07/josh-grisetti-actor-dead-suicide-1236980383": {
+  "title": "Josh Grisetti Dies: Actor Known For ‘Mrs. Maisel’ And ‘Something Rotten!’ On Broadway Was 44",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1783933910.256779
+ },
+ "https://deadline.com/2026/07/peacock-love-island-usa-season-8-reunion-august-premiere-1236980355": {
+  "title": "Peacock’s ‘Love Island USA’ Season 8 Reunion Sets August Premiere With Andy Cohen & Ariana Madix As Hosts",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VenVQSjFodUEwMDVFLU01SWNhcS1VMHJSR1ozdDhrMXAzTUNRUTlYdk9BeXg1dHpRaWg5bTVhbTNYLVBCczNPNGhGVERIYkkyZUp4WXhJVDl5aGZHaXg1TGZmT1VTNjZFUzBkTU1BWm9zSTFVYkRKUmFVWERaWms?oc=5": {
+  "title": "エンタメの力を社会の“スパイス”に USJが仕掛ける次の一手 - 日経クロストレンド",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "媒体加算",
+  "ts": 1783933910.256779
+ },
+ "https://deadline.com/2026/07/love-island-beyond-the-villa-renewed-season-3-peacock-1236980356": {
+  "title": "‘Love Island: Beyond The Villa’ Renewed For Season 3 On Peacock",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1783933910.256779
+ },
+ "https://variety.com/2026/film/news/sam-neill-remembered-jurassic-world-director-hollywood-tributes-1236809393": {
+  "title": "Sam Neill Remembered by ‘Jurassic World Dominion’ Director Colin Trevorrow, Karl Urban, Alan Cumming and More: ‘His Strength Gave Us All Strength’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://deadline.com/2026/07/top-gear-bbc-sued-passenger-andrew-flintoff-crash-response-1236980594": {
+  "title": "BBC Studios Says ‘Top Gear’ Crash Passenger Suing For $200,000 Gave “Wrong & Dangerous Instructions”",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101018.html": {
+  "title": "下野紘　演じるオゴタイは「孤独なのかも」　ドレゲネとの複雑な夫婦関係も「無理に変えようとはしない」TVアニメ「天幕のジャードゥーガル」インタビュー（５）",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://0115765.com/archives/195188": {
+  "title": "中国の大型アニメゲーム展示会、3日で40万人来場　コミケの“倍”規模で海外オタク取り込み顕著【BilibiliWorld】",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4waGp0ME9HSEZnVmtvcWROV1N1WUNNU2Y4aVJaN21kUzdtOWFvaVZkcUNrbC0wbmJ3OGY2VEZXSmdveVRkY2VmUVBsZEhjall6ZWppYmFR?oc=5": {
+  "title": "『コナン』興収135.7億円突破 - オリコンニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wYXdaYTJCWEc2ZVhDODRWaGJfMG1xVmhhMlRsYUNnTTZ0REJadldjdUVuaDhPOFNXSkxaeEttRGpKbG9QU3Fnc09CMk1nR2FyR3k4YS1uY25vY0FLQUJZWEs3c2FqaDZ4cEp1RA?oc=5": {
+  "title": "アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可 国内AIベンチャーAIdeaLab（1/2 ページ） - ITmedia",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ydGQ4Wk44ZXR0NEx6YUpoTUh4T1pUZVd5cjk2RHRWdUZCVzViNkxSZE1HcjN3SjNOVjZaeVJIV29OZFk1cDF0WVBn?oc=5": {
+  "title": "株式会社TIGEREYE との合弁会社設立のお知らせ ～ＡＩ映像制作の展開～ - マーチャント・バンカーズ株式会社",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FOFltaDdsNThxM1o2LVZwSUg1aDc1eDY5U3FFOFpxaXltampnMWpXMTlld1AwX0loRjRQY01FVURpYktwemp0MlNlZ1RTVzJ4MGU1WU9ybkp1Zw?oc=5": {
+  "title": "科学体験が多い子どもほど読書や幅広い分野に興味を持つ理由 - Forbes JAPAN",
+  "source": "Googleニュース(forbesjapan.com)",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUaW8wMF9aMUtleC1GenJ4aHItbUJveF9Fc2FFcnR0WkdJcEo5ejgxMDBJbUZrQUJDR1lnX2dnckxZSGdUS2kxRmJGN2VCWWh3MXN2dHhkLTlNVElGcU9lTEtSaUpPXzlZdlJDNkJzZ2p3U3dKcWtZOG5CYw?oc=5": {
+  "title": "アニメ特化動画生成AIモデル『AnimeGen』を公開 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "グレー",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTFBLYl94TXBPb1ROUk9lc0FOMGpsSTZfczZyeEJocVNZejN0ODdienBhRW41V05yRFQxemJNSXhXWENnOThN?oc=5": {
+  "title": "コロプラ、TVアニメ『魔法少女リリカルなのは EXGV』×『アリス・ギア・アイギス』コラボイベント開催中 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://variety.com/2026/film/global/odyssey-world-premiere-giant-trojan-horse-8800lb-1236806583": {
+  "title": "How Universal Made a 8,800-Pound Trojan Horse for ‘The Odyssey’ World Premiere",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://deadline.com/2026/07/sam-neill-remembered-tributes-peaky-blinders-actor-1236980581": {
+  "title": "Sam Neill Remembered: Karl Urban, Toni Collette & Prime Ministers Pay Tribute To “Beautiful Man”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101017.html": {
+  "title": "「ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～」で痛快な逆転劇と“中華後宮ファンタジー”の虜に♪ “おすすめ夏アニメ”を紹介　Vol.3【DMM TVで視聴可能】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://0115765.com/archives/195170": {
+  "title": "サミー、ブシロード傘下の女子プロレス大会に協賛「スターダム」特別仕様のパチスロ台展示",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-13/colopl-announces-shironeko-project-infinity-game-for-2027-release-on-switch-switch-2/.239544": {
+  "title": "Colopl Announces Shironeko Project Infinity Game for 2027 Release on Switch, Switch 2",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GeDA2c3FuZTJIdy1ZTm5rclFnNXJfZ1ZyUFBmRml4TVIyeDhYQXhob1JnOFF0bTMwMkwzWjlKXzNCQWo1bTE4NngwTkk1VHRlRXlXSC1KcENxbWw5RkFEZUFoZTVyM3RoaGc?oc=5": {
+  "title": "アニメ特化動画生成AIモデル『AnimeGen』を公開 - PR TIMES",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "グレー",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fNzcxbEtaX3Z3TzRYWmNabzR5OFZyeUhJYWY4T0JKY0FfV19PUkFGS1IzY0c2UTVDaVZMXzRKaDd5NWtmYXVxV3FMN3pYX3dEc2FFSG5Oa1RQWk9FTlE?oc=5": {
+  "title": "ＡＩで敦賀の魅力発信 中高生３３人、映像制作挑む | 学校・教育,社会 | 福井のニュース - 福井新聞社",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "グレー",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SN3AxOGRKTUI1bTVVanNuTENlbEwzcmtjRkNJQnliRmVoLU1oTlM0c1BxMi1TeklaUE5VTzBkczNHbGtJMnpvLW5xSWF2UnRlbzdGMDVGdy1TcXRxVlk5QzIwQnlta29JVk1uVTBkdThfUi0xZFE?oc=5": {
+  "title": "『傷口と包帯』来年1月アニメ化で制作はJ.C.STAFF 禁断の特殊性癖ラブコメ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101016.html": {
+  "title": "禁断の特殊性癖ラブコメ「傷口と包帯」TVアニメ化！ ABCテレビ・テレビ朝日系全国ネットANiMAZiNG!!!枠にて2027年1月より放送開始",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://0115765.com/archives/195148": {
+  "title": "ポケモン×マクドナルド、“周年”コラボで豪華限定セット販売！混乱防ぐため「完全事前抽選」店鋪での応募不可",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "グレー",
+  "ts": 1783933910.256779
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-13/umihoshi-nanai-kizuguchi-to-hotai-manga-gets-tv-anime-in-january-2027/.239555": {
+  "title": "Umihoshi Nanai's Kizuguchi to Hōtai Manga Gets TV Anime in January 2027",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sR0NOdDhTQXRIMHhDdl9XS1U2dURQaEk0bDFnRHExVFdzUU9oUU53N3l6amNxSTFRTFR5dDN0cFFiSk5kSFQteHpKRUtMOGMzVEE?oc=5": {
+  "title": "『ズートピア2』興行収入140億円突破 国内洋画アニメーション歴代2位に…『ザ・スーパーマリオブラザーズ・ムービー』を抜く 上戸彩ら感謝の言葉 - 山陽新聞",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcEdHUVg2NTRIRVdIMllib043WDRWd1BQN09sMnNiN0k3ZFJxeFVwbWI3Vmg4Si1hR25SLVNHS1lwRzh6aU1XMVdpSnQxTE1RNW1PR3c1ZFpJb1B2eEt1Ql9tcW5QVjhJS29pUnJQMWVOSWtUdGFyOXcycXZkU2R0YVlyVG5Tdw?oc=5": {
+  "title": "AIdeaLab、アニメ特化の動画生成AI「AnimeGen」を無償公開 制作現場の効率化を後押し - projectdesign.jp",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "グレー",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiekFVX3lxTE83T2RjRkl0V3FRclVRdU93STBCYl9YSW8tbE5TVHNnYVdqTjBZN2VRS3BpTlo3bzZZbFJYck04bHQtWWxCSlpfVFItakNQaDBvY3d5dzliMHB2VFh5X1RjZVJnalVETG82TzFJem9yWEN0WC1BcTVjcXhR?oc=5": {
+  "title": "TIGEREYE、マーチャント・バンカーズ株式会社との合弁会社「株式会社DragonEye」を設立 - イザ！",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE9raEtWSmFnQ0RWSkgxbHVPUjRjWGhmM1VwSE11UTB2dnBkamJQN2Q0dEJlQ2RIOHNwZkhWdW5qRDdIdmtBZW4xa09MdjRMV0lPbkRLLWZQTGp3alJCYzJuN0dLMlk2QVFyZ3BlQnJOUlpoZFZ5QzBUOXZzbw?oc=5": {
+  "title": "「ほっぺちゃんアニメ化記念」サン宝石フェアが遠鉄百貨店で開催！初登場の「スーパークリアほっぺちゃんしぼり体験」や、会場限定「キラキラアイドルほっぺちゃん」を展開 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE8xODRYOXVVVG1SU3F3S0ZpeFVhV2k0eGlvc1VBS2RXNTBXaDJvT1YtMUVHdW05Njl2Tzl4cVFUNFZzYnN0?oc=5": {
+  "title": "フリュー・ピクチャーズ、26年3月期決算は最終損失1億9500万円…昨年6月に設立されたアニメ会社 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUDI2aDdPWnJDY0hJc2l4MnZBT2pTQWwydVRCWVNFdVRFcGV5VUZTaUgwb29Rc25GWTV5Mk1wMWIwTkY1QVp0b19US280MWU4SnlZRjEtTEpXR3MtcWlTaGJOb2ZzaXA2VndkLVc0bU5LWHhQV1U1cWJxVTE0cWZYNWVhVUVESGltZ2JIZXVaX1dQWndSLVo0aTM5Vkk5QmZuQ1dSb3gydUpWZlNnTkw3YVNTUDc?oc=5": {
+  "title": "Hyundai Motor Workers Strike Over Bonuses, Robot Job Security - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101015.html": {
+  "title": "「呪術廻戦」×「モンスト」コラボ第3弾！五条悟の“0.2秒の領域展開”や虎杖悠仁、七海建人が初の真獣神化☆",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://0115765.com/archives/195074": {
+  "title": "高さ10m超え!?『原神』『崩スタ』の中国miHoYo、本国イベントの規模が異次元。巨大オブジェを披露【BW】",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LZDRoQTNFVm9zWVdkenlHcXdMVlJfM0tGbUNUUGVRRUdqWnJ3Rk05WFcxMldzVXpxeTZ3MnJoLTVSMjdCbGwxaEYwZDU5SjFGaE43akdRMWVaU2lBcENZdlF6My00Yklwc0dtMA?oc=5": {
+  "title": "人気声優、自身の声をAIで再現 「海賊版ボイス」に事業化で対抗 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUFMWnQ1VUVhNVhROTlOVDgwNnA2VVgtaElBd1paY0lCT3dybEI0ay1yTmRiNVhFTGFmSGtZOXlacDVjaFg5c1ZKQThUeXgwYmFidjBUOUZFYU9EeXo4dlMtWW1HQ2lQLW84QjRmRlJQZzZuMU5wSDFKU1FJX0VKdWFZYkJxdHJqSkNqX2hFdFYtbnZGcEdNdWZvM3l0STRSQVZBSnUwV3BzN1BJ?oc=5": {
+  "title": "TSMC Sales Surge 36% in Fresh Sign of AI Spending Momentum - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://variety.com/2026/film/box-office/korea-box-office-moana-the-eyes-1236809374": {
+  "title": "Korea Box Office: ‘Moana’ Captures Crown While ‘The Eyes’ Retains Second Place",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101014.html": {
+  "title": "エヴァ初号機がゴジラと融合!?「エヴァンゲリオン初号機 “G”覚醒形態」が登場！放射熱線パーツが付属",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://0115765.com/archives/195004": {
+  "title": "投資家ほど「推し活」消費に積極的なのか？優先出費、二次創作参加で非投資家の「3倍」示唆する調査結果",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TQ01yODRCVmdWbFNOYmNBZnFjNlZXYlE2Q2toeDZpY3pkdzBPRzBmMnJpczh6TlVBM1pjckpRSEtSdUJPRnhyMC1wTElGVmliWFRVQVI0UmJKanM4WVo0Z2c4c0hCN2lCRDln?oc=5": {
+  "title": "名探偵コナン ハイウェイの堕天使：興収135億円突破 919万人動員 公開14週目で週末動員ランキング10位に - Mantan Web",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iSXFhRnBrRXZGdTl2bmpILTItTFNCSllrTE1KMVMxSVF2VzZ2SXF2NGlURFRDNS1OUl9rLXBIazZhR0s0Ui1yUXpGMkZlZnVMS18xOXZDeWloX0N5bnplRUNCQ2RUbE1f?oc=5": {
+  "title": "プレスリリース：TIGEREYE、マーチャント・バンカーズ株式会社との合弁会社「株式会社DragonEye」を設立（PR TIMES） - 毎日新聞",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "グレー",
+  "ts": 1783933910.256779
+ },
+ "https://variety.com/2026/film/global/natalia-solorzano-vasquez-spells-to-revive-a-witch-1236809265": {
+  "title": "Natalia Solórzano Vásquez’s ‘Spells to Revive a Witch,’ About Mythical Fortune Teller Soralla de Persia, Gets Backing from Spain, Uruguay (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101013.html": {
+  "title": "「薬屋のひとりごと」「黄泉のツガイ」「ヤニ吸う」人気アニメが参加！最大級のアニメの祭典「ABEMAアニメ祭 2026」が今年も開幕！参加作品第1弾も発表",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-12/former-gungho-executive-takanori-kikuchi-arrested-for-alleged-embezzlement/.239526": {
+  "title": "Former GungHo Executive Takanori Kikuchi Arrested for Alleged Embezzlement",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iZUlCOGd0NEhYNWJGbExwZVlyOGx5bGJBSF9WZXMyTGlpLWlqTW5FT0lRb3Rfa0xVR29DMW80V0ZoVTN3alVzUThJZDJkdFhIZU1ZbjA2cDU?oc=5": {
+  "title": "日本テレビとロジック・アンド・デザインが「真贋判定技術」を共同開発へ。生成AIによるフェイク映像対策、2027年実用化を計画 - Brand New Creativity",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101012.html": {
+  "title": "「超かぐや姫！」かぐやの誕生日に声優・夏吉ゆうこが直筆イラスト公開！「絵もうまいとは…すごすぎる」と絶賛！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0bWJnQlFKdFdqMmpraHZyV054eGZULURIeUVQQjc2NDNxWmkzN21IUFJaY19qU2hBdWtXd2o1X09WY1dlcnEyOEJ3UzRmSWdrVlRPNzdGekZpcFJydXJxLWZnWUV2VHB0QlQ1SVFn?oc=5": {
+  "title": "アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可 国内AIベンチャーAIdeaLab（2/2 ページ） - ITmedia",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMikAFBVV95cUxOenQ4Q1hPX0ltVHhJbFFFcjRGQ29sQW54SzBia05UY1l6X1U5Y3p5cTBZQzhsNHNxcFJvUm00WVQtOUZVRHozbkxGUjVndFFtX0IzT1pwRm9IOGNSQnFHYW1Xc045eHB6ZnJEOTJ4NFZ5Vzl1X09vc3c5LVU5Ujh6dEk1ZVFqdjcyUmE4UVFwcTE?oc=5": {
+  "title": "‘Jurassic Park’ Star Sam Neill Dead at 78 - Newsweek",
+  "source": "Googleニュース(newsweek.com)",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://variety.com/2026/film/global/hilda-hidalgo-costa-rica-third-fiction-violeta-at-last-1236807000": {
+  "title": "Hilda Hidalgo Readies Third Fiction Pic, About Sexual Abuse, After Acclaimed Dramas ‘Of Love and Other Demons’ and ‘Violeta at Last’ (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://deadline.com/2026/07/anne-rices-mayfair-witches-season-3-teaser-alex-daddario-1236979657": {
+  "title": "‘Anne Rice’s Mayfair Witches’: Alexandra Daddario Is Electrifying (Literally) In Season 3 Teaser",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101011.html": {
+  "title": "「頭文字D」ハチロクを“漫画風”に立体化!? 特別塗装＆タイヤも回る本格ミニカー仕様のキーチェーン登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN3lvOUcwYXIxTVZkQ3ZJRV9VLWF2dUQ1MnJUYkhfT2hYeFctVGxJcmR6X0F4WDhkTFRXbVlpemkxNW05clhZZWh6M1RrY0pMam5KSzFOOUUxd0w2d2VWSFZpVXNRcWhNQ2J4S1VLRHg5MDNESUFQOEhxOHhIX0FOaldUTUJYcmVX?oc=5": {
+  "title": "AIは映画製作やコンテンツ制作に新たな可能性を切り開く。 - Vietnam.vn",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "グレー",
+  "ts": 1783933910.256779
+ },
+ "https://variety.com/2026/film/global/denis-cote-nobodys-violence-heretic-locarno-1236809302": {
+  "title": "Denis Côté’s ‘Nobody’s Violence’ Acquired by Heretic Ahead of Locarno Main Competition Premiere (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://deadline.com/2026/07/elin-hilderbrand-new-book-called-the-novelists-1236980353": {
+  "title": "Elin Hilderbrand On Writing For TV: “I Have No Interest”; Author Also Reveals New Book",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101010.html": {
+  "title": "【『アニメディア2026年8月号』（7月10日発売）に関するお詫びと訂正のお知らせ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4VlpLbjVWcF9RTXFmX1oxTzRmT0tuTFJuSFVIU0lKYnJIbk9iakItYXkySnQyVl9rVnY0OGRZN0ViOEtvMGxQc09DYllnY0N1c3YyX2YzMzdRdmUxdnluUU9xQTdCQm52R01aMkp2Q3c0N1RyUjlXdlZtSQ?oc=5": {
+  "title": "累計124万部突破＆2026年10月テレビアニメ放送決定！ 大人気『ゆるゆる図鑑』シリーズから『読解力ドリル 妖怪 低学年』が発売！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDRnZGo0bjM1d256Zkswamg1c1F3aTllSHREdFZKUElwdXVnZW83cEdxSml4OTdTWXJhZ0dnWmZlZU1PNWx0RGw0SXJZMU9vREJydjE2dVVBYlh5Y2pmT1F2ak5fX3hpanJRM212ZnE3YVFIbWxjQnZCTzZBMTFkdUdCODFiOXRJbGZYTThPUURNSU1DN0k5Sld3Ym5PRkdVQVFtUng0OG80Zw?oc=5": {
+  "title": "‘Anne Rice’s Mayfair Witches’: AMC Reveals Teaser for Season 3 - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://variety.com/2026/film/obituaries-people-news/sam-neill-dead-jurassic-park-1236809330": {
+  "title": "Sam Neill, ‘Jurassic Park’ Star, Dies at 78",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101009.html": {
+  "title": "劇場版「僕の心のヤバイやつ」の配信はどこで見れる？Amazonプライムビデオで見放題独占配信【2026年最新】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101008.html": {
+  "title": "「たべっ子どうぶつLAND」が星・光・デジタル演出で進化!? イベント限定「たべっ子どうぶつ DONUTS」やグッズも注目♪【レポ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pMGRRaDN5S0xreE5Eb0JpYnBwLXdPcVFGNEdlOHloamJyNWU4RC1XWHVPbHo3Mmw3eXBxSjlydE1SYlRDVEpSRkJqUWRRSVlqSTdUS19uakFJSEE?oc=5": {
+  "title": "中国、「政治の季節」へ 経済失速は防げるか - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://deadline.com/2026/07/ted-lasso-cristo-fernandez-us-pro-soccer-debut-1236980293": {
+  "title": "‘Ted Lasso’s Cristó Fernández Makes U.S. Pro Soccer Debut With El Paso Locomotive FC",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101007.html": {
+  "title": "「ちいかわ」トートバッグや“お守り”で夏の読書を楽しもう♪「ちいかわブックフェア 2026サマー」開催【7月13日より】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101006.html": {
+  "title": "「アオのハコ」堂々の完結！「本当に生きがいでした」「最高の青春をありがとうございました」感謝の声続々!! 雛役の声優・鬼頭明里も「繊細で熱く美しい青春がそこにありました…」",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
+ },
+ "https://animeanime.jp/article/2026/07/13/101005.html": {
+  "title": "東雲うみが表紙＆巻頭、声優・志崎樺音ら14人の傑作選も！グラビアMOOK「FRIDAY GOLD」発売",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1783933910.256779
  }
 }
