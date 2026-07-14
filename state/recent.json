@@ -1,198 +1,5 @@
 [
  {
-  "url": "https://deadline.com/2026/07/off-campus-creator-slams-pay-disparity-reports-1236980254/",
-  "title": "‘Off Campus’ Series Creator Slams Pay Disparity Reports As “Far From Correct”: “I Fight For Gender Pay Parity”",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sun, 12 Jul 2026 20:38:20 +0000",
-  "published_ts": 1783888700,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Prime Video配信ドラマシリーズの製作における性別賃金格差問題をめぐる経営/待遇の実態が主題であり、コンテンツ（映像作品）とビジネス（給与・報酬体系）の両分野が該当する。",
-  "ts": 1783892019.697291
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSZWtlaGg4eWhjbjU1SklvRkphTFdRZzVaOGFwUEhPMzRoejZtQ3JkRGF2RmhSSG1LYUw3OWNPUHdwcW1tUnNNUk1QX07SAU9BVV95cUxNTlZjd2RmWmRrRE9QNmhDUHltWWZxYVZ0VGU5b3J0QlpEVkdheGhJRmRvcDl4bk5PR1Q5OW8xQVVJSWtGdEp6MTNST2ZGcGdr?oc=5",
-  "title": "AI動画を見続ける人に起きる「恐ろしい変化」とは？専門家「感覚そのものが失われていくんです」 - ダイヤモンド・オンライン",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Sun, 12 Jul 2026 20:00:00 GMT",
-  "published_ts": 1783886400,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "AI生成動画の視聴による人間への影響を扱い、コンテンツ（動画）とAI技術の両者が主題だが、記事の焦点が心理学的な考察にあるため、ビジネス面が明確に欠ける。ただし映像産業への示唆がある可能性があるため確実には対象外としない。",
-  "ts": 1783892019.697291
- },
- {
-  "url": "https://variety.com/2026/tv/news/married-at-first-sight-season-20-peacock-replacing-experts-1236806682/",
-  "title": "‘Married at First Sight’ EP on Season 20’s Major Overhaul, Changing Out the Experts and Adding a Familiar Face",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sun, 12 Jul 2026 20:30:00 +0000",
-  "published_ts": 1783888200,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "リアリティTV番組『Married at First Sight』のシーズン20がLifetimeからPeacockへの移動に伴う大幅改編（プラットフォーム変更、専門家の入れ替え、フォーマット改善）について、制作側のインタビューを通じた配信ビジネス・制作方針の転換を報じており、コンテンツ＋ビジネスの構成。",
-  "ts": 1783892019.697291
- },
- {
-  "url": "https://deadline.com/2026/07/ali-g-wimbledon-sacha-baron-cohen-1236980220/",
-  "title": "Sacha Baron Cohen’s Ali G Shows Up At Wimbledon Amid News Of New Movie",
-  "source": "Deadline",
-  "sources": [
-   "Deadline",
-   "Variety"
-  ],
-  "published": "Sun, 12 Jul 2026 18:57:57 +0000",
-  "published_ts": 1783882677,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "サッシャ・バロン・コーエンの新作Ali G映画の制作と配給に関するビジネス展開の報道であり、コンテンツ（映画制作）とビジネス（配給・興行規模の言及）が主題であるため対象。",
-  "ts": 1783892019.697291
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BWmxMUDBxOVo4UFMtRGVGd1lvTkpyYUdyeXBNZzZoUjM1TGs3bkQ5dUZ1bm15MldMNXJNcTFGcGxZaWhtTnlVRjA3STd1S1pHMEhmS3Noc3dnTVlOTzRLYkxoc2F0VmtvRmRkbXE2Q05JWllH?oc=5",
-  "title": "アニメ制作にAI革命、人手不足解消へ「中割り」200枚を10分で生成 現場は共存模索 - BigGo ファイナンス",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Sun, 12 Jul 2026 13:35:00 GMT",
-  "published_ts": 1783863300,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ制作現場でのAI活用による業務効率化（人手不足解消）が中心で、3分野が揃い、現場の実態と課題を掘り下げた記事と判断される。",
-  "ts": 1783892019.697291
- },
- {
-  "url": "https://variety.com/2026/music/news/madonna-billboard-album-chart-confessions-debut-top-1236809163/",
-  "title": "Madonna’s ‘Confessions II’ Debuts at No. 1 on Album Chart, as Ken Carson and Sienna Spiro Also Bow in Top 10",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sun, 12 Jul 2026 19:46:49 +0000",
-  "published_ts": 1783885609,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "マドンナの新作アルバムがチャートNo.1を獲得した音楽チャート成績（ビジネス・興行実績）と、その販売数・ストリーミング数といった具体的な数字が報じられている記事であり、コンテンツ（音楽）とビジネス（売上・チャート成績）の両分野が主題であるため。",
-  "ts": 1783892019.697291
- },
- {
-  "url": "https://deadline.com/2026/07/indie-film-box-office-the-invite-no-6-1236980119/",
-  "title": "‘The Invite’ Dines Out At No. 6 For Weekend In Solid National Expansion; ‘Reading Lolita in Tehran’ At The Angelika – Specialty Box Office",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sun, 12 Jul 2026 18:15:22 +0000",
-  "published_ts": 1783880122,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映画作品の興行成績・ボックスオフィス数字と複数作品の週末成績の動きを報じており、コンテンツ（映画）とビジネス（興行/売上）が主題である。",
-  "ts": 1783892019.697291
- },
- {
-  "url": "https://variety.com/2026/film/global/directors-brave-curious-karlovy-vary-1236806946/",
-  "title": "Emerging Directors Need to Be ‘Brave,’ ‘Curious,’ ‘Pushy’ and ‘Fearless,’ Say Industry Leaders Behind Future Frames Program",
-  "source": "Variety",
-  "sources": [
-   "Variety",
-   "Cartoon Brew"
-  ],
-  "published": "Sun, 12 Jul 2026 18:25:28 +0000",
-  "published_ts": 1783880728,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "映画制作の新進監督育成プログラム（Future Frames）について、業界リーダーによる人材開発・メンターシップ・資金支援などビジネス面を含む深掘り記事であり、コンテンツ産業（映画制作）とビジネス（人材育成・スポンサーシップ・機会創出）が主題だが、AIについては言及されていないため。",
-  "ts": 1783892019.697291
- },
- {
-  "url": "https://deadline.com/2026/07/michael-box-office-billion-1236980104/",
-  "title": "‘Michael’ Crosses $1B Worldwide, Lionsgate’s First Movie To Hit Milestone",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sun, 12 Jul 2026 15:36:17 +0000",
-  "published_ts": 1783870577,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映画作品『Michael』の興行成績（10億ドル突破）という数字ベースのビジネス実績を速報する記事であり、コンテンツ（映画）とビジネス（興行収入・マイルストーン）の両分野が主題である。",
-  "ts": 1783892019.697291
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02NDdZekoxRGxGaWVVR3ZnbC1EQU5CV0xkZDZiOXJEV3pTQ1VjX3RpRjBqUzNNNmdUVnFkQjhKNWVJMU1CTE9rc2xUeFpaeXhQWU5OTERPZDZ2aWUzOUJ4Z0R4UFJOZw?oc=5",
-  "title": "エンタメの力を社会の“スパイス”に USJが仕掛ける次の一手 - 日経クロストレンド",
-  "source": "Googleニュース(nikkei.com)",
-  "sources": [
-   "Googleニュース(nikkei.com)"
-  ],
-  "published": "Sun, 12 Jul 2026 15:00:00 GMT",
-  "published_ts": 1783868400,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "USJはエンタメ・テーマパーク運営（コンテンツ関連の映像/IP活用産業）であり、経営戦略・事業展開（ビジネス）に関する特集・インタビュー記事と判断される。ただしタイトルのみでは詳細が不明確なため信頼度は中程度。",
-  "ts": 1783892019.697291
- },
- {
   "url": "https://deadline.com/2026/07/top-gear-bbc-sued-passenger-andrew-flintoff-crash-response-1236980594/",
   "title": "BBC Studios Says ‘Top Gear’ Crash Passenger Suing For $200,000 Gave “Wrong & Dangerous Instructions”",
   "source": "Deadline",
@@ -464,26 +271,6 @@
   "ts": 1783933910.256779
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LZDRoQTNFVm9zWVdkenlHcXdMVlJfM0tGbUNUUGVRRUdqWnJ3Rk05WFcxMldzVXpxeTZ3MnJoLTVSMjdCbGwxaEYwZDU5SjFGaE43akdRMWVaU2lBcENZdlF6My00Yklwc0dtMA?oc=5",
-  "title": "人気声優、自身の声をAIで再現 「海賊版ボイス」に事業化で対抗 - 日本経済新聞",
-  "source": "Googleニュース(nikkei.com)",
-  "sources": [
-   "Googleニュース(nikkei.com)"
-  ],
-  "published": "Sun, 12 Jul 2026 20:00:00 GMT",
-  "published_ts": 1783886400,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "声優個人の動向ではなく、声優の知的財産（声）をAI技術で保護し事業化する取り組みであり、コンテンツ（声優という映像産業の要素）×AI（音声再現技術）×ビジネス（海賊版対抗の事業化）の3分野が揃い、著作権・規制・収益モデルの実質的なニュース。",
-  "ts": 1783933910.256779
- },
- {
   "url": "https://variety.com/2026/film/box-office/korea-box-office-moana-the-eyes-1236809374/",
   "title": "Korea Box Office: ‘Moana’ Captures Crown While ‘The Eyes’ Retains Second Place",
   "source": "Variety",
@@ -619,25 +406,6 @@
   "ts": 1783933910.256779
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN3lvOUcwYXIxTVZkQ3ZJRV9VLWF2dUQ1MnJUYkhfT2hYeFctVGxJcmR6X0F4WDhkTFRXbVlpemkxNW05clhZZWh6M1RrY0pMam5KSzFOOUUxd0w2d2VWSFZpVXNRcWhNQ2J4S1VLRHg5MDNESUFQOEhxOHhIX0FOaldUTUJYcmVX?oc=5",
-  "title": "AIは映画製作やコンテンツ制作に新たな可能性を切り開く。 - Vietnam.vn",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Sun, 12 Jul 2026 15:40:49 GMT",
-  "published_ts": 1783870849,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "グレー",
-  "confidence": "低",
-  "reason": "タイトルはコンテンツ＋AIの組み合わせで対象の可能性があるが、本文が極めて短く、実際の具体的な事例・分析・ビジネスインパクトが不明確で、タイトルのみの判定になっているため確信が持てない。",
-  "ts": 1783933910.256779
- },
- {
   "url": "https://variety.com/2026/film/global/denis-cote-nobodys-violence-heretic-locarno-1236809302/",
   "title": "Denis Côté’s ‘Nobody’s Violence’ Acquired by Heretic Ahead of Locarno Main Competition Premiere (EXCLUSIVE)",
   "source": "Variety",
@@ -756,7 +524,8 @@
   "title": "Paramount-WBD Combo Is “Not A Merger That Serves The Public,” NYC Mayor Zohran Mamdani Says",
   "source": "Deadline",
   "sources": [
-   "Deadline"
+   "Deadline",
+   "Variety"
   ],
   "published": "Mon, 13 Jul 2026 20:46:59 +0000",
   "published_ts": 1783975619,
@@ -1343,5 +1112,291 @@
   "confidence": "高",
   "reason": "アニメ制作会社OLMの決算発表（最終利益37%増）という経営数字が主題であり、同時に「薬屋のひとりごと」など制作作品も明示されているため、コンテンツ＋ビジネスの2分野が揃い対象となる。",
   "ts": 1784020460.611061
+ },
+ {
+  "url": "https://variety.com/2026/film/news/george-lucas-test-screenings-embraces-ai-hollywood-1236810656/",
+  "title": "George Lucas Says AI Makes Filmmaking ‘Easier’ and ‘There’s Nothing You Can Do About It,’ Criticizes Hollywood for Giving Fans Too Much Power",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Tue, 14 Jul 2026 21:10:49 +0000",
+  "published_ts": 1784063449,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "George Lucasによる映画制作におけるAI導入への見解と、フォーカスグループの映画化プロセスへの影響に関するインタビュー記事であり、コンテンツ制作とAI技術の実質的な関わりが主題である。ビジネス面での具体的な数字や経営戦略は薄いため、AIのみを追加。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://deadline.com/2026/07/xolo-mariduena-superman-man-of-tomorrow-blue-beetle-1236982296/",
+  "title": "Xolo Maridueña To Return As Blue Beetle In ‘Superman’ Sequel ‘Man Of Tomorrow’",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 14 Jul 2026 21:36:19 +0000",
+  "published_ts": 1784064979,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "DC映画『Man of Tomorrow』のキャスティング発表であり、俳優個人の配役告知が主要な内容であるため、コンテンツは該当するが、ビジネス面も配信優先化やアニメシリーズの企画段階などの経営/戦略的背景が言及されており、コンテンツ×ビジネスの記事として対象と判定。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52cGJueEJxanRWTVBMTEZIbnNiNER3ZHFCNXBPekJzWXlUTE5UVDItSFpFOWJCYm9KcXp4S2wycG9wNFdyRENMQUNBaw?oc=5",
+  "title": "【週末アニメ映画ランキング】「トイ・ストーリー5」2週連続で1位、興収は早くも50億円間近 : ニュース - アニメハック",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Tue, 14 Jul 2026 10:00:00 GMT",
+  "published_ts": 1784023200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画の興行成績（興収数字）を報道する記事であり、コンテンツ（映画）とビジネス（興行/売上）の両分野を主題としているため対象。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44UWFTOGtYRUI4WlZLMGs2VjhXbU0xSTdCSTBBY0ZNb1R1UTItbWVhSko0b0JnQ1B3WUkxZjRtQ0ZoNFVkd3JmYWZkQnRfMTd3eDFV?oc=5",
+  "title": "AI映画『オデュッセウス：ザ・フォール』登場 製作費数万ドルでノーラン『オデュッセイア』と同じ英雄を描く - ハリウッド・リポーター・ジャパン",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Tue, 14 Jul 2026 15:49:09 GMT",
+  "published_ts": 1784044149,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "AI技術で制作された映像作品（コンテンツ）であり、製作費の大幅削減（ビジネス）と生成AI活用（AI）の3分野が揃っており、AI映画という新しいビジネスモデルの出現を報じる速報記事。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://0115765.com/archives/195036",
+  "title": "来たる『ちいかわ』初の映画、横浜市が街じゅうで盛り上げる！新たに連携協定締結で「コラボ花火」も",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Tue, 14 Jul 2026 11:06:02 +0000",
+  "published_ts": 1784027162,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "『映画ちいかわ』の映画化作品の公開を前にした横浜市とのコラボレーション企画・連携協定締結・スポンサーシップ（花火、キャンペーン）の発表であり、コンテンツ（映画化IP）とビジネス（地域連携、スポンサー企業の協賛による施策展開）の両軸で主題が構成されている。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfdWZkdE56ZGU4TU91aXRZSk1tY0NvXzR5ZUxrclhBRGRVY29JQ2Fsc0tINEg5NFJsMER1c3RTOGdrcEZYNGkxRklVYjNFeGYtaXRtaEY3Z1Bnb2RiTUlfZWxlcFFxOEhKbGhr?oc=5",
+  "title": "映画興行成績：「トイ・ストーリー5」V2 「スター・ウォーズ／マンダロリアン・アンド・グローグー」4位に浮上 - Mantan Web",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Tue, 14 Jul 2026 11:32:38 GMT",
+  "published_ts": 1784028758,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画の興行収入成績（ビジネス指標）を報道する記事であり、コンテンツ（映画作品）とビジネス（興行数字）の両軸を満たす。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-07-14/fatal-fury-city-of-the-wolves-game-teases-new-characters-in-animated-trailer/.239596",
+  "title": "Fatal Fury City of the Wolves Game Teases New Characters in Animated Trailer",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Tue, 14 Jul 2026 14:30:00 -0400",
+  "published_ts": 1784053800,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム『Fatal Fury City of the Wolves』の新キャラクター発表とシーズン3ローンチ告知が主題であり、コンテンツ（ゲーム・IP）とビジネス（DLC・シーズンパス・プラットフォーム展開等の売上/事業戦略）が両立しているため対象。AIは関与していない。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://deadline.com/2026/07/steve-buscemi-cast-fx-anthology-series-far-cry-1236982135/",
+  "title": "Steve Buscemi Joins FX Anthology Series ‘Far Cry’ From Noah Hawley & Rob Mac",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 14 Jul 2026 20:00:00 +0000",
+  "published_ts": 1784059200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ゲームIPのFX化という映像化プロジェクトの制作・キャスト発表であり、著名プロデューサーと俳優の起用を発表する速報ですが、主題は新作の制作発表とキャスティング告知であるため、AI要素はなく、ビジネス面での詳細な数字や経営取引の深掘りも限定的です。コンテンツ（ゲームIP→映像化）とビジネス（プロダクション体制・人事）の両立は薄いため、グレーに近い対象と判定しました。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-07-14/crunchyroll-store-to-become-exclusive-to-mega-ultimate-fan-tiers-in-august/.239593",
+  "title": "Crunchyroll Store to Become Exclusive to Mega/Ultimate Fan Tiers in August",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Tue, 14 Jul 2026 13:15:55 -0400",
+  "published_ts": 1784049355,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Crunchyrollが配信サービスの店舗戦略を変更し、ストア機能を上位ティアの会員限定化する経営決定を発表した記事であり、コンテンツ配信プラットフォームのビジネス施策（サブスク料金、会員特典、eコマース戦略の変更）が主題である。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://variety.com/2026/tv/news/far-cry-fx-series-cast-steve-buscemi-1236810902/",
+  "title": "‘Far Cry’ FX Series Casts Steve Buscemi",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Tue, 14 Jul 2026 20:00:00 +0000",
+  "published_ts": 1784059200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ビデオゲーム『Far Cry』のTVシリーズ化に関する制作発表であり、キャスティング発表が主題だが、複数の制作企業（FX、Disney、Ubisoft等）の参画と配信プラットフォーム展開（FX、Hulu、Disney+国際配信）が明記されており、ビジネス的な配信戦略・IP活用の側面が実質的に組み込まれているためコンテンツ＋ビジネスと判定する。ただしキャスティング発表という性質上、確信度は中程度。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-07-14/octopath-traveler-octopath-traveler-2-games-get-switch-2-versions-with-no-upgrade-path/.239567",
+  "title": "Octopath Traveler, Octopath Traveler 2 Games Get Switch 2 Versions With No Upgrade Path",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Tue, 14 Jul 2026 11:00:00 -0400",
+  "published_ts": 1784041200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム作品（コンテンツ）のSwitch 2への新規リリースと価格戦略（アップグレードパス無し、個別・バンドル販売）という経営・販売戦略（ビジネス）に関する発表であり、両分野が揃っているため対象。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5FZTRaeGJpMVduR016akFOMUo4VmZqdXl3Z2tlU1J1VmJqMU1tbnRYLVVyYTZpZk1pdVBzUjlPVVlxanFN?oc=5",
+  "title": "やのまん、クラファン「アレサ再会プロジェクト」をスタート！GB版ゲーム復刻や新作アニメ、新作ゲームなど計画 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "sources": [
+   "Googleニュース(gamebiz.jp)"
+  ],
+  "published": "Tue, 14 Jul 2026 07:14:00 GMT",
+  "published_ts": 1784013240,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "ゲーム・アニメのクラウドファンディング企画であり「コンテンツ」「ビジネス」の2分野に該当するが、資金調達の数字や経営インパクト、ビジネス規模の実質的な掘り下げが記事本文から確認できず、単なるプロジェクト発表の可能性があるため。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://deadline.com/2026/07/keith-carradine-brie-larson-skeletons-1236981998/",
+  "title": "Keith Carradine Joins Brie Larson In Sony Pictures Horror Thriller ‘Skeletons’",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 14 Jul 2026 18:36:55 +0000",
+  "published_ts": 1784054215,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ホラースリラー映画『Skeletons』の制作発表であり、キャスト情報やプロダクション体制、ファイナンシング情報などが記載されており、映画制作のビジネス面（権利取得、資金調達、プロダクション）が主題となっているため。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://deadline.com/2026/07/club-kid-release-date-a24-1236982133/",
+  "title": "‘Club Kid’: A24’s Cannes Acquisition Dances Way Into Awards Season",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 14 Jul 2026 18:13:07 +0000",
+  "published_ts": 1784052787,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "A24が映画『Club Kid』の全世界配給権を獲得し、限定公開予定日を発表する速報記事であり、映画作品（コンテンツ）と映画館での限定公開戦略・配給ビジネスの両面が主題であるため。",
+  "ts": 1784065192.5278568
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QZVI1RlVLZjByaU15UWxEZjYzY1J1a2pLbGV0Z1lLaTlDZ0NxalR3dkdhTHk5eTRGRTcyR29pMl9Wak1KbUpzbTJXamRZNnRXSU9wWnFiSlhvTXhuNmVadFpIeDA?oc=5",
+  "title": "ナンジャタウンにジョイポリス、変化を続け３０年…レジャー多様化や「ちいかわパーク」出現にも負けず - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "sources": [
+   "Googleニュース(yomiuri.co.jp)"
+  ],
+  "published": "Mon, 13 Jul 2026 20:00:00 GMT",
+  "published_ts": 1783972800,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ナンジャタウン・ジョイポリスはテーマパーク/エンターテイメント施設で、「ちいかわパーク」など キャラクターIPを活用した施設展開、レジャー市場の多様化、施設運営の経営課題が複合的に扱われており、コンテンツ（IP・施設）とビジネス（市場競争・運営戦略）の両分野が主題と判定。",
+  "ts": 1784065192.5278568
  }
 ]
