@@ -16,7 +16,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アニメ制作会社Titmouseとイマーシブエンターテインメント企業Meow Wolfの複数年パートナーシップ契約（オリジナルアニメシリーズ制作、LA展示会のアニメーション制作、クロスプラットフォームプロジェクト）という経営レベルの業務提携・取引が主題であり、コンテンツ（アニメシリーズ・映像制作）とビジネス（パートナーシップ契約・複数プロジェクト）の両軸が揃っている。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://0115765.com/archives/195565",
@@ -35,27 +36,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "ラノベ・マンガ出版社の上場後初の業績下方修正であり、アニメ化書籍の売上未達やマンガ・電子書籍事業など、コンテンツ産業の経営・決算数字が中心の主題。ビジネス面の具体的な数字・背景分析が充実しており、AIには該当しないため。",
-  "ts": 1784151739.93395
- },
- {
-  "url": "https://news.animenomics.com/p/comici-builds-magazine-style-digital-manga-apps",
-  "title": "Comici builds magazine-style digital manga apps",
-  "source": "Animenomics",
-  "sources": [
-   "Animenomics",
-   "Anime News Network"
-  ],
-  "published": "Wed, 15 Jul 2026 12:03:56 GMT",
-  "published_ts": 1784117036,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "漫画デジタル化プラットフォームのビジネスモデルと市場戦略を掘り下げた記事。Comichiのサービス展開、出版社との連携、海外進出などビジネス面が主軸であり、漫画産業の構造変化（編集機能のデジタル化）という経営的課題を扱っているため、コンテンツ＋ビジネスで対象。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ua2FVQmJlbUdCQTJpTlZvWGNqUk9zcnhPYnFDSTNtU3RMX0xNd2MyOVA2RXFLblpxOXA2VTVPalY0WnJxaXRVS0VIYk5SSjNwTEc0cFhR?oc=5",
@@ -74,7 +56,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "映画『トイ・ストーリー5』の興行成績（ビジネス数字）を報じる記事であり、コンテンツ（映画）とビジネス（興行/売上）が主題として揃っているため。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://deadline.com/2026/07/cats-jellicle-ball-broadway-closing-1236983195/",
@@ -93,7 +76,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "ブロードウェイ・ミュージカル『Cats: The Jellicle Ball』の早期閉幕を契機に、ブロードウェイの経営危機・制作費高騰・投資回収困難といったビジネス構造の課題を、作曲家アンドリュー・ロイド・ウェバーの主張と業界関係者の反応を交えて深掘りした記事であり、コンテンツ（演劇作品）とビジネス（興行成績・経営課題）が主題である。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://www.cartoonbrew.com/music/legend-of-kora-in-concert-264563.html",
@@ -113,7 +97,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アニメコンテンツ『The Legend of Korra』を軸とした新しいコンサートツアーの発表であり、Paramount等による企業の商業的な展開・投資・ビジネス戦略が主題。Paramountの経営上の変化にも言及されており、コンテンツ×ビジネスの典型的な該当案件。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-15/mad-cave-studios-develop-comic-based-on-konami-contra-games/.239610",
@@ -132,7 +117,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "ゲーム（Contra）を原作とするコミック化というコンテンツ制作、ライセンス契約およびメディアミックス展開によるビジネス取引が主題であり、コンテンツ×ビジネスの2分野が揃っているため対象。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFN4R1JGRlp2YkNVc1VyQW1pVmZQYVJwakZBNy1jQk51Nl9QMzB1N2RkcUQzOWxwSVIwVDg1c0pkZlBYNGh2aDE4MkFuWHpvZUgxRTdWS1R2ck1pR0tKS1JJUjBKNDBIc0s5dmplMm5FMGJXd2syTjVLWi1WaG1RbjJMMHk5OGg2TUdtUURxUGhUeGV4ajBMS2Nn?oc=5",
@@ -151,7 +137,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "映画制作者の15年のキャリアと現在のAI活用への転換という個人的な経験を軸にした深掘り記事であり、映像コンテンツ制作業界においてAI技術がどう導入されているかの考察・オピニオンが主題であるため。ビジネス面の具体的な数字や取引は不明だが、コンテンツ×AIの実質的な交差として対象に値する。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fcXVmMG9vQkV0di1jc2t6RnhnZUVIUVMzWXNWdzVNdWt3WG9fZldwZUNCR1VWRzZXSTM0WTdpRUNUMmt6R1JiUWtvLV9pajVWbV9wMjNxRXdMeVBwbXhmWnF3?oc=5",
@@ -171,7 +158,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "エンタメ(コンテンツ)産業におけるAI技術の影響と、ソニーグループという大手企業の経営・戦略的な見解を扱う記事で、コンテンツ、AI、ビジネスの3分野が揃い、AI脅威論の妥当性を掘り下げた考察記事であるため対象。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMGNTV3RSSFVlU2ppZnc4ejVudVdSOEFHczIzR1RCbm12TEFTQzVPYVlnZUZ2NGFYQ0RhLS1LSXMyS0pRNzJnd2lSM2N1b0I5aDBIUXBzb1NsWW1DLWFRZjd2cko2NDVacFBKREdUNGVBdXFobk5tdVNfUnpOdnRRX2ltaC1DRTZ6WE5rM0NPd0hyVUtqUGkwV2JWLU4tNEREX1dFV1gyb0NVSWRwcnVBcnRoSTd5QQ?oc=5",
@@ -190,7 +178,8 @@
   "label": "対象",
   "confidence": "中",
   "reason": "映画製作IP（Alvin and the Chipmunks）の制作発表と2028年公開予定という具体的なビジネス日程が含まれており、コンテンツ×ビジネスの組み合わせだが、詳細情報が限定的なため信頼度は中程度。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://deadline.com/2026/07/13-going-on-30-reboot-casts-jessica-alba-1236983044/",
@@ -210,26 +199,8 @@
   "label": "対象",
   "confidence": "中",
   "reason": "Netflixの映画リブート製作におけるキャスティング発表であり、コンテンツ（映画制作）とビジネス（Netflix配信・制作投資）に関わるが、主には新作の制作発表が主題であり、経営的な実質はやや限定的です。",
-  "ts": 1784151739.93395
- },
- {
-  "url": "https://animeanime.jp/article/2026/07/15/101097.html",
-  "title": "赤魚の煮付が食べられる!? 「映画ちいかわ」セブンイレブンとコラボ！ 島ラーメンやカツカレーなど作中の食べ物全10品＆限定グッズが登場",
-  "source": "アニメ！アニメ！",
-  "sources": [
-   "アニメ！アニメ！"
-  ],
-  "published": "2026-07-15T09:30:03Z",
-  "published_ts": 1784107803,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映画『ちいかわ』とセブンイレブンのタイアップキャンペーン発表であり、コンテンツ（映画・グッズ）とビジネス（商品展開・キャンペーン実施）が明確に揃っているため。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-july-13-1236811918/",
@@ -248,7 +219,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "ゲーム業界のニュースまとめで、複数のゲームタイトルの発表・更新情報と、Saber Interactiveの新任命（ビジネス人事）、ゲーム出版社の人事異動や提携発表など、コンテンツ（ゲーム）とビジネス（経営・人事・提携）の両分野が主題である。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://deadline.com/2026/07/g-i-joe-movie-danny-mcbride-1236983118/",
@@ -267,7 +239,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "古典的なコンテンツIPであるG.I. Joeのハスブロフランチャイズ映画化がパラマウントで進行し、監督にダニー・マクブライドが起用されたという制作決定・人事発表が主軸であり、映像コンテンツと映画制作・スタジオの事業展開（ビジネス的な優先度言及含む）が関わっているため。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpZUhCc191a25lS05kYy1qVjZaUzJ5LTRpc1hocUtnVUxGcmdlTHZMbm5LM3Nqd1BFMDU3clF6S2tCaVhvc2FjQk9fSkFyQ3dSNFgyeU1B?oc=5",
@@ -286,7 +259,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アニメ映画（ケロロ、アンパンマン）の興行成績を報じており、コンテンツとビジネス（興行収入）の両軸が揃っており、映画ライターによる興行ウォッチング記事として対象。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaS1SbklhSlNYOWNPZU5wOVRNMW50aUxwOUlPWmM3bFp6cFFrUThLOTRfS3FObklHTzBaeEl3ckNBV2NjQ1BrRWZ3YXo4MmtuakhkZjFvcGdIWHNBeXNidl9PeWVaOHhCSFg1VFRCRmpETHdyc3NmQUs0b3E2YWluN2s3UmRWSnduanZQQjZfc2M4LW5MM3RpekRocmpJalZmcDlLNFd1Tk82WlZSTHMzQlVqdVJCZ2ozUERKUg?oc=5",
@@ -305,7 +279,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "映画『The Odyssey』の興行成績（ボックスオフィス）が記事の主題であり、コンテンツ（映画）とビジネス（興行数字）の両軸で該当する。",
-  "ts": 1784151739.93395
+  "ts": 1784151739.93395,
+  "is_new": false
  },
  {
   "url": "https://deadline.com/2026/07/des-carey-elephant-goldfish-lucasfilm-samsung-1236983783/",
@@ -324,7 +299,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "映像制作（VFX/ポストプロダクション）企業への人事異動と戦略的成長を主題とした記事であり、コンテンツ産業の経営・事業拡張に関わるビジネス記事として該当します。",
-  "ts": 1784192433.463716
+  "ts": 1784192433.463716,
+  "is_new": false
  },
  {
   "url": "https://0115765.com/archives/195658",
@@ -343,7 +319,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "ウェブトゥーン（漫画/コンテンツ）関連の資本業務提携解消という経営判断（ビジネス）が中心で、M&A関連の企業戦略変更を報じた速報記事。コンテンツ産業における投資・提携の実質的な動きであり、コンテンツ×ビジネスの2分野で対象に該当。",
-  "ts": 1784192433.463716
+  "ts": 1784192433.463716,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nM2dpVG9OU3V4SkwzSkxhMG9HVlJnNnhsc2t3aGhsTFV1R0JpUFJwTG52MWxwMkd1eExGQlNoZHVPVXYwNVgxbDZlQ1RfbXZfdVNCVXZRZGlaYk5KNVI0WmdweGtPVDF4aXRhelptQlRMTnVodU5QZGFyYnZKRjg?oc=5",
@@ -362,7 +339,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アニメ制作大手IGポートの決算発表で利益が予想から大幅下振れした経営・数字の動きが主題であり、コンテンツ企業のビジネス動向として対象に該当する。",
-  "ts": 1784192433.463716
+  "ts": 1784192433.463716,
+  "is_new": false
  },
  {
   "url": "https://0115765.com/archives/195564",
@@ -381,7 +359,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "東宝の第1四半期決算発表で、アニメ・映画などコンテンツ事業の営業収入・利益が主題であり、会社分割による会計処理や各事業セグメントの数字という経営・ビジネス面の実質的な分析を含むため、コンテンツ＋ビジネスの2分野が揃っている。",
-  "ts": 1784192433.463716
+  "ts": 1784192433.463716,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tVTZ2RWZFQmhRSUdXMXNONGJKeER1STFzdGZaempjTU1nNFZEQWRvTHBrY1FMUU1DVWdycTdBanM4U1cxdnNFTVB0Nl9wTHFPTFRIN0Jidlo1SW9HLTR6LUFxeVBJa3M?oc=5",
@@ -400,7 +379,8 @@
   "label": "グレー",
   "confidence": "中",
   "reason": "IPビジネスの分析記事だが、生成AI等の具体的なビジネス活動の主題は不明で、また提供されたテキストが見出しのみのため、実際の本文内容がコンテンツ×ビジネスの交差点をどの程度掘り下げているか確実に判断できない。",
-  "ts": 1784192433.463716
+  "ts": 1784192433.463716,
+  "is_new": false
  },
  {
   "url": "https://0115765.com/archives/195587",
@@ -419,7 +399,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アニメ制作大手IGポート傘下のProduction I.G.・WIT STUDIOを持つ企業の決算発表で、映像制作事業の進捗遅れと受注損失引当金が利益悪化の主要因という、コンテンツ産業のビジネス（経営・決算数字）が明確な主題である。",
-  "ts": 1784192433.463716
+  "ts": 1784192433.463716,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSeklOQnRSN3RzbGdFczRLMG5qYW16VXNnTlRqZFI2VjZEVVVuOVR5d1M5TGRxT1Jxc1pqN044M2JmWmllbU0yaHA3eXhfS1lTMGZRUDZWS1A?oc=5",
@@ -438,14 +419,16 @@
   "label": "対象",
   "confidence": "高",
   "reason": "TikTokのプラットフォーム上でのAI生成コンテンツの透明性施策が主題であり、コンテンツ配信プラットフォームにおけるAI技術の運用・規制が中心の記事のため、コンテンツ＋AIに該当する。",
-  "ts": 1784192433.463716
+  "ts": 1784192433.463716,
+  "is_new": false
  },
  {
   "url": "https://deadline.com/2026/07/youtubers-netflix-ratings-ms-rachel-mark-rober-podcasts-1236984539/",
   "title": "YouTubers Bolster Netflix Viewing As Ms. Rachel & Mark Rober Score For Streamer But Video Podcasts Struggle To Break Through",
   "source": "Deadline",
   "sources": [
-   "Deadline"
+   "Deadline",
+   "Googleニュース(hollywoodreporter.com)"
   ],
   "published": "Thu, 16 Jul 2026 20:53:04 +0000",
   "published_ts": 1784235184,
@@ -457,7 +440,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "Netflixの配信戦略としてYouTubeクリエイターとの契約および視聴数データ（興行/ビジネス面）が主題であり、コンテンツ（動画配信プラットフォーム上の作品）とビジネス（配信戦略・視聴数・契約）の2分野が該当する。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://0115765.com/archives/195662",
@@ -476,7 +460,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アニメ制作大手グループの決算・業績予想の下方修正が主題で、映像制作事業の予算超過損失（約7.7億円）や人件費高騰による利益圧迫などビジネス実績の数字が中心。コンテンツ企業の経営・経営課題を扱う記事であり、コンテンツ×ビジネスが明確に該当する。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43VF8ybE0zbEpNRTMwRk53Q21yUzljcGpLbC00NWhNaXlOcEpUYVM4QXo2YTR4Ym1iQU45TW5vX2IwTDY4OWVJNGJ5S252Qno0Y2FwWkZDaw?oc=5",
@@ -495,7 +480,8 @@
   "label": "グレー",
   "confidence": "中",
   "reason": "アニメタイアップ（コンテンツ関連）の発表だが、本文が不明で詳細なビジネス実質（契約内容・規模・売上予測など）が確認できず、単なるタイアップ告知に留まる可能性が高いため確信度は中程度。取りこぼし最小化を優先してグレーとする。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUs2dWZEaXRMT3hvUUNuemRMYk1IZm5yUHRlY0pUZHpxbTk2bmIxRXJqMWo1MUw2eGxCSnYtczZzNkl5eUVhZnFOd0E2UnFCbFFtYWFqTXNiMmZvZ19MWlgyYVppMmxmVmtiOFlWUlgtbXdZZnFUOV8zUWM3Y2RGTWhRQVVjTmVveC1HcjhMYm1RaGNXNjZuNlBrWlBkQQ?oc=5",
@@ -514,7 +500,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アニメの物理メディア（BD/DVD）販売に対するストリーミング配信サービスの影響という、コンテンツ産業のビジネス構造に関わる考察記事であり、コンテンツとビジネスの両軸が主題。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://variety.com/2026/film/news/box-office-rebound-brent-lang-daily-variety-podcast-1236813285/",
@@ -533,7 +520,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "映画業界の興行成績回復とその背景を分析するポッドキャストエピソードであり、興行収入や映画市場の動向（ビジネス）がコンテンツ産業（映画作品）と絡み合う記事。AIは含まれない。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://variety.com/2026/film/news/why-no-more-imax-70mm-screens-the-odyssey-christopher-nolan-1236813019/",
@@ -552,7 +540,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "映画『The Odyssey』のIMAX 70mm上映という映像コンテンツの制作・配信の課題が主題であり、プロジェクター製造・供給・劇場インフラ整備といったビジネス・産業面の構造的な問題を深掘りした記事。AIは関連なし。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://www.cartoonbrew.com/distribution/avatar-aan-the-last-airbender-theatrical-264579.html",
@@ -571,7 +560,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アニメ映画の劇場公開戦略とParamount+への配信移行という、コンテンツの配給・流通ビジネスの決定が主題であり、コンテンツ×ビジネスの該当記事。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40NUFnWDB6ckJINU5jTXZrQ2dZaWI1TS1jUk5XeWlHMm5jcW1PQnk2SmVlME9hQWVGWksxUTN6VGFpUGRUV3ozLWxLLXBmTXEwVURmTjZyT2tYSnlaQWUxTmhsQVF4aFRaNzZ6NGRTSk1iTTA?oc=5",
@@ -590,7 +580,8 @@
   "label": "対象",
   "confidence": "中",
   "reason": "茨城県の観光消費額が過去最高を記録した速報であり、アニメ活用による観光振興がビジネス（消費額・市場規模）に直結した事例として、コンテンツ×ビジネスの該当記事と判定した。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://animeanime.jp/article/2026/07/16/101134.html",
@@ -609,7 +600,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アイドル育成ゲーム『あんスタ』とフィットネスゲーム『Fit Boxing 3』のコラボレーション、有料追加コンテンツ配信という、コンテンツIPのライセンス取引とビジネス（販売価格・配信日・販売サイト等の商品化）が明確に主題であり、コンテンツ＋ビジネスの条件を満たす。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-16/prinny-party-going-overboard-game-heads-west/.239687",
@@ -628,7 +620,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "ゲーム作品の西方リリース発表であり、コンテンツ（ゲーム）とビジネス（出版社による海外展開・配信プラットフォーム展開）が主題。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44M0R0b0NneENaajNSMU9FenYzT25SYWNhaVdHY2ZUeTN5U2tFNW5GMzhrWXJNNWl5RGJFYXdhTGhWYUU3dlJPX0ZlR0pXMlNXZ0NLd2lOSUk3RjFsU2cwQnRGbEo?oc=5",
@@ -647,7 +640,8 @@
   "label": "グレー",
   "confidence": "中",
   "reason": "映画祭での映画制作とAIに関するインタビュー・語り部であり、コンテンツ＋AIが主題だが、記事本体の詳細が確認できず、実質的にAI技術がビジネスや制作の主題か、または単なる意見交換か判断が困難なため。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://deadline.com/2026/07/movies-about-ai-tech-titans-coming-1236984054/",
@@ -666,7 +660,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "映画化されるAI関連作品（『Artificial』『The Social Reckoning』など）と、その制作・配信・興行ビジネスの動きが中心であり、AI産業の今後と映像産業の交点を分析したオピニオン記事であるため、コンテンツ＋ビジネスで対象。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhY1hJUHgyUGphUnJxdjUxd3RxQTBqYWo0NmhBZTl3SjE0eXRON05JMkRCR3Z6UkFVbHNzYjcyZlozM1ZQT0VqbF9rLUhLWGFmWFUwMy1QMVd1a19jRWEtNmtuOXpUVEZTNXQ5QlF4enl6dw?oc=5",
@@ -685,7 +680,8 @@
   "label": "対象",
   "confidence": "中",
   "reason": "複数の有名IPを取り上げ、その長期的な成功要因やビジネス戦略を分析・解説する記事であり、コンテンツ（IP）とビジネス（市場・経営戦略）の両軸が主題であるため。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSU5JU2VQMlA3LTkxRV9KOHVrUjdXNGJaaTFzNWNrUGtjcGI0Wl9IQTZ0V3lmMmJsbHFucDIwWTc1OHU0TXJyZXRtTnhOODVYZTVCcFZmb0c1UFhGclBtcjdDOVlDQ3hOYnpDS19NVVJYcWVZemt5RGRLT01kMEVWYW1sRnBOWjJXUHhJTzJhZmhSUzNyUktuSWUzLVU5MVFrdzBUNmY2dHQ0dFhpX0F3ZlVST1RLZw?oc=5",
@@ -704,7 +700,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "映画作品（コンテンツ）の制作予算と興行成績（ビジネスの数字）を扱う記事であり、コンテンツ＋ビジネスの組み合わせで対象に該当する。",
-  "ts": 1784236874.0197482
+  "ts": 1784236874.0197482,
+  "is_new": false
  },
  {
   "url": "https://www.cartoonbrew.com/series/duckman-reboot-opening-gabor-csupo-264612.html",
@@ -724,7 +721,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "懐かしいアニメシリーズDuckmanの復活企画について、AI生成による新オープニングの品質問題、ビジネス面での配信プラットフォーム展開の報告、そして著名なアニメクリエイターによる企画の真意を深く考察した記事であり、3分野すべてが主題に含まれている。",
-  "ts": 1784278828.827896
+  "ts": 1784278828.827896,
+  "is_new": false
  },
  {
   "url": "https://0115765.com/archives/195853",
@@ -743,7 +741,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "電子書籍配信サービス（コンテンツ）の運営企業の決算赤字、親会社変更、買収・再編といったビジネス（経営・M&A）が記事の主題であり、コンテンツ+ビジネスの2分野が揃うため。",
-  "ts": 1784278828.827896
+  "ts": 1784278828.827896,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nZDlqVEhxcm4xNE1Xa09hUTd3Z3FyejhtVFE5Ym1uTmVBZTNrbXR1dm5Oem1wNVRyS1ExZktFZGRvcE0zMXZkeEVLcmQzSWY5cGdTNk5LdlNXRGQ3NUE?oc=5",
@@ -762,7 +761,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アニメ制作会社MAPPAによる劇場版「チェンソーマン」の単独出資と、IP保有による多角展開という経営・資本戦略が主題であり、コンテンツとビジネスの両軸が明確に該当する。",
-  "ts": 1784278828.827896
+  "ts": 1784278828.827896,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1fOGJlbVF6RUVzLXM3TENCMEhZRVd0UXFNZ0doMGs5cGZRY3pKMHhDdHA3bGlmZDVKLXVGZW5zWVgwUFRM?oc=5",
@@ -781,7 +781,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アニメ・ゲーム・エンタメ企業のIP創出戦略と世界展開を扱う企業図鑑記事であり、コンテンツ産業のビジネス面（IP戦略、市場進出）が中心的な分析対象となっているため。",
-  "ts": 1784278828.827896
+  "ts": 1784278828.827896,
+  "is_new": false
  },
  {
   "url": "https://variety.com/2026/film/news/jacqueline-fernandez-ai-avatar-1236812467/",
@@ -800,7 +801,8 @@
   "label": "グレー",
   "confidence": "中",
   "reason": "ボリウッド女優がAI技術を活用したデジタルアバターを立ち上げた事例であり、コンテンツ（映画女優）とAI技術の組み合わせは明確ですが、ビジネス面（企業名・技術企業の資金調達・市場規模など）の記述が薄く、主題がAIアバターの機能・個人ブランド展開であるため、映像産業への実質的な経営・ビジネス的影響が不明瞭です。",
-  "ts": 1784278828.827896
+  "ts": 1784278828.827896,
+  "is_new": false
  },
  {
   "url": "https://0115765.com/archives/195781",
@@ -819,7 +821,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "映画『ゴジラ-0.0』の公開を記念した大型プロモーション・マーケティング施策であり、東宝とドジャースの提携によるコラボレーション企画であるため、コンテンツ（映画作品）とビジネス（プロモーション・提携・マーケティング戦略）の両方が主題として含まれている。",
-  "ts": 1784278828.827896
+  "ts": 1784278828.827896,
+  "is_new": false
  },
  {
   "url": "https://deadline.com/2026/07/pvr-inox-sanjeev-kumar-bijli-the-odyssey-dhurandhar-cannes-1236983077/",
@@ -838,7 +841,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "インド映画市場の興行成績・チケット売上・経営数字を中心に、PVR Inox会長への独占インタビューで市場動向・戦略を掘り下げた記事。コンテンツ産業（映画館・興行）とビジネス（決算・収益構造・拡張戦略）の両軸で成立し、AIは関わらない。",
-  "ts": 1784278828.827896
+  "ts": 1784278828.827896,
+  "is_new": false
  },
  {
   "url": "https://animeanime.jp/article/2026/07/17/101153.html",
@@ -857,7 +861,8 @@
   "label": "グレー",
   "confidence": "中",
   "reason": "漫画作品の配信キャンペーン発表であり、プロモーション・宣伝が主目的で、AIは関与せず、ビジネス側面も配信施策の告知に留まる点から実質的には対象外に近いが、電子コミック配信サービスの施策という配信ビジネスの動きを含むため、境界事例として判定。",
-  "ts": 1784278828.827896
+  "ts": 1784278828.827896,
+  "is_new": false
  },
  {
   "url": "https://variety.com/2026/tv/news/god-of-war-recast-kratos-actor-ryan-hurst-injury-1236814409/",
@@ -876,7 +881,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "PlayStation『God of War』の実写ドラマ化プロジェクト（コンテンツ）における主演俳優の交代と制作スケジュール変更（キャスティングの人事異動ではなく、制作進行・予算・スケジュール管理に関わるビジネス上の重大な変更）が主題であるため、コンテンツ×ビジネスとして対象に該当する。",
-  "ts": 1784278828.827896
+  "ts": 1784278828.827896,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZMTRfampObnBMTFA5SGloaEpva2dkRkJMc2V5UUt3TG1CYm1KYU1kMGVNcXhRaGhlOU9TNV94blU3Z1dWcFdOU200VUJYM1BFQWhoWjJZeFA3dkpkRGxJSDhWX3B4cHc?oc=5",
@@ -895,7 +901,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "Netflixが配信する映像作品（コンテンツ）にポストプロダクション工程で生成AIを実際に活用している具体的な事例であり、コンテンツとAIの両分野が主題だが、ビジネスの数字・経営的インパクトの記述が薄いため。",
-  "ts": 1784278828.827896
+  "ts": 1784278828.827896,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTW1mZzE2Z21adjlKVDR2YTlad3pBM0ZUNzdBYXFGbERJNmRGZzV3Um5RU2x2NGM0SjZ2RmlJQnk4Um5KVFVicjV2V3JvVG9uWW13RXQxRmlnUmJRbTM2dFdQaVlfamphQlpNRi1Gb2Q4bVRrc05OOVRhLXM5SkVudjl2SVFtM2FweXFfNmdEOVB4WmFEaVNYTW9wRGt2X0xmcHZPMTVqOHNDeGttRlJ0WlNNUQ?oc=5",
@@ -914,7 +921,8 @@
   "label": "対象",
   "confidence": "高",
   "reason": "GTA 6（ゲーム作品・コンテンツ）の初週売上予測という経営・数字に関わるビジネス分析であり、コンテンツ×ビジネスの軸を満たすため対象とする。",
-  "ts": 1784278828.827896
+  "ts": 1784278828.827896,
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yekt5aHpybnVKZFNkaEhYRDdXcFF2eUJsTkx5QW9vY29YNHdsQmpPWnliSDlmX19JU3lxLVRSRWVqSFFUOUQyYkV0V2w2czdKcW1GSzVxcTh2VDBjZWpEYW01ZVdhc2hoN0JWMQ?oc=5",
@@ -934,17 +942,18 @@
   "label": "対象",
   "confidence": "高",
   "reason": "Netflixが配信作品の制作にAIを活用し制作期間短縮・コスト削減という実績を発表しており、コンテンツ（映像配信作品）、AI（生成AI活用）、ビジネス（制作費削減などの経営効率化）の3分野が揃っている。",
-  "ts": 1784278828.827896
+  "ts": 1784278828.827896,
+  "is_new": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5UMVp3MDhoNTdtMmVHal9HV19JZFNQS0JEb3lyd3hwVWFLUzc2M05Xb0RObENwRXlhbWxUcjAxTTZmN3RF?oc=5",
-  "title": "IGポート、26年5月期決算は営業利益46％減の7億6600万円 予想を10億2500万円下回る 出版と版権好調もグッズ想定下回る アニメ制作で受注損失引当金も - gamebiz【ゲームビズ】",
-  "source": "Googleニュース(gamebiz.jp)",
+  "url": "https://0115765.com/archives/195873",
+  "title": "僅か2週間で50万再生…今期屈指の異色作『ヤニねこ』がニコニコで熱烈支持　流れるコメントと「相性良すぎる」評判",
+  "source": "アニメ業界ニュース(0115765)",
   "sources": [
-   "Googleニュース(gamebiz.jp)"
+   "アニメ業界ニュース(0115765)"
   ],
-  "published": "Wed, 15 Jul 2026 09:14:00 GMT",
-  "published_ts": 1784106840,
+  "published": "Fri, 17 Jul 2026 11:40:11 +0000",
+  "published_ts": 1784288411,
   "themes": [
    "コンテンツ",
    "ビジネス"
@@ -952,7 +961,128 @@
   "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "アニメ制作会社IGポートの決算（営業利益減少・赤字引当金）という経営・お金の実質が主題であり、コンテンツ＋ビジネスが明確に該当するため対象。",
-  "ts": 1784278828.827896
+  "reason": "ニコニコ配信のアニメランキング発表で、複数作品の再生数・人気度などの数字と配信ビジネスの成果が中心。コンテンツ（アニメ作品群）とビジネス（配信成績・再生数などの数字）が主題だが、AI要素は無い。",
+  "ts": 1784290774.8416052,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1l6a3U3dnhLZE1LNUNOV1p2NjVYQ2JkaXFyd1o5SHpVc2VVQkJNVjlDalJkcTZwRFQ2UDg2N0RENkV5RjJpdVBYeUFsMVFQeFpIWnRYZGdNN254T2FCNHRUS081em1LcFdoeFgzSWhQU0Y0VkVaVGFWS0NZMWQydFZ5bkxBVUlUVWlKbGI2dDVLQ09HM3ljQzBnRXNkZUZfRFhjMVFNQy1oWUhucDIw?oc=5",
+  "title": "『鬼滅の刃』や『ソロレベリング』を手掛けたスタジオが、アニメ制作にAIを導入することを検討している。 - Vietnam.vn",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Fri, 17 Jul 2026 09:42:08 GMT",
+  "published_ts": 1784281328,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "有名アニメスタジオのAI導入検討は記事タイトルの中心だが、本文が極めて短く実質的なビジネス影響（コスト削減数字、経営判断の背景など）の記載が不明確なため、AI×コンテンツの関連性は確実だが2分野の充足度が微妙であるため。",
+  "ts": 1784290774.8416052,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/07/bbc-names-poppy-dixon-documentary-head-sky-1236996691/",
+  "title": "BBC Names New Docs Chief",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Fri, 17 Jul 2026 11:18:10 +0000",
+  "published_ts": 1784287090,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "BBCの重要なドキュメンタリー部門の人事異動（経営・組織体制）で、映像制作部門の経営判断が中心であり、コンテンツ産業とビジネス（組織再編・人事施策）の両軸を満たすが、AI要素がなく、また人事発表が主体であるため信頼度は中程度。",
+  "ts": 1784290774.8416052,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/195882",
+  "title": "『ワールドダイスター』スマホゲームがサービス終了へ　TVアニメ化も果たした“演劇”ガールズ作品として約3年運営",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Fri, 17 Jul 2026 09:02:30 +0000",
+  "published_ts": 1784278950,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ化を果たしたスマホゲーム『ワールドダイスター』のサービス終了発表であり、ゲーム事業（コンテンツ）の終了という経営判断（ビジネス）が主題となっている。",
+  "ts": 1784290774.8416052,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/07/ghana-creative-economy-initiative-2026-1236996657/",
+  "title": "‘S.W.A.T.’ Creator Aaron Rahsaan Thomas & ‘Origin’ Producer Paul Garnes Among Names Set For Inaugural Ghana Creative Economy Initiative",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Fri, 17 Jul 2026 09:21:56 +0000",
+  "published_ts": 1784280116,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "アフリカの映像制作人材育成と創造経済発展を目的とした業界イニシアティブの発表であり、コンテンツ産業（映画・TV制作）とビジネス（投資、市場形成、国際協業）が主題だが、AI技術の言及がないため3分野には該当しない。",
+  "ts": 1784290774.8416052,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/global/san-sebastian-j-a-bayona-fernando-trueba-isabel-pena-1236814520/",
+  "title": "San Sebastián: New Titles From J.A. Bayona, ’The Beloved’ Scribe Isabel Peña and Fernando Trueba; Mikel Gurrea, Berto Romero and Roberto Bueso Set for Competition",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Fri, 17 Jul 2026 10:42:07 +0000",
+  "published_ts": 1784284927,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "サン・セバスチャン映画祭への作品選出という映像コンテンツ業界のイベント・選出ニュースであり、制作会社、配給、放送局などビジネス面（製作・配給体制）が主題に含まれている。",
+  "ts": 1784290774.8416052,
+  "is_new": true
+ },
+ {
+  "url": "https://animeanime.jp/article/2026/07/17/101162.html",
+  "title": "SOS団のエンブレムも！ 「涼宮ハルヒの憂鬱」ハルヒの制服をイメージしたカラーリング♪ 限定2000点のセイコーコラボ腕時計が登場",
+  "source": "アニメ！アニメ！",
+  "sources": [
+   "アニメ！アニメ！"
+  ],
+  "published": "2026-07-17T09:10:06Z",
+  "published_ts": 1784279406,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ『涼宮ハルヒの憂鬱』の放送20周年記念商品（腕時計）の発売告知であり、限定数・価格・発売日などビジネス情報（商品化・販売）が主題。コンテンツ＋ビジネスの組み合わせで対象。",
+  "ts": 1784290774.8416052,
+  "is_new": true
  }
 ]
