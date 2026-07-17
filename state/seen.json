@@ -358,5 +358,425 @@
   "source": "Variety",
   "label": "対象外",
   "ts": 1784293334.65393
+ },
+ "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkt0dE84ZklMQVJJRkFJNFY3ZU9xTWhHWml2VEYyTm9aNVRPYWNOWmJyb1lUak9udF84UUQwX3BTd3VNMUM5aWMwNmF2YzFvZHBUSG03T2h5RXk5U0ZOWThYOE9kREpYWDFFZnVIMUd2UFdlaXMwRXFkNm5CcHdMRlJDcHlLQ3lIRTZxQVNJUGU5UlRtY2hLb0Fn?oc=5": {
+  "title": "Spain Invests Another $7.4M In Animation With Amuse Animation - Cartoon Brew",
+  "source": "Google News: anime studio acquisition OR investment",
+  "label": "媒体加算",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMiggJBVV95cUxQaGRBc1VvYUNMR0cyX0pkUGhJOHhWR0VlLUl1RFVNZVVveEpmU241VFhvNnNhZWM2R3d2bllaN09TZEJCWmhmNm5Wd2hPU0Z6ckV5S1VWUEJrVGxnSHdYcC05Z0JrSkUwNnY2YVZWcWhXYmptZ3puOUFkdjEwUEtEX2NpLUZOVW1LYmdlX2VTZzI0ZUkwUmZzeHROUDZoazdOdkgtcVFYZkh3TVV1bThSaWZ6Nlp1dmdrakdRS1Q3MlpOdDdpTFdiVHBwZlA2TTA4aXFSQjF1WDkxZWI3QzIzYkdBajczMzRzUi0zc0g0Vzd4aE5tQ2dWeE5pRVVyemVWalHSAYcCQVVfeXFMTVRVZlNIYktHOHRXUDFHUDNrQ2VQbVdlRV84WEx5SXROMWZwazlmdHQzd2ZzVDZMSTYwdXJKWE8tZXJCNkNsVWxFR2NmTV9HU3paaEZ0M1Y5cS15Mkw2SFBOV21IQXlWYVNuZ01wMW1CODRaWGF4ZnlNT1hpbGpnbnV3SFNnbzdVcDU5Y0pGdDIyVU5ZZ01MZ3B1bXBGNllWMFhxbUwyZm1KQ0xOeGtGTjVwZUtjQ2dqcDd4ckVlaC1pRWZZOGVyTUg4cWFYUVJMczdvYXJfbk9ESzBWOWZBTUN0VmZyNFZySTEyYWJKai1ZQ3AwYVMtdU16S29EcXYtWnZHcUtfQ0U?oc=5": {
+  "title": "Netflix admits using generative AI in the post-production of around 300 titles to create … - The Times of India",
+  "source": "Google News: generative AI animation OR anime",
+  "label": "媒体加算",
+  "ts": 1784323160.387949
+ },
+ "https://www.cartoonbrew.com/artificial-intelligence/netflix-genai-300-titles-in-first-half-2026-264631.html": {
+  "title": "Netflix Used GenAI Workflows On Nearly 300 Titles This Year So Far",
+  "source": "Cartoon Brew",
+  "label": "媒体加算",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM2wwYV9KYTlmVkFPOEsyaVM3VF9BdVloaVU5OVBkbTBDY0NlaTN1WDdNWFlKdEQ4YU02LTc5a05yalFSQU9USmFDa2F4RkYxRjctcmJTc053RmhEVTFUZ1dBanFzaVk4LU43UXZ2OVhTMnBSX3lxbnliTXJPeDQyajUzOU1VU3pBRjQ5Q1ZPaWVxbm5DdExEWnMxWmk?oc=5": {
+  "title": "Brenda Fricker, Oscar-Winning Actress in ‘My Left Foot,’ Dies at 81 - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "重複スキップ",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV1ozTmotSGk2M0UyQWhMYXVUX1dPM2lLQXdQWjVCM09qSTRnVkhlV1VOQmdlYjdoV0pBQnVlMFpCSEFqU2o4U2haenhsWjdvcHBTU183SGRuZTZJd0FuRWlwN2M3ZzRfRVUxQWVjOUllY2k3SUp2RjlFNTdwVnI1U09BT3Nma1J5TnBHN2l2NzYxb1I1YXVSdzhPV2NWTWZXMDV4aHNCdjV6VVFHM0pqLXVLUy1vUQ?oc=5": {
+  "title": "Danny Boyle’s Rupert Murdoch Drama ‘Ink’ to Open Venice Film Festival - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "重複スキップ",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMirwFBVV95cUxORElVb05rdTgzY1QxQUJWRnZoSnRrLWlXUUVHMEhCYXJRb05keEFqeWpucWlVR1FfNkt6VjlBaHRSakJSSkFnVnZCa0NVVWRsb0h2OGF6R0p4QzFuVzVPU2hQMTJqdzJGYTQwTkV1UWcxVlhSeml0YXJKZ211N0NWOEJWeDdSZG93c0xpdTQxOWxsclhlMWp5V1EycTY3b2xhd3E0OGx2NDczdlVpQWow?oc=5": {
+  "title": "Hedge Fund Symmetry Gets Regulatory Nod to Operate in Dubai - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "重複スキップ",
+  "ts": 1784323160.387949
+ },
+ "https://variety.com/2026/film/global/sitges-festival-monica-garcia-costa-rica-media-market-1236812257": {
+  "title": "Sitges Film Festival’s Monica Garcia at the Costa Rica Media Market: ‘We’re Waiting for the Next Issa Lopez’",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtV1lvVVFWTnF6WnZHMWtISzBNRDAtZVRyR1UwemhFNFhEcnRoLW43UHdhMklaNk53UHpUZTRCaGVmaVZ4cDZ3Y1U2OVhNYU1FZ1lGTG9MU01KLVZMYmc?oc=5": {
+  "title": "特集 クランチロール2026 - 日経クロストレンド",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "媒体加算",
+  "ts": 1784323160.387949
+ },
+ "https://deadline.com/2026/07/mortal-kombat-ii-streaming-date-hbo-max-1236997034": {
+  "title": "‘Mortal Kombat II’ Attacking Home Screens On HBO Max & HBO Next Week",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yVGI3S3FKWktZbW9UbUVfMUlpMlYzUmxvTXdpZVdrLU94ZE56UXZ6NzV0SzQxMEhnVlVRRnJWSFgzTDB5bDcydmZXaVFzTXhJSmVxZkNlbjYyY1d4S3NhYXpjTUIwMTktMDdWQnVsS2lNX2F6NTNFcnZPdw?oc=5": {
+  "title": "2026年夏アニメ、ABEMA無料作品全ラインナップを発表！『正反対な君と僕』 第2期、『ふつつかな悪女ではございますが 』のクール期間中全話無料配信が決定！最速配信32作品を含む70作品超を無料放送 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1784323160.387949
+ },
+ "https://variety.com/2026/film/news/the-odyssey-changes-christopher-nolan-adapts-homer-1236814443": {
+  "title": "‘The Odyssey’: All the Ways Christopher Nolan’s Movie Is Different From the Book",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://deadline.com/2026/07/paramount-warner-bros-discovery-merger-hearing-blockbuster-1236997086": {
+  "title": "Is ‘Obsession’ Technically A Blockbuster? Lawyers For Paramount, State AGs Spar At Court Hearing On WBD Merger",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://www.cartoonbrew.com/cartoon-brew-pick/wander-to-wonder-online-nina-gatnz-264652.html": {
+  "title": "Three Tiny TV Stars Face A Grim Fate In Nina Gantz’s Oscar-Nominated ‘Wander To Wonder,’ Now Online",
+  "source": "Cartoon Brew",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://0115765.com/archives/195927": {
+  "title": "【一覧】Apple、日本国内でiPhoneを無予告一斉値上げ　8千円〜2.5万円増額…17eは10万円超え",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-14/north-american-anime-manga-releases-july-12-18/.239603": {
+  "title": "North American Anime, Manga Releases, July 12-18",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGR0FfMjRGQ3NsekRCcVRGUUVVbmRnSy03aXdSRkdfX0dvRy1sUGpRclRoSXZEbGQ4VlBXSmdadkJDdlVjVF96cm1ZeTNMajJnNGthUGQ5OA?oc=5": {
+  "title": "あの『パイの実』がまさかのアニメ化!? 自分の顔写真から推し活4コマ漫画が作れる激アツ企画もスタートの画像（1/1） - emogram",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUhHYjRiLTgwN2laajFKN3pEUWl1SE1pUDdDYjVXRk5UcHdSUV9mRktIMzkyVmdYaWUtNXc3NndIeFFuOHRkT1VkWkpqRTItZTUtZ2F6NGd6WjVhNkFNUjAzcFVZdjN2SVd4T3pHcHRJel95TXNHYkthajltSE9SNHBIY1E5bzh3UG5ieS1WejUxVk5oOHJMQ3R3?oc=5": {
+  "title": "The doctors keeping Cuba on life support - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://variety.com/2026/film/news/suncatcher-productions-distribution-rights-if-i-tell-you-1236814835": {
+  "title": "Tessa Blake’s ‘If I Tell You’ Starring Carol Kane Acquired by Suncatcher Productions for Distribution (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1784323160.387949
+ },
+ "https://deadline.com/2026/07/big-bang-spinoff-stuart-fails-episodes-length-short-why-1236979041": {
+  "title": "‘Stuart Fails To Save The Universe’: Here Is Why Episodes Of ‘Big Bang Theory’ Spinoff Are So Short",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1784323160.387949
+ },
+ "https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html": {
+  "title": "Disney Jr. And French AI Animation Outfit Animaj Quietly Release ‘Ozzy Fox’ On YouTube",
+  "source": "Cartoon Brew",
+  "label": "対象",
+  "ts": 1784323160.387949
+ },
+ "https://0115765.com/archives/195909": {
+  "title": "『このすば』めぐみんが“ムーンナイトver”でフィギュア化！透け感あるカーディガンでいつもと異なる魅力発揮",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-17/solo-leveling-omniscient-reader-viewpoint-pop-up-store-to-open-in-new-york-in-august/.239721": {
+  "title": "Solo Leveling, Omniscient Reader's Viewpoint Pop-Up Store to Open in New York in August",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82YnVyYnc3aFhncU5NdURXTmdmU3c5YzhIZVdYY3FsR3U1c2EwWnhDa3Zoaks3RWN4ME51eC1KQlcwbzJDOGVjMFBrWFRqRVg0b05SX3lYdw?oc=5": {
+  "title": "中森明菜、「あらいぐまカルカル団」で33年ぶりアニメ声優に挑戦 SNS「テレビで見られる日も遠くない」の写真（1） - emogram",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTm5GWmRkcjh4Y0ZiMnFJWmdMdG1aWkppb21rYVhnakRMZ2hSdnRuTmx2N2NrZVl3Y3BLd0h2LUlqcUhBX0ZzbFFaQTRybDZUMXBHaVd2Rl8wTnB3WUJKNmR6b2ZsdmE3Z1lrYVdsN1RPOGg0VTloX24zYVBaQlk0UGFPTUhkOTBtS0Y3bGcxN0F1cnZCc243VXNtODMtOGtCTWxRN0g3c0JObUlpRjJLZkFtdDVzaHJBYVIzTWZvUQ?oc=5": {
+  "title": "BofA names senior executives to drive AI adoption in global markets-memo - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzBjVFFpa2RRZHNuNnRUX1dCS1JxdjI4WG4zQ1htWi1QYXFxZG1mLXo0anY0cDQ1eHFMNUFMZDJKYktPSmZRX01ORDl5REYyMng1MzUzZmdjMDUzSkZpbXA5cEQ4QU4xaHJZSmFITDFtTlFWU3MwUWZiTjBCdFliX0hMTlJOaHJpcWlLVjdsTXZyQS0xMG0yTmxQSE5Rczh0a0VRTEFLNmN6WHVTWXlJ?oc=5": {
+  "title": "Bethesda Announces New ‘Fallout’ Roadmap Following Xbox Reset - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://variety.com/2026/tv/news/emmys-removes-categories-telecast-supporting-limited-acting-1236814429": {
+  "title": "Emmys to Move Five Categories Out of NBC Telecast In a Bid to Revamp the Ceremony (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://deadline.com/2026/07/box-office-the-odyssey-1236993792": {
+  "title": "‘The Odyssey’ Treks Toward Massive $117M U.S. Opening: Best Live-Action Haul Of 2026 & Record For Matt Damon As Lead – Box Office Update",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1784323160.387949
+ },
+ "https://www.cartoonbrew.com/newsletter/mexican-animation-crisis-netflixs-ai-surge-avatars-two-token-theaters-264637.html": {
+  "title": "Mexican Animation Crisis; Netflix’s AI Surge; ‘Avatar’s’ Two Token Theaters",
+  "source": "Cartoon Brew",
+  "label": "対象",
+  "ts": 1784323160.387949
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-17/jaadugar-a-witch-in-mongolia-anime-reveals-english-dub-cast-july-18-debut/.239734": {
+  "title": "Jaadugar: A Witch in Mongolia Anime Reveals English Dub Cast, July 18 Debut",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDNkOVRCWE1GZWxhajBpakgwSkpzbEdrUkQzNjRzc3JEeTJYbzdZSnNMWUY0cVd0bFkxQy16dlA5UVFWZjcyRTNEbmVCNlFTMVhWV2x3cTl3VTNpQXotSEh4dXdEc2daSHZvTThkd29mcF9IclFUYURMYUhLd25HWVVsNkRxRUdVeWc5MDA0VDFfR2JHYWxXYmF3?oc=5": {
+  "title": "Marvel Comics to Leave New York and Move Staffers to L.A. as Part of Major Overhaul (Exclusive) - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://variety.com/2026/film/news/paramount-warner-bros-merger-restraning-order-hearing-1236814831": {
+  "title": "Court Hears Argument on States’ Move to Pause Paramount-Warner Bros. Merger",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://deadline.com/2026/07/joseph-morgan-katie-cassidy-herbert-west-reanimator-1236997129": {
+  "title": "‘Herbert West: Reanimator’: First Look At Joseph Morgan & Katie Cassidy In Fantasy Horror Adapted From H.P. Lovecraft Story",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://www.animenewsnetwork.com/daily-briefs/2026-07-17/sequel-work-to-fate-kaleid-liner-prisma-illya-licht-nameless-girl-film-to-reveal-new-details-on-/.239732": {
+  "title": "Sequel Work to Fate/kaleid liner Prisma Illya - Licht Nameless Girl Film to Reveal New Details on July 20",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOG9ySExfRkR6WHFqeURZM0pBblhGRE1tRUtyOEk5ZkVZSkFTbWp3ZThXalpGLXk1MkozWVUzcENkM1lMNU9EVTdzM21qNE1YLUR3dmxiTFl2QXBYaEszU011V3NjZmg0R1N3TUFmbjBONW4tWVN4ZDRFeEFGcDZpOHkya1R6a1RxMkRFd3BfdHM?oc=5": {
+  "title": "Europe seems set to ease its carbon pricing - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://variety.com/2026/music/news/apple-music-raises-prices-licensing-fees-1236814878": {
+  "title": "Apple Music Hikes Subscription Prices, Citing Rising Licensing Fees",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://deadline.com/2026/07/jonathan-goldstein-john-francis-daley-to-direct-renegades-1236997128": {
+  "title": "Sony Pictures Lands Short Story “Renegades” By Will Simmons; Jonathan Goldstein & John Francis Daley To Helm Feature Adaptation Of Action-Thriller",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://animeanime.jp/article/2026/07/17/101167.html": {
+  "title": "「DREAM!ing」8周年に向けてメインストーリーをおさらい♪ 第1部～第4部が「アニメタイムズ」で有料配信！ 7月25日より展示イベントも",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-17/seven-seas-to-release-ultraman-by-kazuo-umezz-the-classic-manga-collection/.239733": {
+  "title": "Seven Seas to Release Ultraman by Kazuo Umezz: The Classic Manga Collection",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfT3dLUmFwNnZDZ25xWjZialJIZFRpeHFQcHFrSldCR3pwdjFvMktnYzV6OEhoNW5PYzE5Y3V1M0I3ei1qOC1lZG85RWU0QjJMaGpsQ2txTQ?oc=5": {
+  "title": "公開初日100万再生突破【本編映像MV公開】アニメ映像と米津玄師×宇多田ヒカルのシンクロ具合が鳥肌レベルの写真（3） - emogram",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5": {
+  "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://variety.com/2026/film/news/lena-headey-game-of-thrones-fans-angry-nudity-1236812337": {
+  "title": "Lena Headey Rips Hollywood for Protecting ‘Predatory Men,’ Says ‘Game of Thrones’ Toxic Fans Got Mad She Didn’t Go Nude: ‘I Was Shocked by the Anger’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://deadline.com/2026/07/emmys-cuts-televised-categories-2026-ceremony-1236997119": {
+  "title": "Emmys Cuts Number Of Televised Categories For 2026 Primetime Ceremony",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://animeanime.jp/article/2026/07/17/101166.html": {
+  "title": "アムロ、シャア、ドレンがこっこになった!? 「機動戦士ガンダム」静岡銘菓「こっこ」とコラボ！ キュートなキャラクターのアパレル雑貨が登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-17/fatal-fury-city-of-the-wolves-game-trailer-previews-dlc-character-rick-strowd/.239731": {
+  "title": "Fatal Fury City of the Wolves Game's Trailer Previews DLC Character Rick Strowd",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnJRZHlsdFA4MG9zV3UxMG5jczR6end0dWktOFgtRUh4NC1Zc1libmlTR0IwOWNzbWpwanRDeEhlNlJmLThsT2RNU0dGYlg2LWVLUGhBbjNiYzVvM3RIbDJlLUU0S0ViUG1kTGNfeEcyOXNJaTZkWVFZWVZ5Ujd6X3FfT2NPWXBkZm9QNDBLem1wYXlUTWRqdFVUd2g2Mk5IWTdOX3JEMndJRmNXV2hBc3V0d2xnU0lDT3J5eEhB?oc=5": {
+  "title": "South Korea-US team unveils robotic technology that dresses the wearer - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFo4SHoycUUza3dQYmJhVUUtNUpXN1paZkZKaHcyeHpEd3R2OUR6WHRHcVR3N1pFVUpGSWdMS2F5cGtRdUlWWFRkQm1MUk1HcDFxV2g3azlvNlhNYmN3ZkNlcXM5dTFQTjNQRkFtUUIxRlFoQkdtS2Y4WXRJMUE0OUw4YzZCcDVWRWF4eU1jeEE2Wkp4Q2oxQU9ZeWxpVVpnbDVhd08wODhvak1j?oc=5": {
+  "title": "Sweden squashed migration. The populist right wants to go further - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTW1mZzE2Z21adjlKVDR2YTlad3pBM0ZUNzdBYXFGbERJNmRGZzV3Um5RU2x2NGM0SjZ2RmlJQnk4Um5KVFVicjV2V3JvVG9uWW13RXQxRmlnUmJRbTM2dFdQaVlfamphQlpNRi1Gb2Q4bVRrc05OOVRhLXM5SkVudjl2SVFtM2FweXFfNmdEOVB4WmFEaVNYTW9wRGt2X0xmcHZPMTVqOHNDeGttRlJ0WlNNUQ?oc=5": {
+  "title": "Analyst Claims ‘GTA 6’ Could Make $3-5 Billion During Launch Week - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象",
+  "ts": 1784323160.387949
+ },
+ "https://deadline.com/2026/07/the-bell-jar-ella-beatty-circling-billie-eilish-movie-1236997085": {
+  "title": "‘Monster: Lizzie Borden’ Star Ella Beatty In Final Talks To Join Focus Features’ ‘The Bell Jar’",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://animeanime.jp/article/2026/07/17/101165.html": {
+  "title": "「ウルトラマンシリーズ」ゼロ&ティガの姿をデザイン！ カラータイマーネックレスをかけられるアクリルスタンド登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://0115765.com/archives/195837": {
+  "title": "カドカワ、中国発“猫アニメ”の日本語吹替版を製作・今秋放送　北京の紫禁城に住む猫たちを題材『紫禁・御猫房』",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-17/cutie-street-members-guest-star-as-pikachu-idol-group-in-pokemon-horizons-anime/.239730": {
+  "title": "CUTIE STREET Members Guest Star as Pikachu Idol Group in Pokémon Horizons Anime",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRDZ5cGgyUjNTdmJfREZfRTRnRXRhd2Uwa0gzOTBuMVliR1RXeHV6bkhodWpKNzdLc3NhdEZpekZSTHZIeXZFQWpiaFlUSE12bUlJX0JTLWdXNG9kUm5DcVJ3UnAzUjN5TGdnQzNsU1pKVnl4ZEdFdjNoSk5Eay1fR18yZ0VzZEZyVGxpTUo0VTd4M01BN2x2dE1QVQ?oc=5": {
+  "title": "日向坂46小坂菜緒・正源司陽子・藤嶌果歩、アニメ『逃げ上手の若君』EDのゲストボーカルに決定「とてもキュートでかわいさ満点、愛たっぷり」 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTE81Mjd3b3U5ZTdaTVBKU0FZR2RScm5WX2ZJMjZqOU8zWjJ3LUxMdWxNX3lxUjFDeF9iX2EwQ0ViWmtvbFREeGo1NzVFVEVQSWdmRE1SQ0lDMk1YT0lhYndWOEQyQnlmanhtc2dMeUt1ZzlIb2VkbEE?oc=5": {
+  "title": "『今敏 未完のアニメーション』宮本裕子著（青土社） - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1VZZ0ZlMlg0TFFYM2NOUEdkRXZGTjlnX1ZvRkZVUk5rVjhtdGhDa1JzbjhKX0k1aW5oR2RHeFhYM0tTWmF3S0s5VnJCaVVIOFFua1U0M0JMVVU2LVZCLWVZODAtdHVrT19XYUVtdHR3QVU4bS1PS25GUExzNkNvRkNMVlNheWZmX1o1bGpNay1vWllRZUh4eVMwN1JrdUNHVlJMbmtuS0NiVlppT3AwcGtnODQ0a0VM?oc=5": {
+  "title": "Lindsey Graham tried to save the wrong countries from Donald Trump - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM3Jmc1Y5UTQyZmF1UFByZ3VXS2NlazJzc0htaTFfeDVLb1UxWjVlN3dQSjhwb1ZzOWNiQ2E0bFA4b3hMaGswb0Z5a3M1R3FmQm13RWRCakxIc2xpYzcwa19RelFWOVBMY3dDbkw4R1VMM1RhWVRwUjNINnRYdllndTA5dWNOSXRYYzhBNVE5YWdKUFlzNlJLalUtb3dJTHRicDhJYlBwdUNCUkphWHhoNmhmRlFFTFlUTWV1OA?oc=5": {
+  "title": "The Craziest Pals In ‘Palword’ Aren’t Pals At All, Albeit Morally Dubious - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU09jZEJ0S2UyR3VHaENsUzQ1OVNRSGFFbUpUYjFVd1EyRXZGbFQ3MDZzRmcyMkhwQ1FhWms3QVVWa3NRZmdycXdUNnkwdS1QdWJ3NU51VVNlblFqN2RnOGFVRWlCakVTVTFrNWUwbkJ2Uy1FNjA4d0RmLVN6NlBzd2JxYm9xQ0ZJUEc4Y09GT3JvZG9oTlRmZ3pZQWhCdmtmSXYxcl9la1JqOVNWLXZpMWZ2aw?oc=5": {
+  "title": "China Sends Robots Out Into the World to Learn How to Be Human - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://variety.com/2026/gaming/news/magic-the-gathering-2027-sets-magiccon-schedule-1236813984": {
+  "title": "Magic: The Gathering Unveils Three New Mainline Sets for 2027 as Hasbro’s MagicCon Schedule Expands to Four Events",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://deadline.com/2026/07/world-cup-fifa-white-house-air-quality-wildfires-1236997021": {
+  "title": "FIFA President & White House Officials To Discuss Air Quality Health Risks Ahead Of World Cup Final",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://animeanime.jp/article/2026/07/17/101164.html": {
+  "title": "“もう大丈夫！私が来た!!”「ヒロアカ」オールマイトや相澤先生、ホークスたちが励ましてくれる！ 名セリフをデザインしたスタンプコレクションが登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://0115765.com/archives/195817": {
+  "title": "ゲーセンでゲットしたい！アニメ『着せ恋』喜多川海夢が変わった“ジャージ×メイド”姿でフィギュア化　プライズ専用",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-17/teaser-videos-for-webtoon-based-live-action-series-a-bona-fide-killer-unveiled/.239717": {
+  "title": "Teaser Videos for Webtoon-Based Live-Action Series A Bona Fide Killer Unveiled",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WNmEtZXVYa1l6cVQ0N3JibFRJalhITV9kbXkyYm5MSFBvODl0LU8xNGlNQllxTUd3NUpuek1OQ3RFQTRWX1RjamVybUpaX1p5RmQ1Z2E4U2dtejA1ZWc?oc=5": {
+  "title": "【夏のプレゼント】液晶テレビ「アクオス43V型」を２人に - よみぽランド",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0pSVVZXMWZjNWNhTUJZdEg1RGV1QVdaOWFGUHFrdU5SekpNSWZya3MydGxJTXdHOFloTHhhNEh6X2xmMENGcEw0MVJ0bk1UMkV3NkZKaEl1bjdwUEV2czEzR25WNE5NQ29aWWlVUkgtNjlGN3RTZVJjTTU2UkVmNjJkbVFET3Fnck5ONnBpM1luMjU0TnVmc0ZsYnJfQQ?oc=5": {
+  "title": "In praise of Scandinavia’s risky and dirty playgrounds - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeXNVY3dOTGJaUGlIc1QydUtXcmdnbXlGMDY3RVZoWVRyWGcyVkFDT0N0bkhzdnIwVUc1cTZnRnBBblo3Q3FzU1otTmlLU1c1VWozbDNLdGVSUWx1cnVuQTUzenpMdzJYc215UWFNR1VVNXN6a3FsNmNkTVRRMzhIa3VKWFo5dUdOdHhrZ1o3TE5EVnB6WldqN2V5WHZlNkpWNkFUdEVOYklCTDgyMGltblMyUQ?oc=5": {
+  "title": "Intuitive Surgical Drops as ACA Changes, GLP-1s Weigh on Growth - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://variety.com/2026/shopping/news/most-stylish-world-cup-players-erling-haaland-kylian-mbappe-1236803898": {
+  "title": "The 2026 World Cup’s Most Stylish Moments: From Erling Haaland’s Birkin Collection to Kylian Mbappé’s Dior Ensembles",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://www.cartoonbrew.com/distribution/avatar-aan-the-last-airbender-theatrical-264579.html": {
+  "title": "Paramount Gives ‘Avatar’ A Token Two-Theater Release Before Its Paramount+ Debut",
+  "source": "Cartoon Brew",
+  "label": "対象",
+  "ts": 1784323160.387949
+ },
+ "https://animeanime.jp/article/2026/07/17/101163.html": {
+  "title": "かっとばせーパンどろぼう！ 野球を楽しむパンどろぼうがかわいい♪ パ・リーグ6球団コラボグッズが新登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784323160.387949
+ },
+ "https://0115765.com/archives/195781": {
+  "title": "東宝、『ゴジラ』新作映画に向けLAドジャースと共同施策　“ホーム最終戦”貴重な場でコラボナイター",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1784323160.387949
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-17/final-fantasy-resonance-game-posts-new-trailer/.239724": {
+  "title": "Final Fantasy Resonance Game Posts New Trailer",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1784323160.387949
+ },
+ "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZMTRfampObnBMTFA5SGloaEpva2dkRkJMc2V5UUt3TG1CYm1KYU1kMGVNcXhRaGhlOU9TNV94blU3Z1dWcFdOU200VUJYM1BFQWhoWjJZeFA3dkpkRGxJSDhWX3B4cHc?oc=5": {
+  "title": "Netflixでは生成AIが300作品でポスプロ工程などに活用されている - GIGAZINE",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象",
+  "ts": 1784323160.387949
  }
 }

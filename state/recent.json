@@ -17,7 +17,7 @@
   "confidence": "高",
   "reason": "夏アニメのニコニコ動画初速ランキング発表という配信プラットフォームでの視聴実績（再生数・コメント数）を数字で報じる記事で、複数アニメ作品の興行・配信成績ニュースに該当するため。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nZDlqVEhxcm4xNE1Xa09hUTd3Z3FyejhtVFE5Ym1uTmVBZTNrbXR1dm5Oem1wNVRyS1ExZktFZGRvcE0zMXZkeEVLcmQzSWY5cGdTNk5LdlNXRGQ3NUE?oc=5",
@@ -37,7 +37,7 @@
   "confidence": "高",
   "reason": "アニメIPの劇場版制作を単独出資するMAPPAの経営戦略・多角展開がビジネス主題であり、コンテンツ＋ビジネスの要件を満たす。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nM2dpVG9OU3V4SkwzSkxhMG9HVlJnNnhsc2t3aGhsTFV1R0JpUFJwTG52MWxwMkd1eExGQlNoZHVPVXYwNVgxbDZlQ1RfbXZfdVNCVXZRZGlaYk5KNVI0WmdweGtPVDF4aXRhelptQlRMTnVodU5QZGFyYnZKRjg?oc=5",
@@ -57,7 +57,7 @@
   "confidence": "高",
   "reason": "アニメ制作大手IGポートの決算結果が自社予想を大幅に下回った経営数字のニュースであり、コンテンツ産業のビジネス面での重要な動向を報道しているため対象。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1l6a3U3dnhLZE1LNUNOV1p2NjVYQ2JkaXFyd1o5SHpVc2VVQkJNVjlDalJkcTZwRFQ2UDg2N0RENkV5RjJpdVBYeUFsMVFQeFpIWnRYZGdNN254T2FCNHRUS081em1LcFdoeFgzSWhQU0Y0VkVaVGFWS0NZMWQydFZ5bkxBVUlUVWlKbGI2dDVLQ09HM3ljQzBnRXNkZUZfRFhjMVFNQy1oWUhucDIw?oc=5",
@@ -77,7 +77,7 @@
   "confidence": "中",
   "reason": "アニメ制作大手（鬼滅の刃・ソロレベリング制作）のAI導入検討は3つ分野の可能性があるが、本文が極めて短く『検討している』段階でビジネス面（実装・コスト削減・売上への影響など）の具体的な情報が薄いため、グレーとして要確認に回す。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wVUVjU2ttLXluZVltMHFGMTRjdkZ4bFh0UzMxVVRtb1BCaGJyd0pXdUI2QzF1UHJKSXFuVmNYVVVKZHA4S0VsMTNMa082NEZVVjlySnFoZkFUQTFCRzNuVk1Ha0Jkdw?oc=5",
@@ -97,7 +97,7 @@
   "confidence": "高",
   "reason": "アニメ配信企業クランチロール幹部の戦略インタビューであり、配信ビジネスの方向性や経営方針が主題であるため、コンテンツ＋ビジネスに該当する。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92ZGd5WElkSTZZUjFLUnlTQjZUTkV4eHAtcENOa2Z2R0stWll5VlR1dGd2MjVNcjhvd1JqQ0hEa2NXcTV3TnllM19aOHJibmVrZWNiajZfVG9UQzNjY3lqc1ZfSElCUQ?oc=5",
@@ -117,7 +117,7 @@
   "confidence": "高",
   "reason": "アニメ・漫画のIP振興を目的とした全国知事会のプロジェクトチーム立ち上げは、政策・補助金を通じたビジネス支援施策であり、コンテンツ産業のビジネス環境に直結する。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1fOGJlbVF6RUVzLXM3TENCMEhZRVd0UXFNZ0doMGs5cGZRY3pKMHhDdHA3bGlmZDVKLXVGZW5zWVgwUFRM?oc=5",
@@ -137,34 +137,15 @@
   "confidence": "高",
   "reason": "アニメ・ゲーム・エンタメのIP創出戦略を扱う複数企業の特集であり、コンテンツ産業の事業戦略・市場動向の分析記事として、コンテンツとビジネスの両軸が明確に該当するため。",
   "ts": 1784293334.65393,
-  "is_new": true
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUs2dWZEaXRMT3hvUUNuemRMYk1IZm5yUHRlY0pUZHpxbTk2bmIxRXJqMWo1MUw2eGxCSnYtczZzNkl5eUVhZnFOd0E2UnFCbFFtYWFqTXNiMmZvZ19MWlgyYVppMmxmVmtiOFlWUlgtbXdZZnFUOV8zUWM3Y2RGTWhRQVVjTmVveC1HcjhMYm1RaGNXNjZuNlBrWlBkQQ?oc=5",
-  "title": "Sony-Owned Crunchyroll Is Now Kneecapping Physical Anime Sales - GameSpot",
-  "source": "Google News: anime streaming rights",
-  "sources": [
-   "Google News: anime streaming rights"
-  ],
-  "published": "Wed, 15 Jul 2026 21:19:38 GMT",
-  "published_ts": 1784150378,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Crunchyroll（ソニー傘下の配信プラットフォーム）による戦略が物理メディア（アニメBD/DVD）販売に影響を与えている経営・市場の動きであり、コンテンツ（アニメ）とビジネス（配信戦略による市場構造の変化）の両分野を含む。",
-  "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkVkbEtXTy1BaTNXNU9lc1JlUXVNeHFvWVNqSlNKaFN2WFQzajJqQnRaZUFaX193Nm5iLW1VMmxyUEJwaDQ0c3Y2VVVWaURJckxLUEJYRDcyTXlqYlN2YXI5Qi11MmpFQ1hRai1pcUxzWU1NQV9NSmF1NC1laW41NHg2QmtZOGRpYXhzTzRmdk1jVE9EWlcxZlRWUVM5UjF5Szc5cw?oc=5",
   "title": "About 300 Netflix Titles Used Generative AI This Year, Company Reveals - Variety",
   "source": "Google News: generative AI animation OR anime",
   "sources": [
-   "Google News: generative AI animation OR anime"
+   "Google News: generative AI animation OR anime",
+   "Cartoon Brew"
   ],
   "published": "Thu, 16 Jul 2026 20:27:00 GMT",
   "published_ts": 1784233620,
@@ -178,28 +159,7 @@
   "confidence": "高",
   "reason": "Netflixが約300作品で生成AIを活用したことを発表する記事で、映像コンテンツ産業におけるAI導入の実績とビジネス規模を同時に示す、3分野が揃う最優先のニュース。",
   "ts": 1784293334.65393,
-  "is_new": true
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUlh5U0tRVS1JYkdtWWVkSDNhdFBQWlNPcTFabm5Sb085RnlfOEwtNFlQRVJsczUxMVdmdEZFcnhfNXZKVlJJaUFjVXBGNVZHa2hzRFJ1ZFd5RkZ6M1RYdi1uNXZWcjc5SVZmTzdVS05OOEZsQjJWUFpRcks4SGpPSF9wbkpZUDZ2c3V4bkVYTVJyeXc0ZkdNQ2RWeUlaR1VPb0tBZWtjeUlHY3U1b0FFdldJSXpVNGxBZ2dvZzg3U3c2YW8?oc=5",
-  "title": "Indie Film Studio Insurgence Launches Digital AI Production Toolset for Independent Filmmakers - Media Play News",
-  "source": "Google News: AI film production OR video generation studio",
-  "sources": [
-   "Google News: AI film production OR video generation studio"
-  ],
-  "published": "Wed, 15 Jul 2026 15:52:10 GMT",
-  "published_ts": 1784130730,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "独立映画制作者向けのAI制作ツールセット立ち上げは、映像制作業界のAI技術活用（コンテンツ×AI）と新サービス展開（ビジネス）の両面を含むため、3分野揃う最優先案件に該当します。",
-  "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVFLWnJkWWdGeDRfdzYxRXBRSGF3Tmw5cjFjdGtLMGo4TVRWUU1fNXBQR0dZM2oyX25vM1dUMzFNamdoRXhBN0ZiemFTMTBXN3dxbG9jOUhzS3B0ako3bjhpQzlsV0kzNFpYdzA3S1pDVXEyLXJrT0VtV1gwdWpYM1FtSm5kUjhKVHJYVGx3czI4clozaVl3WlVVLU4xUXhOUU9MTTEweWE5SFljMkJPZDJUOA?oc=5",
@@ -219,7 +179,7 @@
   "confidence": "中",
   "reason": "Crunchyrollはアニメ配信プラットフォームであり、その有料化施策（ペイウォール化）は配信ビジネスの戦略転換に該当するが、記事の詳細情報が限定的なため信頼度は中程度。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://www.cartoonbrew.com/series/duckman-reboot-opening-gabor-csupo-264612.html",
@@ -240,27 +200,7 @@
   "confidence": "高",
   "reason": "アニメ化作品『Duckman』の復活企画がAI生成を活用した新オープニングとして発表され、その品質やAIの影響、CBS等との配信ビジネス化が記事の中心であり、3分野すべてが揃っている。",
   "ts": 1784293334.65393,
-  "is_new": true
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vZXo4LTMwQm1RRk1MRlpIN1MwTHoxbmNKM0ItdWU5QUVUOEdJZDNoRWhhNHNyak05Y0RnNUJpa2tlODF6U0VWcnFsWmR6QzVxRDNFc05UVzZjMmcyeWlUMXlPYk5LQQ?oc=5",
-  "title": "世界の7300万票が選ぶアニメ・オブ・ザ・イヤーは『ヒロアカ』 クランチロールが開く門戸 - 日経クロストレンド",
-  "source": "Googleニュース(nikkei.com)",
-  "sources": [
-   "Googleニュース(nikkei.com)"
-  ],
-  "published": "Wed, 15 Jul 2026 15:00:00 GMT",
-  "published_ts": 1784127600,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "アニメの受賞・ランキング発表で投票という興行成績に近い数字が関わるが、主題が「受賞発表」そのものに近く、AI要素が無く、ビジネスの実質（売上・投資・取引）が薄い可能性があるため。確認が必要。",
-  "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tVTZ2RWZFQmhRSUdXMXNONGJKeER1STFzdGZaempjTU1nNFZEQWRvTHBrY1FMUU1DVWdycTdBanM4U1cxdnNFTVB0Nl9wTHFPTFRIN0Jidlo1SW9HLTR6LUFxeVBJa3M?oc=5",
@@ -280,7 +220,7 @@
   "confidence": "中",
   "reason": "IPビジネスの成功要因（長寿IP vs 単発ヒット）を分析する記事で、コンテンツの設計要素とビジネス的価値の掘り下げが主題であり、コンテンツ＋ビジネスの2分野が該当する。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOEd3d0dnV0xUZUUzWWhzblFOZzBpcnI4VmExOXo1a2NXOUZncndkY0hQYS1XSV9USWM2TXRHWXlhWWdrOGttVWdzVE5KMXpELXFwTGlhR1dDbGtvV3EzQW1nUVlNU1NHMFROc1kwaFp1YXJvN3BVMVpITlcwb2NxLVlqcG9UQ0U4Z1cxalBOcGtSWmk1ZmZlZzdDc1ZCb2tLWW5TXzMtMFg3X2hXVGdEZEZIMmlGVXpq?oc=5",
@@ -301,7 +241,7 @@
   "confidence": "高",
   "reason": "Netflixが300タイトル以上で生成AIを使用したという業界全体に影響する重要なビジネスニュースであり、映像制作業界のAI活用状況を示す実質的なビジネス発表で、コンテンツ＋AI＋ビジネスの3分野が揃う最優先対象。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://www.cartoonbrew.com/feature-film/cocoon-one-summer-of-girlhood-trailer-264606.html",
@@ -321,7 +261,7 @@
   "confidence": "高",
   "reason": "漫画原作のアニメ映画の北米劇場公開が決定し、公開日・吹き替え版の提供といったビジネス情報が主題であり、コンテンツ（アニメーション）とビジネス（興行展開）の両軸を備えている。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://0115765.com/archives/195882",
@@ -341,7 +281,7 @@
   "confidence": "高",
   "reason": "演劇ガールズIPのスマートフォンゲームがサービス終了する事実を報じるもので、コンテンツ（ゲーム・メディアミックス）とビジネス（サービス終了という経営判断）の両分野が主題である。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-17/tomb-raider-king-end-line-sequel-launches-in-english-across-4-major-webtoon-platforms/.239718",
@@ -361,7 +301,7 @@
   "confidence": "高",
   "reason": "Webtoon（漫画/コミック、コア領域）の続編が複数プラットフォームでの同時配信展開という配信ビジネス・流通・ライセンス関連のニュースであり、コンテンツ＋ビジネスの2分野が揃う。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://variety.com/2026/tv/global/netflix-one-hundred-years-of-solitude-dates-part-2-1236812149/",
@@ -381,14 +321,15 @@
   "confidence": "高",
   "reason": "Netflixの実写ドラマシリーズ『百年の孤独』シーズン2の劇場イベント開催と配信スケジュールの発表であり、コンテンツ（配信作品）とビジネス（配信戦略・劇場イベント展開）が主題。ただし非アニメの実写映像だがNetflixの戦略的な配信・興行施策として業界の重要なトレンド（ストリーマーによる劇場展開）であるため対象。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://www.cartoonbrew.com/business/spanish-government-amuse-animation-investment-264587.html",
   "title": "Spanish Government Invests Another $7.4M In Animation, Backing Canary Studio Amuse Animation",
   "source": "Cartoon Brew",
   "sources": [
-   "Cartoon Brew"
+   "Cartoon Brew",
+   "Google News: anime studio acquisition OR investment"
   ],
   "published": "Thu, 16 Jul 2026 14:37:46 +0000",
   "published_ts": 1784212666,
@@ -401,7 +342,7 @@
   "confidence": "高",
   "reason": "スペイン政府がアニメーション制作会社Amuse Animationに740万ドルを投資し、48%の株式取得する大型資金調達ニュースであり、コンテンツ（アニメ制作・IP）とビジネス（政府投資・資本増加・国際展開・雇用創出）が明確に該当する。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://0115765.com/archives/195853",
@@ -421,7 +362,7 @@
   "confidence": "高",
   "reason": "電子コミック配信プラットフォームの親会社変更（帝人→ブラックストーン）、買収・再編に伴う決算赤字計上という業界構造ニュース。漫画配信はコア領域で、M&A・経営変動を伴うビジネス記事であり対象。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-17/manga-plus-adds-tabireco-baby-road-trippers-manga/.239713",
@@ -441,7 +382,7 @@
   "confidence": "高",
   "reason": "漫画IP（Baby Road Trippers）がMANGA Plusプラットフォームで配信開始というメディアミックス・配信契約の実績を報道する記事で、コンテンツ+ビジネス（配信サービス）が該当する。",
   "ts": 1784293334.65393,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40NUFnWDB6ckJINU5jTXZrQ2dZaWI1TS1jUk5XeWlHMm5jcW1PQnk2SmVlME9hQWVGWksxUTN6VGFpUGRUV3ozLWxLLXBmTXEwVURmTjZyT2tYSnlaQWUxTmhsQVF4aFRaNzZ6NGRTSk1iTTA?oc=5",
@@ -461,6 +402,249 @@
   "confidence": "高",
   "reason": "アニメを活用した地域振興が観光消費額（4482億円）という数字で測定される実績ニュースであり、コンテンツ（アニメ）×ビジネス（観光消費・経済効果）の組み合わせが明確に主題である。",
   "ts": 1784293334.65393,
+  "is_new": false
+ },
+ {
+  "url": "https://variety.com/2026/film/news/suncatcher-productions-distribution-rights-if-i-tell-you-1236814835/",
+  "title": "Tessa Blake’s ‘If I Tell You’ Starring Carol Kane Acquired by Suncatcher Productions for Distribution (EXCLUSIVE)",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Fri, 17 Jul 2026 20:05:24 +0000",
+  "published_ts": 1784318724,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "実写映画の配給権取得というビジネス契約が主題であり、コンテンツ＋ビジネスを満たすが、非アニメの実写映画であり、AIが絡まず、また業界全体を揺るがすような大型ニュースではなく、興行数字もないため中程度の確信度。",
+  "ts": 1784323160.387949,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/07/big-bang-spinoff-stuart-fails-episodes-length-short-why-1236979041/",
+  "title": "‘Stuart Fails To Save The Universe’: Here Is Why Episodes Of ‘Big Bang Theory’ Spinoff Are So Short",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Fri, 17 Jul 2026 21:05:16 +0000",
+  "published_ts": 1784322316,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "The Big Bang Theory spinoff（コンテンツ）のストリーミング配信向けエピソード構成に関する制作判断を、クリエイターへのインタビューを通じて掘り下げたもの。ストリーミングプラットフォーム（HBO Max）での配信戦略とビジネスモデル（広告vs サブスクリプション）の違いが話題の中心であり、配信産業のビジネス構造に関わる記事。",
+  "ts": 1784323160.387949,
+  "is_new": true
+ },
+ {
+  "url": "https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html",
+  "title": "Disney Jr. And French AI Animation Outfit Animaj Quietly Release ‘Ozzy Fox’ On YouTube",
+  "source": "Cartoon Brew",
+  "sources": [
+   "Cartoon Brew"
+  ],
+  "published": "Fri, 17 Jul 2026 17:01:20 +0000",
+  "published_ts": 1784307680,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Disney Jr.とAI駆動のアニメーション企業Animajが共同開発した新作プリスクール向けシリーズ「Ozzy Fox」をYouTubeで公開したニュース。3分野すべてが揃う：コンテンツ（アニメシリーズ制作・配信）、AI（Animajのプロプライエタリパイプラインの活用、AI補助スケッチ変換や動画内挿など）、ビジネス（Disney-Animaj間の商用契約、Lumeeとの広告事業連携、制作時間とコスト削減）。",
+  "ts": 1784323160.387949,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/07/box-office-the-odyssey-1236993792/",
+  "title": "‘The Odyssey’ Treks Toward Massive $117M U.S. Opening: Best Live-Action Haul Of 2026 & Record For Matt Damon As Lead – Box Office Update",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Fri, 17 Jul 2026 20:50:00 +0000",
+  "published_ts": 1784321400,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画『The Odyssey』の初週末興行収入（$117M）に関する速報ニュースであり、Box officeの数字ニュースは非アニメ映像でも対象に該当するため。",
+  "ts": 1784323160.387949,
+  "is_new": true
+ },
+ {
+  "url": "https://www.cartoonbrew.com/newsletter/mexican-animation-crisis-netflixs-ai-surge-avatars-two-token-theaters-264637.html",
+  "title": "Mexican Animation Crisis; Netflix’s AI Surge; ‘Avatar’s’ Two Token Theaters",
+  "source": "Cartoon Brew",
+  "sources": [
+   "Cartoon Brew"
+  ],
+  "published": "Fri, 17 Jul 2026 15:15:51 +0000",
+  "published_ts": 1784301351,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメーション業界の複数の大型ニュースを扱う記事で、①メキシコの大手アニメスタジオの経営危機（ビジネス）、②NetflixがAI生成ワークフローを300タイトル近くで使用（AI×ビジネス×コンテンツ）、③スペイン政府のアニメ産業投資（ビジネス）などが含まれ、映像産業全体に関わる構造的ニュースであり、3分野すべてが主題に該当する。",
+  "ts": 1784323160.387949,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-07-17/seven-seas-to-release-ultraman-by-kazuo-umezz-the-classic-manga-collection/.239733",
+  "title": "Seven Seas to Release Ultraman by Kazuo Umezz: The Classic Manga Collection",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Fri, 17 Jul 2026 11:50:55 -0400",
+  "published_ts": 1784303455,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "漫画（コアなコンテンツ領域）のライセンス契約・出版契約（ビジネス）が主題であり、コンテンツ＋ビジネスの2分野で該当。AIは関わらない。",
+  "ts": 1784323160.387949,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-07-17/fatal-fury-city-of-the-wolves-game-trailer-previews-dlc-character-rick-strowd/.239731",
+  "title": "Fatal Fury City of the Wolves Game's Trailer Previews DLC Character Rick Strowd",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Fri, 17 Jul 2026 11:00:00 -0400",
+  "published_ts": 1784300400,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "格闘ゲーム『Fatal Fury: City of the Wolves』のDLCキャラクター追加スケジュール発表であり、コンテンツ（ゲームIP）とビジネス（DLC販売・シーズンパスの配信計画）が主題。",
+  "ts": 1784323160.387949,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTW1mZzE2Z21adjlKVDR2YTlad3pBM0ZUNzdBYXFGbERJNmRGZzV3Um5RU2x2NGM0SjZ2RmlJQnk4Um5KVFVicjV2V3JvVG9uWW13RXQxRmlnUmJRbTM2dFdQaVlfamphQlpNRi1Gb2Q4bVRrc05OOVRhLXM5SkVudjl2SVFtM2FweXFfNmdEOVB4WmFEaVNYTW9wRGt2X0xmcHZPMTVqOHNDeGttRlJ0WlNNUQ?oc=5",
+  "title": "Analyst Claims ‘GTA 6’ Could Make $3-5 Billion During Launch Week - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "sources": [
+   "Googleニュース(forbes.com)"
+  ],
+  "published": "Thu, 16 Jul 2026 15:10:39 GMT",
+  "published_ts": 1784214639,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "GTA6はゲームIP（コアコンテンツ）であり、アナリスト予測の30-50億ドル規模の初週売上は業界を揺るがす大型ビジネスニュースであるため、コンテンツ×ビジネスで対象。",
+  "ts": 1784323160.387949,
+  "is_new": true
+ },
+ {
+  "url": "https://www.cartoonbrew.com/distribution/avatar-aan-the-last-airbender-theatrical-264579.html",
+  "title": "Paramount Gives ‘Avatar’ A Token Two-Theater Release Before Its Paramount+ Debut",
+  "source": "Cartoon Brew",
+  "sources": [
+   "Cartoon Brew"
+  ],
+  "published": "Thu, 16 Jul 2026 13:25:16 +0000",
+  "published_ts": 1784208316,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメIPのパラマウント配信戦略とアワード資格獲得目的の劇場公開という経営判断が主題で、コンテンツ＋ビジネスの組み合わせに該当する。",
+  "ts": 1784323160.387949,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/195781",
+  "title": "東宝、『ゴジラ』新作映画に向けLAドジャースと共同施策　“ホーム最終戦”貴重な場でコラボナイター",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Fri, 17 Jul 2026 02:30:17 +0000",
+  "published_ts": 1784255417,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画『ゴジラ-0.0』の公開を記念した大手スポーツチームとの共同プロモーション施策であり、コンテンツ（映画IP）とビジネス（パートナーシップ・マーケティング）の両分野が明確に主題となっているため。",
+  "ts": 1784323160.387949,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-07-17/final-fantasy-resonance-game-posts-new-trailer/.239724",
+  "title": "Final Fantasy Resonance Game Posts New Trailer",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Fri, 17 Jul 2026 09:00:00 -0400",
+  "published_ts": 1784293200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ゲームIP（Final Fantasy）の新作コンソール版がSwitch/PS5/Xbox等で10月22日にローンチ予定で、プリオーダー受付開始というビジネス・販売動向のニュースであり、コンテンツ＋ビジネスの2分野が揃う。ただし制作発表というより発売日確定と予約開始が主なため、実質的なビジネスニュースとして対象に分類する。",
+  "ts": 1784323160.387949,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZMTRfampObnBMTFA5SGloaEpva2dkRkJMc2V5UUt3TG1CYm1KYU1kMGVNcXhRaGhlOU9TNV94blU3Z1dWcFdOU200VUJYM1BFQWhoWjJZeFA3dkpkRGxJSDhWX3B4cHc?oc=5",
+  "title": "Netflixでは生成AIが300作品でポスプロ工程などに活用されている - GIGAZINE",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Fri, 17 Jul 2026 02:39:00 GMT",
+  "published_ts": 1784255940,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Netflixが生成AIを300作品のポストプロダクション工程に活用している事例は、映像制作におけるAI技術の実践的導入と、ビジネス効率化（コスト削減・制作の高速化）の両面を示す、3分野が揃った業界の重要なニュースである。",
+  "ts": 1784323160.387949,
   "is_new": true
  }
 ]
