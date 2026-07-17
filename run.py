@@ -103,6 +103,7 @@ def main() -> int:
     window = store.load_recent()  # 直近ウィンドウ（採用済みストーリー）
     for it in window:
         it.setdefault("sources", [it.get("source", "")])  # 媒体リスト（話題度の元）
+        it["is_new"] = False  # 前回の「新着」印はここでクリア（今回追加分だけを新着にする）
     recent_seen_titles = store.recent_titles(seen, days=7)
     now = time.time()
 
@@ -169,7 +170,8 @@ def main() -> int:
                 "url": art.url, "title": art.title, "source": art.source,
                 "sources": [art.source], "published": art.published,
                 "published_ts": art.published_ts, "themes": j.themes, "type": j.type,
-                "label": j.label, "confidence": j.confidence, "reason": j.reason, "ts": now,
+                "label": j.label, "confidence": j.confidence, "reason": j.reason,
+                "ts": now, "is_new": True,  # 今回の実行で新しく入った記事
             })
             print(f"  [{j.label}] {art.title[:50]}")
 
@@ -220,6 +222,7 @@ def _aggregate_dicts(items: list[dict]) -> list[dict]:
         rep["sources"] = srcs
         rep["media_count"] = len(srcs)
         rep["also"] = [s for s in srcs if s != rep.get("source", "")]
+        rep["is_new"] = any(m.get("is_new") for m in members)  # 1本でも新着なら新着扱い
         # クラスタ内に「深掘り」があれば代表のtypeも深掘りに寄せる（見逃し防止）
         if any(m.get("type") == "深掘り" for m in members):
             rep["type"] = "深掘り"
@@ -263,18 +266,23 @@ def _card(it: dict) -> str:
         uniq = "、".join(dict.fromkeys(others))
         also = f'<div style="font-size:12px;color:#888;margin-top:6px">報道媒体: {html.escape(uniq)}</div>'
     when = _fmt_jst(it.get("published_ts"), it.get("published", ""))
-    return f"""<article style="border:1px solid #ddd;border-radius:8px;padding:14px;margin:10px 0">
+    # 新着は色分け（黄色い枠＋淡い背景＋NEWバッジ）。既出は通常のグレー枠。
+    is_new = bool(it.get("is_new"))
+    new_b = _badge("🆕NEW", "#e8a33d") if is_new else ""
+    style = ("border:1px solid #f0c36d;border-left:5px solid #e8a33d;background:#fffdf3;"
+             if is_new else "border:1px solid #ddd;")
+    return f"""<article style="{style}border-radius:8px;padding:14px;margin:10px 0">
   <div style="font-size:12px;color:#666">{html.escape(it.get("source", ""))} ・ {html.escape(when)}</div>
   <h3 style="margin:6px 0"><a href="{html.escape(it.get("url", ""))}" target="_blank">{html.escape(it.get("title", ""))}</a></h3>
-  <div>{buzz}{type_b}{chips}{label_b}</div>
+  <div>{new_b}{buzz}{type_b}{chips}{label_b}</div>
   <p style="color:#444;font-size:14px;margin:8px 0 0">{html.escape(it.get("reason", ""))}</p>
   {also}
 </article>"""
 
 
 def _sort_key(x: dict):
-    # 話題度(媒体数)が多い順 → 該当分野が多い順 → 公開日の新しい順
-    return (x.get("media_count", 1), len(x.get("themes") or []), x.get("published_ts") or 0)
+    # 公開日時の新しい順（話題度・分野数はバッジで表示）
+    return (x.get("published_ts") or 0,)
 
 
 def render_html(items: list[dict]) -> str:
@@ -289,9 +297,11 @@ def render_html(items: list[dict]) -> str:
         return (f'<h2 style="margin:24px 0 4px;font-size:18px">{title}'
                 f'<span style="color:#888;font-size:13px;font-weight:normal"> {note}</span></h2>{body}')
 
+    n_new_deep = sum(1 for x in deep if x.get("is_new"))
+    n_new_rest = sum(1 for x in rest if x.get("is_new"))
     sections = (
-        section("📝 考察ネタ候補（深掘り）", f"{len(deep)}件・話題順", deep)
-        + section("⚡ 速報・その他", f"{len(rest)}件・話題順", rest)
+        section("📝 考察ネタ候補（深掘り）", f"{len(deep)}件（🆕新着{n_new_deep}）・新しい順", deep)
+        + section("⚡ 速報・その他", f"{len(rest)}件（🆕新着{n_new_rest}）・新しい順", rest)
     )
     body = sections or f"<p>直近{MAX_AGE_DAYS}日間に該当ニュースはありませんでした</p>"
     return f"""<!doctype html><html lang="ja"><head><meta charset="utf-8">
@@ -299,7 +309,7 @@ def render_html(items: list[dict]) -> str:
 <title>コンテンツ×AI×ビジネス ニュース</title></head>
 <body style="font-family:system-ui,'Hiragino Sans',sans-serif;max-width:760px;margin:24px auto;padding:0 16px">
 <h1>コンテンツ × AI × ビジネス ニュース</h1>
-<p style="color:#666">生成: {now} ・ モデル: {html.escape(MODEL)} ・ 直近{MAX_AGE_DAYS}日 {len(items)}件（深掘り{len(deep)}／速報他{len(rest)}）</p>
+<p style="color:#666">生成: {now} ・ モデル: {html.escape(MODEL)} ・ 直近{MAX_AGE_DAYS}日 {len(items)}件（深掘り{len(deep)}／速報他{len(rest)}）・🆕新着 {n_new_deep + n_new_rest}件</p>
 {body}
 </body></html>"""
 
