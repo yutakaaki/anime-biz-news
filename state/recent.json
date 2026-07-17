@@ -1,45 +1,5 @@
 [
  {
-  "url": "https://variety.com/2026/tv/global/boys-of-tommen-patrick-feely-jamie-schneider-pierce-oneill-1236814552/",
-  "title": "‘Boys of Tommen’ Finds Its Patrick Feely in Jamie Schneider, With James Craven Joining as Pierce O’Neill (EXCLUSIVE)",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 17 Jul 2026 12:30:00 +0000",
-  "published_ts": 1784291400,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Prime Videoが制作する実写ドラマ『Boys of Tommen』の出演者キャスティング発表が主題だが、制作の進展・配信プラットフォームの戦略（ロマンス系YAコンテンツの展開強化）に関わるビジネス的な動きを含んでおり、コンテンツ×ビジネスの組み合わせで対象に該当する。",
-  "ts": 1784292153.422216,
-  "is_new": true
- },
- {
-  "url": "https://www.cartoonbrew.com/feature-film/all-wishes-come-true-trailer-pearl-studio-264625.html",
-  "title": "Pearl Studio’s ‘All Wishes Come True!’ Trailer Turns The Eight Immortals Into A Heist Crew",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 17 Jul 2026 11:52:21 +0000",
-  "published_ts": 1784289141,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "Pearl Studioのアニメ映画『All Wishes Come True!』の公開日程と国際展開戦略が主題で、コンテンツ（アニメ制作）とビジネス（配給・市場展開）の2分野が該当するが、AIの要素は無く、ビジネス側も制作発表・配給スケジュールレベルで数字的な深さに欠けるため中程度の確信度。",
-  "ts": 1784292153.422216,
-  "is_new": true
- },
- {
   "url": "https://0115765.com/archives/195873",
   "title": "僅か2週間で50万再生…今期屈指の異色作『ヤニねこ』がニコニコで熱烈支持　流れるコメントと「相性良すぎる」評判",
   "source": "アニメ業界ニュース(0115765)",
@@ -55,8 +15,8 @@
   "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "アニメ作品『ヤニねこ』の配信成績（再生数50万回突破）をニコニコの公式ランキング発表として報じており、複数の夏アニメ作品の興行/視聴成績データを含む。コンテンツ（アニメ）とビジネス（配信数字・興行成績）が主題。",
-  "ts": 1784292153.422216,
+  "reason": "夏アニメのニコニコ動画初速ランキング発表という配信プラットフォームでの視聴実績（再生数・コメント数）を数字で報じる記事で、複数アニメ作品の興行・配信成績ニュースに該当するため。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -72,11 +32,11 @@
    "コンテンツ",
    "ビジネス"
   ],
-  "type": "速報",
+  "type": "深掘り",
   "label": "対象",
   "confidence": "高",
-  "reason": "アニメ制作企業MAPPAが劇場版『チェンソーマン』を単独出資で制作し、IP保有による多角展開を進めるという経営戦略の発表であり、コンテンツ（劇場版アニメ）とビジネス（単独出資、IP戦略、企業成長）が主題である。",
-  "ts": 1784292153.422216,
+  "reason": "アニメIPの劇場版制作を単独出資するMAPPAの経営戦略・多角展開がビジネス主題であり、コンテンツ＋ビジネスの要件を満たす。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -95,8 +55,8 @@
   "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "アニメ制作大手（IGポート）の決算発表で、利益が自社予想を大幅に下回るという経営数字の変化が主題であり、コンテンツ企業のビジネス動向として該当します。",
-  "ts": 1784292153.422216,
+  "reason": "アニメ制作大手IGポートの決算結果が自社予想を大幅に下回った経営数字のニュースであり、コンテンツ産業のビジネス面での重要な動向を報道しているため対象。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -115,8 +75,8 @@
   "type": "速報",
   "label": "グレー",
   "confidence": "中",
-  "reason": "アニメ制作会社（鬼滅の刃・ソロレベリング制作）がAI導入を検討している点で、コンテンツ＋AIは揃っているが、本文の情報量が不十分で、実際の導入内容・具体的なAI活用方法・経営的な影響・資金調達など、実質的なビジネス要素が記事から判然としないため、グレーと判定。",
-  "ts": 1784292153.422216,
+  "reason": "アニメ制作大手（鬼滅の刃・ソロレベリング制作）のAI導入検討は3つ分野の可能性があるが、本文が極めて短く『検討している』段階でビジネス面（実装・コスト削減・売上への影響など）の具体的な情報が薄いため、グレーとして要確認に回す。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -134,9 +94,9 @@
   ],
   "type": "深掘り",
   "label": "対象",
-  "confidence": "中",
-  "reason": "クランチロール（アニメ配信プラットフォーム）のCCOへのインタビューで、配信事業の戦略・ビジネス展開について掘り下げた記事と考えられ、コンテンツ×ビジネスの主題が該当する。ただし本文がタイトルのみのため、実際に配信戦略・市場展開などビジネスの実質的な内容が含まれるかは確認が必要。",
-  "ts": 1784292153.422216,
+  "confidence": "高",
+  "reason": "アニメ配信企業クランチロール幹部の戦略インタビューであり、配信ビジネスの方向性や経営方針が主題であるため、コンテンツ＋ビジネスに該当する。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -155,8 +115,8 @@
   "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "アニメ・漫画産業の振興を目的とした全国知事会のプロジェクトチーム立ち上げは、コンテンツ産業振興の政策・補助金に関わる経営的施策であり、コンテンツ×ビジネスの軸に該当する。",
-  "ts": 1784292153.422216,
+  "reason": "アニメ・漫画のIP振興を目的とした全国知事会のプロジェクトチーム立ち上げは、政策・補助金を通じたビジネス支援施策であり、コンテンツ産業のビジネス環境に直結する。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -172,11 +132,11 @@
    "コンテンツ",
    "ビジネス"
   ],
-  "type": "その他",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "アニメ・ゲーム企業の経営戦略とIP展開を扱う記事だが、企業図鑑・紹介形式で具体的なビジネスニュース（M&A・決算・投資発表など）の実質が不明確であり、単なる企業紹介の可能性があるため。",
-  "ts": 1784292153.422216,
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ・ゲーム・エンタメのIP創出戦略を扱う複数企業の特集であり、コンテンツ産業の事業戦略・市場動向の分析記事として、コンテンツとビジネスの両軸が明確に該当するため。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -192,11 +152,11 @@
    "コンテンツ",
    "ビジネス"
   ],
-  "type": "深掘り",
+  "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "Crunchyrollの配信戦略がアニメの物理メディア（BD/DVD等）売上に実質的な悪影響を与えているという、コンテンツ産業のビジネス構造の変化を扱う深掘り記事であり、コンテンツ×ビジネスの中核的な題材である。",
-  "ts": 1784292153.422216,
+  "reason": "Crunchyroll（ソニー傘下の配信プラットフォーム）による戦略が物理メディア（アニメBD/DVD）販売に影響を与えている経営・市場の動きであり、コンテンツ（アニメ）とビジネス（配信戦略による市場構造の変化）の両分野を含む。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -216,8 +176,49 @@
   "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "Netflixが約300タイトルで生成AIを活用したことを発表した事例。コンテンツ制作（映像）にAI技術が主要な形で組み込まれており、企業の戦略的な取り組みを示す重要なビジネスニュースである。映像業界のAI動向として対象範囲に含まれる。",
-  "ts": 1784292153.422216,
+  "reason": "Netflixが約300作品で生成AIを活用したことを発表する記事で、映像コンテンツ産業におけるAI導入の実績とビジネス規模を同時に示す、3分野が揃う最優先のニュース。",
+  "ts": 1784293334.65393,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUlh5U0tRVS1JYkdtWWVkSDNhdFBQWlNPcTFabm5Sb085RnlfOEwtNFlQRVJsczUxMVdmdEZFcnhfNXZKVlJJaUFjVXBGNVZHa2hzRFJ1ZFd5RkZ6M1RYdi1uNXZWcjc5SVZmTzdVS05OOEZsQjJWUFpRcks4SGpPSF9wbkpZUDZ2c3V4bkVYTVJyeXc0ZkdNQ2RWeUlaR1VPb0tBZWtjeUlHY3U1b0FFdldJSXpVNGxBZ2dvZzg3U3c2YW8?oc=5",
+  "title": "Indie Film Studio Insurgence Launches Digital AI Production Toolset for Independent Filmmakers - Media Play News",
+  "source": "Google News: AI film production OR video generation studio",
+  "sources": [
+   "Google News: AI film production OR video generation studio"
+  ],
+  "published": "Wed, 15 Jul 2026 15:52:10 GMT",
+  "published_ts": 1784130730,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "独立映画制作者向けのAI制作ツールセット立ち上げは、映像制作業界のAI技術活用（コンテンツ×AI）と新サービス展開（ビジネス）の両面を含むため、3分野揃う最優先案件に該当します。",
+  "ts": 1784293334.65393,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVFLWnJkWWdGeDRfdzYxRXBRSGF3Tmw5cjFjdGtLMGo4TVRWUU1fNXBQR0dZM2oyX25vM1dUMzFNamdoRXhBN0ZiemFTMTBXN3dxbG9jOUhzS3B0ako3bjhpQzlsV0kzNFpYdzA3S1pDVXEyLXJrT0VtV1gwdWpYM1FtSm5kUjhKVHJYVGx3czI4clozaVl3WlVVLU4xUXhOUU9MTTEweWE5SFljMkJPZDJUOA?oc=5",
+  "title": "Sony’s Crunchyroll Has Put Its Merchandise Store Behind Paywall - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "sources": [
+   "Googleニュース(forbes.com)"
+  ],
+  "published": "Thu, 16 Jul 2026 14:09:05 GMT",
+  "published_ts": 1784210945,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "Crunchyrollはアニメ配信プラットフォームであり、その有料化施策（ペイウォール化）は配信ビジネスの戦略転換に該当するが、記事の詳細情報が限定的なため信頼度は中程度。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -237,8 +238,8 @@
   "type": "深掘り",
   "label": "対象",
   "confidence": "高",
-  "reason": "アニメーション作品（Duckman）の復活企画に生成AIが使われており、AIによる制作品質の劣化と業界のリバイバル戦略・IP利用をめぐる批評が主題であり、3分野すべてが揃う。",
-  "ts": 1784292153.422216,
+  "reason": "アニメ化作品『Duckman』の復活企画がAI生成を活用した新オープニングとして発表され、その品質やAIの影響、CBS等との配信ビジネス化が記事の中心であり、3分野すべてが揃っている。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -254,11 +255,31 @@
    "コンテンツ",
    "ビジネス"
   ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "アニメの受賞・ランキング発表で投票という興行成績に近い数字が関わるが、主題が「受賞発表」そのものに近く、AI要素が無く、ビジネスの実質（売上・投資・取引）が薄い可能性があるため。確認が必要。",
+  "ts": 1784293334.65393,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tVTZ2RWZFQmhRSUdXMXNONGJKeER1STFzdGZaempjTU1nNFZEQWRvTHBrY1FMUU1DVWdycTdBanM4U1cxdnNFTVB0Nl9wTHFPTFRIN0Jidlo1SW9HLTR6LUFxeVBJa3M?oc=5",
+  "title": "単発ヒットと長寿IPはどこが違う ストーリー・キャラクター・世界観の法則 - 日経ビジネス電子版",
+  "source": "Googleニュース(business.nikkei.com)",
+  "sources": [
+   "Googleニュース(business.nikkei.com)"
+  ],
+  "published": "Thu, 16 Jul 2026 08:00:00 GMT",
+  "published_ts": 1784188800,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
   "type": "深掘り",
   "label": "対象",
   "confidence": "中",
-  "reason": "アニメ大賞という作品評価の枠組み自体がクランチロール（配信プラットフォーム）のビジネス施策であり、グローバルなアニメコンテンツの流通・マーケティング戦略を扱うため、コンテンツ＋ビジネスの組み合わせとして対象。",
-  "ts": 1784292153.422216,
+  "reason": "IPビジネスの成功要因（長寿IP vs 単発ヒット）を分析する記事で、コンテンツの設計要素とビジネス的価値の掘り下げが主題であり、コンテンツ＋ビジネスの2分野が該当する。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -278,8 +299,28 @@
   "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "Netflixが約300タイトルで生成AIを使用したというビジネス戦略の発表。コンテンツ制作における生成AI活用の実態と経営的インパクトが明確であり、3分野すべてを含む最優先案件。",
-  "ts": 1784292153.422216,
+  "reason": "Netflixが300タイトル以上で生成AIを使用したという業界全体に影響する重要なビジネスニュースであり、映像制作業界のAI活用状況を示す実質的なビジネス発表で、コンテンツ＋AI＋ビジネスの3分野が揃う最優先対象。",
+  "ts": 1784293334.65393,
+  "is_new": true
+ },
+ {
+  "url": "https://www.cartoonbrew.com/feature-film/cocoon-one-summer-of-girlhood-trailer-264606.html",
+  "title": "GKIDS Drops ‘Cocoon – One Summer of Girlhood’ Trailer Ahead Of September Theatrical Release",
+  "source": "Cartoon Brew",
+  "sources": [
+   "Cartoon Brew"
+  ],
+  "published": "Thu, 16 Jul 2026 18:58:41 +0000",
+  "published_ts": 1784228321,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "漫画原作のアニメ映画の北米劇場公開が決定し、公開日・吹き替え版の提供といったビジネス情報が主題であり、コンテンツ（アニメーション）とビジネス（興行展開）の両軸を備えている。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -298,8 +339,8 @@
   "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "アニメIP『ワールドダイスター』のスマホゲーム（コンテンツ）がサービス終了を発表する公式決定（ビジネス）であり、コンテンツ軸にビジネスが絡むが、AIは関係していない。",
-  "ts": 1784292153.422216,
+  "reason": "演劇ガールズIPのスマートフォンゲームがサービス終了する事実を報じるもので、コンテンツ（ゲーム・メディアミックス）とビジネス（サービス終了という経営判断）の両分野が主題である。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -318,8 +359,8 @@
   "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "webtoonの続編『Tomb Raider King: End Line』が複数プラットフォーム（WEBTOON、Tapas、Tappytoon、Manta）での英語版配信開始と、アニメ化・配信契約といったコンテンツのマルチプラットフォーム展開ビジネスが主題であり、コンテンツ＋ビジネスを満たす。",
-  "ts": 1784292153.422216,
+  "reason": "Webtoon（漫画/コミック、コア領域）の続編が複数プラットフォームでの同時配信展開という配信ビジネス・流通・ライセンス関連のニュースであり、コンテンツ＋ビジネスの2分野が揃う。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -338,8 +379,8 @@
   "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "Netflixの大型ドラマシリーズ『百年の孤寂』シーズン2の配信戦略（劇場上映イベント含む）と制作体制に関するビジネスニュースであり、コンテンツ（映像制作）とビジネス（配信戦略・制作体制）が主題だが、AIは付随言及のみのため themes から除外。",
-  "ts": 1784292153.422216,
+  "reason": "Netflixの実写ドラマシリーズ『百年の孤独』シーズン2の劇場イベント開催と配信スケジュールの発表であり、コンテンツ（配信作品）とビジネス（配信戦略・劇場イベント展開）が主題。ただし非アニメの実写映像だがNetflixの戦略的な配信・興行施策として業界の重要なトレンド（ストリーマーによる劇場展開）であるため対象。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -358,8 +399,8 @@
   "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "スペイン政府によるアニメーションスタジオへの直接投資（740万ドル）と株式取得という明確なビジネス動向であり、アニメ産業の資金調達・M&Aに該当するため、コンテンツ+ビジネスで対象。",
-  "ts": 1784292153.422216,
+  "reason": "スペイン政府がアニメーション制作会社Amuse Animationに740万ドルを投資し、48%の株式取得する大型資金調達ニュースであり、コンテンツ（アニメ制作・IP）とビジネス（政府投資・資本増加・国際展開・雇用創出）が明確に該当する。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -378,8 +419,8 @@
   "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "電子コミック配信プラットフォームの経営・買収・組織再編・決算という明確なビジネスニュースであり、コンテンツ（漫画配信）と企業経営の実質的な関係が主題であるため対象。",
-  "ts": 1784292153.422216,
+  "reason": "電子コミック配信プラットフォームの親会社変更（帝人→ブラックストーン）、買収・再編に伴う決算赤字計上という業界構造ニュース。漫画配信はコア領域で、M&A・経営変動を伴うビジネス記事であり対象。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -398,8 +439,8 @@
   "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "Shueishaの配信プラットフォームMANGA Plusが漫画作品を新たに配信開始したというコンテンツの配信ビジネス関連の速報であり、コンテンツとビジネス（配信契約・プラットフォーム展開）の両分野を含む。",
-  "ts": 1784292153.422216,
+  "reason": "漫画IP（Baby Road Trippers）がMANGA Plusプラットフォームで配信開始というメディアミックス・配信契約の実績を報道する記事で、コンテンツ+ビジネス（配信サービス）が該当する。",
+  "ts": 1784293334.65393,
   "is_new": true
  },
  {
@@ -416,10 +457,10 @@
    "ビジネス"
   ],
   "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "アニメを観光資源として活用し観光消費額が増加した事例で、コンテンツとビジネス（観光消費額＝経済数字）が明確に関わっているが、アニメ制作・映像産業そのものではなく地域経済への波及効果であるため確信が持てず、グレー判定とした。",
-  "ts": 1784292153.422216,
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメを活用した地域振興が観光消費額（4482億円）という数字で測定される実績ニュースであり、コンテンツ（アニメ）×ビジネス（観光消費・経済効果）の組み合わせが明確に主題である。",
+  "ts": 1784293334.65393,
   "is_new": true
  }
 ]
