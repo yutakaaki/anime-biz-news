@@ -778,5 +778,437 @@
   "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
   "label": "対象",
   "ts": 1784323160.387949
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-18/final-fantasy-xiv-game-mobile-version-to-end-service-in-china-on-september-30/.239748": {
+  "title": "Final Fantasy XIV Game's Mobile Version to End Service in China on September 30",
+  "source": "Anime News Network",
+  "label": "媒体加算",
+  "ts": 1784365234.510135
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-17/north-american-anime-manga-releases-july-12-18/.239603": {
+  "title": "North American Anime, Manga Releases, July 12-18",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1784365234.510135
+ },
+ "https://deadline.com/2026/07/lorde-calls-out-spotify-ai-about-the-song-feature-1236997350": {
+  "title": "Lorde Calls Out Spotify Over AI “About The Song” Feature: “We Don’t Want This”",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1784365234.510135
+ },
+ "https://deadline.com/2026/07/dga-wga-sag-aftra-reaction-emmys-cut-categories-telecast-1236997353": {
+  "title": "DGA, WGA & SAG-AFTRA Protest Emmys’ Decision To Cut Categories From Telecast, Say It “Devalues” Contributions Of People Academy Means To Honor",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IWFNhYV9LaERxcmNiU2RwUURsOHFVR0NldXRJYXBMc0lLQmpQSjFveWx3czgzMnpHYnh6N0s1LXcyeEJMVUN4b0ZBeFdHMWhYeWU3WGk4aw?oc=5": {
+  "title": "靴下になったのはあの〝国民的アニメキャラ〟 その愛くるしさにファン悶絶「俺を呼んでいるぜ」の写真（1） - emogram",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PblNtbDJCNUY4QmJrdEc1NEpEeTJTNm5QVzdncFZQbG5OTkh3SlNYdVpIemhMMUxSaWE5clBDVVBwRkZDaFRpWkRpMFQzYjlMNTdIQldhLUM0Xzg4aHVjQXdFUkhJekpFQURjMVRtTGpZV0E3dEE?oc=5": {
+  "title": "Indonesia’s AI Copyright Bill Threatens Google, Meta with Permit Revocation Over Content Fees - finance.biggo.com",
+  "source": "Google News: generative AI content copyright OR licensing",
+  "label": "重複スキップ",
+  "ts": 1784365234.510135
+ },
+ "https://deadline.com/2026/07/emmys-writing-directing-acting-categories-primetime-show-1236997189": {
+  "title": "Emmys Slice Key Writing, Directing, And Acting Categories From Primetime Show, But The Guilds Don’t Agree – Notes On The Season",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1784365234.510135
+ },
+ "https://variety.com/2026/film/news/colman-domingo-live-action-princess-tiana-movie-robert-ohara-princess-and-the-frog-1236815248": {
+  "title": "Colman Domingo and Robert O’Hara in Talks to Write Live-Action Princess Tiana Movie",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1784365234.510135
+ },
+ "https://deadline.com/2026/07/colman-domingo-princess-and-the-frog-movie-tiana-1236997261": {
+  "title": "Colman Domingo & Robert O’Hara In Talks To Write Original Live-Action Pic About ‘Princess And The Frog’s Tiana – The Dish",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1784365234.510135
+ },
+ "https://variety.com/lists/best-anne-hathaway-movies-performances-ranked": {
+  "title": "Anne Hathaway’s 13 Best Performances: From ‘The Devil Wears Prada’ to ‘The Odyssey’",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1784365234.510135
+ },
+ "https://deadline.com/2026/07/apple-increases-prices-music-one-subscriptions-1236997295": {
+  "title": "Apple Increases Prices For Apple Music & Apple One Over “Rising Licensing Costs”",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FYTNlMG9zbUZQaEtGWlJyU0x4aUtKT0NHc1pGVGdTMnkxUjNabktUaDRYSWJ1WFNFV01jSWs0Qy1yNnI2czJjT3Vib3RZNWE3SWRKc1ZVY2E2eEhMZlNPY3NScTdhdUZSRDZwMlpROFFibFNTX3c?oc=5": {
+  "title": "ニコニコ夏アニメ初速ランキングTOP10発表 1位は話題の『ヤニねこ』 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1784365234.510135
+ },
+ "https://variety.com/lists/matt-damon-best-movies-ranked": {
+  "title": "Matt Damon’s 13 Best Performances: From Math Genius to Greek King",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1784365234.510135
+ },
+ "https://deadline.com/2026/07/danny-boyle-ink-acquired-netflix-distribution-1236997234": {
+  "title": "Netflix Snaps Up Rupert Murdoch Thriller ‘Ink’ From Danny Boyle Ahead Of Venice Premiere",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUkdfOTRaX0ROSzZSSzMxQVdMZGUzNXRTWmxIUUNkbERQZi1DQnp0MjNYbUFtaU5iUDV2RUNOTzlrY0NNZXdGaEJtVVk1aEJ6bXhjamJQcTA0RmpYdTh6RDFaeVlBR3JVNTJaRXpMN3NkUzg1ZERXRHo3ZjBYVnhxTk5QdXprNk9qQk5Nci1uRXh3a1BIeVRQSmRDVUFVT2EwcWJMX29Kdi1kTUZQSlZhcQ?oc=5": {
+  "title": "Netflix’s Bela Bajaria to Receive 2026 International Emmy Founders Award - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "重複スキップ",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHc0U2hmRDdmeG9HWm5lMzZuSWVDYngxaUtHbDNXM0xpNnd3eWNZd3N4cXFzVWNEREVvWEVsOUJfXy1KaHB3YjFxSnlDLUhpdkR6Zm55bTRzbmVfYi1mYkc4YVNoWjRGbFRLR3BqZ2s5Y0J3czM3ZmVQbXNRakVLbWFkOUk0VnpIVERXbUJzNkNvb3hnNXhSNG4ta1dTUkl2RzUxSUtqZUtYaFoxSHFFNGpBV2dIRThlUGc?oc=5": {
+  "title": "Colman Domingo in Talks to Write Live-Action Princess Tiana Movie Inspired by ‘Princess and the Frog’ - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "媒体加算",
+  "ts": 1784365234.510135
+ },
+ "https://variety.com/2026/film/global/utopia-distribution-eventification-young-cinephiles-fandom-1236814419": {
+  "title": "Utopia Distribution Exec on Shifting Releases Towards Eventification to Cater to ‘Fandom’ and Younger Audiences: ‘Everything Is Being Destroyed to Be Rebuilt’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://deadline.com/2026/07/varanasi-first-look-priyanka-chopra-rrr-director-film-1236997441": {
+  "title": "‘Varanasi’: First Look At Priyanka Chopra In ‘RRR’ Director’s New Film",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101198.html": {
+  "title": "リラックマ×ROUND1コラボ！ リラックマたちが店員に変身♪ コラボメニューや限定ルーム、ボウリング演出まで楽しめるコラボ企画開催【7/21～10/18】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://0115765.com/archives/195943": {
+  "title": "ついに公式から「10万円以下のiPhone」消える…最廉価の「17e」が大台突破　全機種10万円超え",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIQVdKMDBVblRTdVB5UmFKeE1PNTNYVUFYTGtHSERiX1MxaXVNTXpyNTk2d08zNzZSQXhJM0JBT1YtVHFfTkNrOGRtOXp1RzNob2VuWm4tUXVSZ1V6V2VYR3JaWTNicUxiS2Y3OE9mVHQtWFhfUE1yYkJpbw?oc=5": {
+  "title": "「アニメ「NEEDY GIRL OVERDOSE」POP-UP STORE」を2026年7月8日(水)よりゲーマーズにて開催中！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://variety.com/2026/film/news/priyanka-chopra-jonas-varanasi-images-birthday-1236815343": {
+  "title": "S.S. Rajamouli Marks Priyanka Chopra Jonas’ Birthday With New ‘Varanasi’ Images",
+  "source": "Variety",
+  "label": "グレー",
+  "ts": 1784365234.510135
+ },
+ "https://deadline.com/2026/07/john-kirby-dead-acting-coach-bruno-kirby-brother-bruce-kirby-son-1236997429": {
+  "title": "John Kirby Dies: Acting Coach, Bruno Kirby’s Brother & Bruce Kirby’s Son Was 75",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101197.html": {
+  "title": "「無職転生」シルフィとルーシーがコトブキヤより立体化！ 愛娘を抱いて優しく微笑むシルフィをぜひあなたのお部屋に飾ってみよう",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://0115765.com/archives/195174": {
+  "title": "【中国】地下鉄にも大勢のコスプレ…3日で“6万人”がキャラに扮する光景とは。周辺産業にも効果波及【BilibiliWorld】",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2NZQ0V4OXlHTlUtZUtSXzE5RThLaFlCNzdkMkw3VUhzV0F2Sm8xamhGMGdKVmthLVMwdmNIQ2RqeFEtUU5VZUtEaWp3V3ladk5QSHc1a1pSSnY4RWVpc195dG9xNWhsa091N3JiNFN0MGwzdklvcG9HZGpKaHExOTdCUXpGMTZ3ak9vSzlaZjZlWFFOUjNlODRIT05PMFhlVUJ1ajVEQ2ZFV21nMS1zZA?oc=5": {
+  "title": "Hedge Funds Add Bullish Oil Bets at Fastest Pace in a Decade - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://variety.com/2026/film/news/saiyaara-collector-vinyl-lp-wembley-anniversary-1236814816": {
+  "title": "‘Saiyaara’ Stars Ahaan Panday and Aneet Padda Mark Film’s First Year With Collector’s Edition Vinyl LP Launch at Wembley Stadium (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1784365234.510135
+ },
+ "https://deadline.com/2026/07/chef-dom-taylor-dead-netflix-five-star-chef-winner-1236997413": {
+  "title": "Chef Dom Taylor Dies: Netflix’s ‘Five Star Chef’ Winner Was 44",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101196.html": {
+  "title": "ペコちゃんの学校をイメージした体験型ショップ「ペコちゃんの学校」が静岡県初登場！ 遠鉄百貨店で期間限定オープン【7/30～8/16】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://0115765.com/archives/195799": {
+  "title": "レビューサイトが選ぶ“上半期の高評価アニメ”の上位は？人気続編のなか『日本三國』『違国日記』食い込み健闘",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMickFVX3lxTE42aG9zTThFV21sUmJBT2I3VUx1aVZhWE1YTHhaN2dKdURhVnVXYWdoeFFNeEJNZmtDeWJWSHU5UlBlcEo1R2FpbGw1SUtCQ0Z1VC1uYkdzUmtHZUtuVTJNeGVlNUxhWjBKOWZHbndNeWJ4UQ?oc=5": {
+  "title": "Billionaires’ T. Rex Obsession Has Turned Fossils Into Red-Hot Drama - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://variety.com/2026/sports/news/tom-brady-slaps-logan-paul-fanatics-fest-fans-staged-1236815284": {
+  "title": "Tom Brady Slaps Logan Paul at Fanatics Fest, Calls Him a ‘Dork’ and ‘Nerd’ on X",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101195.html": {
+  "title": "たわわな太ももがちらり♪ 「グリッドマン ユニバース」六花、アカネとゴルフを楽しんじゃおう！ 4人のゴルフウェア姿のグッズがオンラインくじに登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://0115765.com/archives/195949": {
+  "title": "オリジナルアニメ『グロウアップショウ』第3話、格上のライバルに対抗心を燃やすなか…「傷跡なんか、見せたくない」【先行カット】",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVTJSMGxVcDl0ZkZMajIyaXFPM3VTTnVGUVFPWThjX2hCZ00yZHoxd25Wa1RLOFhudEVFZ2JURzB0MTk2TTFTRWxyRnozZDU1X1FuS29hR3lmV0tOMEhQNUd6dEZMNUlzZDhTZjVDZ0FMRVF5czdua0NUeUdpaVljQ1lmenNrSUljWnRDa1FPVjZBR1c4LTNsNmpySVJtb0tSTWhaaWh1RXN1VWNURmVvVUtacEdrNnM4R0NPeXNWUEJGZC1GRk9EcHMwa2lRdjBq?oc=5": {
+  "title": "Funko Expands ‘KPop Demon Hunters’ Pops! Line With Demon Saja Boys And SDCC Experience - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "グレー",
+  "ts": 1784365234.510135
+ },
+ "https://variety.com/2026/tv/news/larry-david-mocks-rfk-jr-hbo-show-1236806043": {
+  "title": "Larry David Mocks RFK Jr. by Saying ‘Drop Dead, Bobby’ in New HBO Show, Which Reunites ‘Curb’ Cast Except for Cheryl Hines",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101194.html": {
+  "title": "可愛くて環境にも優しい♪ ハローキティ＆クロミたちが“ECOぬい”に！ サンリオキャラクターズのサステナブルぬいぐるみが8月発売",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://0115765.com/archives/195960": {
+  "title": "『リリカルなのは』最新作「EXGV」第3話で新キャラ。順調に力をつけるシイナ【先行カット】",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GM0dFc0lRWm5uVWgxbS0xbjdGZVBUbGNJbmhueXQtVkdOTVdPSnk0ODNQVzhlQnQyOE4wRG95dTk5WlVBenA5U2NmR3oxMlYtaE14LXpfQk4zUQ?oc=5": {
+  "title": "映画『オデュッセイア』が先行上映で約28億円の大ヒット、今年の最高記録を更新 - Forbes JAPAN",
+  "source": "Googleニュース(forbesjapan.com)",
+  "label": "対象",
+  "ts": 1784365234.510135
+ },
+ "https://variety.com/2026/film/news/the-odyssey-explained-timelines-monsters-greek-legend-1236813704": {
+  "title": "Confused by ‘The Odyssey’? All the Timelines, Monsters and Greek Myths Explained",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101193.html": {
+  "title": "佐野勇斗の声優がうますぎる!? カメオ声優演じるキャラも見逃せない！ 「トイ・ストーリー５」を見るべき魅力3選",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2xmWExMUW44dzVfcDNyYnhVY0t2SU1oelF6b01hVmdZRmRZOUtFTVVxLTgyZEZPdGx5c2hLNTVJcU9XM1BHYjRmSVE0cEhVSmFxeHh4Xy1YMTNySDdaS3BFS3E5NEdnM3NrcDY1bEI2VHFRU25ObDFMeE5ESnFjUzVRVEhNRDl2dW5rdnRDVU41SkhTbHo0blh1UWg3bktTR3RtcWk4cDRlUQ?oc=5": {
+  "title": "A Novel Pill For Cholesterol: FDA Approves Lipfendra - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101192.html": {
+  "title": "サンリオキャラクターが大集合！「サンリオキッズフェスティバル」そごう大宮店で開催♪ 工作ができるプレイスクールやSANRIO CAFEも☆",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101191.html": {
+  "title": "一番笑えるアニメは？ アンケート〆切は7月25日【#笑いの日】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://variety.com/2026/music/concert-reviews/olivia-dean-concert-review-crypto-arena-tour-1236815197": {
+  "title": "Olivia Dean’s First U.S. Arena Tour Is Off to a Smashing Start, With L.A. Shows Proving She’s No One-Grammy Wonder: Concert Review",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://deadline.com/2026/07/heartstopper-forever-movie-songs-soundtrack-1236997293": {
+  "title": "All The Songs In ‘Heartstopper Forever’ From Royel Otis To Angie McMahon",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101190.html": {
+  "title": "「時光代理人」程小時、睦光、喬苓たちや印象的なシーンを表現！ 組み合わせ自由な「MAYLA」リングコレクション登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMidEFVX3lxTE45Vlp0NVU4R3FHaUZGbWxuQjRDbW9yYzZDdGVySmVTSXFfQjhFLTJRNlhoWTVLYTlzNUJ3STdtQWZvdC13RS1XaHNISnpXb0NlNVExOC1GamhxVjFIUlpIWmlBdTlRTlVFcDhQUGdSb24zLTJr?oc=5": {
+  "title": "ネットフリックス、300作品で生成AI活用を公表——コスト半減の裏で米国の反AI暴力が激化 - BigGo ファイナンス",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWtHMW5HdTBXQUpjTXV3S0NuWjhaYUxVVUxvV3lkX3lnY0JNRlNwYURKcVROWFhQSGs5UllPanhyUU1RQ29aeGtZc2YxeVVTXzVnVlFYOXpRSF9wakhzc2J1ckJLN3M1Wm1aQ08yQ21xb0tBU042d3lvVVhPZXpZRzFNRXpPck0zUTZ3UjBJY2xRMUZEYVE?oc=5": {
+  "title": "Robot Decapitated in World’s First-Ever Humanoid UFC Fight - Newsweek",
+  "source": "Googleニュース(newsweek.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://deadline.com/2026/07/indie-films-opening-american-pachuco-the-legend-of-luis-valdez-1236989200": {
+  "title": "Sundance Award Winning Doc ‘American Pachuco: The Legend of Luis Valdez’ Starts Rollout In Rare ‘Odyssey’ Weekend Debut – Specialty Preview",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://www.cartoonbrew.com/studios/anima-estudios-shuts-down-mexico-264574.html": {
+  "title": "UPDATED: Ánima Estudios, One Of Mexico’s Most Important Animation Studios, Is Undergoing A Corporate Restructuring",
+  "source": "Cartoon Brew",
+  "label": "対象",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101189.html": {
+  "title": "ハローキティ×リカちゃんの可愛いコラボ♪ 「レトロリカ 日焼けしたキティとバカンス」が8月1日に発売！ 1971年頃に登場した日焼け肌の「ピチピチリカ」をオマージュ",
+  "source": "アニメ！アニメ！",
+  "label": "グレー",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wMXdyT2pjMnpNOWRFUC1lYlJBUmo4Y0U2cWtCUVIyMEtITnBzTFVIZlg4ZnNwUmRmOE5tNHlnWmxyeExoeUltM1M0dHBocm1iZDJnbjdmMFVjUVV5TjYtTXBIdGpnelBBMXlDQzRuN2dROTNocVFvOGZLbw?oc=5": {
+  "title": "【賞金首となったキョウの行方は？】TVアニメ『DIGIMON BEATBREAK』第39話「きれいごと」あらすじ＆先行カット公開！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://deadline.com/2026/07/netflix-paid-587-million-for-ben-affleck-ai-firm-interpositive-1236997198": {
+  "title": "Netflix Says It Paid $587 Million For Ben Affleck AI Firm InterPositive, Confirming Previously Reported Estimate",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101188.html": {
+  "title": "セイバー、アヤカの描き下ろしビジュアル♪ 「Fate/strange Fake」POP UP SHOPが7月24日よりブシロードクリエイティブストア秋葉原本店で開催！ B2タペストリーなどのグッズが多数販売",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDRuV21wYmw2WkVDdG0xU3RRbENNVWxlYjNHMVJhRE1tSmFiTUdtX2VGOVN0UW5vV19Pd2pqTm1JcUk0d0hNN0kzeG5nSXJFaWNXMzdIM01qRHdCUFlzUVZmbzJQeV9fbDdVaGRoZExRZmZOSk5fUDctdjB2amFDNXRPS0t2eHV2eDhCN3ZBRC02OG9TdTA0?oc=5": {
+  "title": "Why Berlin’s airport is still completely hopeless - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101187.html": {
+  "title": "ウルトラマンティガ＆ゼロをイメージしたドリンク♪ 「ウルトラマンシリーズ60周年」キッチンカーが東京・大阪でスタート！ 各ウルトラマンたちをイメージしたドリンクが夏にぴったり",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3NUVkSEpIYk1Fbm9QVWlVU3VzOVp2aEhFMWNuVTd3ektVdFhtTm5qcjNRMXdOelBQdVZIOVdTN0ZBdkRDRnZNRGZEbk56djdvSWJkUnJCanB2aHVQX1JZbFdDQmliNHdiVU9BLXNaalp1am5ONG8ta2o2RQ?oc=5": {
+  "title": "JR西日本×萩市×ＴＶアニメ「銀魂」コラボ【銀魂暦】～たまには昔を振り返ってみるのも吉～開 催！！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3hSbkd0VWxYZ3ZSODBaRXF4clFzdUJkY1YyOXJWZk55TmZNeHBmTFd3RFJJb3RUT3pFS0EtRzd3TlluZHdjRDZGRjdoSEw5ZFZwNmVYNUZKRjZfandrcHhSVGp6Mkt0czBEMThneTkxMjJhSHhseDFTUldmekYyU1VkSXR5NUNhV3dVbzFTdDZSQlRRRzJkd2p3SjBlVHhLWXhlVXlTT2NNbkxh?oc=5": {
+  "title": "Jenna Ortega, Rose Byrne to Star in New Movie from ‘If I Had Legs’ Director Mary Bronstein - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZXBfRjF5NERfQ2Vxbkd5ZE13Y3piSlpXcFdrNm4yZ2FDMjhVRGtlT3NsMDgxdV9CU1JXQlZQeG0ySUZlNmhDVHM3MVpkTEJkcGsxS0lDeEFqcU5rLWEybUo0N0JXZmRHUUNoa3dqRWFuQVpQMFlYQ1Z3Tll0N21BcTlYMU9PQnhyNkdMT1pvc2k5SlVsODE2MXdiTk5mZElaNEpuOWZpemZoaWpyRGlCNzdZU1Z6WUdfYXVRQWl3dGxvQjZVY1pnT3N3?oc=5": {
+  "title": "BlackRock CEO Issues Surprise 12-Month Bitcoin And Crypto Price Prediction - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101186.html": {
+  "title": "君もロキシー教に！ 「無職転生III」ロキシーの便利な「手帳型スマホケース」や「パスケース」など新グッズが登場♪ 10月中旬発売予定",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqZXBEdVpRVGdnY2o1SnNHd01weGxQelZxYlBpai05MUlFbDU3SmI3blF6cGNDLW1iemEwNElYb0N1NUE5SlFMOTVSU2JzbERvRXNVR05IeldlV3F0NGoxdFhkcXc2QUtscWZpbzdteC12NXFJOGpHZ3RQUQ?oc=5": {
+  "title": "100studioがアニメーション制作を担当するTVアニメ『BLACK TORCH』、7月18日(土) 22:00から放送の第3話あらすじ＆先行カット公開！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlREpIYUxfam5Hd2FPUzRSNWJfSDdTaVdhbXk2aW5yRHlkRFFBRnhraVk4Y18weVc5Vlh4eE1tY0hVOHl1ZFE4bVRqV2M1WW5MazZPaUhFVmswQURKOGlfUFdkeHk4cndheGE0?oc=5": {
+  "title": "弱者の恨みを秘密プロ集団が解決 - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWFNUV9RQWpfLUhBa3g3OHdnNmJkMDZXSDlTbEx1WVR1NFhSN3R0N2c5cmZ6NUlOOE9RaUx3QjRHTWZSalF2UlRaMS1MYlB6ZVlNZXpBd2J5VjNJanpZX1A2V3d4MTRMbGswWWNYMlVab0NKQ2VUXzRJUDlDa0ZVTm9PQzV2Nm1QQk5Xc1BNbTlkMTVD?oc=5": {
+  "title": "Opening the border between Spain and Gibraltar - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rZzA3NW15dWxmZzV5aFBXWGtHVWNPa2w1Uzd5MXBHZkRMTDV1aEIyMFI1c1lXdTF2MVNfaFRVbVFPTDdOM2dKV3JvLWNKdE0?oc=5": {
+  "title": "Bloomberg Businessweek - Bloomberg - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101185.html": {
+  "title": "夏アニメ「なのはEXGV」EXCEEDSの駆除隊員として活動を始めたシイナは、橋から飛び降りようとする少女を見つけて助けに入ったのだが…第3話先行カット",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTFBZcDF5SEM2alJHTl9EclV1U3R4blZwSzNTSHJvcXpkNVZseDJ2c3g2Y2dVNDBqM19NMENadVdybVFfbUEw?oc=5": {
+  "title": "【週刊Cygames】『ウマ娘』7th EVENT WORLD TOURを米ロスで開催、『グラブル』ｘアニメ「BLEACH 千年血戦篇」など（26年7月11日～17日） - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://animeanime.jp/article/2026/07/18/101184.html": {
+  "title": "“ポニーテール”キャラといえば？ 3位「呪術廻戦」禪院真希、2位「セーラームーン」セーラージュピター、1位はリボンの色にもこだわりが…!? ＜26年版＞",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-17/kei-sanbe-launches-aria-adventures-in-miracleland-manga/.239714": {
+  "title": "Kei Sanbe Launches Aria's Adventures in Miracleland Manga",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMickFVX3lxTFBhY1hJUHgyUGphUnJxdjUxd3RxQTBqYWo0NmhBZTl3SjE0eXRON05JMkRCR3Z6UkFVbHNzYjcyZlozM1ZQT0VqbF9rLUhLWGFmWFUwMy1QMVd1a19jRWEtNmtuOXpUVEZTNXQ5QlF4enl6dw?oc=5": {
+  "title": "「ガンダム」「ドラえもん」「ポケモン」… 永久不滅のIPの条件を解き明かす - NIKKEIリスキリング",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtcW9pOG5wd3RfTENhWHgyXzVrRlV3MFpXRGdrTjJsRUw3MkVBclJ1b0g5RFI1WG5EY2hMZmZiOEVJLXYwclpHSXRERGw2UzNhWDJjemktY0JxOW1UeEpzdGYyWnRKcXJjdGVBdXlpUFIyN2hhQ1U2cG5SQQ?oc=5": {
+  "title": "「TVアニメ『WIND BREAKER』 POP UP SHOP in マルイ」の開催が決定！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784365234.510135
+ },
+ "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PMExxY0pvT1BJSjItSnQ1Qm9wODczZWZnOW1oYlBzaWYzWHV2SEdPaHlCLUoyXzd1em5JTkhJRXFTRjdCcklaTXhwLURaVENhdWFEQlpwZWZyT0tZUW8tMEptc2lUUQ?oc=5": {
+  "title": "「ルパン三世」峰不二子役の声優・二階堂有希子さん死去…８７歳、夫は柳生博さん - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1784365234.510135
  }
 }

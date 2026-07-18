@@ -40,26 +40,6 @@
   "is_new": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nM2dpVG9OU3V4SkwzSkxhMG9HVlJnNnhsc2t3aGhsTFV1R0JpUFJwTG52MWxwMkd1eExGQlNoZHVPVXYwNVgxbDZlQ1RfbXZfdVNCVXZRZGlaYk5KNVI0WmdweGtPVDF4aXRhelptQlRMTnVodU5QZGFyYnZKRjg?oc=5",
-  "title": "アニメ制作大手のIGポート本決算、利益が自社予想57％下回る異例の事態（オタク総研） - Yahoo!ニュース",
-  "source": "Googleニュース: アニメ制作会社 決算 OR 買収",
-  "sources": [
-   "Googleニュース: アニメ制作会社 決算 OR 買収"
-  ],
-  "published": "Thu, 16 Jul 2026 02:34:00 GMT",
-  "published_ts": 1784169240,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ制作大手IGポートの決算結果が自社予想を大幅に下回った経営数字のニュースであり、コンテンツ産業のビジネス面での重要な動向を報道しているため対象。",
-  "ts": 1784293334.65393,
-  "is_new": false
- },
- {
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1l6a3U3dnhLZE1LNUNOV1p2NjVYQ2JkaXFyd1o5SHpVc2VVQkJNVjlDalJkcTZwRFQ2UDg2N0RENkV5RjJpdVBYeUFsMVFQeFpIWnRYZGdNN254T2FCNHRUS081em1LcFdoeFgzSWhQU0Y0VkVaVGFWS0NZMWQydFZ5bkxBVUlUVWlKbGI2dDVLQ09HM3ljQzBnRXNkZUZfRFhjMVFNQy1oWUhucDIw?oc=5",
   "title": "『鬼滅の刃』や『ソロレベリング』を手掛けたスタジオが、アニメ制作にAIを導入することを検討している。 - Vietnam.vn",
   "source": "Googleニュース: AI 映像制作 OR アニメ制作",
@@ -145,7 +125,8 @@
   "source": "Google News: generative AI animation OR anime",
   "sources": [
    "Google News: generative AI animation OR anime",
-   "Cartoon Brew"
+   "Cartoon Brew",
+   "Deadline"
   ],
   "published": "Thu, 16 Jul 2026 20:27:00 GMT",
   "published_ts": 1784233620,
@@ -199,26 +180,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アニメ化作品『Duckman』の復活企画がAI生成を活用した新オープニングとして発表され、その品質やAIの影響、CBS等との配信ビジネス化が記事の中心であり、3分野すべてが揃っている。",
-  "ts": 1784293334.65393,
-  "is_new": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tVTZ2RWZFQmhRSUdXMXNONGJKeER1STFzdGZaempjTU1nNFZEQWRvTHBrY1FMUU1DVWdycTdBanM4U1cxdnNFTVB0Nl9wTHFPTFRIN0Jidlo1SW9HLTR6LUFxeVBJa3M?oc=5",
-  "title": "単発ヒットと長寿IPはどこが違う ストーリー・キャラクター・世界観の法則 - 日経ビジネス電子版",
-  "source": "Googleニュース(business.nikkei.com)",
-  "sources": [
-   "Googleニュース(business.nikkei.com)"
-  ],
-  "published": "Thu, 16 Jul 2026 08:00:00 GMT",
-  "published_ts": 1784188800,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "IPビジネスの成功要因（長寿IP vs 単発ヒット）を分析する記事で、コンテンツの設計要素とビジネス的価値の掘り下げが主題であり、コンテンツ＋ビジネスの2分野が該当する。",
   "ts": 1784293334.65393,
   "is_new": false
  },
@@ -422,7 +383,7 @@
   "confidence": "中",
   "reason": "実写映画の配給権取得というビジネス契約が主題であり、コンテンツ＋ビジネスを満たすが、非アニメの実写映画であり、AIが絡まず、また業界全体を揺るがすような大型ニュースではなく、興行数字もないため中程度の確信度。",
   "ts": 1784323160.387949,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://deadline.com/2026/07/big-bang-spinoff-stuart-fails-episodes-length-short-why-1236979041/",
@@ -442,7 +403,7 @@
   "confidence": "中",
   "reason": "The Big Bang Theory spinoff（コンテンツ）のストリーミング配信向けエピソード構成に関する制作判断を、クリエイターへのインタビューを通じて掘り下げたもの。ストリーミングプラットフォーム（HBO Max）での配信戦略とビジネスモデル（広告vs サブスクリプション）の違いが話題の中心であり、配信産業のビジネス構造に関わる記事。",
   "ts": 1784323160.387949,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html",
@@ -463,14 +424,16 @@
   "confidence": "高",
   "reason": "Disney Jr.とAI駆動のアニメーション企業Animajが共同開発した新作プリスクール向けシリーズ「Ozzy Fox」をYouTubeで公開したニュース。3分野すべてが揃う：コンテンツ（アニメシリーズ制作・配信）、AI（Animajのプロプライエタリパイプラインの活用、AI補助スケッチ変換や動画内挿など）、ビジネス（Disney-Animaj間の商用契約、Lumeeとの広告事業連携、制作時間とコスト削減）。",
   "ts": 1784323160.387949,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://deadline.com/2026/07/box-office-the-odyssey-1236993792/",
   "title": "‘The Odyssey’ Treks Toward Massive $117M U.S. Opening: Best Live-Action Haul Of 2026 & Record For Matt Damon As Lead – Box Office Update",
   "source": "Deadline",
   "sources": [
-   "Deadline"
+   "Deadline",
+   "Variety",
+   "Googleニュース(hollywoodreporter.com)"
   ],
   "published": "Fri, 17 Jul 2026 20:50:00 +0000",
   "published_ts": 1784321400,
@@ -483,7 +446,7 @@
   "confidence": "高",
   "reason": "実写映画『The Odyssey』の初週末興行収入（$117M）に関する速報ニュースであり、Box officeの数字ニュースは非アニメ映像でも対象に該当するため。",
   "ts": 1784323160.387949,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://www.cartoonbrew.com/newsletter/mexican-animation-crisis-netflixs-ai-surge-avatars-two-token-theaters-264637.html",
@@ -504,7 +467,7 @@
   "confidence": "高",
   "reason": "アニメーション業界の複数の大型ニュースを扱う記事で、①メキシコの大手アニメスタジオの経営危機（ビジネス）、②NetflixがAI生成ワークフローを300タイトル近くで使用（AI×ビジネス×コンテンツ）、③スペイン政府のアニメ産業投資（ビジネス）などが含まれ、映像産業全体に関わる構造的ニュースであり、3分野すべてが主題に該当する。",
   "ts": 1784323160.387949,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-17/seven-seas-to-release-ultraman-by-kazuo-umezz-the-classic-manga-collection/.239733",
@@ -524,7 +487,7 @@
   "confidence": "高",
   "reason": "漫画（コアなコンテンツ領域）のライセンス契約・出版契約（ビジネス）が主題であり、コンテンツ＋ビジネスの2分野で該当。AIは関わらない。",
   "ts": 1784323160.387949,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-17/fatal-fury-city-of-the-wolves-game-trailer-previews-dlc-character-rick-strowd/.239731",
@@ -544,7 +507,7 @@
   "confidence": "高",
   "reason": "格闘ゲーム『Fatal Fury: City of the Wolves』のDLCキャラクター追加スケジュール発表であり、コンテンツ（ゲームIP）とビジネス（DLC販売・シーズンパスの配信計画）が主題。",
   "ts": 1784323160.387949,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTW1mZzE2Z21adjlKVDR2YTlad3pBM0ZUNzdBYXFGbERJNmRGZzV3Um5RU2x2NGM0SjZ2RmlJQnk4Um5KVFVicjV2V3JvVG9uWW13RXQxRmlnUmJRbTM2dFdQaVlfamphQlpNRi1Gb2Q4bVRrc05OOVRhLXM5SkVudjl2SVFtM2FweXFfNmdEOVB4WmFEaVNYTW9wRGt2X0xmcHZPMTVqOHNDeGttRlJ0WlNNUQ?oc=5",
@@ -564,7 +527,7 @@
   "confidence": "高",
   "reason": "GTA6はゲームIP（コアコンテンツ）であり、アナリスト予測の30-50億ドル規模の初週売上は業界を揺るがす大型ビジネスニュースであるため、コンテンツ×ビジネスで対象。",
   "ts": 1784323160.387949,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://www.cartoonbrew.com/distribution/avatar-aan-the-last-airbender-theatrical-264579.html",
@@ -584,7 +547,7 @@
   "confidence": "高",
   "reason": "アニメIPのパラマウント配信戦略とアワード資格獲得目的の劇場公開という経営判断が主題で、コンテンツ＋ビジネスの組み合わせに該当する。",
   "ts": 1784323160.387949,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://0115765.com/archives/195781",
@@ -604,7 +567,7 @@
   "confidence": "高",
   "reason": "映画『ゴジラ-0.0』の公開を記念した大手スポーツチームとの共同プロモーション施策であり、コンテンツ（映画IP）とビジネス（パートナーシップ・マーケティング）の両分野が明確に主題となっているため。",
   "ts": 1784323160.387949,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-17/final-fantasy-resonance-game-posts-new-trailer/.239724",
@@ -624,7 +587,7 @@
   "confidence": "中",
   "reason": "ゲームIP（Final Fantasy）の新作コンソール版がSwitch/PS5/Xbox等で10月22日にローンチ予定で、プリオーダー受付開始というビジネス・販売動向のニュースであり、コンテンツ＋ビジネスの2分野が揃う。ただし制作発表というより発売日確定と予約開始が主なため、実質的なビジネスニュースとして対象に分類する。",
   "ts": 1784323160.387949,
-  "is_new": true
+  "is_new": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZMTRfampObnBMTFA5SGloaEpva2dkRkJMc2V5UUt3TG1CYm1KYU1kMGVNcXhRaGhlOU9TNV94blU3Z1dWcFdOU200VUJYM1BFQWhoWjJZeFA3dkpkRGxJSDhWX3B4cHc?oc=5",
@@ -645,6 +608,208 @@
   "confidence": "高",
   "reason": "Netflixが生成AIを300作品のポストプロダクション工程に活用している事例は、映像制作におけるAI技術の実践的導入と、ビジネス効率化（コスト削減・制作の高速化）の両面を示す、3分野が揃った業界の重要なニュースである。",
   "ts": 1784323160.387949,
+  "is_new": false
+ },
+ {
+  "url": "https://variety.com/2026/film/news/priyanka-chopra-jonas-varanasi-images-birthday-1236815343/",
+  "title": "S.S. Rajamouli Marks Priyanka Chopra Jonas’ Birthday With New ‘Varanasi’ Images",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sat, 18 Jul 2026 07:58:24 +0000",
+  "published_ts": 1784361504,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "S.S. Rajamouli監督の大型映画『Varanasi』のキャスティング・制作発表（プリヤンカ・チョプラの誕生日に合わせたキャラクター画像公開）が主題で、新作の制作発表的な内容が強い一方、アカデミー賞受賞監督による大規模国際プロジェクトで興行・市場規模の重要性が示唆されるため、コンテンツ＋ビジネスの要素が存在するが、記事の中心は誕生日タイアップの制作発表であり、ビジネスの実質的な数字や経営の具体的な話がないため判定が微妙。",
+  "ts": 1784365234.510135,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/195174",
+  "title": "【中国】地下鉄にも大勢のコスプレ…3日で“6万人”がキャラに扮する光景とは。周辺産業にも効果波及【BilibiliWorld】",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Sat, 18 Jul 2026 03:38:14 +0000",
+  "published_ts": 1784345894,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ・ゲーム総合イベント（Bilibiliworld）を中心に、コスプレ関連商品・サービスの売上・市場規模の数字が主題であり、コンテンツ＋ビジネスの組み合わせ。周辺産業への経済効果（フリマアプリ取引額340%増、撮影サービス97.1%増など）が詳細に記載されている。",
+  "ts": 1784365234.510135,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/saiyaara-collector-vinyl-lp-wembley-anniversary-1236814816/",
+  "title": "‘Saiyaara’ Stars Ahaan Panday and Aneet Padda Mark Film’s First Year With Collector’s Edition Vinyl LP Launch at Wembley Stadium (EXCLUSIVE)",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sat, 18 Jul 2026 05:00:00 +0000",
+  "published_ts": 1784350800,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "インド映画（非アニメ）だがビジネス面で興行成績（58000万ドル世界興収）とメルチャンダイズ戦略（コレクターズエディション・ビニールLP販売）が主題であり、コンテンツ×ビジネスを明確に含むため。ただしAIは無関係。",
+  "ts": 1784365234.510135,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVTJSMGxVcDl0ZkZMajIyaXFPM3VTTnVGUVFPWThjX2hCZ00yZHoxd25Wa1RLOFhudEVFZ2JURzB0MTk2TTFTRWxyRnozZDU1X1FuS29hR3lmV0tOMEhQNUd6dEZMNUlzZDhTZjVDZ0FMRVF5czdua0NUeUdpaVljQ1lmenNrSUljWnRDa1FPVjZBR1c4LTNsNmpySVJtb0tSTWhaaWh1RXN1VWNURmVvVUtacEdrNnM4R0NPeXNWUEJGZC1GRk9EcHMwa2lRdjBq?oc=5",
+  "title": "Funko Expands ‘KPop Demon Hunters’ Pops! Line With Demon Saja Boys And SDCC Experience - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "sources": [
+   "Googleニュース(forbes.com)"
+  ],
+  "published": "Fri, 17 Jul 2026 16:00:18 GMT",
+  "published_ts": 1784304018,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "アニメ/漫画IPを基盤とするPopsフィギュア展開だが、主要な内容が新商品発売・イベント出展告知に留まり、ビジネス側も「商品ラインの拡張」という小規模な事業動向で数字・経営の実質性が薄い点から、対象外寄りのグレーとして確認対象に回す。",
+  "ts": 1784365234.510135,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GM0dFc0lRWm5uVWgxbS0xbjdGZVBUbGNJbmhueXQtVkdOTVdPSnk0ODNQVzhlQnQyOE4wRG95dTk5WlVBenA5U2NmR3oxMlYtaE14LXpfQk4zUQ?oc=5",
+  "title": "映画『オデュッセイア』が先行上映で約28億円の大ヒット、今年の最高記録を更新 - Forbes JAPAN",
+  "source": "Googleニュース(forbesjapan.com)",
+  "sources": [
+   "Googleニュース(forbesjapan.com)"
+  ],
+  "published": "Sat, 18 Jul 2026 01:00:00 GMT",
+  "published_ts": 1784336400,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画『オデュッセイア』の先行上映での興行成績（約28億円）という数字ニュースであり、コンテンツ＋ビジネス（興行/売上の実数字）の組み合わせが明確に該当する。",
+  "ts": 1784365234.510135,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45Vlp0NVU4R3FHaUZGbWxuQjRDbW9yYzZDdGVySmVTSXFfQjhFLTJRNlhoWTVLYTlzNUJ3STdtQWZvdC13RS1XaHNISnpXb0NlNVExOC1GamhxVjFIUlpIWmlBdTlRTlVFcDhQUGdSb24zLTJr?oc=5",
+  "title": "ネットフリックス、300作品で生成AI活用を公表——コスト半減の裏で米国の反AI暴力が激化 - BigGo ファイナンス",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Fri, 17 Jul 2026 18:36:00 GMT",
+  "published_ts": 1784313360,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ネットフリックスが300作品で生成AIを活用し、コスト削減を実現している映像配信業界の戦略転換であり、コンテンツ×AI×ビジネスが全て揃う最優先案件。",
+  "ts": 1784365234.510135,
+  "is_new": true
+ },
+ {
+  "url": "https://www.cartoonbrew.com/studios/anima-estudios-shuts-down-mexico-264574.html",
+  "title": "UPDATED: Ánima Estudios, One Of Mexico’s Most Important Animation Studios, Is Undergoing A Corporate Restructuring",
+  "source": "Cartoon Brew",
+  "sources": [
+   "Cartoon Brew"
+  ],
+  "published": "Thu, 16 Jul 2026 12:07:16 +0000",
+  "published_ts": 1784203636,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "メキシコの大手アニメスタジオ Ánima Estudios のリストラクチャリング・一時閉鎖という業界全体に影響を与える重大なビジネスニュースであり、コンテンツ企業の経営危機・構造転換が主題である。",
+  "ts": 1784365234.510135,
+  "is_new": true
+ },
+ {
+  "url": "https://animeanime.jp/article/2026/07/18/101189.html",
+  "title": "ハローキティ×リカちゃんの可愛いコラボ♪ 「レトロリカ 日焼けしたキティとバカンス」が8月1日に発売！ 1971年頃に登場した日焼け肌の「ピチピチリカ」をオマージュ",
+  "source": "アニメ！アニメ！",
+  "sources": [
+   "アニメ！アニメ！"
+  ],
+  "published": "2026-07-18T04:30:03Z",
+  "published_ts": 1784349003,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "リカちゃん・ハローキティというIPのコラボ商品発売であり、コンテンツ×ビジネスに該当するが、記事の主題が商品発表・グッズ販売告知が中心であり、経営戦略・市場規模・決算数字などの実質的なビジネスの深さに乏しいため、判定が微妙である。グッズ発売の告知だけでは対象外の基準に該当する可能性があるが、コンテンツIP（キャラクターの新展開）としてのニュース価値があるため取りこぼし回避で「グレー」とした。",
+  "ts": 1784365234.510135,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/07/netflix-paid-587-million-for-ben-affleck-ai-firm-interpositive-1236997198/",
+  "title": "Netflix Says It Paid $587 Million For Ben Affleck AI Firm InterPositive, Confirming Previously Reported Estimate",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Fri, 17 Jul 2026 22:05:05 +0000",
+  "published_ts": 1784325905,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Netflixが映像制作向けAI企業InterPositiveを5.87億ドルで買収したニュースで、AI技術の実装・コスト削減・複数作品への適用など、映像制作業界のAI活用とビジネス（M&A・決算開示）が明確に主題である。",
+  "ts": 1784365234.510135,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhY1hJUHgyUGphUnJxdjUxd3RxQTBqYWo0NmhBZTl3SjE0eXRON05JMkRCR3Z6UkFVbHNzYjcyZlozM1ZQT0VqbF9rLUhLWGFmWFUwMy1QMVd1a19jRWEtNmtuOXpUVEZTNXQ5QlF4enl6dw?oc=5",
+  "title": "「ガンダム」「ドラえもん」「ポケモン」… 永久不滅のIPの条件を解き明かす - NIKKEIリスキリング",
+  "source": "Googleニュース(nikkei.com)",
+  "sources": [
+   "Googleニュース(nikkei.com)"
+  ],
+  "published": "Thu, 16 Jul 2026 20:15:48 GMT",
+  "published_ts": 1784232948,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "アニメ・ゲームなどの主要IPの長期的な経営・ビジネス戦略を分析する記事で、コンテンツとビジネスの両軸が主題だが、具体的な決算数字や取引などの実質的ビジネス内容は見出しからは不明瞭なため中程度の確信度。",
+  "ts": 1784365234.510135,
   "is_new": true
  }
 ]
