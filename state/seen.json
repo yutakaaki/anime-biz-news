@@ -1210,5 +1210,287 @@
   "source": "Googleニュース(yomiuri.co.jp)",
   "label": "対象外",
   "ts": 1784365234.510135
+ },
+ "https://variety.com/2026/music/news/robert-smith-fifa-world-cup-halftime-show-1236815510": {
+  "title": "The Cure’s Robert Smith Slams FIFA’s World Cup Final Halftime Show: ‘Just F— Off’",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1784413626.031331
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-18/even-the-student-council-has-its-holes-anime-reveals-more-cast/.239755": {
+  "title": "'Even the Student Council Has Its Holes!' Anime Reveals More Cast",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZUVpWlA1MTZlc0cwUk9KQXdyQzVKUnNUcHNIZTZxRkE5V1lJckY0Z0JMbURXNnFRazdxOXEyNU00YTZfaWluR3g3NTNXdXBfNHBzUVFuUWpJaEZYYnNCaFJvYkJEMlFxcnRGVTB0aVNQNEFCUDNNQ0RLRmxBVkpFeFdkLXNNMmM2VEtndDZCUGNTZTNRQW5tYWVySlNjN0RMc0FFaW1oS1MwQnJGZEFiU1pn?oc=5": {
+  "title": "Heavy NYC Rains to Improve Smoky Air Ahead of World Cup Final - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "重複スキップ",
+  "ts": 1784413626.031331
+ },
+ "https://deadline.com/2026/07/jim-parsons-big-bang-theory-titanique-1236997567": {
+  "title": "Jim Parsons Opens Up About Being “Stressed” And “Miserable” Through Much Of ‘The Big Bang Theory’",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1784413626.031331
+ },
+ "https://variety.com/2026/film/news/samantha-morton-circe-christopher-nolan-the-odyssey-1236815471": {
+  "title": "Samantha Morton on Her Electrifying Performance as Circe in Christopher Nolan’s ‘The Odyssey’: ‘It Felt Like a Rebirth’",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1784413626.031331
+ },
+ "https://deadline.com/2026/07/box-office-global-the-odyssey-1236996979": {
+  "title": "‘The Odyssey’ Opening To $257M+ Around The World, Best Ever For Christopher Nolan Ahead Of ‘Dark Knight Rises’ – Global Box Office Update",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1784413626.031331
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-18/tune-in-to-the-midnight-heart-anime-2nd-season-reveals-more-cast-2027-debut/.239746": {
+  "title": "Tune in to the Midnight Heart Anime's 2nd Season Reveals More Cast, 2027 Debut",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1784413626.031331
+ },
+ "https://variety.com/2026/tv/news/jim-parsons-miserable-during-the-big-bang-theory-fame-1236815461": {
+  "title": "Jim Parsons was ‘Miserable’ During Peak ‘Big Bang Theory’ Popularity: ‘I Wouldn’t Do That Again and For Any Amount of Money’",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1784413626.031331
+ },
+ "https://deadline.com/2026/07/larry-david-robert-kennedy-jr-1236997510": {
+  "title": "Larry David Jabs Anti-Vaccine Activism Of Cheryl Hines’ Husband In Latest ‘Life, Larry And The Pursuit Of Unhappiness’",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1784413626.031331
+ },
+ "https://variety.com/2026/film/news/christopher-nolan-the-odyssey-adaptation-scholars-react-1236815190": {
+  "title": "‘The Odyssey’: What Academics Are Saying About Christopher Nolan’s Epic",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1784413626.031331
+ },
+ "https://variety.com/2026/film/news/the-odyssey-2am-screenings-imax-70mm-1236815410": {
+  "title": "My 2 a.m. ‘Odyssey’: Inside the Sold-Out, All-Night Screening of Christopher Nolan’s Epic",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1784413626.031331
+ },
+ "https://deadline.com/2026/07/argentina-spain-world-cup-final-telemundo-peacock-nbcuniversal-spanish-1236997282": {
+  "title": "Argentina Vs. Spain Could Be “The Greatest World Cup Final Ever”, Senior NBCUniversal Telemundo Exec Says",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1784413626.031331
+ },
+ "https://variety.com/2026/shopping/news/w-hotels-italian-tour-sardinia-rome-florence-book-online-1236814904": {
+  "title": "W Hotels Expands Italian Footprint With New Sardinia Resort — and a Three-Stop ‘Italian Tour’",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1784413626.031331
+ },
+ "https://variety.com/2026/film/box-office/box-office-the-odyssey-opening-day-christopher-nolan-1236815411": {
+  "title": "Box Office: ‘The Odyssey’ Has Epic Opening Day With $51 Million",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE95OEdKcXpIQnB3cVF3emRBdTU3ZU5vSm45ZW1IamQ3OVRVaWNHdWJyM3lwcjNMN3NNMk9CdjZYd2JmZzVNVHNSMkFEX2wxak1qbEJHS1BiWlJyY2ZuN3pERV9MdTQ2V29sSW0zSTJFelRRVXdrNkxWZnZhZw?oc=5": {
+  "title": "TVアニメ『BLACK TORCH』7月18日(土) 22:00～放送の第3話あらすじ＆先行カット公開！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1784413626.031331
+ },
+ "https://deadline.com/2026/07/freddy-boom-boom-cannon-dead-1236997570": {
+  "title": "Freddy “Boom Boom” Cannon Dies: ‘Palisades Park’ & ‘Tallahassee Lassie’ Rock & Roller Was 89",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://animeanime.jp/article/2026/07/18/101205.html": {
+  "title": "「サイボーグ009 ネメシス」で蘇った名主題歌「誰がために」　マンガ家・石ノ森章太郎が作詞家として“言葉”で刻んだヒーローの系譜を辿る",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://0115765.com/archives/196063": {
+  "title": "フィギュア3個で1万円以下！『ゴジラ』の名場面をジオラマ化したセット誕生…特に2016ゴジラは“換装可能”",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fU0hHNzNUR0FOUldhYUxMMUZpVWJnd2J3Vk0wVWEwZzFLeDVhbXZHWkJaTjdZbGZfc0hiU2dRNTRfcmhaemhfYW84dXZlX0VQZFEtRWRR?oc=5": {
+  "title": "『トイ・ストーリー5』が早くも興収50億突破！2026年7月2週末目のアニメ映画興行ウォッチング｜ネジムラ89 / アニメ映画ライター - note",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMdndpNENPVmFTZ2ludEI1UU1KVDYxU0RQSDF2bGF4NVFKcjdBLVRHeGN2cUdnQW9TWnUtcF9yR3IxUEs0Q0YxUnJSWHE3dw?oc=5": {
+  "title": "【2026年】動画配信サービス（VOD）おすすめ12社を徹底比較！主要21社から厳選 - アプリブ",
+  "source": "Googleニュース: アニメ 配信 契約",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeXVWNWFnLXk5eDVkU0p0RDNKdFE3SWNvTFItWVJCbmJBdTU4SWwxRlZaMS1sZDZrQ3h0SkZRMEU4YmJSX0dwejhDTUFQMHA3Q0dSS0tSRDc3WFZvdXpnRTA2WXJSZHRELUhOdTVSOVBlQXZHbWNvRUkzTHFoRV9mRHVTWlVzcGp5ZTkxdm9JZFpBcnJGWm1WNnhEbGY4SUcxWVpka01ocHo4b3BHS0w3ZmNxVE1XRThLeVZGQmJkY3lVRTI1c0pR?oc=5": {
+  "title": "DEMON SLAYER: INFINITY CASTLE's Biggest Box Office Win Could Create a Frustrating Trend for Anime Fans - GeekTyrant",
+  "source": "Google News: anime box office",
+  "label": "対象",
+  "ts": 1784413626.031331
+ },
+ "https://variety.com/2026/music/obituaries-people-news/freddy-cannon-dead-palisades-park-rocker-1236815495": {
+  "title": "Freddy Cannon, Rocker Whose Late ’50s and Early ’60s Hits Included ‘Palisades Park’ and ‘Tallahassee Lassie,’ Dies at 89",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://animeanime.jp/article/2026/07/18/101204.html": {
+  "title": "ガブリアス、カイリュー、ボーマンダのドラゴンタイプがたくさん♪ 「ポケモン」アクリルマーカーチャームセット、ドミテリア・キーチェーンなど新グッズ登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://0115765.com/archives/196041": {
+  "title": "中華企業が「ジンバルカメラ付き」ド変態スマホを本当に発売へ。代表は「準備完了」9月までに中国国内展開",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-18/japanese-animation-tv-ranking-july-6-12/.239685": {
+  "title": "Japanese Animation TV Ranking, July 6-12",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NzluLVN1QWxDcl9QMjZ1MC0wYVAzS3hOa0ZZZGNzNHBiRmpzczk0ZDRMUmJnWHBvbGszeFBMX0JxZTNBYjJyNlBXYm1RM2l2aXfSAVRBVV95cUxPUmlLX2xaWDF5S2p3eTUxVld2Z0RiblRTSHRkVTZJT0IzZV9pSTUxT081ZTVhX1J4b3FoWjQ4TjQ5Slh5WTZWRHhnTWxXMmNrXzl0Tko?oc=5": {
+  "title": "中国の2026年夏休み映画の興行収入が710億円相当を突破 - AFPBB News",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXJXal9heFFkeEdxb1ZRSzBBeFdWQ050d09sUFlpWVVwQWtsNzRBNzU4UjFLakg1RUZKTmdVVHFtRHpPdDJCTVhRVHRGSG9NN1NyVXVPQTJSLUx5dHpjTmxHNExaMGdSMUVUbFRWU2toTGluMHA2RzhTcTltNzNDVi04THV0cUszLVphdFZoQzJoSS1xTUFtcW1vbjE0b29EWmdxcHBRZkJmbXJSaVZF?oc=5": {
+  "title": "Vanishing CLO Profits Are Sparking Infighting: Credit Weekly - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://deadline.com/2026/07/valentina-broadway-rocky-horror-show-1236997556": {
+  "title": "‘RuPaul’s Drag Race’ Star Valentina To Make Broadway Debut In ‘The Rocky Horror Show’",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://animeanime.jp/article/2026/07/18/101203.html": {
+  "title": "お文具さんがエビフライやおにぎりに！ 「お文具といっしょ」可愛すぎる「ぬいぐる身」シリーズより持ち運びできるミニキーリングが新登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://0115765.com/archives/196024": {
+  "title": "ゲーム開発のKLab、今度は「AIスマートホーム」参入表明…中東での「対ドローン防衛」に続き　“新たな事業の柱”模索",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-18/japan-video-game-rankings-july-6-12/.239725": {
+  "title": "Japan's Video Game Rankings, July 6-12",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1784413626.031331
+ },
+ "https://variety.com/2026/film/news/call-of-duty-movie-modern-warfare-games-1236815430": {
+  "title": "Taylor Sheridan’s ‘Call of Duty’ Movie Will Be Set in ‘Modern Warfare’ Universe",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1784413626.031331
+ },
+ "https://animeanime.jp/article/2026/07/18/101202.html": {
+  "title": "「鬼灯の冷徹」鬼灯、お香、白澤、双子の座敷童子らが星降る夜デザインに☆ 新規描き下ろしイラストグッズが登場【まるくじ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUkM4YmlqLUR0bnpCd01udUJybENCRFBIcmtyOWVkSWxNQXBUUWhNZmlTc2hBRkI1M3hQczRUUTZJWXBxLWxIQ24zMUtTSEMyWXBhRW54X05IaVFEWk1DenVJUVBPaWdORnBON2JUaHZpMnNDekVPV3VCVzV5THdmMERnaDRpXzVpUU5UT1F1T01GMkFIZUcxLXlzcW53eUFBdm1STHVWSXdLYjc1clZETVNxUmpGeEF0OXpqemI4MWRjR1Q3LVpsZ0NZRmQtVWxsZ1kwdVU2NlBuN2Rk?oc=5": {
+  "title": "‘Mandalorian And Grogu’ Seeks New Audience On Streaming This Week After Stalling At Box Office - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTMwN1dOQkFmNF9YWjVKVFFtcWtHbm5OdFNOTkdjV3M5Q3dNN1RQekFKaVo2RmxQM25vdVA5amN3c0ZTZXc3bUZ5RWxhOXU5LVFOYnY3cWRydXFPUTZHTGxFSmVFdVV5WmE0Q3lpSGFVeEQ5NlVUanBpNzBocVhteVM2SEZPWDdTMW9ZU1N6cTZNNXV4WHFRekFIaXY1VDdVa3hUaWtSekpkUGpWZFQxdzlrTQ?oc=5": {
+  "title": "Michael Burry Says ‘Good Time’ to Chase Hong Kong Stock Bargains - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://animeanime.jp/article/2026/07/18/101201.html": {
+  "title": "「名探偵コナン」×「Jリーグ」コラボ記念の描き下ろしビジュアル公開！ 試合にコナンが登場する「コナンDAY」も開催",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZW9fOUhMbm5LUDUydFhwT1FaWlFFSHlWRVVzdDgxeWZaRjFCT2FQSnVicERFZzRKQXVBaFlyRWhYWUF1M2tMT1hBNUFzUGk4Y25YUm8wSmRpYTZYenlsWl9IcEd0c0hVVjJmTk1lbC1DOGZmTV9yZ1pfZnpfa0pmT3RVUzdnMHZrWGJJcw?oc=5": {
+  "title": "この大ヒット映画は1日あたり約240億ベトナムドンの興行収入を記録し、ベトナムの映画館を単独で席巻した。 - Vietnam.vn",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://animeanime.jp/article/2026/07/18/101200.html": {
+  "title": "ウッディ&バズをモチーフにしたバッグ登場♪ サマンサタバサから「トイ・ストーリー」コレクション登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://variety.com/2026/tv/news/joe-caldwell-dead-dark-shadows-1236815444": {
+  "title": "Joe Caldwell, ‘Dark Shadows’ Writer, Dies at 97",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://deadline.com/2026/07/joe-caldwell-dead-1236997493": {
+  "title": "Joe Caldwell Dies: ‘Dark Shadows’ Writer Who Co-Created Reluctant, Enduring Vampire Barnabas Collins Was 97",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1784413626.031331
+ },
+ "https://animeanime.jp/article/2026/07/18/101199.html": {
+  "title": "浪川大輔　チャガタイは「トップではないポジションだからこその魅力がある」　TVアニメ「天幕のジャードゥーガル」インタビュー（７）",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://deadline.com/2026/07/meg-stalter-oh-mary-broadway-1236997486": {
+  "title": "Meg Stalter Returns To Broadway’s ‘Oh, Mary!’, Silently Greets Stage Door Fans With A Written Note Of Explanation",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmxBMzBza3I4Q0JMTW9PWGVXcURHQWhaSjBzZ0RjLXVSN3NsSVRkNGtLQUlsTDRneGdhZVdpTW53elZxaVhYMGYyNXhibVZ4S1hYSjhtSDBfRzhmY1Z5OFVIR3RBODk0NHZrd1lhdUY1czl1bWdJQUxtWFZHd3lHTjEyT1Zra29ndDdibzRna2t2T2JYck1ST1JUenpjazhuZ2x6cGVibF9qOVlBUXJsZk9MUQ?oc=5": {
+  "title": "‘Call of Duty’ Movie From Taylor Sheridan and Peter Berg Will Be Set in ‘Modern Warfare’ Universe - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaklkX09XcktoQU1iNTdJXzJGdVgxYlI1dXd0SjdCZ0lGVzlOOTRLMlVURzNZYjRxSGZXZ1hlaDd2NXRycHRjeENDSHVISXZ3cDQxWmFlNEZtVmNwaS1xR2NnbHNtemRiSEtwdmV1d0ZLbHVnVmVYd2JORzdPTm1rYWhlS1c2d1JZYVN3dXMzX0xnOEgtTkk4QzN1Z2E4UmczYUdZN2lCc0J1ZzF0eGktMjB0OA?oc=5": {
+  "title": "India Moves Against Youth Protesters Before Parliament Session - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43dGc3RTJBNFIxV0RKdUg2dEZpNmgxY0Z3OTdxNU1Pc2dtLVFKRF9YdE91NmZIYkwxTEFQVm1aTGIza1JWQWd4SHNqZzIxbWpYWUt3bV9ObEU5YUE?oc=5": {
+  "title": "「超知能」担当記者が激白 連載1年、爆速のAI進化 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMibEFVX3lxTE84aEhyZW54RVVqNWZoQUl0eEt6bU5pWlhWMlBvaE00V2NjZGtOcHlXc0VVZXJFb3BkVGIyMVRxMVFYNzBIWmpSRl9SR2tVUXhHbFNmT1Q5LV8wZ3lzdENfV0w2MWp2Tk53ekNSLQ?oc=5": {
+  "title": "ブックオフG、「稼ぎ頭」交代で最高益更新 株価は連日の上場来高値 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象外",
+  "ts": 1784413626.031331
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nb21aMWxOR2hNek1lZnRfekpqdzd5YVdiaGhkYVBweVdWZ0p4MkZiSzMtTU9iRE1xOEdnWUM2Z0l2Y0h3ZnNYMWthcGdybHBmcHNicFVpZWxXRFNfNXpNNm5maGY5SFJzYThHYzZFSjh6MVc2QkstMS1zUQ?oc=5": {
+  "title": "旭丘分校へようこそ！「TVアニメ『のんのんびより のんすとっぷ』ラッフルくじ」が発売決定！～ラッフルくじ限定景品が多数登場～ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784413626.031331
  }
 }
