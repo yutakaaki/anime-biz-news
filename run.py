@@ -104,17 +104,33 @@ def main() -> int:
     for it in window:
         it.setdefault("sources", [it.get("source", "")])  # 媒体リスト（話題度の元）
         it["is_new"] = False  # 前回の「新着」印はここでクリア（今回追加分だけを新着にする）
+        it["updated"] = False  # 「更新」印も毎回リセット（今回更新された記事だけに付ける）
+    window_by_url = {normalize_url(it["url"]): it for it in window}  # 更新検出用
     recent_seen_titles = store.recent_titles(seen, days=7)
     now = time.time()
 
     # 既読・古い記事・クロスラン重複を仕分け（重複は「媒体加算」して話題度に反映）
     age_cutoff = now - MAX_AGE_DAYS * 86400
     to_judge: list[Article] = []
-    n_read = n_dup = n_old = n_buzz = 0
+    n_read = n_dup = n_old = n_buzz = n_upd = 0
     for art in candidates:
         key = normalize_url(art.url)
         if key in seen:
             n_read += 1
+            # 更新検出: 既読でも、窓に残る採用記事が「より新しいpubDate」で再登場したら、
+            # タイトル・日時・数字をRSSの無料メタで差し替える（判定=APIは呼ばない＝トークン増ゼロ）。
+            # 例: Deadline等の興行速報は同一URLのまま「見込み→実績」に更新される。
+            win = window_by_url.get(key)
+            if (win is not None and art.published_ts is not None
+                    and art.published_ts > (win.get("published_ts") or 0)):
+                win["title"] = art.title
+                win["published"] = art.published
+                win["published_ts"] = art.published_ts
+                if art.source and art.source not in win.get("sources", []):
+                    win.setdefault("sources", []).append(art.source)
+                win["is_new"] = True   # 更新されたので新着扱いで色付け
+                win["updated"] = True  # 「🔄更新」バッジ用
+                n_upd += 1
             continue
         if art.published_ts is not None and art.published_ts < age_cutoff:
             n_old += 1
@@ -134,7 +150,7 @@ def main() -> int:
             continue
         to_judge.append(art)
 
-    print(f"収集 {len(candidates)} 件（既読 {n_read} / 古い {n_old} / 媒体加算 {n_buzz} / 重複スキップ {n_dup} / 新規 {len(to_judge)}）")
+    print(f"収集 {len(candidates)} 件（既読 {n_read}[更新 {n_upd}] / 古い {n_old} / 媒体加算 {n_buzz} / 重複スキップ {n_dup} / 新規 {len(to_judge)}）")
     if len(to_judge) > MAX_CLASSIFY:
         print(f"安全弁: 新規の先頭 {MAX_CLASSIFY} 件に絞って判定")
         to_judge = to_judge[:MAX_CLASSIFY]
@@ -223,6 +239,7 @@ def _aggregate_dicts(items: list[dict]) -> list[dict]:
         rep["media_count"] = len(srcs)
         rep["also"] = [s for s in srcs if s != rep.get("source", "")]
         rep["is_new"] = any(m.get("is_new") for m in members)  # 1本でも新着なら新着扱い
+        rep["updated"] = any(m.get("updated") for m in members)  # 1本でも更新なら更新表示
         # クラスタ内に「深掘り」があれば代表のtypeも深掘りに寄せる（見逃し防止）
         if any(m.get("type") == "深掘り" for m in members):
             rep["type"] = "深掘り"
@@ -268,7 +285,7 @@ def _card(it: dict) -> str:
     when = _fmt_jst(it.get("published_ts"), it.get("published", ""))
     # 新着は色分け（黄色い枠＋淡い背景＋NEWバッジ）。既出は通常のグレー枠。
     is_new = bool(it.get("is_new"))
-    new_b = _badge("🆕NEW", "#e8a33d") if is_new else ""
+    new_b = _badge("🔄更新", "#0b6e8c") if it.get("updated") else (_badge("🆕NEW", "#e8a33d") if is_new else "")
     style = ("border:1px solid #f0c36d;border-left:5px solid #e8a33d;background:#fffdf3;"
              if is_new else "border:1px solid #ddd;")
     return f"""<article style="{style}border-radius:8px;padding:14px;margin:10px 0">
