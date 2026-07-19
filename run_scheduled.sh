@@ -38,10 +38,31 @@ if [ -f "$DIR/outputs/digest.html" ]; then
   mkdir -p "$DIR/docs"
   cp "$DIR/outputs/digest.html" "$DIR/docs/index.html"
   GIT=/usr/bin/git
+  # 接続がハングしても短時間で諦める（macOSに timeout コマンドが無いので自前で kill）。
+  # http.lowSpeedLimit/Time: 転送が 30 秒間ほぼ停止したら中断。
+  GITC="$GIT -c http.lowSpeedLimit=1000 -c http.lowSpeedTime=30"
+  git_timeout() {  # $1=秒 残りは実行コマンド。指定秒でハングを強制終了。
+    local secs="$1"; shift
+    "$@" >> "$LOG" 2>&1 &
+    local gpid=$!
+    ( sleep "$secs"; kill -9 "$gpid" 2>/dev/null ) &
+    local kpid=$!
+    wait "$gpid" 2>/dev/null; local rc=$?
+    kill "$kpid" 2>/dev/null; wait "$kpid" 2>/dev/null
+    return $rc
+  }
   "$GIT" add docs state >> "$LOG" 2>&1
   "$GIT" commit -m "digest update $(date '+%Y-%m-%dT%H:%M:%S')" >> "$LOG" 2>&1 || echo "コミット変更なし" >> "$LOG"
-  "$GIT" pull --rebase --autostash origin main >> "$LOG" 2>&1 || echo "pullスキップ" >> "$LOG"
-  "$GIT" push origin main >> "$LOG" 2>&1 && echo "push成功（Pages更新）" >> "$LOG" || echo "push失敗（認証要確認）" >> "$LOG"
+  git_timeout 60 $GITC pull --rebase --autostash origin main || echo "pullスキップ（timeout/失敗）" >> "$LOG"
+  # push は不通のことがあるので最大3回リトライ（各60秒でタイムアウト）。
+  PUSH_OK=0
+  for i in 1 2 3; do
+    if git_timeout 60 $GITC push origin main; then
+      echo "push成功（Pages更新, 試行$i）" >> "$LOG"; PUSH_OK=1; break
+    fi
+    echo "push失敗 試行$i → リトライ" >> "$LOG"; sleep 10
+  done
+  [ "$PUSH_OK" = 1 ] || echo "push最終失敗（3回とも不通。次回実行で再送されます）" >> "$LOG"
 fi
 
 # 次のウェイクを予約（朝の実行後→今日の夕方17:58 / 夕方の実行後→翌朝05:58）。
