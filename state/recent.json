@@ -17,27 +17,8 @@
   "confidence": "高",
   "reason": "夏アニメのニコニコ動画初速ランキング発表という配信プラットフォームでの視聴実績（再生数・コメント数）を数字で報じる記事で、複数アニメ作品の興行・配信成績ニュースに該当するため。",
   "ts": 1784293334.65393,
-  "is_new": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nZDlqVEhxcm4xNE1Xa09hUTd3Z3FyejhtVFE5Ym1uTmVBZTNrbXR1dm5Oem1wNVRyS1ExZktFZGRvcE0zMXZkeEVLcmQzSWY5cGdTNk5LdlNXRGQ3NUE?oc=5",
-  "title": "劇場版「チェンソーマン」を単独出資で制作…成長続けるMAPPA（東京）、ＩＰ保有で多角展開 - 新潟日報",
-  "source": "Googleニュース: アニメ 製作委員会 出資",
-  "sources": [
-   "Googleニュース: アニメ 製作委員会 出資"
-  ],
-  "published": "Fri, 17 Jul 2026 07:30:00 GMT",
-  "published_ts": 1784273400,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメIPの劇場版制作を単独出資するMAPPAの経営戦略・多角展開がビジネス主題であり、コンテンツ＋ビジネスの要件を満たす。",
-  "ts": 1784293334.65393,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1l6a3U3dnhLZE1LNUNOV1p2NjVYQ2JkaXFyd1o5SHpVc2VVQkJNVjlDalJkcTZwRFQ2UDg2N0RENkV5RjJpdVBYeUFsMVFQeFpIWnRYZGdNN254T2FCNHRUS081em1LcFdoeFgzSWhQU0Y0VkVaVGFWS0NZMWQydFZ5bkxBVUlUVWlKbGI2dDVLQ09HM3ljQzBnRXNkZUZfRFhjMVFNQy1oWUhucDIw?oc=5",
@@ -57,7 +38,8 @@
   "confidence": "中",
   "reason": "アニメ制作大手（鬼滅の刃・ソロレベリング制作）のAI導入検討は3つ分野の可能性があるが、本文が極めて短く『検討している』段階でビジネス面（実装・コスト削減・売上への影響など）の具体的な情報が薄いため、グレーとして要確認に回す。",
   "ts": 1784293334.65393,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92ZGd5WElkSTZZUjFLUnlTQjZUTkV4eHAtcENOa2Z2R0stWll5VlR1dGd2MjVNcjhvd1JqQ0hEa2NXcTV3TnllM19aOHJibmVrZWNiajZfVG9UQzNjY3lqc1ZfSElCUQ?oc=5",
@@ -77,27 +59,8 @@
   "confidence": "高",
   "reason": "アニメ・漫画のIP振興を目的とした全国知事会のプロジェクトチーム立ち上げは、政策・補助金を通じたビジネス支援施策であり、コンテンツ産業のビジネス環境に直結する。",
   "ts": 1784293334.65393,
-  "is_new": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1fOGJlbVF6RUVzLXM3TENCMEhZRVd0UXFNZ0doMGs5cGZRY3pKMHhDdHA3bGlmZDVKLXVGZW5zWVgwUFRM?oc=5",
-  "title": "IP創出に挑むエンタメ企業図鑑②｜アニメ・総合エンタメで世界に挑む注目企業5選 サイバーエージェント、バンダイナムコHD、東映アニメ、ブシロード、グリーHD - gamebiz【ゲームビズ】",
-  "source": "Googleニュース(gamebiz.jp)",
-  "sources": [
-   "Googleニュース(gamebiz.jp)"
-  ],
-  "published": "Fri, 17 Jul 2026 00:55:00 GMT",
-  "published_ts": 1784249700,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ・ゲーム・エンタメのIP創出戦略を扱う複数企業の特集であり、コンテンツ産業の事業戦略・市場動向の分析記事として、コンテンツとビジネスの両軸が明確に該当するため。",
-  "ts": 1784293334.65393,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOEd3d0dnV0xUZUUzWWhzblFOZzBpcnI4VmExOXo1a2NXOUZncndkY0hQYS1XSV9USWM2TXRHWXlhWWdrOGttVWdzVE5KMXpELXFwTGlhR1dDbGtvV3EzQW1nUVlNU1NHMFROc1kwaFp1YXJvN3BVMVpITlcwb2NxLVlqcG9UQ0U4Z1cxalBOcGtSWmk1ZmZlZzdDc1ZCb2tLWW5TXzMtMFg3X2hXVGdEZEZIMmlGVXpq?oc=5",
@@ -118,47 +81,8 @@
   "confidence": "高",
   "reason": "Netflixが300タイトル以上で生成AIを使用したという業界全体に影響する重要なビジネスニュースであり、映像制作業界のAI活用状況を示す実質的なビジネス発表で、コンテンツ＋AI＋ビジネスの3分野が揃う最優先対象。",
   "ts": 1784293334.65393,
-  "is_new": false
- },
- {
-  "url": "https://0115765.com/archives/195882",
-  "title": "『ワールドダイスター』スマホゲームがサービス終了へ　TVアニメ化も果たした“演劇”ガールズ作品として約3年運営",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Fri, 17 Jul 2026 09:02:30 +0000",
-  "published_ts": 1784278950,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "演劇ガールズIPのスマートフォンゲームがサービス終了する事実を報じるもので、コンテンツ（ゲーム・メディアミックス）とビジネス（サービス終了という経営判断）の両分野が主題である。",
-  "ts": 1784293334.65393,
-  "is_new": false
- },
- {
-  "url": "https://www.animenewsnetwork.com/news/2026-07-17/tomb-raider-king-end-line-sequel-launches-in-english-across-4-major-webtoon-platforms/.239718",
-  "title": "Tomb Raider King: End Line Sequel Launches in English Across 4 Major Webtoon Platforms",
-  "source": "Anime News Network",
-  "sources": [
-   "Anime News Network"
-  ],
-  "published": "Fri, 17 Jul 2026 03:17:36 -0400",
-  "published_ts": 1784272656,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Webtoon（漫画/コミック、コア領域）の続編が複数プラットフォームでの同時配信展開という配信ビジネス・流通・ライセンス関連のニュースであり、コンテンツ＋ビジネスの2分野が揃う。",
-  "ts": 1784293334.65393,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/tv/global/netflix-one-hundred-years-of-solitude-dates-part-2-1236812149/",
@@ -178,47 +102,8 @@
   "confidence": "高",
   "reason": "Netflixの実写ドラマシリーズ『百年の孤独』シーズン2の劇場イベント開催と配信スケジュールの発表であり、コンテンツ（配信作品）とビジネス（配信戦略・劇場イベント展開）が主題。ただし非アニメの実写映像だがNetflixの戦略的な配信・興行施策として業界の重要なトレンド（ストリーマーによる劇場展開）であるため対象。",
   "ts": 1784293334.65393,
-  "is_new": false
- },
- {
-  "url": "https://0115765.com/archives/195853",
-  "title": "電子書籍大手「めちゃコミック」が純損失341億円の巨額赤字計上　親会社が帝人から米ファンドへ移行",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Fri, 17 Jul 2026 06:10:16 +0000",
-  "published_ts": 1784268616,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "電子コミック配信プラットフォームの親会社変更（帝人→ブラックストーン）、買収・再編に伴う決算赤字計上という業界構造ニュース。漫画配信はコア領域で、M&A・経営変動を伴うビジネス記事であり対象。",
-  "ts": 1784293334.65393,
-  "is_new": false
- },
- {
-  "url": "https://www.animenewsnetwork.com/news/2026-07-17/manga-plus-adds-tabireco-baby-road-trippers-manga/.239713",
-  "title": "Manga Plus Adds Tabireco's Baby Road Trippers Manga",
-  "source": "Anime News Network",
-  "sources": [
-   "Anime News Network"
-  ],
-  "published": "Fri, 17 Jul 2026 02:44:45 -0400",
-  "published_ts": 1784270685,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "漫画IP（Baby Road Trippers）がMANGA Plusプラットフォームで配信開始というメディアミックス・配信契約の実績を報道する記事で、コンテンツ+ビジネス（配信サービス）が該当する。",
-  "ts": 1784293334.65393,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/suncatcher-productions-distribution-rights-if-i-tell-you-1236814835/",
@@ -238,7 +123,8 @@
   "confidence": "中",
   "reason": "実写映画の配給権取得というビジネス契約が主題であり、コンテンツ＋ビジネスを満たすが、非アニメの実写映画であり、AIが絡まず、また業界全体を揺るがすような大型ニュースではなく、興行数字もないため中程度の確信度。",
   "ts": 1784323160.387949,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/07/big-bang-spinoff-stuart-fails-episodes-length-short-why-1236979041/",
@@ -259,7 +145,8 @@
   "confidence": "中",
   "reason": "The Big Bang Theory spinoff（コンテンツ）のストリーミング配信向けエピソード構成に関する制作判断を、クリエイターへのインタビューを通じて掘り下げたもの。ストリーミングプラットフォーム（HBO Max）での配信戦略とビジネスモデル（広告vs サブスクリプション）の違いが話題の中心であり、配信産業のビジネス構造に関わる記事。",
   "ts": 1784323160.387949,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html",
@@ -280,19 +167,20 @@
   "confidence": "高",
   "reason": "Disney Jr.とAI駆動のアニメーション企業Animajが共同開発した新作プリスクール向けシリーズ「Ozzy Fox」をYouTubeで公開したニュース。3分野すべてが揃う：コンテンツ（アニメシリーズ制作・配信）、AI（Animajのプロプライエタリパイプラインの活用、AI補助スケッチ変換や動画内挿など）、ビジネス（Disney-Animaj間の商用契約、Lumeeとの広告事業連携、制作時間とコスト削減）。",
   "ts": 1784323160.387949,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/07/box-office-the-odyssey-1236993792/",
-  "title": "‘The Odyssey’ Treks Toward Massive $117M U.S. Opening: Best Live-Action Haul Of 2026 & Record For Matt Damon As Lead – Box Office Update",
+  "title": "‘The Odyssey’ Slaying With $120M+ U.S. Opening: ‘A’ CinemaScore, Best Live-Action Haul Of 2026 & Record For Matt Damon As Lead – Box Office Saturday AM Update",
   "source": "Deadline",
   "sources": [
    "Deadline",
    "Variety",
    "Googleニュース(hollywoodreporter.com)"
   ],
-  "published": "Fri, 17 Jul 2026 20:50:00 +0000",
-  "published_ts": 1784321400,
+  "published": "Sat, 18 Jul 2026 15:27:00 +0000",
+  "published_ts": 1784388420,
   "themes": [
    "コンテンツ",
    "ビジネス"
@@ -302,7 +190,8 @@
   "confidence": "高",
   "reason": "実写映画『The Odyssey』の初週末興行収入（$117M）に関する速報ニュースであり、Box officeの数字ニュースは非アニメ映像でも対象に該当するため。",
   "ts": 1784323160.387949,
-  "is_new": false
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "https://www.cartoonbrew.com/newsletter/mexican-animation-crisis-netflixs-ai-surge-avatars-two-token-theaters-264637.html",
@@ -323,7 +212,8 @@
   "confidence": "高",
   "reason": "アニメーション業界の複数の大型ニュースを扱う記事で、①メキシコの大手アニメスタジオの経営危機（ビジネス）、②NetflixがAI生成ワークフローを300タイトル近くで使用（AI×ビジネス×コンテンツ）、③スペイン政府のアニメ産業投資（ビジネス）などが含まれ、映像産業全体に関わる構造的ニュースであり、3分野すべてが主題に該当する。",
   "ts": 1784323160.387949,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-17/seven-seas-to-release-ultraman-by-kazuo-umezz-the-classic-manga-collection/.239733",
@@ -343,7 +233,8 @@
   "confidence": "高",
   "reason": "漫画（コアなコンテンツ領域）のライセンス契約・出版契約（ビジネス）が主題であり、コンテンツ＋ビジネスの2分野で該当。AIは関わらない。",
   "ts": 1784323160.387949,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-17/fatal-fury-city-of-the-wolves-game-trailer-previews-dlc-character-rick-strowd/.239731",
@@ -363,27 +254,8 @@
   "confidence": "高",
   "reason": "格闘ゲーム『Fatal Fury: City of the Wolves』のDLCキャラクター追加スケジュール発表であり、コンテンツ（ゲームIP）とビジネス（DLC販売・シーズンパスの配信計画）が主題。",
   "ts": 1784323160.387949,
-  "is_new": false
- },
- {
-  "url": "https://0115765.com/archives/195781",
-  "title": "東宝、『ゴジラ』新作映画に向けLAドジャースと共同施策　“ホーム最終戦”貴重な場でコラボナイター",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Fri, 17 Jul 2026 02:30:17 +0000",
-  "published_ts": 1784255417,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映画『ゴジラ-0.0』の公開を記念した大手スポーツチームとの共同プロモーション施策であり、コンテンツ（映画IP）とビジネス（パートナーシップ・マーケティング）の両分野が明確に主題となっているため。",
-  "ts": 1784323160.387949,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-17/final-fantasy-resonance-game-posts-new-trailer/.239724",
@@ -403,28 +275,8 @@
   "confidence": "中",
   "reason": "ゲームIP（Final Fantasy）の新作コンソール版がSwitch/PS5/Xbox等で10月22日にローンチ予定で、プリオーダー受付開始というビジネス・販売動向のニュースであり、コンテンツ＋ビジネスの2分野が揃う。ただし制作発表というより発売日確定と予約開始が主なため、実質的なビジネスニュースとして対象に分類する。",
   "ts": 1784323160.387949,
-  "is_new": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZMTRfampObnBMTFA5SGloaEpva2dkRkJMc2V5UUt3TG1CYm1KYU1kMGVNcXhRaGhlOU9TNV94blU3Z1dWcFdOU200VUJYM1BFQWhoWjJZeFA3dkpkRGxJSDhWX3B4cHc?oc=5",
-  "title": "Netflixでは生成AIが300作品でポスプロ工程などに活用されている - GIGAZINE",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 17 Jul 2026 02:39:00 GMT",
-  "published_ts": 1784255940,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Netflixが生成AIを300作品のポストプロダクション工程に活用している事例は、映像制作におけるAI技術の実践的導入と、ビジネス効率化（コスト削減・制作の高速化）の両面を示す、3分野が揃った業界の重要なニュースである。",
-  "ts": 1784323160.387949,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/priyanka-chopra-jonas-varanasi-images-birthday-1236815343/",
@@ -444,7 +296,8 @@
   "confidence": "中",
   "reason": "S.S. Rajamouli監督の大型映画『Varanasi』のキャスティング・制作発表（プリヤンカ・チョプラの誕生日に合わせたキャラクター画像公開）が主題で、新作の制作発表的な内容が強い一方、アカデミー賞受賞監督による大規模国際プロジェクトで興行・市場規模の重要性が示唆されるため、コンテンツ＋ビジネスの要素が存在するが、記事の中心は誕生日タイアップの制作発表であり、ビジネスの実質的な数字や経営の具体的な話がないため判定が微妙。",
   "ts": 1784365234.510135,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/195174",
@@ -464,7 +317,8 @@
   "confidence": "高",
   "reason": "アニメ・ゲーム総合イベント（Bilibiliworld）を中心に、コスプレ関連商品・サービスの売上・市場規模の数字が主題であり、コンテンツ＋ビジネスの組み合わせ。周辺産業への経済効果（フリマアプリ取引額340%増、撮影サービス97.1%増など）が詳細に記載されている。",
   "ts": 1784365234.510135,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/saiyaara-collector-vinyl-lp-wembley-anniversary-1236814816/",
@@ -484,7 +338,8 @@
   "confidence": "中",
   "reason": "インド映画（非アニメ）だがビジネス面で興行成績（58000万ドル世界興収）とメルチャンダイズ戦略（コレクターズエディション・ビニールLP販売）が主題であり、コンテンツ×ビジネスを明確に含むため。ただしAIは無関係。",
   "ts": 1784365234.510135,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVTJSMGxVcDl0ZkZMajIyaXFPM3VTTnVGUVFPWThjX2hCZ00yZHoxd25Wa1RLOFhudEVFZ2JURzB0MTk2TTFTRWxyRnozZDU1X1FuS29hR3lmV0tOMEhQNUd6dEZMNUlzZDhTZjVDZ0FMRVF5czdua0NUeUdpaVljQ1lmenNrSUljWnRDa1FPVjZBR1c4LTNsNmpySVJtb0tSTWhaaWh1RXN1VWNURmVvVUtacEdrNnM4R0NPeXNWUEJGZC1GRk9EcHMwa2lRdjBq?oc=5",
@@ -504,7 +359,8 @@
   "confidence": "中",
   "reason": "アニメ/漫画IPを基盤とするPopsフィギュア展開だが、主要な内容が新商品発売・イベント出展告知に留まり、ビジネス側も「商品ラインの拡張」という小規模な事業動向で数字・経営の実質性が薄い点から、対象外寄りのグレーとして確認対象に回す。",
   "ts": 1784365234.510135,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GM0dFc0lRWm5uVWgxbS0xbjdGZVBUbGNJbmhueXQtVkdOTVdPSnk0ODNQVzhlQnQyOE4wRG95dTk5WlVBenA5U2NmR3oxMlYtaE14LXpfQk4zUQ?oc=5",
@@ -524,7 +380,8 @@
   "confidence": "高",
   "reason": "アニメ映画『オデュッセイア』の先行上映での興行成績（約28億円）という数字ニュースであり、コンテンツ＋ビジネス（興行/売上の実数字）の組み合わせが明確に該当する。",
   "ts": 1784365234.510135,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45Vlp0NVU4R3FHaUZGbWxuQjRDbW9yYzZDdGVySmVTSXFfQjhFLTJRNlhoWTVLYTlzNUJ3STdtQWZvdC13RS1XaHNISnpXb0NlNVExOC1GamhxVjFIUlpIWmlBdTlRTlVFcDhQUGdSb24zLTJr?oc=5",
@@ -545,7 +402,8 @@
   "confidence": "高",
   "reason": "ネットフリックスが300作品で生成AIを活用し、コスト削減を実現している映像配信業界の戦略転換であり、コンテンツ×AI×ビジネスが全て揃う最優先案件。",
   "ts": 1784365234.510135,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://animeanime.jp/article/2026/07/18/101189.html",
@@ -565,7 +423,8 @@
   "confidence": "中",
   "reason": "リカちゃん・ハローキティというIPのコラボ商品発売であり、コンテンツ×ビジネスに該当するが、記事の主題が商品発表・グッズ販売告知が中心であり、経営戦略・市場規模・決算数字などの実質的なビジネスの深さに乏しいため、判定が微妙である。グッズ発売の告知だけでは対象外の基準に該当する可能性があるが、コンテンツIP（キャラクターの新展開）としてのニュース価値があるため取りこぼし回避で「グレー」とした。",
   "ts": 1784365234.510135,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/07/netflix-paid-587-million-for-ben-affleck-ai-firm-interpositive-1236997198/",
@@ -586,7 +445,8 @@
   "confidence": "高",
   "reason": "Netflixが映像制作向けAI企業InterPositiveを5.87億ドルで買収したニュースで、AI技術の実装・コスト削減・複数作品への適用など、映像制作業界のAI活用とビジネス（M&A・決算開示）が明確に主題である。",
   "ts": 1784365234.510135,
-  "is_new": false
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fU0hHNzNUR0FOUldhYUxMMUZpVWJnd2J3Vk0wVWEwZzFLeDVhbXZHWkJaTjdZbGZfc0hiU2dRNTRfcmhaemhfYW84dXZlX0VQZFEtRWRR?oc=5",
@@ -606,7 +466,8 @@
   "confidence": "高",
   "reason": "アニメ映画の興行成績（Box office）の数字ニュースであり、コンテンツ＋ビジネスの2分野に該当するため対象。",
   "ts": 1784413626.031331,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeXVWNWFnLXk5eDVkU0p0RDNKdFE3SWNvTFItWVJCbmJBdTU4SWwxRlZaMS1sZDZrQ3h0SkZRMEU4YmJSX0dwejhDTUFQMHA3Q0dSS0tSRDc3WFZvdXpnRTA2WXJSZHRELUhOdTVSOVBlQXZHbWNvRUkzTHFoRV9mRHVTWlVzcGp5ZTkxdm9JZFpBcnJGWm1WNnhEbGY4SUcxWVpka01ocHo4b3BHS0w3ZmNxVE1XRThLeVZGQmJkY3lVRTI1c0pR?oc=5",
@@ -626,7 +487,8 @@
   "confidence": "高",
   "reason": "鬼滅の刃の映画興行成績に関する記事で、コンテンツ（アニメ映画）とビジネス（興行収入の数字・トレンド分析）が主題であり、アニメ映画の興行成績ニュースは対象基準を満たす。",
   "ts": 1784413626.031331,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NzluLVN1QWxDcl9QMjZ1MC0wYVAzS3hOa0ZZZGNzNHBiRmpzczk0ZDRMUmJnWHBvbGszeFBMX0JxZTNBYjJyNlBXYm1RM2l2aXfSAVRBVV95cUxPUmlLX2xaWDF5S2p3eTUxVld2Z0RiblRTSHRkVTZJT0IzZV9pSTUxT081ZTVhX1J4b3FoWjQ4TjQ5Slh5WTZWRHhnTWxXMmNrXzl0Tko?oc=5",
@@ -646,7 +508,8 @@
   "confidence": "高",
   "reason": "映画の興行収入（Box office数字）は非アニメでも対象分野であり、業界全体の市場動向を示す重要なビジネスニュースに該当するため。",
   "ts": 1784413626.031331,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-18/japan-video-game-rankings-july-6-12/.239725",
@@ -666,7 +529,8 @@
   "confidence": "高",
   "reason": "ゲーム（コアなコンテンツ領域）の週間ランキング・売上実績という業界の数字ニュースであり、コンテンツ＋ビジネスの要件を満たす。",
   "ts": 1784413626.031331,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/call-of-duty-movie-modern-warfare-games-1236815430/",
@@ -686,7 +550,8 @@
   "confidence": "高",
   "reason": "ゲームIP（Call of Duty）を原作とした映画化プロジェクトの制作進行情報であり、Paramount/Skydanceによる映画化契約・公開日発表などビジネス面での実質的な進展が含まれているため、コンテンツ＋ビジネスの条件を満たす。",
   "ts": 1784413626.031331,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUkM4YmlqLUR0bnpCd01udUJybENCRFBIcmtyOWVkSWxNQXBUUWhNZmlTc2hBRkI1M3hQczRUUTZJWXBxLWxIQ24zMUtTSEMyWXBhRW54X05IaVFEWk1DenVJUVBPaWdORnBON2JUaHZpMnNDekVPV3VCVzV5THdmMERnaDRpXzVpUU5UT1F1T01GMkFIZUcxLXlzcW53eUFBdm1STHVWSXdLYjc1clZETVNxUmpGeEF0OXpqemI4MWRjR1Q3LVpsZ0NZRmQtVWxsZ1kwdVU2NlBuN2Rk?oc=5",
@@ -706,7 +571,8 @@
   "confidence": "高",
   "reason": "実写映像作品（Star Wars系）の興行成績とストリーミング配信戦略に関する記事であり、コンテンツと大型メディア企業のビジネス動向が主題であるため対象です。",
   "ts": 1784413626.031331,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/07/joe-caldwell-dead-1236997493/",
@@ -726,6 +592,127 @@
   "confidence": "中",
   "reason": "Dark Shadowsはアメリカの長寿TV作品（コンテンツ）で、記事ではWarner Bros. Animationによる新作アニメシリーズ開発・映画化・関連書籍出版などビジネス動向に言及しており、コンテンツ×ビジネスが成立しているが、主題は著名ライターの訃報（個人の人事）であり、AIは含まれていない。",
   "ts": 1784413626.031331,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://deadline.com/2026/07/james-gunn-big-brother-28-rick-devens-superman-cameo-1236997635/",
+  "title": "James Gunn Says ‘Big Brother 28’s Rick Devens Was Set For ‘Man Of Tomorrow’ Cameo But “Had To Cancel” Due To CBS Competition",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 19 Jul 2026 04:03:42 +0000",
+  "published_ts": 1784433822,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "DC映画『Man of Tomorrow』（実写映画）の制作・キャスティング情報とBox office実績（$125M国内興収、$300M突破）が主題であり、コンテンツ＋ビジネス（興行数字）に該当。映像業界の大型スタジオ制作であるため非アニメでも対象。",
+  "ts": 1784452527.422563,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/196162",
+  "title": "26年上半期スマホゲーム市場、DL数上位に“日本発”は1つだけ…新作「ドラクエ」が健闘、収益トップは日本勢独占",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Sun, 19 Jul 2026 06:57:56 +0000",
+  "published_ts": 1784444276,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "スマートフォンゲーム市場の収益・ダウンロード数ランキングという市場規模とビジネス数字が主題であり、ドラクエ等ゲームIPのコンテンツ要素と市場ビジネス動向が両立しているため。",
+  "ts": 1784452527.422563,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wdjZyYVFOUW9UT291bFZ3dF8td0c5bkY0SmVpVVVFbDMwbF8zV0VSRWp6WTVOeHlYWU5KdXV4c2dJZDY1dVVIUDBLVQ?oc=5",
+  "title": "中国神話「八仙」がアニメ映画化 初日興収12.7億元、今夏最高評価で好発進 - 中国経済新聞",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Sun, 19 Jul 2026 05:30:00 GMT",
+  "published_ts": 1784439000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "中国神話をモチーフにしたアニメ映画の初日興行収入（12.7億元）と評価成績を報じた記事で、アニメコンテンツとビジネス（興行成績の数字）の両方が主題に該当するため。",
+  "ts": 1784452527.422563,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/07/the-odyssey-tom-holland-robert-pattinson-casting-dickhead-1236997608/",
+  "title": "‘The Odyssey’s Tom Holland On Why He “Could Relax” After Robert Pattinson Casting: “You’re So Good At Being A Dickhead”",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 19 Jul 2026 00:26:29 +0000",
+  "published_ts": 1784420789,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Christopher Nolan監督の大型映画『The Odyssey』の製作・キャスティング・興行成績（$257M+の興収数字）に関する記事であり、コンテンツ（映像制作）とビジネス（興行成績）が主題となるため対象。",
+  "ts": 1784452527.422563,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/196105",
+  "title": "「最終話は紙で残したい」人気ジャンプ作品がラストで“転売騒動”巻き添えに…集英社の「付録なし」受注対応に評価も",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Sat, 18 Jul 2026 21:35:24 +0000",
+  "published_ts": 1784410524,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "週刊少年ジャンプの付録カード（ONE PIECEカードゲーム）の転売騒動に起因する品薄と、漫画コンテンツ『アオのハコ』最終回の購入機会喪失という消費者問題に対する集英社の受注販売対応（ビジネス施策）が主題であり、コンテンツ＋ビジネスが成立している。",
+  "ts": 1784452527.422563,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xVjJUUzloNGdScEpBb3VIOHF0NnBhWkJnanlQNzZmdGxqZU1nVE5qTGIxeS1nWUhUR1AxVUE3enhpdG9ndzF6bndnM2hoaGJyeUE?oc=5",
+  "title": "劇場アニメ『ひゃくえむ。』興収8億円突破、日本陸上競技選手権大会とコラボ決定 - 山陽新聞",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Sat, 18 Jul 2026 09:09:25 GMT",
+  "published_ts": 1784365765,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "劇場アニメの興行収入（8億円）という数字ニュースであり、コンテンツ×ビジネスの主要な組み合わせに該当する。タイアップ・コラボはビジネス展開の一部として記事の附帯情報。",
+  "ts": 1784452527.422563,
   "is_new": true
  }
 ]
