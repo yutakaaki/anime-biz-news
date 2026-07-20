@@ -358,5 +358,383 @@
   "source": "Variety",
   "label": "対象外",
   "ts": 1784539250.8188732
+ },
+ "https://deadline.com/2026/07/scrubs-season-2-cast-ava-bunn-who-is-returning-leaving-1236998486": {
+  "title": "‘Scrubs’ Ups Ava Bunn To Series Regular Alongside Lead OG Trio As Season 2 Sets Cast Returns & Two Main Characters’ Departures",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1784584047.220064
+ },
+ "https://deadline.com/2026/07/kovert-mallory-morehead-pritzl-1236998744": {
+  "title": "Sony Pictures TV’s Mallory Morehead Pritzl Joins Kovert Creative’s Entertainment PR Team",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1784584047.220064
+ },
+ "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-comic-book-comic-con-1236816349": {
+  "title": "‘Stuart Fails to Save the Universe’ Limited Edition DC Comic Book, Experiential Space for Fans Planned for San Diego Comic-Con (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1784584047.220064
+ },
+ "https://variety.com/2026/film/news/adam-driver-turns-down-marvel-movies-1236816747": {
+  "title": "Adam Driver Turns Down So Many Marvel Movie Offers That It’s ‘Become a Tradition’ at the Studio to ‘Zoom With Him and Then He Passes’",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1784584047.220064
+ },
+ "https://deadline.com/2026/07/brie-larson-skeletons-jt-mollner-release-date-1236998856": {
+  "title": "Sony Dates Bad Robot’s JT Mollner Horror Pic ‘Skeletons’ Starring Brie Larson For Summer 2027",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://www.cartoonbrew.com/festivals/anibar-winners-2026-264761.html": {
+  "title": "‘To The Woods,’ ‘My Good Boy,’ ‘Paradaïz’ Score Top Honors At Anibar 2026",
+  "source": "Cartoon Brew",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://animeanime.jp/article/2026/07/20/101272.html": {
+  "title": "“Tシャツ”が印象的なキャラといえば？ 3位「デレマス」双葉杏＆「ばっどがーる」水鳥亜鳥、2位「東方Project」ヘカーティア、1位は…Tシャツの奥深さを感じる結果に☆ ＜26年版＞【Tシャツの日】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://0115765.com/archives/196401": {
+  "title": "なぜ？家庭用ゲーム受託開発大手、3Q利益が「44％減少」海外企業のプロジェクト停止…補償もなく人件費痛手",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1784584047.220064
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-19/drawn-deep-manga-ends/.239780": {
+  "title": "Drawn Deep Manga Ends",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMiekFVX3lxTE96aGlYRzI3Q0VLLTgyODlENS1yQ3hfRXVRSEtWOGZtR01RbHVHTVpnTE02S3VhSTdCRGU4R1pOeHA1VFhLVXdhMHJnZDFOUmg2eDdrNVNlZ1NjVGF1elFPWEhMWFdDUHR3aF84RzJUMmpCM3JkOXV5cjRR?oc=5": {
+  "title": "音楽生成AI「Suno」、YouTube Musicから200万件超の音源を収集か 流出ソースコードで判明 - Ledge.ai",
+  "source": "Googleニュース: 生成AI 著作権 アニメ OR 映画 OR 映像",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWoxenJlbG9Pa2ZOYzRWbmFxMHRJRFJWSmVMMTAtSDRVNGFDVXhOb3VCUGI2bTFIUlJPSFRMb0JQelVBc2V3VTFtdUhKNF9MbEpkUFoyc0hoUmZSVVpUUjhjcHppM3ltRUI0QUNHYWJkV2VzUlBRNm1BdDBxR1h3REVMZ3JsUjRPZ1pOaWUwLXN3bHUtZjNyVGdjSmRYd2ZUbnpTZ3R4VDYxemJGQ3NOa1VvRmhEM2F3NG9JR3dhMmJMQQ?oc=5": {
+  "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation - the-decoder.com",
+  "source": "Google News: AI film production OR video generation studio",
+  "label": "対象",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWUZSX0N4MEkzMzd1NU5SM2Vhejg2ZVRId0lrY2RZanp5UWthdHEtT1lGMGwwaFFkN2M3YkxIcXNZMnZjeUczRWQ3N19TSkVLcHZZYlYtT0x3T0pxTHhoNkhMM3B5UDNuNWNnUkRVYXpvSlNsajdlZ0QwNXUyb2pRTVVDeXgtMVJsVkhYa3dRSlJvSlhpcC1LenZhYWprd0dOWTJQM0JTYUs5aHFOU1pDcTJKNmhEQQ?oc=5": {
+  "title": "One Arrested After Incendiary Device Ignited Near NYC FBI Office - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://variety.com/2026/tv/news/nicole-kidman-elle-fanning-paramount-discretion-josh-lucas-1236816877": {
+  "title": "Nicole Kidman, Elle Fanning Paramount+ Series ‘Discretion’ Casts Josh Lucas",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://deadline.com/2026/07/marvel-kevin-feige-blade-reboot-mahershala-ali-1236998833": {
+  "title": "Marvel’s Kevin Feige Says He Feels “Like A Gigantic Loser & Failure” Over Failed ‘Blade’ Reboot With Mahershala Ali",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1784584047.220064
+ },
+ "https://www.cartoonbrew.com/markets/weird-market-sitges-festival-spain-264753.html": {
+  "title": "Spain’s Weird Market Partners With Sitges For Its 18th Edition",
+  "source": "Cartoon Brew",
+  "label": "対象",
+  "ts": 1784584047.220064
+ },
+ "https://animeanime.jp/article/2026/07/20/101271.html": {
+  "title": "アトムの愛くるしく生き生きとした表情を再現！「鉄腕アトム」 ツヤツヤの頭と靴がキュートなフィギュアがカプセルトイ化",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://0115765.com/archives/196378": {
+  "title": "『アズールレーン』大鳳が浴衣姿でフィギュア化！“湯上がり”イメージ…火照った肌や色鮮やかな衣装に注目",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-20/we-are-aliens-anime-film-screens-at-film-festivals-in-canada-australia-new-zealand-in-2026/.239771": {
+  "title": "We Are Aliens Anime Film Screens at Film Festivals in Canada, Australia, New Zealand in 2026",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0tTVWlzMlV2TWEwN0pHWUQyZUp5V0xtR3VLUDB1R2Iwenctd3FZRWhCd2RtaV84Z1d4TU1FY1U0WXBQNVFRVl9JdHJJT0lIRVI1RGdaOTZaek9VY1FfZEI4WUMxSUw0bHQzRFpYTnBUS0h4TzlHclhGY0dSczd0Q1AyMTMzbmdtT0JlX2V3Q2dHQzBFMlpTZzRVNA?oc=5": {
+  "title": "『攻殻機動隊』新作アニメ第3話あらすじ＆場面カット公開 フチコマ激しい追走劇！正体不明のハッカー“人形使い” - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFAzMTBZTDE1V2FZems3UEZMUlBNYUJkeE9qbDY4WFlSRmxGbWNXN0hFMTlNNDZGQW1zS2MzZ1VRcXA1bV81ZnNuMzM5VUM4dWtxU2Q5NWRNSU1VaU1pS2FMMjZqaGdxbWNIWlQwTWxRT0pBX3NKUEJXQ19TVTFVaXktT0FraVFVY3JmWDhwbktZX2ZVOUZYNzRGSkhWQXZEaFZEaGQycHp1eTBRUWwwMHVnbGVnNVI0QVUya1hXOTQ5QzA2?oc=5": {
+  "title": "Dating Apps Have a Growing AI ‘Chatfishing’ Problem - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://variety.com/2026/tv/news/scrubs-revival-season-11-ava-bun-x-mayo-joel-kim-booster-1236816776": {
+  "title": "‘Scrubs’ Revival Ups Ava Bunn to Series Regular, X Mayo and Joel Kim Booster Exit",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://deadline.com/2026/07/josh-lucas-discretion-nicole-kidman-elle-fanning-paramount-1236998810": {
+  "title": "Josh Lucas Joins Nicole Kidman & Elle Fanning In Paramount+ Legal Drama ‘Discretion’",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1784584047.220064
+ },
+ "https://animeanime.jp/article/2026/07/20/101270.html": {
+  "title": "どっちの大河も捨てがたい！ 「とらドラ！」原作20周年記念！ 新規描き下ろしイラストグッズ＆着用しているアパレルがアニメイト限定販売",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://0115765.com/archives/195946": {
+  "title": "【夏アニメ情報】最新話を“基本無料”で観るなら！ABEMAは70作品超をラインナップ…全作品一覧",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1784584047.220064
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-20/hasbro-legends-linear-channel-launches-with-transformers-power-rangers-duel-masters/.239777": {
+  "title": "Hasbro Legends Linear Channel Launches with Transformers, Power Rangers, Duel Masters",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa25Sc3ZoNFd3TEl2WGlzdFY3TUN6LW5jUjQ3WkxZdFZnNGtUTTVFalk3TnF3NmRjRDlPcExncVZ6WXJleUlnOUl4VEQxUFF3a19HdTFRSzhJSm1LRTlXLXE5TnlqTmdSRmN5a2hMd1Jia1h4QVRQWlBJLWNyZ0tVTlln?oc=5": {
+  "title": "ポルノグラフィティ、有村架純ら国内外のトップスターが語るアニメとの縁と世界への広がり - 日経クロストレンド",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2RnankzVjF5R3IxN0dFdFNNZjVkeVlVMmtfRzN1ZU8zVGF4cGNNcDhfRGJzOFlwWHlqMkVVM21Va2dQMVpNN1liRWVlM2VPS2J4VVlEaC1ZcFZ6djA0VTNBaWZPSDJUWENndUdTaUQ3LTBzODlsQkZ6Y1BMNUhmem1MZTU2dFRyaWJ2bnlHY0ZWRFNGeXVRaWQ0c0VwbEI1MUlLdkl1ZXVpcnNNS1pKaWJ5R3I?oc=5": {
+  "title": "Venice Critics’ Week Unveils Political, Experimental Lineup - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNkgyZFlrU2hqY2tJUEdEc0JxWkpWVC1aSkl0aTg2UFlqV1VHUWkwUW51QjZXRkMzY1VEN211ZkpDRUZaS3ZGLXZZLVctU3lLWGp2UXlKb1lnblNQVV9sQkcxNEJBenJpYUY2cGt4NGdUeVZ0Q0JVN0NqUUM1cl85OVlEbGRmWjNId19KRVQ3Y2VmTl9yMW9tcFJVekt5NXhYakpxdXdaTTFZbnNubDBNUkdfWEVqYUpoblNISURBcG9yUQ?oc=5": {
+  "title": "Hut 8 signs $9.8 billion AI data center lease, fully commercializes Texas campus - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMVJDSWI4MGNJQW8zSGRjdmUtUWpGUkxBb0ZPeXQtcHd1N09iMVRxa0JUc2dVTHVDSjZMbmpaQW5KM0FTRnQ0NzBoVWYzNWlnUUl1T3YtNGEtaGxtdk1TX3c4YXpnam9nU1FobXctZ2dmY2laRG9MTU9BaWY5cVFwTjFCSWdrREdINVFYQ2twN0hKX2ZfUE5aVFVZLTgyR1NjYlJ4MFp2VkFXYzg?oc=5": {
+  "title": "The Iran war is America’s least popular since polls began - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbWRya0lLeDZUWmVMN3B2RVBQdDktbi1pT2dNYXliLUEzZnVNcC1GeGRzRmJDR0dyTTBRYmdWeXppMVdqX29XaDdqQmJqTFpaa29jOElrNlVqamtvT05ZTG50Vk9iWTR3YWprc0VNMjBNdFpnMmlqaFYybDY1S3RaMXp0bGVHVkVSdmU1azBfREtSWGhEb1FjRFdqb25uMXRTeEFhTnJjQkd3R0Ry?oc=5": {
+  "title": "Hong Kong Stock-Listing Boom Rumbles Toward Six-Year High - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://variety.com/2026/film/news/john-kirby-dead-celebrity-acting-coach-1236816764": {
+  "title": "John Kirby, Celebrity Acting Coach, Dies at 75",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://deadline.com/2026/07/the-deb-trailer-release-date-rebel-wilson-1236998746": {
+  "title": "Rebel Wilson’s ‘The Deb’ Gets First Trailer & Digital Release Date; Pic Sparked High-Profile Legal Battles",
+  "source": "Deadline",
+  "label": "グレー",
+  "ts": 1784584047.220064
+ },
+ "https://animeanime.jp/article/2026/07/20/101269.html": {
+  "title": "“ルーデウスの子猫がほしいにゃん”「無職転生」エリスの添い寝バージョンフィギュアが登場！ 猫耳＆ネグリジェの圧倒的破壊力",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://0115765.com/archives/196358": {
+  "title": "「海の日」に見たい“海が舞台”のアニメ3選　ABEMAがオールジャンルから厳選、最新作放送中のコメディまで",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-20/anime-nyc-screens-world-premiere-of-magical-buffs-the-support-caster-is-stronger-than-he-realized-/.239799": {
+  "title": "Anime NYC Screens World Premiere of Magical Buffs: The Support Caster is Stronger Than He Realized! Anime",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUtvdlQ4eURSZXJHdFlaWjYxU2NleGxCazRXbVBSRDAyd1FDVUZDTWx2c29YcUt0MmNjYWkxVXJmU2ROQXR1TVM3MFV3MFZXLTBORnMxb20xQndVNVNBRmtYX1d3eVFrOU4yV1NjR0UyT3lHaHYwWlRFVHoxTzlMMGliWUh0SmdlNjNGemwtRlFOZzdiSEJqQUZaRS1SQTlZMVZwZHdR?oc=5": {
+  "title": "Why criticism of the Qing dynasty scares the Communist Party - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkxYVXdRZDVlQkFhTnN0LXVPTHhMSzEyOUY1SEVNTDd6bHNzYlZlUDBNTWUtTXJHd2hzVlNralUyVEF5QlRyYU9qNUktMzQtOEdhX0FDVjVRM2p4d2xzS3RQb3FEV0RUc0tvM2Z5UkpsbnduUE9mLUlCTlRkUF9uQVMtSjVVSU1YNThUQTh1TlN3dzhpb2VwdThrY29GV29QYnRibS1mSHlVbThWamttamdrRVA?oc=5": {
+  "title": "Z.AI Completes Giant Data Center With Chinese Chips to Train AI - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://variety.com/2026/music/news/jay-z-yankee-stadium-music-adam-blackstone-young-guru-1236816803": {
+  "title": "Jay-Z’s Yankee Stadium Shows: How the Music Came Together, From Meticulous Arrangements to Last-Minute Tweaks",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://animeanime.jp/article/2026/07/20/101268.html": {
+  "title": "かぐや、彩葉、やちよと水族館を巡ろう♪ 「超かぐや姫！」×サンシャイン水族館コラボ開催！ 仮想空間〈ツクヨミ〉が夜間限定出現【7月24日～】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-20/sakamoto-days-manga-heads-to-climax/.239785": {
+  "title": "Sakamoto Days Manga Heads to Climax",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYk14UmdqalVDX2p2aVMtMjZOVGdVaERKSGpZdk92c2Qtd3hXSWJndFF0eVdKUUMybDIyNjBRd1c4SGpnVDktR2pBSEFyUEVOQjRnLVJ2UUt1RHo5eUFRNEpzbE1HY20wZFlwOU1QMEVrdmRZRm1VbHkzd1NyWnFYVnp1SjVyWkg0TEhuajBxWWpNUQ?oc=5": {
+  "title": "Ukraine’s top general could be on the way out - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzl2OU1zMGR4MXdUTmJWTXFxMG9xbXdCYUtCdENuY05lYkt0eFVXR0o1cjVSWDdvZnp6UDVCaDFoa1hFNnBkUFRhSGNYWDBpQjUtZWQtVHFZM1g2elM4aUpWQUg4VGFXdFZrSDdSYS0zLWt3Z1d1STYtZDFRNmc0ZkVnVTg1Y3p2amdFOE1GWHA2Skl0OW9GZDlYQmUtNEV3VWR6bFBlMGQybHd2V1cyYmFGUQ?oc=5": {
+  "title": "U.S. Gas Prices Top $4 Again As Iran War Continues To Escalate - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZUV6NHpVdERwaE1VNUw3T3NqSjJsTmRzN2IwWkwtSlFnWDN5NzMxbm9fdU9veklRbndQcUhYTVpFWTI2ZVp5N3lKak1GeHVVLVBNcWZfUVJFNjBpLTFtdl9STmhxSDRtRlFKRVA3MmhsOTE2UXlZQUVKa1BDclJQZHJrRjA3ZGdnR0EzZU81LXlxZXZjR0xlOGxFd0NvR2VEMGJfQUIwdS1fbzNXSjVzSTZKcjFYbXZ0N3NBNjViVmw?oc=5": {
+  "title": "The Creator of Claude Code on the Hottest Piece of Software in the World - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://variety.com/2026/film/news/variety-interview-studio-san-diego-1236816778": {
+  "title": "Variety Interview Studio Presented by Google TV Returns to San Diego",
+  "source": "Variety",
+  "label": "グレー",
+  "ts": 1784584047.220064
+ },
+ "https://animeanime.jp/article/2026/07/20/101267.html": {
+  "title": "きり丸や土井先生とハロウィンパーティー♪ 「忍たま乱太郎」“はろうぃん”コンセプトの描き下ろしイラスト使用！全国アニメイトにてフェア開催",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-20/tiff-screens-n-american-premiere-of-live-action-look-back-film/.239795": {
+  "title": "TIFF Screens N. American Premiere of Live-Action Look Back Film",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEJaX2c2aXJ3Rl9GOC14NkNqVU9UX0hHRTBZZTZJQ2RtZjBRM2tLbjJBejJpN1hqZHJ2NnI3dWhLMnl6UVlhREZjZjBRU0dWRnBtT0hjekQ2SVEzVWpGVzVNVUdSbFdQaVdPZGZfNEEyRlJoT3Q2eE10SjFMUTlibVZmS1p4OEZZVjBfcHYzamZGZ25uZm1rcWt3ODFmcGZubmswYlBxSEh2cHM?oc=5": {
+  "title": "German TV in Crosshairs After Network Cancels “Antifascist” Performance - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUmUwdmNucV9jQUtiMk5Vb180WFJUazNqZDBuYU1pWGxpSzI4cVpVWnViLWNnVy13Q1R0Umhpa0FNNUYtcmVrblpsYmg5d1RPbzNoNk1hWDVvbVF6QlhlYUJYYmJMZTFySmVURHF3MjVTaHgyY2pjd0djaXJTX09sZnpLcjFyZXo3NzZkRDRYWmQ2dGFlMFhxT215cG5fMDVKc3JyTHNSV1JpRVE3Zlg0OHdMVWhiRTZ0NnU3QWVGVDlud1cxdEdmbkloUHF1c2pkcTZF?oc=5": {
+  "title": "Alphabet Rally Boosts Google Cofounder Fortunes By $15 Billion—Here’s Why Shares Are Up - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQi1GUTB3b3pBVXNrMEo1LUhLQzhzWUdOZnJlZDkxcmF1RFExaU0wQ2dhTkFGcEpEZXl4SkZiZTFpRXJPakRaN1NNRGhGekJqd25wcE5GWEhMRVBfSVB5eWtrSk82MG5BcmNENUR2X1ZZQjEtdTU4ZUxEM0RJSGhDZEJFcEZhRDBrWUk1b3pKUzlnRlFyY05QZWxIeWxvUmFUV0Y5WC1pOTc?oc=5": {
+  "title": "Burnham Names Ex-Defense Chief Healey to Serve as UK Chancellor - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://variety.com/2026/film/news/film-news-in-brief-july-20-2026-1236816245": {
+  "title": "Keanu Reeves and Patrick Swayze Surf Back into Theaters for ‘Point Break’s’ 35th Anniversary – Film News in Brief",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://deadline.com/feature/percy-jackson-and-the-olympians-season-3-news-updates-1236495797": {
+  "title": "Everything We Know About ‘Percy Jackson And The Olympians’ Season 3 So Far",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-20/tokyo-revengers-war-of-the-three-titans-arc-reveals-opening-song-by-boy-band-jo1/.239791": {
+  "title": "Tokyo Revengers: War of the Three Titans Arc Reveals Opening Song by Boy Band JO1",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdFp6UVhjaDFpa2dyRzhIN3Q2dDUtQjRONEt6c2M3Zmp2VGpIOHpKSzNxN1J1U19xcktmcVBadk9IVm9uaUo1ZWduZGFIYmdlMjZsckw4aUF1UzFNcmtlbWRfOGpDZEUtajZZQ2JGTWxrWWE1dXFnbUQ0N0l3RUIzQ3BfaUxDZkNFR21SNXNlN1VRNjNLMlJFMVFWeG5YWC1tNktxTHZaYmlYZVQ3bDY5d0UtMV92dW5lY2dwU2N5MEM4VnJFdUVhbERn?oc=5": {
+  "title": "Here’s Why A Judge Warned Trump To Quit Working On The Reflecting Pool - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3FwUnRZX0NJT0VqaGlUMGRmdVhWa3E4RTY2cC1lajFKaW9heFRHN2UyNkFaY0lsOFBKall0eVhHaGhyNGJoMkR5U1ItaDhxNmc0NTJTTDVvVkxQMWIxZFRUa1hqWFZZTkZSakgwUXJxZWR6ZWlDSEpkSHEwaUdjQjJPTWNHc0NDSUpOdWE5cDctOUhKN08zY0Y0Vkhzbnh3YXFPRHBYYzdKd3pFdHRPTFhn?oc=5": {
+  "title": "Chinese AI Sensation Moonshot’s Gamble on Big Models Pays Off - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://variety.com/2026/music/news/ella-langley-choosin-texas-ties-whitney-houston-mariah-carey-records-1236816760": {
+  "title": "Ella Langley’s ‘Choosin’ Texas’ Ties Whitney Houston and Mariah Carey’s Records on Billboard Hot 100",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://deadline.com/2026/07/liza-colon-zayas-hulu-david-shore-series-conviction-1236998671": {
+  "title": "Liza Colon-Zayas Joins Hulu’s David Shore Legal Drama ‘Conviction’",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-20/fate-kaleid-liner-prisma-illya-finale-tv-anime-revealed-for-2027/.239754": {
+  "title": "Fate/kaleid liner Prisma Illya Finale TV Anime Revealed for 2027",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTE53elUwa1pFdk5KenRtT0FPZkppU2g5c1NXbF95VW9lZGdwU1NJNDJOU2dvVThIU0hycVRScnMwcGdyNlNUQmRMcE96Y2J2XzJkRFlreUJSUHBfYjl1UkE0enNwY0RRb1IxcW43Unp4ZEJXVldLLXc?oc=5": {
+  "title": "城田優『テニプリ』アニメ初出演で意気込み 昔にテニミュで手塚役→今度はスペイン代表のロミオ・フェルナンデス役 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://variety.com/2026/music/news/jonathan-cain-slams-bruce-springsteen-conservative-politics-1236816703": {
+  "title": "Journey’s Jonathan Cain Lays Into ‘Annoying, Bitter Old Man’ Bruce Springsteen: ‘Shut Up, Bruce… You Were Born in the USA, So Act Like It’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://deadline.com/2026/07/conjuring-10-first-communion-matthias-schweighofer-1236998523": {
+  "title": "‘Army Of Thieves’ Matthias Schweighöfer Latest To Join New Line’s ‘The Conjuring: First Communion’",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aUVBPX1NBQnUzYk1Gd25sSWFncnFFOG9yZmdFRGdXYk1WMzFrdTJnMUtUUWtyWlRqMjNqTlV4cEY5U2VubUdHalFHZzdtZVY1Q0F2NzB3?oc=5": {
+  "title": "ディズニーアニメ『プリンセスと魔法のキス』実写化決定！ コールマン・ドミンゴが脚本を共同執筆へ - ハリウッド・リポーター・ジャパン",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV1VnaVBELVNXMWYtMDNBSkxIUXJHa0VaTklwclhaeVhheXF0N1h2ZFBjQ2pwLUJ4NkFtNFNQb3pqcDRjcXNUc2RwMHBldVA1UzNWUVFyTEJicXlvT2tSWFM5YjF4ZjhwRnZXZDRuY0V3VVh1WnplMjJ3MUZrZjh0bUNOZk9wWV80U2ZDcmktTjB0SVJkSTNTU2IzVUZ6UUE3cktBMVNMZVVrbUNHVGw2WA?oc=5": {
+  "title": "Kimi K3 May Prove to Be a Gift to America's AI Firms - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784584047.220064
+ },
+ "https://deadline.com/2026/07/jeff-arcuri-katie-thurston-cancer-comedy-means-business-1236998576": {
+  "title": "How Wife Katie Thurston’s Cancer Battle Changed Jeff Arcuri & Shaped His Debut Netflix Special – Comedy Means Business Podcast",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784584047.220064
  }
 }
