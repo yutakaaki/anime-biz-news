@@ -48,11 +48,28 @@ def similarity(a: str, b: str) -> float:
 OVERLAP_MIN = 0.45  # 重なり係数（小さい方の集合基準）のしきい値
 MIN_SHARED = 3      # 重なり係数で集約する際に必要な共有トークン数（一般語のみの誤マージ防止）
 
+# 市場スコープ語（興行ニュースの「角度」を分けるため）。一方が世界/グローバル、
+# 他方がUS/国内なら、同じ作品でも別ニュース扱いにして統合しない（別カードで表示）。
+_GLOBAL_RE = re.compile(r"global|worldwide|overseas|world|international|グローバル|世界|海外", re.I)
+_DOMESTIC_RE = re.compile(r"\bu\.?s\.?\b|\busa\b|\bdomestic\b|north america|国内|北米", re.I)
+
+
+def _scope_conflict(a: str, b: str) -> bool:
+    """一方が『グローバル/世界』、他方が『US/国内』の見出し＝別スコープの興行ニュース。
+    同一作品でも角度が違うので統合しない（例: US興行 $124M vs グローバル興行 $257M）。
+    スコープ語が無い一般の言い換え見出し（gumi出資 等）には影響しない。"""
+    ga, gb = bool(_GLOBAL_RE.search(a)), bool(_GLOBAL_RE.search(b))
+    da, db = bool(_DOMESTIC_RE.search(a)), bool(_DOMESTIC_RE.search(b))
+    return (ga and db) or (gb and da)
+
 
 def should_merge(a: str, b: str, threshold: float = 0.5) -> bool:
     """同一ニュースとみなすか。Jaccardが低くても、言い換え見出しを救うため
     「小さい方の集合に対する重なり（overlap係数）が高く、共有語が十分」なら集約する。
+    ただし市場スコープが衝突（世界 vs US）する興行見出しは別ニュースとして分ける。
     """
+    if _scope_conflict(a, b):
+        return False
     ta, tb = tokens(a), tokens(b)
     if not ta or not tb:
         return False
