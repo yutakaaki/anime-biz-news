@@ -65,13 +65,13 @@ if [ -f "$DIR/outputs/digest.html" ]; then
   [ "$PUSH_OK" = 1 ] || echo "push最終失敗（3回とも不通。次回実行で再送されます）" >> "$LOG"
 fi
 
-# 次のウェイクを予約（朝の実行後→今日の夕方17:58 / 夕方の実行後→翌朝05:58）。
+# 次のウェイクを予約（朝2:00の実行後→今日の13:58 / 午後14:00の実行後→翌朝01:58）。
 # pmset schedule は要root。sudoers で pmset を NOPASSWD 許可している前提。
 HOUR=$(date +%H)
 if [ "$HOUR" -lt 12 ]; then
-  NEXT=$(date -v17H -v58M -v00S '+%m/%d/%Y %H:%M:%S')
+  NEXT=$(date -v13H -v58M -v00S '+%m/%d/%Y %H:%M:%S')
 else
-  NEXT=$(date -v+1d -v05H -v58M -v00S '+%m/%d/%Y %H:%M:%S')
+  NEXT=$(date -v+1d -v01H -v58M -v00S '+%m/%d/%Y %H:%M:%S')
 fi
 /usr/bin/sudo /usr/bin/pmset schedule wake "$NEXT" >> "$LOG" 2>&1 \
   && echo "次回ウェイク予約: $NEXT" >> "$LOG" \
