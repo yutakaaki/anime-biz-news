@@ -1294,5 +1294,425 @@
   "source": "Googleニュース(sankei.com)",
   "label": "対象外",
   "ts": 1784697973.204484
+ },
+ "https://www.cartoonbrew.com/business/paramount-warner-bros-merger-delayed-264828.html": {
+  "title": "Paramount-Warner Bros. Merger Delayed By Federal Judge",
+  "source": "Cartoon Brew",
+  "label": "媒体加算",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkdkRk55eWhDS21WeU1DSkJFeUYzVDZ0cXJFYWN5V2M3NlhlMUUtczZETmIyWkEtMDN0UW1DNmQ2SkVXM1otek5ZeEhtcUpsdHo0Nk44QkptRWx6UUg1b084Q3NWM0N6a2ozMk94WTU4d1JudGdzeXFyX041b21YRXFreU42Vnd2N1I1ejlvU2psWW5k?oc=5": {
+  "title": "Maya 2026.2 lets you train your own AI animation models - CG Channel",
+  "source": "Google News: generative AI animation OR anime",
+  "label": "重複スキップ",
+  "ts": 1784739875.1842072
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-22/rakuen-tsuiho-expelled-from-paradise-kokoro-no-resonance-film-reveals-5th-teaser-trailer-visual-/.239862": {
+  "title": "Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance Film Reveals 5th Teaser Trailer, Visual, Cast Member",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1784739875.1842072
+ },
+ "https://variety.com/2026/film/news/julie-andrews-documentary-disney-rj-cutler-1236818273": {
+  "title": "Julie Andrews Gets Disney+ Documentary From ‘Martha’ Director R.J. Cutler",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1784739875.1842072
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-22/so-what-wrong-with-getting-reborn-as-a-goblin-anime-reveals-more-cast-theme-song-artists/.239833": {
+  "title": "So What's Wrong with Getting Reborn as a Goblin? Anime Reveals More Cast, Theme Song Artists",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FVzBMTlgyOXluOVd6aDgwdG12dExOeHhYU0pGaEo3MDRKTHUtOGduR2pKNkhDM0JaNEtnS1FkQnd5eGlWVnRIb1BfZ2hMRE9VRWpNWU0tMHJZMDdMd0tHYTFOSV9nZU80WjJWeEtkWlB6cy1zNDh3RERKZmlhUQ?oc=5": {
+  "title": "ニール・ブロムカンプ監督『NIGHTBORNE』公開｜生成AIで長編映画の制作工程を検証 - innovaTopia",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "媒体加算",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LbzV4ZkFlRThsNmJ1eVdGR3JRYk1IaTgzenI1V21UTTN5NjVPT0tRVUNpalJMNGV4dWhETjFPQ01SUlNHQXNIU3lHUEVHVGZrTFNMZzNVUlQweG5oSHBKWFdidlY1QQ?oc=5": {
+  "title": "累計興収25億円突破「超かぐや姫！」Blu-rayが9月9日発売！アニメイト特典は「トートバッグ＆ロングフォト6枚セット」 - Excite エキサイト",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "媒体加算",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzU1cHhlaGtOUlBRU3RUTDB4NmN3N09lLXhMTzZTcE02aDFSbGZCcHU1Y3FlRTE0X1NTTHNEZ1dpejQ2S09Qa1puX1JGTlphcVJVSVNCS3Y1T1RFYzlDSGZvQzFZekNhbUZvdmctMTFYYWxZZW1WYnRLaWFMRjIwSEs1VlRyVkV2b2lVRGtIWklfd1RvY0sybmVCRDVQX0Zsdmc?oc=5": {
+  "title": "『スタジオカバナ』2027年にアニメ化 牧ゆかり役は鈴代紗弓で制作はJUVENAGE（写真・画像 1/1） - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1784739875.1842072
+ },
+ "https://variety.com/2026/film/global/casey-affleck-company-cast-nick-nolte-scoot-mcnairy-1236817877": {
+  "title": "Casey Affleck’s Gothic Mystery ‘Company’ to Star Nick Nolte, Adelaide Clemens, Ben Mendelsohn and Scoot McNairy (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1784739875.1842072
+ },
+ "https://deadline.com/2026/07/cinerama-dome-reopening-date-sony-1237000247": {
+  "title": "Sony To Reopen Cinerama Dome In 2028; Former Hollywood Arclight To Become Alamo Drafthouse",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1784739875.1842072
+ },
+ "https://variety.com/2026/tv/news/benicio-del-toro-ben-stiller-apple-protective-custody-1236818184": {
+  "title": "Benicio Del Toro Joins Ben Stiller in Apple TV Comedy ‘Protective Custody’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://deadline.com/2026/07/julie-andrews-documentary-disney-1237000388": {
+  "title": "Julie Andrews Documentary Flies To Disney+",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://animeanime.jp/article/2026/07/22/101328.html": {
+  "title": "「楽園追放 心のレゾナンス」最新PVでド派手なアクションシーン公開！新キャラ・ペネム役は諸星すみれ♪",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://0115765.com/archives/196691": {
+  "title": "令和に『灼眼のシャナ』の新作フィギュアが登場！アニメではなくノベル表紙版権から再現…原作の魅力引き立つ",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-22/inherit-the-winds-original-tv-anime-casts-ryohei-kimura/.239865": {
+  "title": "Inherit the Winds Original TV Anime Casts Ryōhei Kimura",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://news.animenomics.com/p/kadokawa-moves-global-e-book-store-to-open-drm": {
+  "title": "Kadokawa moves global e-book store to open DRM",
+  "source": "Animenomics",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE50MUlTYzluV243czh6WDl4bkpiTGJ3Y202QnBEYldOQVVhWDVUN3liOFo4eEh6YVlocUw3UDQ0RE01QkZz?oc=5": {
+  "title": "Cygames、『グランブルーファンタジー』でTVアニメ『BLEACH 千年血戦篇』コラボ限定ガチャを開催！ - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://variety.com/2026/film/news/days-of-thunder-2-jonathan-levine-tom-cruise-paramount-sequel-1236818265": {
+  "title": "‘Days of Thunder 2’: Jonathan Levine in Talks to Direct Tom Cruise in Paramount Sequel",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://deadline.com/2026/07/benicio-del-toro-apple-comedy-series-protective-custody-1237000280": {
+  "title": "Benicio Del Toro To Star In Apple Comedy Series ‘Protective Custody’",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://animeanime.jp/article/2026/07/22/101327.html": {
+  "title": "サスケ推し必見！「NARUTO-ナルト- 疾風伝」富士急ハイランドにてサスケの誕生日記念イベント「うちはの夏2026」開催決定！ 限定メニューや周遊イベントが楽しめる",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://0115765.com/archives/196676": {
+  "title": "出揃った夏アニメ、3週目に“トップ5初ランクイン”した注目の異世界作品とは？【ABEMAアニメ週間ランキング】",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "グレー",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jdzJmVVpSUTNRUXVncHRMVnJMRklFSG85LVRQZ3RyTHJfWnEtZWhUS0JWQ0hwTExMT1hUUmhyRTV0OHMxRGRHY205NTJPeERINmpoc0hvQ3VleUtWRkVLLWRPUU94VUZDamlTYmRmb243M1VpZGlXX0Nqdw?oc=5": {
+  "title": "【週末アニメ映画ランキング】「トイ・ストーリー5」興収72億円突破 「君と花火と約束と」は初登場5位 - ニコニコニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ka2otN21hVC1ZbTh4cEFWN0xMa2pnRnZHSzdJWEwwV3BJNkxnb3F6dUV5UUFUSkw4ZjQyT2haVE4tZw?oc=5": {
+  "title": "「ラブレターを書きました」──モンスト映像制作は21日から3日へ MIXI・村瀨龍馬が語るRunway提携とAI時代の“つくる” - MEDIAMIXI",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBMkJoaTRpenhoeXZMQzZZZlhoYU9xY092SG9RSnN2Ykw1RC1sWW9jYjRJN0lYcU1iT3Jxc1Mxa2pHM25CcGc4SFZ4cmhldDItcEdiRkFGS3RlMVBjclpUU3hZRWhrQXI1cVBPVA?oc=5": {
+  "title": "松屋が9月銀座に新館 アニメや漫画の企画展、若者や外国人に的 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQRVZsaUtjc0VlUy0tY0FEVWtKS21uZHZ1b1g1Y1JZbjhxbnJEWjJ1cXctREVrZkdsclZmbW0zTi1nS3FwU0Z3Q2pZYW5UZ3BIc2pNeVdFZ1g2aUFNVGZCREZIVEIyank2NG93MWtZeFdTZmt4MGc?oc=5": {
+  "title": "大塚明夫『攻殻機動隊』新作アニメはマレス大佐役 バトー役から変更「作品を心から愛しています」 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://deadline.com/2026/07/evan-royalty-signs-wme-1237000373": {
+  "title": "WME Signs Evan Royalty, Filmmaker Behind Viral ‘SCP’ YouTube Shorts",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://animeanime.jp/article/2026/07/22/101326.html": {
+  "title": "再生1000万回突破の話題曲！ T.M.Revolution「HOT LIMIT」“THE FIRST TAKE”が緊急配信！",
+  "source": "アニメ！アニメ！",
+  "label": "グレー",
+  "ts": 1784739875.1842072
+ },
+ "https://0115765.com/archives/196663": {
+  "title": "「ホロライブ」初のスマホゲーム、リリース前日から“ストアランキング首位”達成！事前DL開始で必要容量など案内",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xNFZZamJSV1lUVEZZZlZaeURCVGV2dzhqakFBTndfSEF6MEtsN0VZSGp3Qzg5VGk3S09WVkpKXzJWRlI5WTBCNG1EOTlSTUk?oc=5": {
+  "title": "興収９２億超え！『爆ヒットアニメ』金曜ロードショーで【放送決定】に「キャーーー！」「超楽しみ」相次ぐ反響 - TRILL",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUUtTmIzbEk5VUlfdGNEc3JQY0Y3ZHlsMDNiNTg3UkdDSjVoQzVEZDFtRHMzZW03RzVlUS1rZnhjNTlIU1hFQ2llWV9OQzFVTExMdFVUMU1Gby1yUFZVRzcwWFV3Z083bjNDazQ2cjQ1dzBVUDU1RXRIcWE1TFNQMmlRZzVwRTE2amNtQ3BfcGN6djRFZ1NCaVNfcUFJUTJNYnNmcW8zNnY?oc=5": {
+  "title": "Perpetual Pictures Cartoon Movie: AI Animation Platform for Creators & Kids - Digital Studio India",
+  "source": "Google News: generative AI animation OR anime",
+  "label": "グレー",
+  "ts": 1784739875.1842072
+ },
+ "https://variety.com/2026/tv/news/kenneth-branagh-paramount-series-laird-scottish-highlands-1236818249": {
+  "title": "Kenneth Branagh to Star in Paramount+ Drama ‘Laird’ Set in Scottish Highlands",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://animeanime.jp/article/2026/07/22/101325.html": {
+  "title": "ちいかわとひんやりご褒美タイム♪ 「ちいかわベーカリー」のサマーギフトセットが新登場！ オリジナルグラス、スプーンがかわいすぎる",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://0115765.com/archives/196654": {
+  "title": "遊技機好調のカプコン、自社人気IPの“パチスロ”続々『モンハンライズ』フィールズ協業で今秋発売",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIYVYzc1d3QkhRYmpGN25YTlFEaUJ3eWZHUmg2dFRxdHlmQXpFZG4ydWd5ZHdfcWRsV2ZfZjBOTEV0Y2EyQzVScTV0RDBNYkdzY1ZsajB3aUV1cDJmSGpuN3J3SUJOWGRHcmc?oc=5": {
+  "title": "マスク氏、Grok Imagineで26年末までにオデッセイ映画制作を宣言 - BeInCrypto",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://variety.com/2026/film/news/glen-powell-richard-linklater-lou-gehrig-biopic-lorne-michaels-1236818235": {
+  "title": "Glen Powell, Richard Linklater Teaming Up for Lou Gehrig Biopic, Lorne Michaels Producing",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://deadline.com/2026/07/tom-cruise-days-of-thunder-jonathan-levine-1237000297": {
+  "title": "Jonathan Levine In Talks To Direct Paramount’s Tom Cruise ‘Days Of Thunder’ Sequel",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://animeanime.jp/article/2026/07/22/101324.html": {
+  "title": "「ズートピア」ジュディ・ニック・クロウハウザーのもふもふポーチが可愛い♪「earth music＆ecology」コラボコレクションが新登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://0115765.com/archives/196514": {
+  "title": "iPhone“円安値上げ”の裏で…アップル信者の間で有名な「例の布」も値上げしていた　お値段2,980円に",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlVSMXNzVlhMSFVqREN1V2QxT3hJOHZyZ1UwMktuX1plZlN3SFE3X3F5ZUllM1VDMGpjbktwbVVEdV9LT3lvQkpmMGlIRENPOU9BS2JjYnltVDBHLWFTMi1qbmE1SGdzbC1YV2U0a2FJLWdVM1NhdU9RUkFFR0NFZlNLdTZDSzJ5TDdpdFh1dUFaMG1BQXoySVFPWQ?oc=5": {
+  "title": "宮田俊哉、キスマイ新曲「Escape」作詞担当 主演アニメ『ヴァンガード Divinez 運命星戦編』テーマソング - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMingFBVV95cUxQYmFIOVZ3bldXRmViakZXdmprYmhRQUNXdDJfQjNGdHhOblZFZy04TnQ0VWtNeEdHNlJ2OWF6RmlYZU1STmhJOE9FTU5MY05mVndhQV9va1JkNHdCVDZ6SHdWZDlrNndOWUpHSTFzWHh0c054YTIzMjNGSHRGbEUxcTFiaVVtLWNsclRiRjlDbHcwRlNwWDBCTUMyeXc5dw?oc=5": {
+  "title": "The Iran war is consuming the Trump presidency - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUFJ6aFlUSE5yUElDNDJuSG16T1lad1VEbldMUTZ4aGo5dWhJMTFQdHBkdlAzZmx2U2pZQnJqWkdZOWFfYVNiM0Fta3JjMkIwX2V0c3RXOU1KaFhxNmhqM1lxS21pMzNKRVQybi1pUGp0bllKNm91eHk0RWxxUEZ3SG1yTkM2VDJtZFY1a096SHVOTXplUU9CZ2d2aFlGdW9EWkpjVFVjNXhYX2d2VlVXN1dLRXJyUnNMcHJnUFFrbU9QMFRvRnY4Z2pDMmlWY3I2RkNj?oc=5": {
+  "title": "San Diego Comic-Con Roars Back To Life This Week In Strong Shape Despite Challenges - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "グレー",
+  "ts": 1784739875.1842072
+ },
+ "https://variety.com/2026/music/news/victoria-monet-new-album-frequency-of-love-reach-out-1236818236": {
+  "title": "Victoria Monét Announces New Album ‘Frequency of Love,’ Releases New Single ‘Reach Out’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://deadline.com/2026/07/new-york-mayor-zohran-mamdani-lina-khan-economic-development-1237000308": {
+  "title": "New York Mayor Zohran Mamdani Names Antitrust Crusader Lina Khan Chair Of City’s Economic Development Corporation",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://animeanime.jp/article/2026/07/22/101323.html": {
+  "title": "“さかなー！”&“チンアナゴー！”「リコリコ」名シーンがかわいらしいアクセに♪ 千束＆たきなのアクリルアクセサリー「ピョコッテ」登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UZmZUZVRJeERvM29sN25LQXlKcjVLSVBaNVJGRG8wUk9kbFdoSURSZk5aaFREa0ttLVgwX2ZYeWRPMXhCWE42R2lTNVVvUzg?oc=5": {
+  "title": "興収３６億超え！『伝説級アニメ』迎えた【終映】に「やめて…」「泣いた」３７年間、“愛され続ける”至高作 - TRILL",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vbzhTSzh4NTJoN2dPZGdKR1lNTDhFY0p4VzFfamUtRk1kamVZdlg2R3laMFZDN3NjVnJqcDBYNVZsZ1c2MVNtT0poOA?oc=5": {
+  "title": "生成型人工知能(AI)を活用した映像物生成市場が膨張している中で、韓国が最も活発に映像AIを製作する国の一つに挙げられた。 AI技術の受容性が高い韓国が広告分野を含め、多様な産業で映像AIを活用してい.. - 매일경제",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RVjE4RzJldVBhWXNYSzlWNzJjekczd3JzY0NlYXVJZ1dQTDRnVXhGZ1JRQV8wOVNES3VMbWo0b2FrY0xMc05FbDVGcVZTY0MtQVIwd3VkUmZlNkZ3dkM1ek1kR0ExUlhaSGVCbmF1QWMzS2RIeFpFcS10Zw?oc=5": {
+  "title": "講談社の写真集・雑誌・漫画・アニメのオンラインくじが購入できる新サービス「K2C LUCK」をリリース - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://variety.com/2026/tv/news/jimmy-kimmel-ratings-stephen-colbert-guest-host-millionaire-1236817622": {
+  "title": "Jimmy Kimmel Thanks CBS for His Ratings Gains, Invites Stephen Colbert to Guest Host and Previews This Summer’s ‘Who Wants to Be a Millionaire’ (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://deadline.com/2026/07/the-furious-star-joey-iwanaga-signs-artists-first-1236997675": {
+  "title": "‘The Furious’ Star Joey Iwanaga Inks With Artists First",
+  "source": "Deadline",
+  "label": "グレー",
+  "ts": 1784739875.1842072
+ },
+ "https://animeanime.jp/article/2026/07/22/101322.html": {
+  "title": "いいとこ取りで暴れん坊なシングルは『よう実』＆『転スラ』Wタイアップ―藍井エイル「MONSTER/絵空事」リリース記念インタビュー",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBreXd1X256aGJUdTl5NDFtT0h6SmFtRHE4YXVPcVJwb3FuX3VTdTl1V0lKRFZEYUpzczNSa2pQcHFGR3FNTC12V1RvU1doU1U?oc=5": {
+  "title": "『国民的アニメ』歴代シリーズ、トップクラス興収の最新作が“ネトフリ配信”へ「絶対見る」「気になってた」SNS歓喜の嵐 - TRILL",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://variety.com/2026/tv/reviews/stuart-fails-to-save-the-universe-review-big-bang-spinoff-1236816914": {
+  "title": "‘Big Bang Theory’ Spinoff ‘Stuart Fails to Save the Universe’ Is a Playful, Creative Romp: TV Review",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://deadline.com/2026/07/kenneth-branagh-drama-laird-paramount-plus-jez-butterworth-1236998943": {
+  "title": "Kenneth Branagh Stars In Scottish Highland Drama ‘Laird’ Ordered By Paramount+ From Jez Butterworth & 101 Studios",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://animeanime.jp/article/2026/07/22/101321.html": {
+  "title": "ちいかわのさり気ないシルエットがかわいい♪ 「ちいかわ」×「EMODA」コレクション登場！ トップスやデニム、バッグなど全5型EC先行販売",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE92cmVBOFBocWdmV1RWdExLeU04NUdCQ1c2MnRZNF9SUDdKa1JQRExHQ0c2eVlzaUdBbFMzMFJaV3dfTkZKbWtOaWVNVG02bDAwYVVRRWFEbW9EVFdPcEEzWVVxV3pQd0hBc2xvcV9GV3RfV1VaOGdVaFE5eDFYeHM?oc=5": {
+  "title": "Morning Bid: The new ad for chips? An AI model Breaking Bad - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://deadline.com/2026/07/johnny-knoxville-mt-mystic-comedy-series-1236999513": {
+  "title": "Johnny Knoxville Joins ‘Mt. Mystic’ Comedy Series",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://animeanime.jp/article/2026/07/22/101320.html": {
+  "title": "“かぐやっほー！”&“ヤオヨロー！”かぐや、彩葉、ヤチヨの録り下ろしボイスが聞ける♪ 「超かぐや姫！」完全ワイヤレスイヤホン登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xYWdMUFZJbmpJMFc1emFoU3FhV1ZDQ2wwZlRzZWx5Z0czcFNTUi11NlZVZC1oTXB5Q2Z1cmdrUHlpUGJYNzBlcTFTVWU2MkhtaGdGeVdQN0VycHZGT1V4X1U1emRXYnFQVWtUNkpWM1l4NzNRN216M0pmZmVvVm8?oc=5": {
+  "title": "アニメはなぜ“IP”と呼ばれるようになった？ キャラクタービジネスの正体を掴む3つの定義（リアルサウンド） - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "グレー",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE16eGhWTkkxdmJ0Q3dsbXRJMER0YW02VVNRczZBR3RTUmRLQTFXZVJMMnBMYmJrWS13Ui1nc1Q2T2lMZFpX?oc=5": {
+  "title": "【今日は何の日？】任天堂とポケモン、Nianticの新作アプリ『ポケモンGO』が国内でリリース…今年で10周年（2016年7月22日） - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmw3RUtRU29lLTMyUHROVTBzZjE1T3ZaU3JvNHRoZXFGUlFVQ3J3QzluRGdjTVo2TGQ3aGctNmlxdmJTVzZibHdNWDllYjB6LXRJZW9FT05xZjdvZGJYT2UzVXZMa0lmM2tVcXZVdkRDY2pVMHVfaXduSHU0bDlXU2lNQWVUSzlqMWxyV2V3cGRHSENIbERhNm9jUTA0QTVfTGNEOU9sWk8taEk?oc=5": {
+  "title": "NFMLA Expands NewNarratives Grants and Adds Absurd Fellowship for Emerging Auteurs to Use AI - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://variety.com/2026/film/news/gossip-goblin-ai-film-gods-dont-give-gifts-theaters-1236818068": {
+  "title": "AI YouTuber Gossip Goblin Plans to Release AI Film ‘Gods Don’t Give Gifts’ in Movie Theaters",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://deadline.com/2026/07/glen-powell-lou-gehrig-movie-richard-linklater-1236999778": {
+  "title": "Glen Powell And Richard Linklater Reunite For Lou Gehrig Film At Universal; Lorne Michaels To Produce",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://animeanime.jp/article/2026/07/22/101319.html": {
+  "title": "「え？は？は？」「この先が怖くなってきました…」ミミの秘密の話に戦慄!? お掃除を楽しむ日常回から急展開「きみ死ぬ」第3話【ネタバレあり反応まとめ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wNFI3aXRVcEd0YWRvS1NZY2dEcDdwQWJjc0hFYWIzdGZjM1FzTml2T3A2VWFMcVRHci1iQnFWREt1YnNSNGE4OFFPOGs1WXZQOXcyNk9kR3pXc3pPX2J0V2lDeTdwT0hEeTdrd3lWQXYxelNPTGkxU0J0Zw?oc=5": {
+  "title": "【週末アニメ映画ランキング】「トイ・ストーリー5」興収72億円突破 「君と花火と約束と」は初登場5位 - ニコニコニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHY2bEYzNVhMZzFGUGlmSENiT3lzeE1CSml1dlZvM1pucG1jT0YyaGdKWDU4NXVPekxhZXFudlFoSWVQYWtIMzZ3cWM0aEN3V2VwT0hUM2pTZnZtSkRVOFFBRDlzNTNUMlF3cldqb3RpZTh5SFctZllnTzNHSDRTUHhoT3RJaS1FOGxpRE15SDJJMzJoMHA2TGpTZHVoYklpY0xiNjcwSXJieDk5OW5mZ3ZGaUoxY1F3M2c?oc=5": {
+  "title": "‘Marathon’ PvE Mode Is Live, But Temper Your Expectations - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "グレー",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3lxek8zSVl0a1lsVkV6d2JZWnNKNDNCTGJBMVdkSDlHdGJwVmlfd1VaSUhVVmNaejFOeUxPRXExQVViOXhGOWZYV2ViRVYtRHU2VHZUajFxd2diZHp3akdVa0dnM0swSmdILWpFWk1UYkt1NjkydG5zRDA1THVzVmpiOUxlM2tjUGR2TkNPdm1PY1pOSFBuTWYxUUhXdWo3Q0dnbUxkOWNub19zZzYxeDlCZ2c?oc=5": {
+  "title": "German Carmakers’ China Woes Deepen With Another Drop in Exports - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://deadline.com/2026/07/gossip-goblin-ai-feature-gods-dont-give-gifts-youtube-theaters-1236998952": {
+  "title": "Gossip Goblin AI Feature ‘Gods Don’t Give Gifts’ Poised To Make Next Leap From YouTube To Big Screen",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1784739875.1842072
+ },
+ "https://animeanime.jp/article/2026/07/22/101318.html": {
+  "title": "日向の精巧なフィギュア、研磨のぬいぐるみがラインナップ♪ 「ハイキュー!!」一番くじにフィギュア、アクリルボード、ぬいぐるみが登場！ 初立体化となる山口にも注目っ！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXVxOXF5eF9LbHdPUl82dXV1WUE3dmxtaXdRaGlHME85UkhGbkwzWmhhaXo2S2g1MHVHSnBXNVFxSTQwVm5Sa0ExaDd3QTVxOE5VbGd6Q09reUZ1OXpwS0ctbzk4ZW9BNEd3dnBOZDVsclI1MGoxaVBVRnFSSDJMeW1oYTZ4WE9FQzRrRkdBWmlCQW1pbVktMHZyN1d5ZmtHUC1qYkxoc29COTU1bUgxT0Zxa3RFQQ?oc=5": {
+  "title": "Eight Bosses on Their Biggest Money Regret - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1784739875.1842072
+ },
+ "https://animeanime.jp/article/2026/07/22/101317.html": {
+  "title": "「十勇士推しには昇天必須の神回だったよ！」…深掘りされた“日常”に涙が止まらん!!『鎧真伝サムライトルーパー』第15話は「これが観たかった！」の嵐で視聴者が狂喜乱舞【ネタバレあり反応まとめ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1784739875.1842072
  }
 }
