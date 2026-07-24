@@ -1,218 +1,5 @@
 [
  {
-  "url": "https://animeanime.jp/article/2026/07/22/101312.html",
-  "title": "「映画ちいかわ」ハチワレがセイレーンから逃げる！うさぎは捕まる!? 全24種の“ちいかわボトル”がかわちぃ！【「サントリー」コラボ】",
-  "source": "アニメ！アニメ！",
-  "sources": [
-   "アニメ！アニメ！"
-  ],
-  "published": "2026-07-22T04:17:13Z",
-  "published_ts": 1784693833,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ映画『ちいかわ』の公開に関連するサントリーとのコラボ企画で、限定ドリンク24種の発売という商品化・販売ビジネスが主題であり、コンテンツ×ビジネスが明確に該当する。",
-  "ts": 1784697973.204484,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE12TE13aVVrWFBFaDVrTzdUWXlqdmdUdDJ2NXQ5TFFxRHh3TFlUMFZRbmFwREJraGpDZ1BJVkNWclluSlU0?oc=5",
-  "title": "レイジングブル、2026年3月期決算は最終損失2億0400万円と赤字幅拡大…KADOKAWAグループのアニメ制作会社 - gamebiz【ゲームビズ】",
-  "source": "Googleニュース: アニメ制作会社 決算 OR 買収",
-  "sources": [
-   "Googleニュース: アニメ制作会社 決算 OR 買収"
-  ],
-  "published": "Wed, 22 Jul 2026 02:33:45 GMT",
-  "published_ts": 1784687625,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ制作会社（コンテンツ）の決算発表で最終損失という経営数字（ビジネス）が主題であり、コンテンツ＋ビジネスの2分野が明確に該当するため対象。",
-  "ts": 1784697973.204484,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lSWQyMHYxdWhldHlXQmVMU09wZWN6Q21oYkRxVzJwdFRweGpfZnRHZkcwd0dEbG56MzVHSTVHaENvTDh5ZUdBTXFZLWdOS19ZZEliUTZSeTRBSTZaQmttRlZFSkxHMFZIeVZ3?oc=5",
-  "title": "【株式会社スムージースタジオ】生成AI映像制作における権利保護の確認体制を強化。NHK総合「みみより！解説」にて、AI動画制作の取り組みが紹介されました - 時事ドットコム",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Wed, 22 Jul 2026 04:45:00 GMT",
-  "published_ts": 1784695500,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "映像制作企業が生成AIの権利保護体制を強化する取り組みを発表したもので、コンテンツ×AIは明確だが、ビジネス面（投資額・売上・契約等の数字）が記事に見当たらず、自社PR・自己宣伝の傾向が強いため、実質的な情報価値の判断が難しい。",
-  "ts": 1784697973.204484,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://animeanime.jp/article/2026/07/22/101311.html",
-  "title": "累計興収25億円突破「超かぐや姫！」Blu-rayが9月9日発売！アニメイト特典は「トートバッグ＆ロングフォト6枚セット」",
-  "source": "アニメ！アニメ！",
-  "sources": [
-   "アニメ！アニメ！",
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "2026-07-22T03:59:27Z",
-  "published_ts": 1784692767,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ映画の興行収入25億円突破という数字ニュースとBlu-ray発売というビジネス情報が主題であり、コンテンツ＋ビジネスの2分野に該当するため対象。",
-  "ts": 1784697973.204484,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5ejREMTJxTEpwNFdidVdyVFVQRWlzSU1sUWx2c1BOOTRFMk9OMWhZRlgxOHg2RUlRb1VrNWs0bmJObzBlSG1UM2tkNjh1SUhYZnlEdTE5U24?oc=5",
-  "title": "IGポート連結決算、2026年5月期は減収減益。制作費高騰と旧シグナル・エムディ案件の損失が重荷に、成長の軸は「版権」へ - Brand New Creativity",
-  "source": "Googleニュース: アニメ制作会社 決算 OR 買収",
-  "sources": [
-   "Googleニュース: アニメ制作会社 決算 OR 買収"
-  ],
-  "published": "Wed, 22 Jul 2026 03:00:03 GMT",
-  "published_ts": 1784689203,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ制作大手IGポートの連結決算で減収減益、制作費高騰と損失が報告され、成長戦略が版権へシフトしている。コンテンツ産業の経営・数字が主題であり、コンテンツ＋ビジネスの明確な該当。",
-  "ts": 1784697973.204484,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/jennifer-garner-judy-greer-netflix-13-going-on-30-reboot-cameo-1236817722/",
-  "title": "Jennifer Garner and Judy Greer to Appear in Netflix’s ’13 Going on 30′ Reboot",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Wed, 22 Jul 2026 00:29:03 +0000",
-  "published_ts": 1784680143,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "Netflixによる実写映画リブート企画で、配信企業による映像コンテンツの制作・配信展開（ビジネス）が主題だが、AIやリブートそのものの経営的インパクト（数字・戦略）の実質が薄く、キャスティング速報に近いため信頼度は中程度。",
-  "ts": 1784697973.204484,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/196562",
-  "title": "任天堂・ポケモン、パルワールド訴訟関連の特許出願で再び拒絶　審査官が引例としたファンゲームの著作権侵害指摘も「進歩性判断と無関係」",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Tue, 21 Jul 2026 21:00:19 +0000",
-  "published_ts": 1784667619,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゲームIP（ポケモン・パルワールド）に関わる特許侵害訴訟と特許庁での出願拒絶という法的・ビジネス的紛争が主題であり、コンテンツとビジネスが該当する。AIは含まれない。",
-  "ts": 1784697973.204484,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://animeanime.jp/article/2026/07/22/101306.html",
-  "title": "実写「ルックバック」藤野と京本のかけがえのない時間に涙…場面写真が到着！米アカデミー賞の前哨戦「トロント国際映画祭」への正式出品も決定",
-  "source": "アニメ！アニメ！",
-  "sources": [
-   "アニメ！アニメ！"
-  ],
-  "published": "2026-07-22T03:00:03Z",
-  "published_ts": 1784689203,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "原作は漫画（コアなコンテンツ）で、実写映画化・トロント国際映画祭正式出品決定という業界ニュースだが、記事の主体は制作発表・キャスティング・場面写真公開・映画祭選出の告知であり、経営・契約・投資などの実質的なビジネス情報が薄い。映画祭出品は映像産業の重要な動きだが、単なる告知か戦略的なビジネスニュースか判断が微妙なためグレー。",
-  "ts": 1784697973.204484,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/sony-early-talks-cinerama-dome-reopening-1236407617/",
-  "title": "Sony Pictures Mulls Deal for Hollywood’s Cinerama Dome, With Alamo Drafthouse Possibly Operating",
-  "source": "Variety",
-  "sources": [
-   "Variety",
-   "Deadline",
-   "Googleニュース(hollywoodreporter.com)"
-  ],
-  "published": "Tue, 21 Jul 2026 22:39:03 +0000",
-  "published_ts": 1784673543,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ソニー・ピクチャーズが映画館チェーン（Alamo Drafthouse、Cinerama Dome）の運営に関わるディール交渉という映像業界の主要な経営・M&A動向であり、コンテンツ産業とビジネスの両面を備えている。",
-  "ts": 1784697973.204484,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/07/snoop-dogg-biopic-release-date-1236999750/",
-  "title": "Snoop Dogg Biopic From Universal Hits Theaters Next Summer",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Tue, 21 Jul 2026 21:30:07 +0000",
-  "published_ts": 1784669407,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画の製作発表で、映像作品の興行・配給に関わるビジネスが主題。ユニバーサルの楽曲伝記映画は業界動向として重要で、過去の興行成績との比較などビジネス数字を含む。非アニメだが映像業界の大型プロジェクト発表であり対象。",
-  "ts": 1784697973.204484,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/07/julie-andrews-documentary-disney-1237000388/",
   "title": "Julie Andrews Documentary Flies To Disney+",
   "source": "Deadline",
@@ -420,27 +207,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "VTuberグループ「ホロライブ」のIP化としてのスマホゲーム化であり、事前登録130万人超、ストア1位など興行成績・市場成功を示す数字が主題であるため、コンテンツ×ビジネスが明確に揃う。",
-  "ts": 1784739875.1842072,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUUtTmIzbEk5VUlfdGNEc3JQY0Y3ZHlsMDNiNTg3UkdDSjVoQzVEZDFtRHMzZW03RzVlUS1rZnhjNTlIU1hFQ2llWV9OQzFVTExMdFVUMU1Gby1yUFZVRzcwWFV3Z083bjNDazQ2cjQ1dzBVUDU1RXRIcWE1TFNQMmlRZzVwRTE2amNtQ3BfcGN6djRFZ1NCaVNfcUFJUTJNYnNmcW8zNnY?oc=5",
-  "title": "Perpetual Pictures Cartoon Movie: AI Animation Platform for Creators & Kids - Digital Studio India",
-  "source": "Google News: generative AI animation OR anime",
-  "sources": [
-   "Google News: generative AI animation OR anime"
-  ],
-  "published": "Wed, 22 Jul 2026 02:58:38 GMT",
-  "published_ts": 1784689118,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "アニメーション/カートゥーン作成のAIプラットフォーム紹介で、コンテンツとAI両分野に関連するが、実際のビジネス規模・資金調達・提携・市場影響など経営・金銭面の実質が不明確で、ビジネス要件が弱い可能性がある。製品紹介止まりならば対象外の可能性もあるため。",
   "ts": 1784739875.1842072,
   "is_new": false,
   "updated": false
@@ -833,7 +599,8 @@
   "title": "Yeon Sang-ho Returns to ‘Parasyte’ Universe With ‘Tamiya,’ Starring Shioli Kutsuna, at Netflix",
   "source": "Variety",
   "sources": [
-   "Variety"
+   "Variety",
+   "Deadline"
   ],
   "published": "Wed, 22 Jul 2026 23:00:00 +0000",
   "published_ts": 1784761200,
@@ -896,7 +663,8 @@
   "title": "Shaken, Soaked and Seasick: What It’s Like to Survive ‘The Odyssey’ in 4DX",
   "source": "Variety",
   "sources": [
-   "Variety"
+   "Variety",
+   "Googleニュース(forbes.com)"
   ],
   "published": "Wed, 22 Jul 2026 22:30:00 +0000",
   "published_ts": 1784759400,
@@ -994,8 +762,8 @@
   "confidence": "中",
   "reason": "『ちいかわ』はキャラクター/IPコンテンツであり、その「愛され軌跡」の全解剖という特集形式から、人気の背景・メディアミックス展開・マーケティング戦略など、コンテンツ×ビジネスの分析記事と判断されるため。",
   "ts": 1784784676.170978,
-  "is_new": true,
-  "updated": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/the-odyssey-screenplay-christopher-nolan-buy-online-1236818532/",
@@ -1044,7 +812,9 @@
   "title": "Venice Chief Alberto Barbera on Landing Robert Pattinson Film ‘Primetime’ at the Last Minute and Lack of U.S. Studios at the Festival: They Are ‘Experiencing an Identity Crisis’",
   "source": "Variety",
   "sources": [
-   "Variety"
+   "Variety",
+   "Deadline",
+   "Anime News Network"
   ],
   "published": "Thu, 23 Jul 2026 17:40:27 +0000",
   "published_ts": 1784828427,
@@ -1057,7 +827,8 @@
   "confidence": "高",
   "reason": "ベネチア映画祭の映画選定プロセスをめぐるインタビューで、ハリウッドスタジオの経営危機（M&A・再編・マーケティング戦略の転換）が映画祭参加に与える影響を詳細に分析しており、映像産業全体の構造的な課題を扱うビジネス記事である。",
   "ts": 1784828521.2224152,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/student/matt-jones-feature-length-animatic-264845.html",
@@ -1077,7 +848,8 @@
   "confidence": "中",
   "reason": "アニメーション教育とコンテンツ制作（feature-length animatic）が主題だが、ビジネス的な要素は教育的・倫理的な側面（著作権、学生のキャリア、業界準備）に限定され、経営・投資・市場規模などの実質的なビジネスニュースではなく、AIも絡まないため判断が微妙。",
   "ts": 1784828521.2224152,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2bFN6WFR0a0F6aUJwRjhsVzJKY042OHlCZURfNm5qenZ1V1FpZk9UZ1hsS19STlJTR2VMQnEyLUVHR1ZRcUFrMGQzSERGODNPSUY2ZFZ0NTdtNHhISTJhTF9uN1J3ZFk?oc=5",
@@ -1097,7 +869,8 @@
   "confidence": "中",
   "reason": "『Fate』などのアニメ・ゲームIP、『スター・ウォーズ』などのメディアフランチャイズの世界観ビジネスをテーマにした分析記事で、コンテンツとビジネス（IP戦略・市場価値）の両軸が該当。非アニメの『スター・ウォーズ』『甲子園』を含むが、アニメIPを中心とした業界分析であり、IP業界全体の構造ニュースとして拾う。",
   "ts": 1784828521.2224152,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84dnhMUW9qQUxWQVNqR0ZPQmdBaG93Tjl1c1F4aEdyS0dvUE5NNm9xNmtyQklaRlJyWjZaMnI1dnAxTWpWUE5VVGZ5c1B4T00?oc=5",
@@ -1117,7 +890,8 @@
   "confidence": "中",
   "reason": "アニメ作品の興行成績（30億円超）と配信プラットフォーム（Prime Video）での配信開始という配信ビジネスの動きが主題であり、コンテンツ+ビジネスが揃っているため対象。ただし本文詳細が不明で、キャストの単なる紹介に終わっていないかの確認が必要。",
   "ts": 1784828521.2224152,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/196866",
@@ -1137,7 +911,8 @@
   "confidence": "中",
   "reason": "ドラゴンクエスト（ゲームIP）のコラボ商品（スライムまんじゅう）の販売期間延長決定であり、コンテンツ×ビジネス（商品化・販売・売上）の記事。ただしIPライセンスの実質的なビジネス規模が記事からは不明確で、グッズ販売の告知性が強いため信頼度は中程度。",
   "ts": 1784828521.2224152,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-23/oceanveil-adds-love-hina-level-e-yuru-yuri-dramatical-murder-more-anime/.239906",
@@ -1157,7 +932,8 @@
   "confidence": "中",
   "reason": "OceanVeilという配信プラットフォームが複数のアニメ作品（Love Hina、Level E、Yuru Yuri、DRAMAtical Murder等）を新たに配信することを発表している。アニメコンテンツと配信ビジネスに該当し、配信ライセンスやプラットフォーム戦略に関わるビジネスニュースである。",
   "ts": 1784828521.2224152,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rVXJCZVlZR3kzcDhpMk0zSXZUTG5CXzZRZ1pva1ZtNUY4R1NpRF8zRkN6a01LTTM1N0RvRDQzZ09GV2gtN0Q0UUZEdXk5amZjYWpFbnl5QVM3MmpLX2JIMFNPODZkR2xnTmkzNXVOUTdZQTBC?oc=5",
@@ -1178,7 +954,8 @@
   "confidence": "高",
   "reason": "中国の動画配信企業が生成AIで完全自動制作した長編映画を公開するニュースで、映像コンテンツ制作、AI技術の商用化、そして配信ビジネスの3分野が揃う最優先案件。AIGCの商業化が進む映像業界の重要なマイルストーン。",
   "ts": 1784828521.2224152,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9NNUpGU1B6VUdvdG9IMWtQbUdCS0hYNWVzeDhqbUxab0F4WVJONk80MjNFcUxtUW5wbjdsVEtKQXhxV2Rl?oc=5",
@@ -1198,7 +975,8 @@
   "confidence": "高",
   "reason": "東宝の第1四半期決算において、IP・アニメ事業の動向と利益への影響が主題であり、企業の経営状況・会計情報・投資戦略などビジネスの実質的な内容を含むため、コンテンツ+ビジネスに該当する。",
   "ts": 1784828521.2224152,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFZIR1V3MXVkZU9WTVZRRk9lWDBkczVraDluRlpmT3Q5Vm81SC1qYmhTQjRJOUpUV2YySThQalFuU3hQSHF0cTQwZGJHWGd0a3FUT2pNbHZzVWMzanpPSWpBX1B2X3lOOENhYUdfZnNsZFVlUXhFMjdPMWJDQURfamRITFNscjMtem5DYWU0UTNPN0g4VmxldDY2eDRPM0ZpVnFmVWtYMklOWUIzUHZMMg?oc=5",
@@ -1219,7 +997,8 @@
   "confidence": "高",
   "reason": "Prime Videoという映像配信プラットフォーム（コンテンツ）の戦略的なリデザインがAIを中心としており、Bezosが主導する大型の経営判断（ビジネス）。配信業界の地図を変える構造的なニュースであり、3分野すべて該当する。",
   "ts": 1784828521.2224152,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/gaming/news/xbox-tests-ad-supported-game-streaming-1236819193/",
@@ -1239,7 +1018,8 @@
   "confidence": "高",
   "reason": "ゲーム（コンテンツ）のクラウド配信ビジネスにおいて、Xboxが広告支援型の新サービスをテスト展開する発表であり、プラットフォーム戦略と収益化の実質的な動きであるため。",
   "ts": 1784828521.2224152,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/07/resident-evil-trailer-zach-cregger-austin-abrams-1236876910/",
@@ -1259,7 +1039,8 @@
   "confidence": "高",
   "reason": "ゲームIPの映画化（Resident Evil）の新トレーラー公開と劇場公開準備であり、コンテンツが明確。同時に興行に向けた作品展開・公開日・配給・制作陣の情報があり、映像業界のビジネス動向として機能している。",
   "ts": 1784828521.2224152,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2tEdGs4QWotN0w3TVFHeDVOZE1yWW80Rk8xN1pGS1BYOVN5UXk0OTE3U2NDSGdaU3BjOWhJZ2ItMXhrNVBOVVRtdW5za0JqRnV1REZGQnJMMmhOMjlSM2lheVFERnhWMmhnQUROZktjaWExUkNzdXZIMXVlUzdXMXRYWnJEaGE1Nm84VEw1RTc5VlhoaWs4RkxWeW5ZTlV5b3JsOFZMc1gwcGdHY1JJMm5hbkE?oc=5",
@@ -1279,14 +1060,16 @@
   "confidence": "中",
   "reason": "ゲームIPのPalworldを主題に、市場成功と長期展開の可能性を分析した記事であり、コンテンツ（ゲーム）とビジネス（市場・興行成績・展開戦略）の両立が認められるため対象と判定。",
   "ts": 1784828521.2224152,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/07/clayface-james-watkins-interview-comic-con-1237000908/",
   "title": "‘Clayface’ Hits Comic-Con: Director James Watkins Says DC’s R-Rated Horror Take Of Batman Villain Will Have “Ick And A Lot Of Gore” – QA",
   "source": "Deadline",
   "sources": [
-   "Deadline"
+   "Deadline",
+   "Variety"
   ],
   "published": "Thu, 23 Jul 2026 16:15:43 +0000",
   "published_ts": 1784823343,
@@ -1299,6 +1082,309 @@
   "confidence": "高",
   "reason": "DCのバットマン悪役映画『Clayface』の制作・企画についてのインタビュー記事。コンテンツ（映画制作）とビジネス（製作費$40M、興行実績の参考事例、スレート戦略）が主題であり、映像業界の大型プロジェクト情報として対象。",
   "ts": 1784828521.2224152,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTdoY0M3aWtPb0FlbTM2Ul94LTBzVUxURGZCOHVhd0NQVEdKVkxfbFh2d2xpOHk0aU55SHRnWkI3cDd5T3pUdGxzV1p2R1lJS0wwajFJcFljdDRoXzF2T3djOFJfOGlxSTUxbnQ0UzlrbTVmX2l2N0tNUm1XdVFZMVhGZ254Y3M?oc=5",
+  "title": "【特集】AIアニメは制作費を変えるのか――中国AI、日本アニメの価値、そしてブランド戦略 DLE小野亮CEOインタビュー - Yahoo!ファイナンス",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Fri, 24 Jul 2026 04:02:00 GMT",
+  "published_ts": 1784865720,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ制作におけるAI活用と制作費削減というビジネス的な影響を、業界人（DLE CEO）のインタビューで掘り下げた記事であり、3分野すべてが主題として揃っているため最優先対象。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE82T3NFMG5HY1VhUmJZZUZvWDBnajF1alZHVXkyUmNEYXd0WFdpWUxOSXk4UkJCNGg1YWRYb0d3ZWpnMXBY?oc=5",
+  "title": "【特集】AIアニメは制作費を変えるのか――中国AI、日本アニメの価値、そしてブランド戦略 DLE小野亮CEOインタビュー - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "sources": [
+   "Googleニュース(gamebiz.jp)"
+  ],
+  "published": "Fri, 24 Jul 2026 03:20:00 GMT",
+  "published_ts": 1784863200,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ制作とAI技術の活用、および制作費というビジネス面の3分野が揃っており、CEOインタビューによる深掘り考察記事であるため最優先対象。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0pXajBGVHVjT0xRYU5CeDJmaDlyeWYxLWVrcUg1c3pzNEJrQmdMeWFfUWZpYlh2R3FraDZKZGRaaksxejhtT2JsNGZhU0VWOE82aUtDQ2hBb1MxNHRvSnVfTER5VjA4NGg4QV85YXRRYkJ5V1IyWmQ3ZHMxcVd4Ym5HQzZKMXp5Z3hvamJIX2U1V1JsQ1FsbEFTZTI?oc=5",
+  "title": "Higgsfield Debuts ‘Kök Börü’ Showcasing Hybrid Human-AI Animation Pipeline - Animation World Network",
+  "source": "Google News: generative AI animation OR anime",
+  "sources": [
+   "Google News: generative AI animation OR anime"
+  ],
+  "published": "Thu, 23 Jul 2026 18:15:00 GMT",
+  "published_ts": 1784830500,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "アニメーション作品の制作にハイブリッド型の人間-AI パイプラインを導入した事例で、コンテンツ（アニメーション）とAI技術の活用が主題だが、ビジネス的な詳細（ファンディング・市場規模・営業実績）が本文で明確でないため。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/196927",
+  "title": "『ガンダム』完全新作発表、制作会社はサンライズ“ではない”　前作に続き他社スタジオとタッグ組む",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Fri, 24 Jul 2026 02:17:40 +0000",
+  "published_ts": 1784859460,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ガンダムの完全新作アニメ化は大型IPコンテンツであり、同時にゲームとのメディアミックス企画、複数玩具シリーズでの商品化という明確なビジネス展開（商品化戦略）が記事の中心にあるため、コンテンツ×ビジネスとして対象。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE05dDNFYnhLOXdNakx5VnB0WTJTaUM3by1QZnBiWkVFU3hqcEdZYl84Z09ZaHJsVWZncXFRNDZnMEZ6MTIx?oc=5",
+  "title": "ABEMA、2026年アニメ上半期ランキングを発表 『呪術廻戦』が全体・新作・年代別の各部門で1位を総なめ - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "sources": [
+   "Googleニュース(gamebiz.jp)"
+  ],
+  "published": "Fri, 24 Jul 2026 02:10:00 GMT",
+  "published_ts": 1784859000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "アニメの視聴ランキング発表は配信プラットフォーム（ABEMA）のビジネス動向に関わるが、記事の主題はランキング結果の数字/発表そのもので、ビジネスの実質（経営判断・投資・収益・戦略転換など）が薄く、単なる視聴統計の公表の可能性が高いため。確実性を欠くためグレー判定。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/07/cole-hauser-challenges-dutton-ranch-without-taylor-sheridan-1237002246/",
+  "title": "Cole Hauser On “Challenges” Of Making ‘Dutton Ranch’ Without Taylor Sheridan: “Everything Had Changed”",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Fri, 24 Jul 2026 01:45:15 +0000",
+  "published_ts": 1784857515,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "米映像業界の大型IP（Yellowstone/Dutton Ranch）に関する制作体制の変更と経営判断（クリエイター交代・ショーランナー新任）が主題であり、実写ドラマであるがメジャープロダクション（Paramount+）の業界構造に関わるニュースとして対象。ただしAIは直接関係せず、キャスティングやインタビュー主体でもあるため信頼度は中程度。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/196902",
+  "title": "秋田書店で漫画作者が“出版停止”下す事態　編集者トラブル続き信頼破綻、虚偽の売上報告や杜撰な対応など発覚",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Thu, 23 Jul 2026 21:40:15 +0000",
+  "published_ts": 1784842815,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "漫画作品の出版・配信をめぐる出版社との契約トラブル、売上報告の虚偽、編集対応の不備など、出版ビジネスの信頼破綻に関わる実質的な経営・契約問題であり、コンテンツ（漫画）とビジネス（売上・契約・出版停止）の両軸が明確に該当する。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/reviews/72-hours-review-kevin-hart-1236819749/",
+  "title": "’72 Hours’ Review: Kevin Hart Tries to Be Down With the Kids in a Mediocre ‘Hangover’ Knockoff",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Fri, 24 Jul 2026 01:00:00 +0000",
+  "published_ts": 1784854800,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "Netflixが配信する実写コメディ映画の劇評だが、非アニメ映像であってもAIの要素が無いため、業界規模やビジネス戦略の大型ニュースか、あるいは興行成績の数字が主題であるかで判定する。本記事は個別の映画作品の内容評価が主題であり、映像産業全体の構造ニュースでもなく、興行数字でもないため、コンテンツとビジネスの実質的な結合が薄い。ただしNetflixという大手配信プラットフォームのオリジナル映画制作・配信という業界ビジネスの一環である点でビジネスが最小限存在するため、グレーから対象に昇格させる。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/196933",
+  "title": "『ガンダム』アニメ完全新作は”オルタナティブ”と判明！その名も「アレックスゼロ」ゲームとアニメで世界緩を共有",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Thu, 23 Jul 2026 21:15:56 +0000",
+  "published_ts": 1784841356,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ガンダムシリーズの新作アニメーション制作発表であり、同時にゲームとの世界観共有を含むメディアミックス企画「RGプロジェクト」の展開が公式発表されているため、コンテンツとビジネス（メディアミックス戦略・複合展開）の両分野を満たす。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/tv/news/microdramas-men-romance-sunday-holywater-my-drama-my-muse-1236819953/",
+  "title": "Men Flock to Microdramas, Romance Stories Rule and Sunday Nights are Prime Time for Viewing",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Fri, 24 Jul 2026 00:40:37 +0000",
+  "published_ts": 1784853637,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "マイクロドラマ市場の成長データを示す調査報告で、ビジネス規模（2026年40億ドル市場）と視聴動向が主題。AI生成コンテンツの言及がありますが、それは市場データの一部であり、AIそのものの技術開発・権利・規制が中心ではないため、themes に AI は含めず、コンテンツ+ビジネスで対象とします。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-07-23/one-piece-tv-anime-elbaph-arc-debuts-english-dub-in-fall/.239910",
+  "title": "One Piece TV Anime's Elbaph Arc Debuts English Dub in Fall",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Thu, 23 Jul 2026 15:00:00 -0400",
+  "published_ts": 1784833200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "One Pieceアニメのコア情報（Elbaph弧の英語吹き替え版公開、年間26話への削減、制作体制の変更、Netflix配信予定）を報じており、コンテンツ（アニメ・配信）とビジネス（配信契約・制作計画）が主要素として含まれているため対象。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-07-23/ghost-in-the-shell-sac-kenji-kamiyama-helms-gundam-rg-xarx-zero-anime-in-2027/.239870",
+  "title": "Ghost in the Shell: SAC's Kenji Kamiyama Helms Gundam RG XARX-ZERO Anime in 2027",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Thu, 23 Jul 2026 14:23:41 -0400",
+  "published_ts": 1784831021,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ガンダム（コアなIP）の新作アニメ制作発表であり、RGプロジェクトという大型マルチメディア展開（アニメ・ゲーム・その他）の戦略発表が含まれるため、コンテンツ＋ビジネスに該当する。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://animeanime.jp/article/2026/07/24/101367.html",
+  "title": "「ちいかわ」120話が無料配信…ってコト!? 映画ちいかわ 人魚の島のひみつ」公開記念で順次配信【TVer】",
+  "source": "アニメ！アニメ！",
+  "sources": [
+   "アニメ！アニメ！"
+  ],
+  "published": "2026-07-24T02:36:19Z",
+  "published_ts": 1784860579,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ作品『ちいかわ』の映画公開を記念した放送話数の無料配信企画であり、配信期間・話数などの具体的なビジネス施策（プロモーション）が主題であるため、コンテンツ×ビジネスに該当する。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://animeanime.jp/article/2026/07/24/101364.html",
+  "title": "「ガンダム」新作！「RG XARX-ZERO」神山健治監督で27年展開決定！主人公役は大塚剛央",
+  "source": "アニメ！アニメ！",
+  "sources": [
+   "アニメ！アニメ！"
+  ],
+  "published": "2026-07-24T00:34:40Z",
+  "published_ts": 1784853280,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ガンダムシリーズの新作アニメとゲームのメディアミックスプロジェクト発表で、アニメーション作品の企画・スタッフ発表と、同時にガンプラなどの商品展開が言及されているため、コンテンツ＋ビジネス（メディアミックス展開・商品化）に該当する。",
+  "ts": 1784869229.526407,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd29mMGdtUlpwQnU3eFg0TDlRWXQ4cElqNWxfcDRtNjJaM21Tb1R1QzFtM3M3Q05hck13NkZlc0k3WE5yLUY1X0sxc2h4S3NfeVNYSDhWaUFCdEo0bnpWZDZuR05SVXhYTmJMblJpcXA2OTBKU2lFOUhEMkQ4WHNuV3JHV1hXQ0RTaEFoczVlVQ?oc=5",
+  "title": "Indian Epic ‘Ramayana’ Lands at Sony - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "sources": [
+   "Googleニュース(hollywoodreporter.com)"
+  ],
+  "published": "Thu, 23 Jul 2026 21:00:43 GMT",
+  "published_ts": 1784840443,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "インド映画『ラーマーヤナ』がソニーと配給契約を結んだというビジネスニュース。コンテンツ（映像作品）とビジネス（配信/配給契約）が揃うが、アニメでなく実写系の一般映像作品であり、AI要素や業界全体規模の大型M&Aではない点で、確度は「中」とした。",
+  "ts": 1784869229.526407,
   "is_new": true
  }
 ]
