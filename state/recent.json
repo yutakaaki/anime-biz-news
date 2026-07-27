@@ -1,133 +1,5 @@
 [
  {
-  "url": "https://variety.com/2026/tv/news/bobs-burgers-short-on-the-fort-day-of-christmas-hulu-1236820701/",
-  "title": "‘Bob’s Burgers’ to Unveil New Holiday Short ‘On the Fort Day of Christmas’ This Year on Hulu",
-  "source": "Variety",
-  "sources": [
-   "Variety",
-   "Deadline"
-  ],
-  "published": "Sat, 25 Jul 2026 17:45:00 +0000",
-  "published_ts": 1785001500,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "アニメシリーズ『Bob's Burgers』の新作ショートがHuluで配信されることが発表された配信ビジネスニュースだが、アニメ（米国アニメーション）とビジネス（配信契約・プラットフォーム戦略）が該当し、AIは関わらないため。",
-  "ts": 1785003975.230853,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/07/bobs-burgers-holiday-short-hulu-1237003074/",
-  "title": "‘Bob’s Burgers’ Sets Exclusive Holiday Short For Hulu",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sat, 25 Jul 2026 17:45:00 +0000",
-  "published_ts": 1785001500,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメシリーズ『Bob's Burgers』がHulu/Disney+での独占配信スペシャルを制作する発表は、20th TV Animationの配信戦略に関わるコンテンツビジネスニュースであり、コンテンツ+ビジネスを満たす。",
-  "ts": 1785003975.230853,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/197198",
-  "title": "26年上半期、アニメは『呪術廻戦』が強かった！アベマは“全ランキング首位”で圧倒…TOP5にも注目作ぞろい",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sat, 25 Jul 2026 11:30:46 +0000",
-  "published_ts": 1784979046,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ABEMAが2026年上半期アニメの視聴ランキングを発表した記事で、コンテンツ（アニメ作品の視聴数）とビジネス（配信プラットフォームの再生数データ・市場動向）が主題であり、必須軸のコンテンツに加えビジネスの実数が含まれるため対象。",
-  "ts": 1785003975.230853,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85MWtxUkRjaHZsT1Z6bGdfU3BaVkVpdHdxQlc1eG1HYlBLWjdvbWt1ekwzaGJMOVg0VmltbVl2RDBMOGNtczBLbkNfdk1QVElMNEZXZWRtc0Fxa2hOU0J6VUN3Um9MODVpZ2JJY3JkT0JlbGotZktqM1I0M3FyXzQ?oc=5",
-  "title": "全編AIホラー映画「死肉の男」公開 闘病中で原作の日野日出志氏「この映画で僕は永遠になれた」（スポニチアネックス） - Yahoo!ニュース",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Sat, 25 Jul 2026 13:56:51 GMT",
-  "published_ts": 1784987811,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "漫画原作の映画化作品であり、全編AIで制作されたという点でコンテンツ×AI分野が主題。AIが映像制作に実質的に用いられた事例であり、漫画IPのメディアミックスかつAI活用の事例として対象。",
-  "ts": 1785003975.230853,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaWZqM0NKVXExWGJ1d2N2d1R0cTc5V2lTYTQ4MzJBdTdoSks3dnJMVjVZcVg5Rmxjd3BwNTFUdkFzUzhRRnZzVFhjU291RnhCdnNzejRqRGY1eDVNYkN1NHRVSXN1dy1HSG9NTFNlb3E5SVk2YWE0X3BKb3FQMDEzbW43dDZuM3pXWkJJUlMzZmF0WElORXhWc0Y3UDREc1c0eWhzU1RvQTd5ZzdkVndFdFdB?oc=5",
-  "title": "‘Palworld’ Has Not Dropped In Playercount In Two Weeks Since 1.0 - Forbes",
-  "source": "Googleニュース(forbes.com)",
-  "sources": [
-   "Googleニュース(forbes.com)"
-  ],
-  "published": "Sat, 25 Jul 2026 12:44:05 GMT",
-  "published_ts": 1784983445,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Palworldはゲーム（コンテンツ・IPの中核領域）であり、1.0リリース後の継続的なプレイヤー数維持という興行成績・市場動向（ビジネス）に関する記事。コンテンツ＋ビジネスで対象基準を満たす。",
-  "ts": 1785003975.230853,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXJ4VE9IamJmQXdNZWdzWm50aFVxWURtRjNUb2NMMHhibUpYaG5xbnpzeE41ZS1iekRENnlIUjFCWEdnODhXT0FXYXpEeXJLQnp5MDZiTWVhM0Nfbmh3SWxwcW9IbVhSLTEwcFVSV1pRRmdwQUpaS251X2ZhT0N4NU9UNjhpN0lUbXhjajE5UDJ2eEV4aWh3TS1uQjJhVkN4XzZCS25BLU9qemdqNUU2UVRWSQ?oc=5",
-  "title": "‘God Of War: Laufey’ And ‘Fable’ Play PS5-Xbox Release Date Chicken - Forbes",
-  "source": "Googleニュース(forbes.com)",
-  "sources": [
-   "Googleニュース(forbes.com)",
-   "Variety"
-  ],
-  "published": "Sat, 25 Jul 2026 13:18:09 GMT",
-  "published_ts": 1784985489,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゲーム作品（God of War、Fable）のプラットフォーム戦略と発売日に関する記事で、コンテンツ（ゲームIP）とビジネス（プラットフォーム・リリース戦略）が絡む。",
-  "ts": 1785003975.230853,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/film/news/winston-duke-david-jonsson-black-panther-3-1236821351/",
   "title": "Winston Duke Trusts David Jonsson to Take On ‘Black Panther’: ‘I Think It’s Going to Be Great’",
   "source": "Variety",
@@ -386,7 +258,9 @@
   "title": "Netflix、2026年に生成AIを約300作品で活用 「The American Experiment」のAI補助映像17分は2倍の速さ・半分のコストで制作 - Ledge.ai",
   "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
   "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+   "Cartoon Brew",
+   "Anime News Network"
   ],
   "published": "Sun, 26 Jul 2026 03:09:09 GMT",
   "published_ts": 1785035349,
@@ -537,8 +411,8 @@
   "sources": [
    "Googleニュース: AI 映像制作 OR アニメ制作"
   ],
-  "published": "Sun, 26 Jul 2026 12:42:50 GMT",
-  "published_ts": 1785069770,
+  "published": "Mon, 27 Jul 2026 03:44:54 GMT",
+  "published_ts": 1785123894,
   "themes": [
    "コンテンツ",
    "AI",
@@ -549,7 +423,8 @@
   "confidence": "高",
   "reason": "ドラマ制作（映像コンテンツ）におけるAI普及による人材需要の変化を数字で伝えるニュースで、コンテンツ・AI・ビジネス（労働市場/求人数の経営指標）が全て揃う。",
   "ts": 1785130405.519288,
-  "is_new": true
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObU9CRnp2T1ZsQjRXaGgtZ1lnM21fYzNpQ0ZDMjI4RTRDTGs5Y2o4ZElYY2I1RUNJZmcyTzhERXk5Q2VPNF9uRHdweDJSNmdSS0ZsTXlYRXQ5dDZ0ejZ2VDJ0SlRINUh5ZHE5SkFXLUNwN0x6WDU0ZmdoRlFlaXNyZFZjakZPQjhKb21DN1JSa0FjV0JFQjZabmZIbmpUUVdqTXU5OWRWSzZqUQ?oc=5",
@@ -569,7 +444,8 @@
   "confidence": "高",
   "reason": "アニメ映画の興行収入（Box office数字）に関する記事であり、コンテンツ（アニメ映画）とビジネス（興行成績の具体的な数字）の両分野が主題に該当するため対象。",
   "ts": 1785130405.519288,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBkQzE2dTB0TExzdk84Vk1mU0RDeVpXX1ZNVEJ0NmdaVXdaUW0xVG9NRzVzX2JMdVJ2SDNpYUJWc1Q5dDVj?oc=5",
@@ -590,7 +466,8 @@
   "confidence": "中",
   "reason": "複数の無関係な話題を「／」等で羅列した朝のまとめ形式で、「ホロドリの首位獲得」「モバファク決算」「DLEのAIアニメインタビュー」が独立しており、各要素は対象候補（ゲーム＋ビジネス、決算、AIアニメ）だが、まとめ記事として個別のテーマ分析に乏しく、既知情報の集約に該当する可能性が高いため、確認が必要なグレーとした。",
   "ts": 1785130405.519288,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hSWtVS09LdDY4NVowa2oyVWl0UWhUTGFnZHRmLThwWnh5dGtwT0tVR1RmYjhyT0VoWkpvYVQ4cTVOQkRpczJhU1dMN0F1VURjeW9OeUo1cTVvRGhjcVlQdEFPQmIzOGxGaGdTRA?oc=5",
@@ -610,6 +487,227 @@
   "confidence": "中",
   "reason": "CG・デジタルアートは映像制作やゲーム開発の中核領域であり「コンテンツ」に該当し、産業創出・人材育成という「ビジネス」の側面もあるが、記事がアニメ・映画・ゲーム等の具体的なコンテンツIPや映像作品との直結性が不明な状態では、地域振興施策・人材育成政策としての側面が主体である可能性があり、確実な判定のため確認が必要。",
   "ts": 1785130405.519288,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94emZ6Z18xNTBTOXJVbE9HZnVGazdNOUhOdVh3X21uN3F5cUotelE4LUM4RG1uYjcybk9mSUhMOXR1M0J4?oc=5",
+  "title": "カプコン、「にじさんじ」ライバーによるアニメ『ストリートファイター USA』4週連続リレー実況をニコニコ独占生配信 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "sources": [
+   "Googleニュース(gamebiz.jp)"
+  ],
+  "published": "Mon, 27 Jul 2026 05:02:00 GMT",
+  "published_ts": 1785128520,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "アニメ『ストリートファイター USA』（コンテンツ）の配信企画であり、ゲーム企業による配信プラットフォームでのPR活動（ビジネス的な配信戦略）が絡むが、記事が発表告知に主眼があり、実質的な経営・投資・営業成績等のビジネス情報が記載されていない可能性があるため、ビジネスの判定に不確実性がある。",
+  "ts": 1785173964.2820458,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40YlktUjl0ekZWOEMzREZNOGw0Wm1yNDQxdWYwRzFHZHNQZjgwRG13M1VHR2YyZ09nbzhuWWQ2SjVUMjVGN3VfS1g5dlNHVjJUY19TUkJkeXlVSUZmOGhHdVREcHUtYVQySnFiVQ?oc=5",
+  "title": "アニメ産業人材 3万人が必要に - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "sources": [
+   "Googleニュース(nikkei.com)"
+  ],
+  "published": "Mon, 27 Jul 2026 16:49:00 GMT",
+  "published_ts": 1785170940,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ産業における人材不足が政策・市場規模・業界構造に関わるビジネス課題であり、コンテンツ産業の経営・市場動向に直結する重要なニュースであるため対象。",
+  "ts": 1785173964.2820458,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/shopping/news/bluey-toniebox-release-buy-online-1236784412/",
+  "title": "‘Bluey’ Fans Can Now Bring the Heeler Family Home With Tonies’ New Collection – Here’s Where to Shop",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 27 Jul 2026 17:00:37 +0000",
+  "published_ts": 1785171637,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ『Bluey』とTonies社の提携により、キャラクターグッズ（Tonies人形）・ゲーム・アクセサリーを展開するメディアミックス展開であり、ライセンス取引・商品化・販売チャネル（Target）の実質的なビジネスニュースで、コンテンツ＋ビジネスの組み合わせが明確。",
+  "ts": 1785173964.2820458,
+  "is_new": true
+ },
+ {
+  "url": "https://www.cartoonbrew.com/box-office-report/all-wishes-come-true-tops-china-box-office-264933.html",
+  "title": "‘All Wishes Come True!’ Tops China’s Box Office As Local Animation Boom Continues",
+  "source": "Cartoon Brew",
+  "sources": [
+   "Cartoon Brew"
+  ],
+  "published": "Mon, 27 Jul 2026 12:56:30 +0000",
+  "published_ts": 1785156990,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "中国アニメーション映画の興行成績（Box office）を報じており、コンテンツ（アニメーション）とビジネス（興行収入・市場動向）が主題であり、非アニメ映像の興行数字は必ず拾う条件を満たします。",
+  "ts": 1785173964.2820458,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/197485",
+  "title": "ホロライブのカバー株がストップ高、初スマホゲームがセルラン首位の好発進で　直前の急落前水準に戻る",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Mon, 27 Jul 2026 07:15:52 +0000",
+  "published_ts": 1785136552,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "VTuber・ライブストリーミング関連のIP（ホロライブ）がスマホゲームをリリースし、セルランで1位を獲得、それに伴い運営企業（カバー）の株価がストップ高となった経営・株価ニュース。コンテンツ＋ビジネス（興行成績・売上・株価の数字）の組み合わせで対象。",
+  "ts": 1785173964.2820458,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/07/david-ellison-confident-wbd-deal-close-thanks-staff-patience-1237004438/",
+  "title": "David Ellison “Confident” WBD Deal Will Close, Thanks Staffers for Continued Patience",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 27 Jul 2026 16:06:52 +0000",
+  "published_ts": 1785168412,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ParamountとWarner Bros. Discoveryの大型M&A統合について、CEOが訴訟対応と進捗状況を公表したメジャースタジオどうしの経営統合ニュースであり、業界全体の地図が変わる規模の重要な続報のため対象。",
+  "ts": 1785173964.2820458,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-07-27/disney-twisted-wonderland-anime-episode-of-savanaclaw-debuts-in-december/.240012",
+  "title": "Disney Twisted-Wonderland Anime's 'Episode of Savanaclaw' Debuts in December",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Mon, 27 Jul 2026 07:29:37 -0400",
+  "published_ts": 1785151777,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ディズニーのゲームIPをアニメ化した作品の第2シーズンがDisney+で独占配信される発表であり、コンテンツ（アニメ化・ゲームIP・配信戦略）とビジネス（配信プラットフォームの配信独占・シーズン展開）が主題である。",
+  "ts": 1785173964.2820458,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/07/purple-rain-musical-broadway-1237004347/",
+  "title": "‘Purple Rain’ Musical Headed To Broadway In 2027",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 27 Jul 2026 16:00:00 +0000",
+  "published_ts": 1785168000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画『Purple Rain』をミュージカル化しブロードウェイで2027年公演という制作・舞台化のビジネス動向が主題であり、映像/音楽IP のメディアミックス展開と興行ビジネスに該当するため、コンテンツとビジネスの両分野を満たす。",
+  "ts": 1785173964.2820458,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iZzRfemszeDhyTU9vZW9lR2k0TC15R0QtdmFuWDRzYmFEQ25XMjZ1eHZBSlotQktxeTJQeVFrTVp2cmN1VXAwX2gzZGp2SFdNWE9jeDJlYXQwQ0tYUTdubEhSNVFYcnlkTkE3RFlVaGpmYkFUOUV2MHB0aExsR1k?oc=5",
+  "title": "［新連載］徳力基彦×ヒットメーカー 東宝とNetflixはなぜ『ガス人間』を作ったのか - 日経クロストレンド",
+  "source": "Googleニュース(nikkei.com)",
+  "sources": [
+   "Googleニュース(nikkei.com)"
+  ],
+  "published": "Mon, 27 Jul 2026 15:00:00 GMT",
+  "published_ts": 1785164400,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "東宝とNetflixによる作品『ガス人間』の企画・制作背景を掘り下げたインタビュー・分析記事であり、映像コンテンツの制作・配信に関わるビジネス決定（大手スタジオと大型配信プラットフォームの提携）が主題であるため、コンテンツ×ビジネスで対象。",
+  "ts": 1785173964.2820458,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/07/jake-weary-sean-opry-hannah-galway-rose-hill-1237004433/",
+  "title": "Jake Weary, Sean O’Pry, Hannah Galway & Sadie Dickerson To Lead Prime Video’s ‘Rose Hill’",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 27 Jul 2026 16:00:00 +0000",
+  "published_ts": 1785168000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "Prime Videoの実写ドラマシリーズ『Rose Hill』のキャスティング発表であり、キャスティングのみが中心の記事ですが、大型配信プラットフォーム（Prime Video/Amazon）による制作展開・著名原作の映像化はコンテンツ産業の一部と見なし、また関連リンクに他作品の配信戦略情報が含まれることからコンテンツ+ビジネスの要素がありますが、記事本体ではキャスティングが主で実質的なビジネス情報に乏しいため確度は中程度です。",
+  "ts": 1785173964.2820458,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SWW02bGJ3M09zWWJRenBoanRoMHdBQ3d0YUpaYmVobEZra3dyVXJUUVRzQ2xGNXR5V0hfcTd5d1ZhMEN4SjNudi1IVWtpZDA?oc=5",
+  "title": "『トイ・ストーリー５』公開4週目も洋画No.1！ ピクサー・アニメーション作品史上最速で80億円を突破 - アニメ - ニュース - クランクイン！",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Mon, 27 Jul 2026 08:45:00 GMT",
+  "published_ts": 1785141900,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ピクサー・アニメーション作品の興行収入80億円突破は、アニメーション映画のBox office数字ニュースであり、コンテンツ×ビジネスの組み合わせで対象に該当する。",
+  "ts": 1785173964.2820458,
   "is_new": true
  }
 ]
