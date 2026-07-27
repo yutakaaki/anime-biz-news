@@ -1,240 +1,5 @@
 [
  {
-  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQOTlMX0dld2hWQXRYUW1IbDlTUFpHdVBiQWk4czhhOE04dWhzbTZtckk4aXBXaXQxY3cxTmpJRHVYTDA4N3FNU1dsWGhqc2ZoY3Ffd3FB?oc=5",
-  "title": "AI映画版『オデュッセイア』が波紋――監督が語る真意とは？「ノーランに対抗するつもりはない」 - ハリウッド・リポーター・ジャパン",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Sat, 25 Jul 2026 05:42:53 GMT",
-  "published_ts": 1784958173,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "映像制作（映画『オデュッセイア』）にAIが主要な制作技術として関わる記事であり、監督インタビューで「真意」を掘り下げているため、コンテンツ＋AIの対象に該当します。ただし本文が不完全なため確信は中程度です。",
-  "ts": 1784958880.165492,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/guillermo-del-toro-no-ai-pans-labyrinth-rerelease-1236815109/",
-  "title": "Guillermo del Toro said ‘Absolutely No Goddamn AI’ in ‘Pan’s Labyrinth’ 3D Re-Release: ‘We’re Protecting a Lineage of Art’",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sat, 25 Jul 2026 01:37:12 +0000",
-  "published_ts": 1784943432,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画『パンズ・ラビリンス』の3D化プロジェクトで、監督が生成AIの使用を明確に拒否し、手作業での変換とアート保護の哲学を強調。映像制作におけるAI拒否という業界重要なスタンスが中心であり、かつ20周年記念の再公開による興行戦略が並行して述べられており、コンテンツ+AI+ビジネスの3分野が揃っている。",
-  "ts": 1784958880.165492,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/07/guillermo-del-toro-no-goddmn-ai-pans-labyrinth-re-release-1237003272/",
-  "title": "Guillermo Del Toro Assures “No Godd*mn AI” Used In ‘Pan’s Labyrinth’ 3D Re-Release — Comic-Con",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sat, 25 Jul 2026 02:40:27 +0000",
-  "published_ts": 1784947227,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映像作品『パンズ・ラビリンス』の3D再公開プロジェクトにおいて、監督が生成AIを使用しないという方針を明言しており、映像制作業界のAI活用をめぐる立場表明が記事の中心。コンテンツ（映画作品・映像制作）とAI（生成AI拒否の姿勢）が主題。",
-  "ts": 1784958880.165492,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/197124",
-  "title": "ホロライブ、誹謗中傷投稿めぐる示談成立で損害賠償額を公表「1投稿あたり150万円」と判明",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sat, 25 Jul 2026 03:05:47 +0000",
-  "published_ts": 1784948747,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "VTuber事務所ホロライブの所属タレント（コンテンツIPの従事者）に対する誹謗中傷裁判で示談成立し、損害賠償額1投稿150万円という具体的な金銭・法務ビジネス上の事実が公表されたため、コンテンツ＋ビジネス該当。",
-  "ts": 1784958880.165492,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/07/spaceballs-the-new-one-comic-con-marvel-1237003091/",
-  "title": "‘Spaceballs: The New One’ Invades Comic-Con With Send-Up Of Marvel’s Hall H Panels Of Yore",
-  "source": "Deadline",
-  "sources": [
-   "Deadline",
-   "Variety"
-  ],
-  "published": "Sat, 25 Jul 2026 00:36:01 +0000",
-  "published_ts": 1784939761,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Mel Brooks監督の映画『Spaceballs: The New One』がAmazon MGM Studiosから2027年4月23日に劇場公開予定であり、Comic-Con会場でのパネル発表・キャスティング・公開日を報じるコンテンツ関連のビジネスニュース（興行公開予定）である。",
-  "ts": 1784958880.165492,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://animeanime.jp/article/2026/07/25/101422.html",
-  "title": "「トイ・ストーリー」ウッディ＆バズたちと夏のお出かけ♪ 保冷バッグやボトル、メッシュバッグなど【330円中心のillusie300限定】",
-  "source": "アニメ！アニメ！",
-  "sources": [
-   "アニメ！アニメ！"
-  ],
-  "published": "2026-07-25T04:30:03Z",
-  "published_ts": 1784953803,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "トイ・ストーリーのIPを活用したグッズ販売シリーズの発売案内であり、新作『トイ・ストーリー5』の公開に連動した商品化・ライセンス展開（ビジネス）が中心だが、グッズ発売そのものの告知が主目的であり、経営・市場規模・売上などの実質的なビジネス情報に乏しいため、判定に迷いが生じるグレーに近い対象。IPビジネスの一環として最低限の対象基準は満たす。",
-  "ts": 1784958880.165492,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/paramount-state-ags-warner-bros-battle-1236820702/",
-  "title": "Paramount Faces Drawn-Out Battle With State AGs: ‘They Saw the Writing on the Wall’",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sat, 25 Jul 2026 00:54:31 +0000",
-  "published_ts": 1784940871,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Paramount とWarner Bros.の大型M&A をめぐる独禁訴訟の続報であり、メジャースタジオの統合が規制当局と法廷で争われている業界全体を揺るがす構造ニュースのため、実写中心でもコンテンツ＋ビジネスで対象。",
-  "ts": 1784958880.165492,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/07/kalshi-threatens-netflix-misleading-prediction-market-doc-1237003123/",
-  "title": "Kalshi Threatens Netflix With Defamation Suit Over “Misleading” Prediction Market Doc Trailer",
-  "source": "Deadline",
-  "sources": [
-   "Deadline",
-   "Googleニュース(bloomberg.com)"
-  ],
-  "published": "Fri, 24 Jul 2026 23:51:57 +0000",
-  "published_ts": 1784937117,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "Netflixのドキュメンタリー作品をめぐる法的紛争（予測市場企業Kalshiによる名誉毀損訴訟の脅迫）であり、配信コンテンツとビジネス/法務の複合ニュースですが、AI要素はなく、規制当局との訴訟が主題のため中程度の確度です。",
-  "ts": 1784958880.165492,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/tv/news/crutch-canceled-paramount-plus-1236809888/",
-  "title": "‘Crutch’ Canceled After One Season at Paramount+",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 24 Jul 2026 22:00:00 +0000",
-  "published_ts": 1784930400,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Paramount+の実写コメディドラマが1シーズンで打ち切られたというキャンセル発表（配信プラットフォームのコンテンツ戦略・ポートフォリオの変更）であり、配信企業による番組終了の経営判断として、業界のコンテンツビジネスに関わるニュースである。AIは関わらない。",
-  "ts": 1784958880.165492,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/tv/awards/hbo-max-the-pitt-hacks-emmys-history-1236820629/",
-  "title": "HBO Max Leads the Emmy Drama and Comedy Races for the First Time Since 2017. How Often Do Both Frontrunners Win?",
-  "source": "Variety",
-  "sources": [
-   "Variety",
-   "Deadline"
-  ],
-  "published": "Fri, 24 Jul 2026 21:30:49 +0000",
-  "published_ts": 1784928649,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "HBO Maxがエミー賞でドラマとコメディ部門の候補作品で支配的地位を獲得し、受賞歴史の分析を含む記事。非アニメの実写ドラマだが、業界全体の市場競争・プラットフォーム戦略・プログラミング力を示すメジャーメディア企業の実績報道であり、映像業界の構造的な重要ニュースに該当する。",
-  "ts": 1784958880.165492,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://animeanime.jp/article/2026/07/25/101415.html",
-  "title": "暗いよー!! 怖いよー!!「葬送のフリーレン」ミミックに食べられる姿が甚平に!? 鉱山で300年Tシャツも登場！【COSPA】",
-  "source": "アニメ！アニメ！",
-  "sources": [
-   "アニメ！アニメ！"
-  ],
-  "published": "2026-07-25T03:00:10Z",
-  "published_ts": 1784948410,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ『葬送のフリーレン』のキャラクターグッズ（甚平・Tシャツ・エコバッグ等）の新作販売発表であり、コンテンツ（アニメIP）と商品化・販売（ビジネス）が合致している。ただし制作発表ではなく、既存作品のグッズ販売情報のため、コンテンツ+ビジネスの明確な案件として対象。",
-  "ts": 1784958880.165492,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/tv/news/bobs-burgers-short-on-the-fort-day-of-christmas-hulu-1236820701/",
   "title": "‘Bob’s Burgers’ to Unveil New Holiday Short ‘On the Fort Day of Christmas’ This Year on Hulu",
   "source": "Variety",
@@ -299,27 +64,6 @@
   "updated": false
  },
  {
-  "url": "https://0115765.com/archives/197123",
-  "title": "『ルックバック』NHK Eテレで今夜地上波放送　総合の初放送に続き4ヶ月ぶり…実写化も間近",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sat, 25 Jul 2026 09:10:04 +0000",
-  "published_ts": 1784970604,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "藤本タツキの漫画を原作とするアニメ映画『ルックバック』の地上波放送情報と、実写化プロジェクト（監督・キャスト決定、公開予定日）を報じており、コンテンツ（アニメ・映画・原作漫画・IP展開）とビジネス（興行成績の言及、実写化による制作発表を含む媒体展開）が両立している。",
-  "ts": 1785003975.230853,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85MWtxUkRjaHZsT1Z6bGdfU3BaVkVpdHdxQlc1eG1HYlBLWjdvbWt1ekwzaGJMOVg0VmltbVl2RDBMOGNtczBLbkNfdk1QVElMNEZXZWRtc0Fxa2hOU0J6VUN3Um9MODVpZ2JJY3JkT0JlbGotZktqM1I0M3FyXzQ?oc=5",
   "title": "全編AIホラー映画「死肉の男」公開 闘病中で原作の日野日出志氏「この映画で僕は永遠になれた」（スポニチアネックス） - Yahoo!ニュース",
   "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
@@ -336,27 +80,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "漫画原作の映画化作品であり、全編AIで制作されたという点でコンテンツ×AI分野が主題。AIが映像制作に実質的に用いられた事例であり、漫画IPのメディアミックスかつAI活用の事例として対象。",
-  "ts": 1785003975.230853,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.animenewsnetwork.com/news/2026-07-25/anime-limited-licenses-banana-fish-anime/.239955",
-  "title": "Anime Limited Licenses Banana Fish Anime",
-  "source": "Anime News Network",
-  "sources": [
-   "Anime News Network"
-  ],
-  "published": "Sat, 25 Jul 2026 03:36:33 -0400",
-  "published_ts": 1784964993,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ作品（Banana Fish）の配信権取得・ライセンス契約（Anime Limitedによる）とNetflix・Amazon Prime Videoでの配信展開という、コンテンツ＋ビジネスの配信取引が主題。AI beta dubsへの一言言及は付随的で主題ではない。",
   "ts": 1785003975.230853,
   "is_new": false,
   "updated": false
@@ -465,7 +188,8 @@
   "confidence": "高",
   "reason": "アニメ映画『トランスフォーマー』の4K再公開と新規映像追加が発表されており、コンテンツ（アニメ映画のIP）とビジネス（興行・配給・マーチャンダイズ）が揃っているため対象。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tWUdHOW5aTkNRLU9PcVFqOXQ5Q0M5VTF4cHEyRWQ5d1FMWFllVklKbks0MlZZMVhRZUhOd0dXdHZka1ZVc2o3bkRPQTlVTmppd09WRXZVczFHS19wU0ZMM2RvVGlsSXAzX2h2RHpyWU5RODNlZUVRUWtpb2tQb2c?oc=5",
@@ -485,7 +209,8 @@
   "confidence": "高",
   "reason": "アニメ映画の初日興行収入9.9億円という具体的な数字ニュースであり、コンテンツ（アニメ映画）と興行ビジネス（Box office）の両分野が主題である。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzcU94YkRSdHI2aEZoM1FyRE8xNTN0WlBoeEZTcEE1TExYM0xJeld5T1h3UFFOdUN4dk8yZ2FWM1pScXZDRm15WExiNTNVaU1IVEc2dUtB?oc=5",
@@ -505,14 +230,16 @@
   "confidence": "高",
   "reason": "アニメ映画の初日興行収入9.9億円という具体的な数字ニュースであり、コンテンツ（アニメ映画）とビジネス（興行成績）の2分野が主題に該当するため対象。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9faUtQbnhBcENrOFBGVFFYV3BablVONmZfcHBEdnpBMDJ4bWwzWHhjN01xLUIwOHk1TXJTem1OamwycWFQT00waHZCYUpQNlVXNUxxRmx3X1FvbGN3QlgzYzZGejRuOVd4cjBKOEpWRC1uVnJySlB5azJxUQ?oc=5",
   "title": "アニメ映画「ちいかわ」初日興収９．９億円の好スタート かわいいだけじゃなく「深い話が描かれていた」など話題 - au Webポータル",
   "source": "Googleニュース: アニメ 興行収入",
   "sources": [
-   "Googleニュース: アニメ 興行収入"
+   "Googleニュース: アニメ 興行収入",
+   "Googleニュース(yomiuri.co.jp)"
   ],
   "published": "Sun, 26 Jul 2026 08:48:00 GMT",
   "published_ts": 1785055680,
@@ -525,7 +252,8 @@
   "confidence": "高",
   "reason": "アニメ映画の初日興行収入という数字ニュースであり、コンテンツ（アニメ映画）とビジネス（興行成績）の両分野が主題であるため対象。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fM29FLVdhWjVGQjZWNFM4TjIxc05td3NvVWVhSFJZMUZoaU54aldxb2tXMDc1S2g1WURPdU0wQWF2VDFuMkQ2M1Bmd2JfSE5oS0lzU0pRX0k3RUJEcW1naE83T0lWMXE1LXZFUndOQ2Ixa2d4MUVMOWhIbW5rcWs?oc=5",
@@ -545,7 +273,8 @@
   "confidence": "高",
   "reason": "全編AI映像作品の制作・配信にAI技術（生成AI声優含む）が中心的に関わっており、コンテンツ+AIの条件を満たす。ビジネス面（製作費・配信・興行数字）の記述が無いため、themes にはビジネスを含めない。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://animeanime.jp/article/2026/07/26/101474.html",
@@ -565,7 +294,8 @@
   "confidence": "中",
   "reason": "サンリオキャラクター（コンテンツIP）と衣料ブランドのコラボレーション商品化・販売（ビジネス）であり、コンテンツ×ビジネスの記事だが、新商品発売発表が主体で、経営規模・市場への影響など定量的なビジネス分析に欠けるため確信は中程度。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/197338",
@@ -585,7 +315,8 @@
   "confidence": "高",
   "reason": "ワンダーフェスティバルはフィギュア・ガレージキット等のホビー・造形業界の一大イベントであり、展示販売（ビジネス取引）と版権システム、参加規模の拡大という産業構造の変化（36年ぶりの2日間開催復活）が主題のため、コンテンツ＋ビジネスで対象。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oMHNiSUZxc2kwcEF3dnNCZG1nOEQ5M0NjUG4ySVhjTGFyeU9GU1kzd2JUUkJneHc0M2M5dlktVmc4djh1dmhybkNRMXdEdw?oc=5",
@@ -605,7 +336,8 @@
   "confidence": "高",
   "reason": "アニメ映画『ちいかわ』の初日興行収入（9.9億円）という実績数字が主題であり、コンテンツ＋ビジネス（興行成績）の2分野が該当するため対象。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KNlp2bmFmSml3TmdwMWVsdnNmM2MtdTFLUkxzbFZnUjkzV0ROYmdmdkJUcmphc2RuSEF3cFFpZ2swN1ZvVmFsQlFGU1JOb3k1cEw5Nm1EUG9uZVBtYTBZMUwzWUFLTHBCeXY4TjZKWmE?oc=5",
@@ -625,7 +357,8 @@
   "confidence": "高",
   "reason": "アニメ映画の初日興行収入（9.9億円）という具体的な数字ニュースであり、コンテンツ＋ビジネスの2分野が明確に該当するため対象。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWZtUE0wQ05NODNXM0VpbFBfbGpPUURfbms5djlwWUd6SktWOXRjdXotbXpEdEJ5LXluX3k2SXJ6dTRqVEQyNjlaWWVBSHFUYnhaY0NGRkgwbkRHalNEbkRGdWdPUHg2NEZScmZ0TGg2V3k4dzdUZWlaM0F3TmpUQtIBhgFBVV95cUxOLWV4ZHk5R1NVTVoxSmJac0hFMFVNTmc3aS14Z3lZY0FDZElFSFVYbWI3eS1pc2hTRDZLREpIemJveWZBWVFjSGs0eE5hZWplRDkyRXJYZ2Z6UThDYXI2NWt0czZ0MDlXRVVneTdOY2VCNW5hYVg5SEZtT1R6WkNvenZDQ3N6Zw?oc=5",
@@ -645,7 +378,8 @@
   "confidence": "高",
   "reason": "アニメ『ちいかわ』の劇場作品の初日興行収入9.9億円という数字ニュースで、コンテンツ（アニメ映画）×ビジネス（興行成績）が明確に揃っており、アニメIPの興行実績として対象。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sMnJQcHJxV0NXcWl1cE1jN1hLbFlOeVlraUlxQVBVQjZQZWNjNlhnSTZRVWZOU2d5RlZVUkhEYVU3dm9pSlNBWVhaQmd1VVN4UUdDSUQtclM1R1hrMEtvRHhhQXR5c2twNVJKM1JlcFJBNTZheFlB?oc=5",
@@ -666,7 +400,8 @@
   "confidence": "高",
   "reason": "Netflixが生成AIを映像制作に活用し、コスト削減と効率化を実現する大規模展開計画であり、映像産業のAI導入ビジネス展開として、コンテンツ・AI・ビジネスの3分野が揃う最優先案件。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-26/marvel-partners-with-kadokawa-for-upcoming-manga-projects/.239968",
@@ -686,27 +421,8 @@
   "confidence": "高",
   "reason": "マーベルと角川による漫画化プロジェクトの提携発表であり、複数の漫画シリーズの連載開始予定が報告されている。漫画（コンテンツ必須軸）とIPライセンス・出版契約（ビジネス）の両要素が明確であり、新生出版体制への移行という業界の構造変化を含む。",
   "ts": 1785093799.4215438,
-  "is_new": true
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sR0NOdDhTQXRIMHhDdl9XS1U2dURQaEk0bDFnRHExVFdzUU9oUU53N3l6amNxSTFRTFR5dDN0cFFiSk5kSFQteHpKRUtMOGMzVEE?oc=5",
-  "title": "『ズートピア2』興行収入140億円突破 国内洋画アニメーション歴代2位に…『ザ・スーパーマリオブラザーズ・ムービー』を抜く 上戸彩ら感謝の言葉 - 山陽新聞",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Sat, 25 Jul 2026 08:30:21 GMT",
-  "published_ts": 1784968221,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメーション映画の興行収入という具体的な数字ニュースであり、コンテンツ（アニメ映画）とビジネス（興行成績）の両分野が主題となっているため。",
-  "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTWZieTdMYlBtOThTSU9TdGtua0JRVzgyT0d3QmlzRk1XXzJydTF0SGFaU18zV1Zqb1dFb3phYWtLWEFJTnF0N09HZkZUTWViemFaNVhiYXl5NUZ2NTR0azZMUTdwSkZKQVdoRERWZnlBX3UzRGNKdlo1U0VVZE95dtIBhgFBVV95cUxNUmRxWnQ2VUJWbkczVDhNR3NkakVlRjNWR05mYmtHc1U1bW1KMVFPNUY1Y0h4QmFtdG5Mek5MTGNIcWlxd0tlVU5ZM0I0bVJ1YWlOZmRUckNETll1UTlhMENCZk5PclJWU2hHX08xM1FzVlRJZ3I2S3Z0V0VuOEMxSUNySXo0UQ?oc=5",
@@ -726,7 +442,8 @@
   "confidence": "中",
   "reason": "実写ドラマ『VIVANT』に生成AIキャストが登場するという映像制作でのAI活用事例だが、非アニメ映像であり、業界全体を揺るがす大型ニュースではなく、記事の主体が声優推測など表面的な反応に留まっているため、グレーに分類。AIの具体的な活用方法や業界への実質的な影響が不明確。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://animeanime.jp/article/2026/07/26/101469.html",
@@ -746,7 +463,8 @@
   "confidence": "高",
   "reason": "アニメ『呪術廻戦』と横浜市のコラボイベント企画であり、限定グッズ販売、コラボカフェ、フェス開催など複数の商品化・ビジネス展開の詳細発表が主体。コンテンツ×ビジネスの二分野該当。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDejZrYnNQbWtEdGFQRlF4UVg1N1BYSVNubmNQQjkzVHJZaWszbEhmOXF2T1VBWm83WGNOeE5FMlVpLUtMMi05N3pwMno3VVNrTVpGZ2VGbG9vTVhqWDJWbE96bE92S3p5R0dCLQ?oc=5",
@@ -766,14 +484,16 @@
   "confidence": "高",
   "reason": "アニメ映画の初日興行収入9.9億円という映像業界の数字ニュースであり、コンテンツ（アニメ映画）とビジネス（興行成績）が揃う対象記事です。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSGFOM3RQdHlSV1RGV2VsNTI4T0ZpUE52T0pNWkU2Tm03dm5OaUM5RG9BSzg2TDdMLUF1WXBLZTdGZ2Ztekd1U2RHUkJzaFdfLU9XemthOWZwbTR6MWREa2o0QmlRbGhnOVowSUdvY01oc1d0Wk5tQmJVMzJ4QVZqV9IBhgFBVV95cUxPV3lDMFk0QjZ1NnNnWWVFSHZjWFFCZUZyQTVIUnJjeUotcHprMGloc2ZFb1J2X2pXUktmUkF1SkM3UG5hMUUzc2JPNDJ1VEtqTTdXbXVSc1BYS0NQYWtkMWxicDBHcGlOeUxjZlMxQjFBcW1mT011RXNFUkZiLW1HbDcyS1dGdw?oc=5",
   "title": "映画『ちいかわ』初日興収はコナン級の好発進　興収9.9億円でシリーズ最高『100万ドルの五稜星』興収9.6億円超える - ｄメニューニュース",
   "source": "Googleニュース: アニメ 興行収入",
   "sources": [
-   "Googleニュース: アニメ 興行収入"
+   "Googleニュース: アニメ 興行収入",
+   "アニメ業界ニュース(0115765)"
   ],
   "published": "Sun, 26 Jul 2026 08:13:00 GMT",
   "published_ts": 1785053580,
@@ -786,7 +506,8 @@
   "confidence": "高",
   "reason": "アニメ映画『ちいかわ』の初日興収9.9億円の具体的な数字を報じており、コンテンツ（アニメ映画）とビジネス（興行成績）の両分野が主題である。興行成績の数字ニュースは必ず拾う対象。",
   "ts": 1785093799.4215438,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZTJTb1hFeFhXR3huY29QV09ldU16QnI1U2xob1hkLWstRWV1VTNnUWNYeWdmb0stbmRRcGdRcmtldmRWd3lmZWtabjBMdW1ieTZOazVWRUZha3RlVXlqZTIzQTA2UQ?oc=5",
@@ -806,6 +527,89 @@
   "confidence": "中",
   "reason": "『キングダム』は漫画原作の実写化作品であり、映画プロデューサーが実写化ビジネスの成功要因と邦画産業の展望について解説する記事。コンテンツ（漫画実写化・映像制作）とビジネス（映画化・興行・産業展望）の両分野が主題に含まれるため対象だが、本文情報が限定的なため確信度は中程度。",
   "ts": 1785093799.4215438,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jS0Vha2pPMmMyVDluaE5xcGlGbEgzXzVLNDFDYlJfdzhKbWhLVm5wYkRqam1BTHliaVVLUy01WnZWb0pmNUdnUGFWVEFDRHJSamdwaEYzcHJYQmFoWm9acXZ4RGpidw?oc=5",
+  "title": "ドラマ制作で人材不足 AI普及で求人需要が2.8倍に＝中国 - CGTN Japanese",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Sun, 26 Jul 2026 12:42:50 GMT",
+  "published_ts": 1785069770,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ドラマ制作（映像コンテンツ）におけるAI普及による人材需要の変化を数字で伝えるニュースで、コンテンツ・AI・ビジネス（労働市場/求人数の経営指標）が全て揃う。",
+  "ts": 1785130405.519288,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObU9CRnp2T1ZsQjRXaGgtZ1lnM21fYzNpQ0ZDMjI4RTRDTGs5Y2o4ZElYY2I1RUNJZmcyTzhERXk5Q2VPNF9uRHdweDJSNmdSS0ZsTXlYRXQ5dDZ0ejZ2VDJ0SlRINUh5ZHE5SkFXLUNwN0x6WDU0ZmdoRlFlaXNyZFZjakZPQjhKb21DN1JSa0FjV0JFQjZabmZIbmpUUVdqTXU5OWRWSzZqUQ?oc=5",
+  "title": "アニメ映画が興行収入900億ベトナムドンを突破し、ベトナムの映画館を席巻。トラン・タイン主演映画は興行収入1500億ベトナムドンを突破。 - Vietnam.vn",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Sun, 26 Jul 2026 23:40:07 GMT",
+  "published_ts": 1785109207,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画の興行収入（Box office数字）に関する記事であり、コンテンツ（アニメ映画）とビジネス（興行成績の具体的な数字）の両分野が主題に該当するため対象。",
+  "ts": 1785130405.519288,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBkQzE2dTB0TExzdk84Vk1mU0RDeVpXX1ZNVEJ0NmdaVXdaUW0xVG9NRzVzX2JMdVJ2SDNpYUJWc1Q5dDVj?oc=5",
+  "title": "【おはようgamebiz(7/27)】『ホロドリ』App Store＆GooglePlayで首位獲得、モバファク2Q決算発表、DLEのAIアニメインタビュー(3) - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "sources": [
+   "Googleニュース(gamebiz.jp)"
+  ],
+  "published": "Sun, 26 Jul 2026 23:30:00 GMT",
+  "published_ts": 1785108600,
+  "themes": [
+   "コンテンツ",
+   "ビジネス",
+   "AI"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "複数の無関係な話題を「／」等で羅列した朝のまとめ形式で、「ホロドリの首位獲得」「モバファク決算」「DLEのAIアニメインタビュー」が独立しており、各要素は対象候補（ゲーム＋ビジネス、決算、AIアニメ）だが、まとめ記事として個別のテーマ分析に乏しく、既知情報の集約に該当する可能性が高いため、確認が必要なグレーとした。",
+  "ts": 1785130405.519288,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hSWtVS09LdDY4NVowa2oyVWl0UWhUTGFnZHRmLThwWnh5dGtwT0tVR1RmYjhyT0VoWkpvYVQ4cTVOQkRpczJhU1dMN0F1VURjeW9OeUo1cTVvRGhjcVlQdEFPQmIzOGxGaGdTRA?oc=5",
+  "title": "熊本県天草市、デジタルアートの島へ CG人材で産業創出 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "sources": [
+   "Googleニュース(nikkei.com)"
+  ],
+  "published": "Sun, 26 Jul 2026 20:00:00 GMT",
+  "published_ts": 1785096000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "CG・デジタルアートは映像制作やゲーム開発の中核領域であり「コンテンツ」に該当し、産業創出・人材育成という「ビジネス」の側面もあるが、記事がアニメ・映画・ゲーム等の具体的なコンテンツIPや映像作品との直結性が不明な状態では、地域振興施策・人材育成政策としての側面が主体である可能性があり、確実な判定のため確認が必要。",
+  "ts": 1785130405.519288,
   "is_new": true
  }
 ]
