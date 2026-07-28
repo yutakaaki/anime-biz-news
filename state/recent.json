@@ -1,48 +1,5 @@
 [
  {
-  "url": "https://variety.com/2026/film/news/winston-duke-david-jonsson-black-panther-3-1236821351/",
-  "title": "Winston Duke Trusts David Jonsson to Take On ‘Black Panther’: ‘I Think It’s Going to Be Great’",
-  "source": "Variety",
-  "sources": [
-   "Variety",
-   "Deadline"
-  ],
-  "published": "Sun, 26 Jul 2026 03:55:28 +0000",
-  "published_ts": 1785038128,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画『ブラックパンサー3』のキャスティング発表と興行成績（初作の13億ドル）を含む記事だが、メジャースタジオ（Marvel/Disney傘下）の大型映画シリーズの続編情報として業界規模の構造ニュースに該当し、また初作の興行数字が示されているため対象。ただしAI関連の要素は無い。",
-  "ts": 1785042568.47085,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/197249",
-  "title": "問題視される「オンラインオリパ」にトレカ協会が見解「肯定も否定もする立場でない」重要課題との認識も",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sat, 25 Jul 2026 21:20:02 +0000",
-  "published_ts": 1785014402,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "トレーディングカード業界のオンラインオリパという事業形態をめぐり、業界団体が公式見解を発表した経営・規制・市場健全性に関するビジネスニュースであり、コンテンツ（TCG）とビジネス（事業形態・規制・市場）が主題である。",
-  "ts": 1785042568.47085,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://www.animenewsnetwork.com/news/2026-07-26/the-transformers-the-movie-screens-in-u.s-u.k-with-new-post-credits-chapter-on-september-17/.239961",
   "title": "The Transformers: The Movie Screens in U.S., U.K. With 'New Post-Credits Chapter' on September 17",
   "source": "Anime News Network",
@@ -254,30 +211,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sMnJQcHJxV0NXcWl1cE1jN1hLbFlOeVlraUlxQVBVQjZQZWNjNlhnSTZRVWZOU2d5RlZVUkhEYVU3dm9pSlNBWVhaQmd1VVN4UUdDSUQtclM1R1hrMEtvRHhhQXR5c2twNVJKM1JlcFJBNTZheFlB?oc=5",
-  "title": "Netflix、2026年に生成AIを約300作品で活用 「The American Experiment」のAI補助映像17分は2倍の速さ・半分のコストで制作 - Ledge.ai",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-   "Cartoon Brew",
-   "Anime News Network"
-  ],
-  "published": "Sun, 26 Jul 2026 03:09:09 GMT",
-  "published_ts": 1785035349,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Netflixが生成AIを映像制作に活用し、コスト削減と効率化を実現する大規模展開計画であり、映像産業のAI導入ビジネス展開として、コンテンツ・AI・ビジネスの3分野が揃う最優先案件。",
-  "ts": 1785093799.4215438,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://www.animenewsnetwork.com/news/2026-07-26/marvel-partners-with-kadokawa-for-upcoming-manga-projects/.239968",
   "title": "Marvel Partners With Kadokawa for Upcoming Manga Projects",
   "source": "Anime News Network",
@@ -423,8 +356,8 @@
   "confidence": "高",
   "reason": "ドラマ制作（映像コンテンツ）におけるAI普及による人材需要の変化を数字で伝えるニュースで、コンテンツ・AI・ビジネス（労働市場/求人数の経営指標）が全て揃う。",
   "ts": 1785130405.519288,
-  "is_new": true,
-  "updated": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObU9CRnp2T1ZsQjRXaGgtZ1lnM21fYzNpQ0ZDMjI4RTRDTGs5Y2o4ZElYY2I1RUNJZmcyTzhERXk5Q2VPNF9uRHdweDJSNmdSS0ZsTXlYRXQ5dDZ0ejZ2VDJ0SlRINUh5ZHE5SkFXLUNwN0x6WDU0ZmdoRlFlaXNyZFZjakZPQjhKb21DN1JSa0FjV0JFQjZabmZIbmpUUVdqTXU5OWRWSzZqUQ?oc=5",
@@ -508,7 +441,8 @@
   "confidence": "中",
   "reason": "アニメ『ストリートファイター USA』（コンテンツ）の配信企画であり、ゲーム企業による配信プラットフォームでのPR活動（ビジネス的な配信戦略）が絡むが、記事が発表告知に主眼があり、実質的な経営・投資・営業成績等のビジネス情報が記載されていない可能性があるため、ビジネスの判定に不確実性がある。",
   "ts": 1785173964.2820458,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40YlktUjl0ekZWOEMzREZNOGw0Wm1yNDQxdWYwRzFHZHNQZjgwRG13M1VHR2YyZ09nbzhuWWQ2SjVUMjVGN3VfS1g5dlNHVjJUY19TUkJkeXlVSUZmOGhHdVREcHUtYVQySnFiVQ?oc=5",
@@ -528,7 +462,8 @@
   "confidence": "高",
   "reason": "アニメ産業における人材不足が政策・市場規模・業界構造に関わるビジネス課題であり、コンテンツ産業の経営・市場動向に直結する重要なニュースであるため対象。",
   "ts": 1785173964.2820458,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/shopping/news/bluey-toniebox-release-buy-online-1236784412/",
@@ -548,7 +483,8 @@
   "confidence": "高",
   "reason": "アニメ『Bluey』とTonies社の提携により、キャラクターグッズ（Tonies人形）・ゲーム・アクセサリーを展開するメディアミックス展開であり、ライセンス取引・商品化・販売チャネル（Target）の実質的なビジネスニュースで、コンテンツ＋ビジネスの組み合わせが明確。",
   "ts": 1785173964.2820458,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/box-office-report/all-wishes-come-true-tops-china-box-office-264933.html",
@@ -568,7 +504,8 @@
   "confidence": "高",
   "reason": "中国アニメーション映画の興行成績（Box office）を報じており、コンテンツ（アニメーション）とビジネス（興行収入・市場動向）が主題であり、非アニメ映像の興行数字は必ず拾う条件を満たします。",
   "ts": 1785173964.2820458,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/197485",
@@ -588,7 +525,8 @@
   "confidence": "高",
   "reason": "VTuber・ライブストリーミング関連のIP（ホロライブ）がスマホゲームをリリースし、セルランで1位を獲得、それに伴い運営企業（カバー）の株価がストップ高となった経営・株価ニュース。コンテンツ＋ビジネス（興行成績・売上・株価の数字）の組み合わせで対象。",
   "ts": 1785173964.2820458,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/07/david-ellison-confident-wbd-deal-close-thanks-staff-patience-1237004438/",
@@ -608,7 +546,8 @@
   "confidence": "高",
   "reason": "ParamountとWarner Bros. Discoveryの大型M&A統合について、CEOが訴訟対応と進捗状況を公表したメジャースタジオどうしの経営統合ニュースであり、業界全体の地図が変わる規模の重要な続報のため対象。",
   "ts": 1785173964.2820458,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-07-27/disney-twisted-wonderland-anime-episode-of-savanaclaw-debuts-in-december/.240012",
@@ -628,7 +567,8 @@
   "confidence": "高",
   "reason": "ディズニーのゲームIPをアニメ化した作品の第2シーズンがDisney+で独占配信される発表であり、コンテンツ（アニメ化・ゲームIP・配信戦略）とビジネス（配信プラットフォームの配信独占・シーズン展開）が主題である。",
   "ts": 1785173964.2820458,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/07/purple-rain-musical-broadway-1237004347/",
@@ -648,7 +588,8 @@
   "confidence": "高",
   "reason": "実写映画『Purple Rain』をミュージカル化しブロードウェイで2027年公演という制作・舞台化のビジネス動向が主題であり、映像/音楽IP のメディアミックス展開と興行ビジネスに該当するため、コンテンツとビジネスの両分野を満たす。",
   "ts": 1785173964.2820458,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iZzRfemszeDhyTU9vZW9lR2k0TC15R0QtdmFuWDRzYmFEQ25XMjZ1eHZBSlotQktxeTJQeVFrTVp2cmN1VXAwX2gzZGp2SFdNWE9jeDJlYXQwQ0tYUTdubEhSNVFYcnlkTkE3RFlVaGpmYkFUOUV2MHB0aExsR1k?oc=5",
@@ -668,7 +609,8 @@
   "confidence": "高",
   "reason": "東宝とNetflixによる作品『ガス人間』の企画・制作背景を掘り下げたインタビュー・分析記事であり、映像コンテンツの制作・配信に関わるビジネス決定（大手スタジオと大型配信プラットフォームの提携）が主題であるため、コンテンツ×ビジネスで対象。",
   "ts": 1785173964.2820458,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/07/jake-weary-sean-opry-hannah-galway-rose-hill-1237004433/",
@@ -688,7 +630,8 @@
   "confidence": "中",
   "reason": "Prime Videoの実写ドラマシリーズ『Rose Hill』のキャスティング発表であり、キャスティングのみが中心の記事ですが、大型配信プラットフォーム（Prime Video/Amazon）による制作展開・著名原作の映像化はコンテンツ産業の一部と見なし、また関連リンクに他作品の配信戦略情報が含まれることからコンテンツ+ビジネスの要素がありますが、記事本体ではキャスティングが主で実質的なビジネス情報に乏しいため確度は中程度です。",
   "ts": 1785173964.2820458,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SWW02bGJ3M09zWWJRenBoanRoMHdBQ3d0YUpaYmVobEZra3dyVXJUUVRzQ2xGNXR5V0hfcTd5d1ZhMEN4SjNudi1IVWtpZDA?oc=5",
@@ -708,6 +651,269 @@
   "confidence": "高",
   "reason": "ピクサー・アニメーション作品の興行収入80億円突破は、アニメーション映画のBox office数字ニュースであり、コンテンツ×ビジネスの組み合わせで対象に該当する。",
   "ts": 1785173964.2820458,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXM3ZjhPRjY1R0Yxc3FKNm1oXzRRb01YRjhYMWdCMk1kNkRqekpzMTFRTHpfR3p5UmN2blhoMS1XUkhiaWl5MkIyZjU0WE9VQWVJLW1ZSk1yS1d6UWEtaEh1U09pRVk2LXBrVldPVEdleDhmTDdSem5SaDlPVFA4TGFPMkFYQQ?oc=5",
+  "title": "AI映像とリアル空間を融合、KANA-L傘下スタジオとIMAGICA EEXが体験型IP開発で提携 - projectdesign.jp",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Tue, 28 Jul 2026 03:09:20 GMT",
+  "published_ts": 1785208160,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ・映像制作企業（KANA-L傘下スタジオ）とIMAGICA EEXが生成AIを用いた体験型IP開発で提携する実質的なビジネス（提携・新事業展開）であり、コンテンツ×AI×ビジネスの3分野が揃った最優先案件です。",
+  "ts": 1785214827.494563,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FVzkyQ1V0RHhhLXVuNlQ4MC1yaW1VQVdvR3ZZTU12cXJLSXhMNjc2aVp4eERxb1p1bjU4YmtKWkItRUlIOXo1VkFKNV83V0szS3RCd2ZlWHl6Um1zYlFSUlduVUUwTjZw?oc=5",
+  "title": "中国：AIで映像制作が数倍速、「1人制作」でハイクラス求人増 - ashu-chinastatistics.com",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Tue, 28 Jul 2026 02:18:00 GMT",
+  "published_ts": 1785205080,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映像制作業界におけるAI導入による生産性向上と、それに伴う人材需要の変化（求人増）という、コンテンツ・AI・ビジネスの3分野が揃った記事。映像業界のAI活用の実態と経営/雇用への影響を掘り下げた内容と判断される。",
+  "ts": 1785214827.494563,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/music/news/ariana-grande-sues-hackers-leaking-unreleased-music-footage-1236822277/",
+  "title": "Ariana Grande Sues Hackers for Leaking Unreleased Music and Footage",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Tue, 28 Jul 2026 01:17:08 +0000",
+  "published_ts": 1785201428,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "音楽アーティストの未発表楽曲流出に関する法的対応で、コンテンツ（音楽作品）とビジネス（知的財産権侵害・訴訟）の2分野を含むが、アニメ・漫画・ゲーム等のIP中心ではなく一般的な音楽産業の話題であり、AI要素も無いため判断に迷い、保留対象と判定。",
+  "ts": 1785214827.494563,
+  "is_new": true
+ },
+ {
+  "url": "https://animeanime.jp/article/2026/07/28/101512.html",
+  "title": "「ジョジョ」今度は“悪の魅力”を表現…!! 体験型公式ショップが26年冬・大阪に誕生！TOKYOとは対局のコンセプトに注目",
+  "source": "アニメ！アニメ！",
+  "sources": [
+   "アニメ！アニメ！"
+  ],
+  "published": "2026-07-28T03:37:08Z",
+  "published_ts": 1785209828,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ジョジョの奇妙な冒険（漫画/アニメIP）の体験型公式ショップの新規オープン発表であり、商業施設への出店・店舗展開というビジネス動向（ライセンス・メディアミックス展開）が主題のため、コンテンツ＋ビジネスで対象。",
+  "ts": 1785214827.494563,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/197576",
+  "title": "『ウルトラマン』の円谷FHD、早くも通期業績予想を上方修正　中国市場の回復や遊技機好調で利益18％積み増し",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Tue, 28 Jul 2026 02:44:18 +0000",
+  "published_ts": 1785206658,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "円谷フィールディングス（『ウルトラマン』などのコンテンツIPを保有）の通期業績予想上方修正であり、コンテンツ事業の売上・利益数字、中国市場の回復、遊技機事業の好調が主題のため、コンテンツ×ビジネスに該当する。",
+  "ts": 1785214827.494563,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2Y21jWHZaZnF5REh1WXQyQkZJTnYtejA3bTQtTVFJaHVEYjlncnFIcFNOS1g1Ml9YYlR2dk9sSURaN2VaMEx0RXFUVUZ2eUZra1RRblZCYTQyT3Z6ZUxYbmlaTk0zOGl5UXhUT3hGQWNtMmJmeUZpVHFBbXN6REU?oc=5",
+  "title": "WEST.重岡大毅「5秒で完全犯罪を生成する方法」を通して伝えたいAIとの向き合い方（映画ナタリー） - Yahoo!ニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Tue, 28 Jul 2026 04:00:19 GMT",
+  "published_ts": 1785211219,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "実写映画『5秒で完全犯罪を生成する方法』に関する俳優のインタビュー記事で、AIとの向き合い方についての考察が含まれていますが、ビジネス（興行成績・配信契約・経営など）の実質的な情報が不透明であり、AIの役割が作品テーマ／インタビュー趣旨か制作技術か判然としないため確認が必要です。",
+  "ts": 1785214827.494563,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-07-27/crunchyroll-to-stream-romelia-war-chronicle-anime/.240021",
+  "title": "Crunchyroll to Stream Romelia War Chronicle Anime",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Mon, 27 Jul 2026 14:00:00 -0400",
+  "published_ts": 1785175200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ作品がCrunchyrollで配信される配信契約・ビジネスと、制作スタッフ・キャスト発表が中心だが、配信プラットフォームとの契約という実質的なビジネス取引が主題であり、コンテンツ（ライトノベル・漫画・アニメのメディアミックス）とビジネス（配信契約）の両面を含むため対象。",
+  "ts": 1785214827.494563,
+  "is_new": true
+ },
+ {
+  "url": "https://animeanime.jp/article/2026/07/28/101509.html",
+  "title": "「刀剣乱舞」初のおせち化！加州清光ら“始まりの五振り”をイメージ♪ 三日月宗近らの紋入半纏も同時発売",
+  "source": "アニメ！アニメ！",
+  "sources": [
+   "アニメ！アニメ！"
+  ],
+  "published": "2026-07-28T03:00:07Z",
+  "published_ts": 1785207607,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲームIP『刀剣乱舞ONLINE』のグッズ化（おせち・半纏）であり、コンテンツとビジネス（商品化・販売価格・販売開始日）が明確に該当するため、条件を満たす。",
+  "ts": 1785214827.494563,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/sean-astin-lord-of-the-rings-pay-low-sell-house-1236822084/",
+  "title": "Sean Astin Says ‘I Had to Sell My House’ During ‘Lord of the Rings’ Era Because $250,000 Payday Was So Low: ‘I Negotiated Such a Small Amount on the Trilogy’",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 27 Jul 2026 21:20:47 +0000",
+  "published_ts": 1785187247,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "『ロード・オブ・ザ・リング』映画三部作（コンテンツ）のキャスト給与交渉と興行成績（ビジネス）が主題であり、大型映像作品の制作/契約に関わる経営・取引の実質的な話題であるため対象。",
+  "ts": 1785214827.494563,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/07/buzzfeed-layoffs-byron-allen-1237004937/",
+  "title": "BuzzFeed Cutting Staff By 35% Under New Owner Byron Allen",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 27 Jul 2026 21:26:51 +0000",
+  "published_ts": 1785187611,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "BuzzFeedは映像・コンテンツ企業（HuffPost、Tasty、BuzzFeed Studiosなど）であり、新オーナーによる買収後のリストラクチャリング、人員削減による経営合理化、営業費用の最適化、キャッシュフロー改善という明確なビジネス上の経営判断が記事の主題であるため、コンテンツ＋ビジネスの該当が確実である。",
+  "ts": 1785214827.494563,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRzczRWlLVzQ1cm1VYTk0eHhrakk4bzllQXNJTTZCWXVydUxVQWpiTC0xNm9DRXBoQnBUSTE2ZDJnLUlkSWZWcklSN2loMW1rdUxlSnFqcC1EWGdhX2RtaFE4YjVaa2c1ZjNLRXQxZkZTSW92TUtLMkJtMXFDNGZDMVBnZThMRmFGbjEtcjRnb3ZTenBi?oc=5",
+  "title": "SDCC Stunner: Hall H On Borrowed Time? - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "sources": [
+   "Googleニュース(forbes.com)"
+  ],
+  "published": "Mon, 27 Jul 2026 19:17:01 GMT",
+  "published_ts": 1785179821,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "SDCCのHall Hはポップカルチャー業界の重要イベント（映画・TV・コミック等の映像作品発表の場）であり、その存続危機は業界全体に関わる大型構造ニュースの可能性があるが、本文が提供されておらず内容の詳細が不明なため、記事の実質的主題がコンテンツ＋ビジネスの経営/市場規模に関わるかビジネス/投資のみか確認が必要。",
+  "ts": 1785214827.494563,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5KOU1SV0ZKcFFIM2RfZnlfNUdpbS1QWTRFS08waDBTZGl3NE9MY05CQk4tV1JlLVNaUHZBVldxTmZZZUEy?oc=5",
+  "title": "【株式】サイバーエージェントが3日続伸 『ホロドリ』好調、サイピクが大ヒット『映画ちいかわ』のアニメ制作 - gamebiz.jp",
+  "source": "Googleニュース(gamebiz.jp)",
+  "sources": [
+   "Googleニュース(gamebiz.jp)"
+  ],
+  "published": "Tue, 28 Jul 2026 03:35:42 GMT",
+  "published_ts": 1785209742,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメIPの制作と、それに関連する企業の株価上昇（ゲーム『ホロドリ』好調、『映画ちいかわ』制作）という、コンテンツ×ビジネスの実績を報じており、業績数字に基づいた経営動向に該当する。",
+  "ts": 1785214827.494563,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVUN2bVRpVDNpek5rN3hQQnpsQi15TUV6MmJJV0Q5OWpLNTFXRUNkU1lXZ1lRMk9Pc05xOWtPVGsydjZMLWRUb3lhVEhqNDhUbUQ3SE5OVHFUN2VDT0prUTdtajBlNldDWmVjWDI0Z3NOTG9Qc0d3VDA5UEFacjNIaGlQZDJiWkpmaklNdkg5VHpZZVVMMWQwZnllTEtiQmc1cUZnZWlSeW8zWUZRU2M1UXE4MERwNEI3VDhZ?oc=5",
+  "title": "‘Jay and Silent Bob’ Marijuana Farming Game in the Works - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "sources": [
+   "Googleニュース(hollywoodreporter.com)"
+  ],
+  "published": "Mon, 27 Jul 2026 21:00:46 GMT",
+  "published_ts": 1785186046,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "米国の有名コミックシリーズ『Jay and Silent Bob』をIPとするゲーム化（新作ゲーム開発）の発表であり、コンテンツ＋ビジネス（メディアミックス展開・IP利用許諾）に該当するため。",
+  "ts": 1785214827.494563,
   "is_new": true
  }
 ]
