@@ -36,9 +36,14 @@ def save_seen(seen: dict) -> None:
 
 
 def recent_titles(seen: dict, days: int = 7) -> list[str]:
-    """直近 days 日に既読となった記事タイトル（クロスラン重複判定用）。"""
+    """直近 days 日に「対象外」と判定された記事タイトル（クロスラン重複判定用）。
+
+    対象外だけに限定するのが重要: 全ラベルと照合すると、窓(2日)から消えた採用済み
+    ストーリーの続報（例: 興行の第2週末）が「先週の焼き直し」と誤認されて判定にすら
+    回らず、さらにスキップ記録自体が連鎖して同系記事を殺し続けるバグになる。"""
     cutoff = time.time() - days * 86400
-    return [v.get("title", "") for v in seen.values() if v.get("ts", 0) >= cutoff]
+    return [v.get("title", "") for v in seen.values()
+            if v.get("ts", 0) >= cutoff and v.get("label") == "対象外"]
 
 
 RECENT_PATH = os.path.join(STATE_DIR, "recent.json")

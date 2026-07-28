@@ -23,6 +23,10 @@ def google_news_rss(query: str, lang: str = "ja") -> str:
 DIRECT_FEEDS = [
     ("https://variety.com/feed/", "Variety"),
     ("https://deadline.com/feed/", "Deadline"),
+    # 興行収入(Box Office)専用カテゴリフィード。メインフィードは10本で数時間で流れるが、
+    # 専用フィードは興行記事だけなので10本で3日以上もつ＝取りこぼしがほぼ無くなる。
+    ("https://variety.com/v/film/box-office/feed/", "Variety(Box Office)"),
+    ("https://deadline.com/v/box-office/feed/", "Deadline(Box Office)"),
     ("https://www.cartoonbrew.com/feed", "Cartoon Brew"),
     ("https://animeanime.jp/rss/index.rdf", "アニメ！アニメ！"),
     ("https://0115765.com/feed", "アニメ業界ニュース(0115765)"),
