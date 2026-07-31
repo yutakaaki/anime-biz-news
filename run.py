@@ -16,6 +16,7 @@ from __future__ import annotations
 
 import html
 import os
+import re
 import threading
 import time
 import urllib.parse
@@ -112,8 +113,14 @@ def main() -> int:
     # 既読・古い記事・クロスラン重複を仕分け（重複は「媒体加算」して話題度に反映）
     age_cutoff = now - MAX_AGE_DAYS * 86400
     to_judge: list[Article] = []
-    n_read = n_dup = n_old = n_buzz = n_upd = 0
+    n_read = n_dup = n_old = n_buzz = n_upd = n_junk = 0
+    # 画像ギャラリーページ（ITmedia等の「（画像）（n/m枚目）」/limage/）は記事でないので機械的に除外。
+    # 古い記事の画像ページがGoogleニュースに新着として再配信されるノイズ対策（判定APIも節約）。
+    gallery_re = re.compile(r"[（(]\s*\d+\s*/\s*\d+\s*枚目\s*[）)]")
     for art in candidates:
+        if gallery_re.search(art.title or "") or "/limage/" in (art.url or ""):
+            n_junk += 1
+            continue
         key = normalize_url(art.url)
         if key in seen:
             n_read += 1
@@ -150,7 +157,7 @@ def main() -> int:
             continue
         to_judge.append(art)
 
-    print(f"収集 {len(candidates)} 件（既読 {n_read}[更新 {n_upd}] / 古い {n_old} / 媒体加算 {n_buzz} / 重複スキップ {n_dup} / 新規 {len(to_judge)}）")
+    print(f"収集 {len(candidates)} 件（既読 {n_read}[更新 {n_upd}] / 画像頁 {n_junk} / 古い {n_old} / 媒体加算 {n_buzz} / 重複スキップ {n_dup} / 新規 {len(to_judge)}）")
     if len(to_judge) > MAX_CLASSIFY:
         print(f"安全弁: 新規の先頭 {MAX_CLASSIFY} 件に絞って判定")
         to_judge = to_judge[:MAX_CLASSIFY]
