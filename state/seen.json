@@ -8152,5 +8152,551 @@
   "source": "Googleニュース(bloomberg.com)",
   "label": "対象外",
   "ts": 1785474033.3461812
+ },
+ "https://deadline.com/2026/07/ai-copyright-lawsuit-germany-suno-1237014566": {
+  "title": "German Court Rules Against Suno In Lawsuit Challenging Use Of Copyrighted Music In AI",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1785519056.1069922
+ },
+ "https://variety.com/2026/film/box-office/the-invite-box-office-40-million-globally-hit-summer-comedy-1236824603": {
+  "title": "Olivia Wilde’s ‘The Invite’ Nears $40 Million Globally, Becoming a Rare Hit Summer Comedy",
+  "source": "Variety(Box Office)",
+  "label": "媒体加算",
+  "ts": 1785519056.1069922
+ },
+ "https://www.cartoonbrew.com/newsletter/papa-zola-goes-global-evangelion-to-criterion-hasbro-wins-peppa-pig-copyright-case-265091.html": {
+  "title": "‘Papa Zola’ Goes Global; ‘Evangelion’ To Criterion; Hasbro Wins ‘Peppa Pig’ Copyright Case",
+  "source": "Cartoon Brew",
+  "label": "媒体加算",
+  "ts": 1785519056.1069922
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-31/producer-director-masayasu-sagisu-dies-at-93/.240156": {
+  "title": "Producer/Director Masayasu Sagisu Dies at 93",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-31/the-iceblade-sorcerer-shall-rule-the-world-tv-anime-2nd-season-reveals-more-cast/.240151": {
+  "title": "The Iceblade Sorcerer Shall Rule the World TV Anime's 2nd Season Reveals More Cast",
+  "source": "Anime News Network",
+  "label": "媒体加算",
+  "ts": 1785519056.1069922
+ },
+ "https://www.cartoonbrew.com/streaming/neon-genesis-evangelion-criterion-channel-265072.html": {
+  "title": "‘Neon Genesis Evangelion’ Is Coming To The Criterion Channel With Its Pre-Netflix English Dub",
+  "source": "Cartoon Brew",
+  "label": "媒体加算",
+  "ts": 1785519056.1069922
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-31/magical-explorer-tv-anime-reveals-october-debut-in-1st-promo-video/.240150": {
+  "title": "Magical Explorer TV Anime Reveals October Debut in 1st Promo Video",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-31/ojisan-wa-kawaii-mono-ga-osuki-tv-anime-reveals-more-cast-visual-october-4-debut/.240149": {
+  "title": "Ojisan wa Kawaii Mono ga Osuki. TV Anime Reveals More Cast, Visual, October 4 Debut",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://variety.com/2026/film/news/obsession-inde-navarrette-marvel-x-men-meeting-mystique-1236825158": {
+  "title": "‘Obsession’ Star Inde Navarrette Confirms Meeting With ‘X-Men’ Director Jake Schreier and Would Love to Play Mystique",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://variety.com/2026/biz/news/ai-studio-asteria-strikes-strategic-partnership-zerospace-1236825083": {
+  "title": "AI Studio Asteria, Co-Founded by Natasha Lyonne, Strikes Strategic Partnership with Virtual Production Studio ZeroSpace (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1785519056.1069922
+ },
+ "https://deadline.com/2026/07/judd-apatow-interview-mel-brooks-the-99-year-old-man-1237013932": {
+  "title": "Emmy Contender Judd Apatow On “Piss-Your-Pants” Funny Mel Brooks, His Nikki Glaser Collab, And That Seth Rogen-Anne Hathaway ‘Knocked Up’ Story",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-31/the-lonely-snow-widow-and-the-cursed-ring-tv-anime-reveals-october-debut-oceanveil-streaming-cast-/.240140": {
+  "title": "The Lonely Snow Widow and the Cursed Ring TV Anime Reveals October Debut, OceanVeil Streaming, Cast, Staff",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://variety.com/2026/tv/news/meghann-fahy-hbo-trial-of-louise-woodward-1236825146": {
+  "title": "Meghann Fahy to Lead HBO Limited Series ‘Trial of Louise Woodward’ From Matthew Barry, Susanne Bier",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1785519056.1069922
+ },
+ "https://deadline.com/2026/07/tony-romo-on-leave-cbs-dui-arrest-1237014473": {
+  "title": "CBS Puts NFL Analyst Tony Romo On Leave After Arrest For Allegedly Driving Under The Influence",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-31/cagaster-kacho-hashimoto-launches-new-manga-in-september/.240130": {
+  "title": "Cagaster's Kachō Hashimoto Launches New Manga in September",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEJVanpjS3ptUS1JelZ6N0wyTGRVdFlrZUlGczdPLUxEcDZBbmZya0VqVjVnc2Vib1ZFaVU5S0ZQcnRXcXVDOVEzaWxSRTBjRndOdkw2ak1qTVdNQkUtNzQxVkc3U2hUNjJ5RklWckhvcktYQURJaThWNk14Q21mVjAzazlQNG5CUkdFX1dqQ2tPQ2p0bEVJeFFNWkZvVTNETWswWGVXUHFSR0FwOG14X0NDcDNEaVVadnNxNDBSWmExZw?oc=5": {
+  "title": "Asia confederation backs UEFA, CONCACAF opposition to FIFA World Cup sale plan - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODNDaDFkd1diS1VUS0xMbEdVU1Nob0hIQzRDaGd3OXBhczE5ZVlEdXZvZUlnYVdzNUtVREpYSDJ5QkVpYjRlWW9fYUVNbkF5VE04bFc5VXMtejlwVFl6dTRMZ0hCTHhQMlUybUoya0RqMnA0NW04NTFTRkpMRkc5cm5fMDg4Z1ZjaVJJUlhhc0ZCQ3RQTGxsTHpXaFJDY0phbFV6NmNNSzNpZmlYUTJCXw?oc=5": {
+  "title": "Jupiter Quant Fund Plunged More Than 40% As AI Pain Spread - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://animeanime.jp/article/2026/07/31/101614.html": {
+  "title": "「にじさんじ」月ノ美兎＆ルンルン＆でびでび・でびる、“初”長編アニメ声優出演！「THE RIBBON HERO リボンヒーロー」",
+  "source": "アニメ！アニメ！",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-31/after-god-manga-enters-last-arc/.240131": {
+  "title": "After God Manga Enters Last Arc",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DajZRekttNXN5eTV2S1hzTjM0LU42UURrZnduY0RlMjRiZjk5eDFRTlctY1lHZGZjWXBla0ljY2loTV9zaU51MG5RNkl6Yk5fWHEwRmh3akxfdlFwWC1zS0xieTJWR3Z2bVRnNnZZNHpYeGpTcENISXJISQ?oc=5": {
+  "title": "TVアニメ『BLACK TORCH』8月1日(土) 22:00～放送の第5話あらすじ＆先行カット公開！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOC0wOF9qV0lDYTRvWUQtdU1YdXJiVExGX1FsWXlESTlDS2FNN3lFYlFfU0lMQUN2QlNxbU1nOS1ZYzcxd3RSN1o4V1RRQkdhd3FTRnVGaHF6QTk4OEdNaXZpT3p0MWxvYjlGbWE0NGgtVjltNUl5azhMdVBIRWNlamZyY0hTZzBjcHN5SkdjMmt0TURmbkxJNllEWDhwR1N1TnlCdmNuQUp2ZW1qVVl4OGRNclpZMnNYbVV2ZTVmQUFCeTNmUlE?oc=5": {
+  "title": "Infantino's senior advisor Cordeiro resigns following proposal to sell FIFA stake - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://deadline.com/2026/07/sallyann-salsano-new-jersey-the-leftovers-netflix-1237014265": {
+  "title": "SallyAnn Salsano Returns To New Jersey With Reality Series ‘The Leftovers’ For Netflix",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qNE1rSG12cmRER1JrZy1nYUYzQnlCUWI2T1dfQkk5OVhCZUhtSG1FNElEaGZYekFqTVRlVzFqN0F4ZGNnSG5jcjBKbVhLc1BBbmh3dUxuR1BReWlER1RPRXd0ak9FNE0wd1E?oc=5": {
+  "title": "東映アニメ - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "媒体加算",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnlVT0x3XzdPaUZ4VVNSY2hsM25BeDdPTzBjVXhJV0kxcGV5a1RVTG5pdEdxbDNHWnBrbm5mSzhVa0JxeHFwazEyLWUzNmVJY2dIclNHeFJpaFVHSzVRN25xQ1hXMTlRS1V0cmVXekI4aUdUSjhlYXNPaUpUOVM4cHdFZXRHVmpvNEsxd1VleThNTF9CU2ozWmV5NE1oWF9FWVFaZHZPQXhFNFZDQjhaT000dzBxaWJKQ3RCQQ?oc=5": {
+  "title": "FIFA’s $20 Billion Privatization Plan Is Too Cheap - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://deadline.com/2026/07/rebecca-hall-cast-netflix-dan-brown-the-secret-of-secrets-1237014293": {
+  "title": "Rebecca Hall Officially Joins Netflix Series Based On Dan Brown Novel ‘The Secret Of Secrets’",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://deadline.com/2026/07/learning-to-fly-documentary-wild-state-1237014393": {
+  "title": "Chris Hemsworth’s Wild State Boards ‘Learning To Fly’, Ultra Marathon-Themed Documentary From Award-Winning Director Max Lowe",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uV3F2Rkk3R1p5UHVHYlNpTUp0anEzcnE0VEQ0ZVNXWlZpcko1bkhPaklCeUktUkxMOVlnenJRanZSM0ZhNWdZTVJJQ2pWMGw0TmkyN0xMYjhZVzFHcmhqcGpjd3JKdGlseGRxX0kzOTJWR052cmJiTVVCd2g4QQ?oc=5": {
+  "title": "ゲーム・アニメ開発における生成AI活用の可能性は？ビクター系企業が社内スタジオ設立 - advertimes.com",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "媒体加算",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHFLc2tYM0NoUGQ0dS1rWlV0cEFFWHNiLXRqLThydkt5QkYwSXJ5MFhVQTZ3OWxJNkZaVm1JZGlwWDVOODhMUUpqcGJoOWZuQnhIaWh6WVI4UU84Ql9JZnRPb3F5NENuekpkQ0pIRk1IX3NyYXhJRWg0dmRXMHpBYTNEcXdNYkRObUU0RnBYVGNWUGpNdzhoVk5TMjNHLTNxV1lPZ2VYOE5nbTVhNkdFUG92dDAxR3RlS2lzMDlpMEw?oc=5": {
+  "title": "Asia confederation chief says FIFA's lack of consultation over World Cup plan 'totally unacceptable' - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHV2NFBiNDJaZWFBMktGVnVoNFVrSlBYQ3l0LW1nS2U2aVoxTDZIR0J3Nk55dGlVeVVUdU16RnIzZzZOTkxfYmwxcjZKVUdUdlFRX1pJc0FOM0xESmIxVkZkeDB0ektpYlM3WEI4dlFsRUNqdzU5OUFpREh6RXpzNm0yN3ZTendFbFJVTkV1UldkOVRpOHB2MThULWlPUDFWTWExNXl2YnVUZnZ3M0ZJ?oc=5": {
+  "title": "Infantino's adviser quits as FIFA's World Cup stake plan triggers confederation backlash - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxOem5iMmJ6STNjU2lPMk9DTHI3SGpxS1VSSGFSM3J3RmFMRWYzWWRSLVNsRDlwcFhiSVhUMzQ1NHhLajlDSmFXQzc1MUJjYks5OXRrcE9SdlhFUTVSVTVFU2kzb1d5OVNPUnhkSWxoYnZNVzhYUmQxd3NtM2s0MXdqcjJUMllXZmlJYU1hYzY4Y2pTTEdVWE1UQ2twZUNnS1RIQVE1ZDFCWGMtME4yZ3gzMA?oc=5": {
+  "title": "Gary Oldman, Curry Barker, ‘Barbie’ Producer Robbie Brenner to Keynote Toronto Film Festival - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUEVDaFlCU3BNeFAyQVRGVUlzcHB5M0luQ042U21lTUxSZEIwSWdiNXFzaXdoTEhMa29YbEwxcmtMNFlfdmY0dXFYUjVIaVdNWGE2SmhBN2JlOW9xOG9qSHJvczJVU2VDdFRLeUZHQmdpTUJpUllYWlFYQjg4X0poa2FEN1hvMm5uclEyY1d1Q1BFYjVOZmFWOE5qUGxhV0haaUdBaUtIRHlidHB1WHctVw?oc=5": {
+  "title": "UEFA statement on FIFA plan to sell stakes in subsidiary to run World Cup - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "重複スキップ",
+  "ts": 1785519056.1069922
+ },
+ "https://variety.com/2026/film/news/benny-safdie-lizard-music-casts-arya-parvathi-1236825121": {
+  "title": "Benny Safdie’s ‘Lizard Music’ With Dwayne Johnson Adds Newcomer Arya Parvathi (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://deadline.com/2026/07/box-office-spider-man-brand-new-day-1237014268": {
+  "title": "‘Spider-Man: Brand New Day’ Scores Record Previews With $72M, Beating ‘Avengers: Endgame’ – Friday AM Box Office Update",
+  "source": "Deadline(Box Office)",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://animeanime.jp/article/2026/07/31/101622.html": {
+  "title": "怖さと可愛さが共存…!?「ハローキティ」と「富江」コラボフィギュアがあみあみより発売！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://0115765.com/archives/198229": {
+  "title": "フィギュア化引っ張りだこの『無職転生』エリスが“猫耳フード”で登場！添い寝に誘う様子を手のひらサイズで",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHRjcUtnaDJYbFFvWFp5MDhwWjkwVVVJVGIzS1dsc2pxOU1SUll3MVBqQ2VmcHBwSHBvekV2QUhaVGh6RUxidWhfZWs2MGNINXR2Q3lHTTdYZko0NERVN3NaMkxaQ0Y3em9XQU9heXNaZm5wdDlxOTFvdWdORUVKcGZxTGc5SGhhS3FxU29XV0hoQQ?oc=5": {
+  "title": "東映アニメーション[4816] : 東映アニメの26年4～6月期、純利益15.3%増 通期予想据え置き：日経会社情報DIGITAL - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5VGc5NDJ3OTZvZTVtOWJrSlRxSDdEWVlvUnlONEtZSXpkRHdRM3p3ZGNVMzJuczZzdGt5ZkNuV2J0ZmRKQXdxdngwX3ZzbHVwZlBGejh6WGd3WWpvclFZTTVnTlIzeGM?oc=5": {
+  "title": "なぜガンダムは50年後に全盛期を迎えたのか 年商2500億円IPの秘密 - 日経ビジネス電子版",
+  "source": "Googleニュース(business.nikkei.com)",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://variety.com/2026/music/global/sam-fender-olivia-dean-rein-me-in-uk-longest-running-no-1-1236825159": {
+  "title": "Sam Fender and Olivia Dean’s ‘Rein Me In’ Becomes the U.K.’s Longest-Running No. 1 Single of All Time",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://deadline.com/feature/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1237014567": {
+  "title": "Sadie Sink’s Role In ‘Spider-Man: Brand New Day’ Explained",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://variety.com/2026/film/box-office/spider-man-brand-new-day-box-office-record-previews-1236824394": {
+  "title": "‘Spider-Man: Brand New Day’ Sets Box Office Record With $72 Million in Previews, Beating ‘Avengers: Endgame’",
+  "source": "Variety(Box Office)",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://www.cartoonbrew.com/streaming/theres-no-place-like-home-snoopy-apple-tv-peanuts-265082.html": {
+  "title": "‘There’s No Place Like Home, Snoopy’ Takes Apple TV+’s Peanuts Into Longer-Form Storytelling",
+  "source": "Cartoon Brew",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://animeanime.jp/article/2026/07/31/101621.html": {
+  "title": "“おいで、リカ”「呪術廻戦」ミニサイズの乙骨、悠仁、宿儺たちが可愛い♪ 全種類揃えたいデフォルメフィギュアシリーズ「PalVerse」が登場！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://0115765.com/archives/198194": {
+  "title": "ソニーのプレステ事業、1Q営業利益は37%増　ソフトハードの販売減少も米国関税還付や円安が好影響",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-31/kaist-develops-world-1st-xr-webtoon-platform-that-brings-comics-into-real-world/.240007": {
+  "title": "KAIST Develops World's 1st XR Webtoon Platform That Brings Comics Into Real World",
+  "source": "Anime News Network",
+  "label": "グレー",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE5aQzdPajB6dThxV2VHYWpyWkIwSU5SMktHMzYwSEhlRGdyV2I1amFLeGJaZmdKajFNdENuUHkxUVIxV1V4?oc=5": {
+  "title": "アニプレックス、TVアニメ『マジカル★エクスプローラー』を10月より放送！第1弾PV＆キービジュアル公開 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ282X01oVUs5N1JNVE1keDhwLUsyNk85a1VBVEhROXlzU1pQSVVaZDJiWHhSVTFWZFdjMnhUdHpDZm1UU3lKVU9LSjJLaXJNMEUyVHoyMWhhSlZoZlpPTUtEZjFiejQ5QTVHR3ZhSGF2ZzhfZ0xIWTZJbmlpUVdXUlU2bHFGT0hUazllb1RtbFh6c3IyREl4aWl0MmctNERxY1FuQ1dSRHhjSExnSW02NC0wVXFDZw?oc=5": {
+  "title": "Moonshot’s Kimi Built on 20,000 Nvidia Chip Cluster From Alibaba - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://variety.com/2026/film/news/samara-weaving-emma-frost-x-men-reboot-marvel-1236825209": {
+  "title": "Samara Weaving to Play Emma Frost in Marvel’s ‘X-Men’ Reboot",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://deadline.com/2026/07/washington-post-opinions-editor-to-depart-1237014520": {
+  "title": "Washington Post Opinions Editor Adam O’Neal To Depart After Leading Jeff Bezos-Planned Overhaul Of Section",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://www.cartoonbrew.com/distribution/papa-zola-new-territories-exclusive-teaser-265071.html": {
+  "title": "Malaysia’s Highest-Grossing Animated Film Ever, ‘Papa Zola The Movie,’ Sets Its Biggest International Expansion Yet (EXCLUSIVE CLIP)",
+  "source": "Cartoon Brew",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://animeanime.jp/article/2026/07/31/101620.html": {
+  "title": "ムーミンがデザインされた帽子がスタイリッシュ♪ 8月9日は“ムーミンの日”！ ニューエラと初コラボしたキュートでおしゃれなアパレルアイテムが新登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://0115765.com/archives/197955": {
+  "title": "【レポート】『ドラクエ』の“じゅもん”を現実で唱えられる！Googleの生成AI「Gemini」を活用した都心イベント「ジェミニクエスト」が開幕",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fQVp3dnNtOVVtRmcwWFp1aWRuemZ6dUhWSENtY2pCbWpEMjVfNXM1NEJYdmFCWDZHOFFfbV9qSDNXNGxESjZfbWZwNlBhTWh4X0xPLURHT2FBcWstVl9hM0NEZGNiSnpfZl9CMjVDeHZVdDN2N0E?oc=5": {
+  "title": "アニメプロデューサーの鷺巣政安さん死去 93歳 昭和の名作『鉄人28号』『エイトマン』など制作に参加 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VR2R2YWRxM0x5LWlfb2Z3UzdDaXoyaUUwODBkbUR6WjlRNDJjUjR4dzNaQkNiWGo0NVFFcGNLS2diYnAzWlNzZmx6NkJOekFTdHFFc1dyc09lN3dTVjI2QzBaVQ?oc=5": {
+  "title": "2041年の日本の18歳人口は約71万人にまで激減 淘汰の時代を大学はどう生き残るか - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnVhakRvVFlURVdxd2gxY0NpQl9rbkp5d0w5RkVDUmM0d1llc2tmcVhldFBvYkpmWVZMdldsVnBSZF9TYkpkcWJ2c2tlZDY5RjVSTGt2MkpsLUFYTFFuclBMQk1OYm1QNXVDMkhQOWxzMmdVbFVfekVPd2tlUWZ4NzZzREFQNW5qX25zWnpnSlJzLTdrellUWG80c3Jfa2doZ0d6Zm1jS2t2UkhCeURwOQ?oc=5": {
+  "title": "Xi Urges Military to Step Up Use of Unmanned, AI Technologies - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://variety.com/2026/film/news/brent-lang-indiewire-editor-in-chief-1236825176": {
+  "title": "Brent Lang Named Editor-in-Chief of IndieWire",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://deadline.com/2026/07/mahershala-ali-marvel-move-on-blade-questions-1237014522": {
+  "title": "Mahershala Ali Calls Out Marvel & Is “Ready To Move On” From ‘Blade’ Questions: “If They Wanted To Do The Movie, We Would’ve Done The Movie”",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://animeanime.jp/article/2026/07/31/101619.html": {
+  "title": "スヌーピー、ムーミン、ミニオンズも♪ お薬手帳＆マイナンバーカードをまとめて収納「ケアともコレクション」新登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://0115765.com/archives/198180": {
+  "title": "東映アニメが創立70周年、東映動画時代から500作品以上生み出す　7月31日を記念日として正式認定",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoYmUwdDQ5VmRZMXZGSHpUUW5sMDN4N1BvMmJhbFlSZndDYk1ZS1lYajRvMGFydjZsbUp6b1hhQWhwWHQ4?oc=5": {
+  "title": "東映アニメ、第1四半期決算は営業益が過去最高74億円 海外配信・商品化権がけん引 『ドラゴンボール』『ONE PIECE』が成長支える - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1FINFZ6eUZvZHllMUNjVjdKN0EyLWVWdjhscXNBMDJTeDFtNC1fbVJQbHFic0lQb3dRV0h1Z1hFRTl5UVJSUXgtN2xvLWpiVlczV2FoSjZ6M3ZJd3FfTnJwZHpCV19DYUJ1NlQ0Qmp6bkJUbDRiUW1xVDdQby1BTXlmQXNDMUhGN2xQR244RDVoU250cHk0MUVEaFllSGc4MkljS2Z3RUJpY1VLWGZqSnAwWFN4LS1l?oc=5": {
+  "title": "AI Bots Are Excellent Financial Advisers. And They’re Free - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://variety.com/2026/film/news/mahershala-ali-blade-movie-marvel-call-out-not-made-1236825126": {
+  "title": "Mahershala Ali Calls Out Marvel for Not Making ‘Blade’: ‘You Had Me Under Contract. They Have Billions of Dollars. If They Wanted to Do It, We Would’ve Done It’",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://deadline.com/2026/07/better-than-the-movies-cast-beatrice-kitsos-david-iacono-1237014125": {
+  "title": "Beatrice Kitsos And David Iacono Land Lead Roles In Netflix’s YA Rom-Com ‘Better Than The Movies’",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://animeanime.jp/article/2026/07/31/101618.html": {
+  "title": "スヌーピーの本格ダイバーウォッチが登場！ SPINNAKERとの初コラボ！水着姿のスヌーピーにも注目",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://0115765.com/archives/198163": {
+  "title": "ソニーG、1Q営業利益は40％増の4,764億円　イメージセンサ需要や円安為替が後押し、ゲーム部門も堅調",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PSFdrRl96VjFaMWFTaFVoNm9pendJVkxlVE9YcHhWSmxYNFJRSE9XeVJ3Y242aTA2R0lhd21NTjNZME9SQm5HV3g3VzlBRGs2cGt4ajV3RTlOUQ?oc=5": {
+  "title": "三井住友ＦＧの4ー6月、純利益33％増 株高で市場事業好調 - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://deadline.com/2026/07/x-men-samara-weaving-emma-frost-marvel-studios-1237013568": {
+  "title": "‘X-Men’: Samara Weaving Lands Role Of Emma Frost In Upcoming Marvel Studios Pic",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://animeanime.jp/article/2026/07/31/101617.html": {
+  "title": "「サンリオ」×ファミマ限定グッズが盛り沢山！ 総勢26キャラクターがメーカーマスコットとコラボレーション",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-31/rafal-jaki-machine-gamu-launch-brain-alive-manga-with-planned-english-release-this-fall/.240146": {
+  "title": "Rafal Jaki, Machine Gamu Launch Brain Alive Manga With Planned English Release This Fall",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE52X25YMmpOSjlKNXROQWVuRV9YWUUwWkRycnUxaWtLVU1qN1pkZ3VjSHotMGtETDFuVlcwY1dFemlKVzVYdzJZQ0ZKclB1UHJWRnZwV2VGTmNTQS1QcHRuV1Y5VkVwOHhzTkV2SjhiTG9NbGd3SHpMWXlPYw?oc=5": {
+  "title": "【LINE GAME】「LINE レンジャー」、アニメ『怪獣８号』とコラボレーション開始！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDY2ZSVjIxb0ttZDlYVTVZOTF6X3N0QlNSb2hObTY3bGxkd3VLTWlJT3dmT0x6Z3Vsb3l5SXUyZDlqR3JUSGlRWGVOTVZlRktSQ1FLN0xjZ1k3QQ?oc=5": {
+  "title": "サウジ財政赤字、第2四半期は7割超縮小 歳出抑制と歳入増で - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQWlOOFQ4MGFwbDd1eExjTHRRZjdlSk9Zdm51MFBvLXhSaGNRMFFVTG9fY2g4ckVSbGpUTC1EeGptV010a0JKaW56VGFDcDJ3NEYteE5YYUh2SWJZY3YyTGR5cHlDYVVqRTFiYjZBbDh6RWdFeVhUeDc2LUpzeGtzSTEzUE1RNFJxOXBENWtKTDZUSlhHS0NFRS1RVWxuamI2cko3bGtYUVZuNVlxT0RVTExERHZBQkxhZUt5TE1aQW9iUEFxQVE?oc=5": {
+  "title": "Tokenmaxxing Is Dead. Now Comes the Belt Tightening - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://animeanime.jp/article/2026/07/31/101616.html": {
+  "title": "「刀ブレ」八振りの刀剣男士が大集合の新キービジュアル公開！ 美しいスケーティングを間近で見られるアリーナ席確約チケットの抽選もスタート！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PNnVKaS14U1ZXSVhkRl9oaFJhVVRyTnFXdmZVRTZCcTBtTXFRNl9zWGFlb1FrR0tnUThMRE80R0hrTjh5Sml4dVRTTV9sbmN2ZFIxdkZlWlRYYkprSkpkNHNuRlpsRGdQQllFODdiVnBheXdhdkduRzlFVQ?oc=5": {
+  "title": "TVアニメ『BLEACH 千年血戦編』からオリジナルグッズ第2弾が登場伝統の技法が息づく意匠と、キャラクターの個性が融合したビジュアルは必見！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwNGl6cEhyMEItQVRhbHlXZnNmekxsbmp3TkpNWmh1aURUU0lPRUhrXzEtVzhBSEltTWVLODFuQlE3OUdVTkhMSHk5OWg0TGFNcmlSaDZmMXJUN1BscEt4UjNPT1loLVE?oc=5": {
+  "title": "効果的な支援のために…熊本地震「被災地に派遣される自治体職員向け」ナビサイト公開 - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSnBXM0p4Vk1hZGdNbWdlMk80RENjNDBFZ0N1V1RhMFFIZ05iUmlJcVl2d3dieFdWbnNVWjhsYXNxTkJQaHZPeEV6bWxsbTBEVTdvNkd3d0EwNU1GRVEyVUk1MFRKc1k2S2ZRRVNjcmFVMUROT2hGYVJKNE9sU05DcFdZRk4yN283WV8xNHdIcm1ZMTE4NmhMNmxoOFQ5LU1IakFrX2FkZUt4Y0IyNXFMSlVMelA4UGUxZ0Fn?oc=5": {
+  "title": "San Sebastian New Directors to Screen Jaime Lorente, Billy Lumby Films - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQlVkRE1yeXlUWWpUUk84SHZhRzNjNm00TzlnOTlTMXBJc3ItRmlFRm1CNkRRV014bi1UOEFUTEk0VVk1Qy13T1RZNEIwdlZpdWZuT1NFWHhNSHBpLU9ETGRuakhENWVfR1d0dExpbzA1UFg2amlQZGxYNnVDLTJoZFlXZXRxUjlRNXJJYVFIV1RwSDRNQU9hY3RyaV9EUHJPZmtJaU5Ha3haY0JaaVJ2a18xZ1J0Y1hYSG5fYmhON1NwNFlnNEl5VA?oc=5": {
+  "title": "FIFA studying impact of expanding World Cup to 64 teams for 2030 edition - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://animeanime.jp/article/2026/07/31/101615.html": {
+  "title": "「ブルーロック」8月発売の「週刊少年マガジン」両面表紙に実写キャスト陣が登場！ 映画公式YouTubeでは実写俳優×アニメ声優によるスペシャル対談も",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Fd00xU0dHVzdhYlpLQTNxUmxOZ3pRbDBXcVI4SUx2NjM0eEVMVjdMVlBWbkt1Qjl2NjI0RWpMeW9wTjNZMHNLMGJKNWZlaEJpUVl2cVBiZll1dw?oc=5": {
+  "title": "アンソロピック、AIテスト中に企業3社のシステムに不正侵入 - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://deadline.com/2026/07/leonard-ouzts-comedy-special-release-date-lil-sumn-sumn-1237014462": {
+  "title": "Comedian Leonard Ouzts Releasing New Special ‘Lil Sumn Sumn’ With 800 Pound Gorilla",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OTTQ3NlVpUnhYODA5anZtb1cxSTFVVFZ2MVRGT2g3eWpVYWdlM2gwNUNVLXFERTgxU3diemFRaXljT3Q4SW4wY1VCdno3aTRtMkIya0pydWlWQUZQNGJBVVN6STZnQQ?oc=5": {
+  "title": "『Stellar Blade: BLOOD RAIN』生成AI使用の公式ミュージックビデオ公開。「クオリティが低い」「プロモーションにはAIを使わないでほしい」といった反応も - Game*Spark",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52YmZKYTYxczhNcU40bDlQclpESl9VY29BSDEzU0F4Z1dCQ1k4YUhZaUx4Vm5BcHZnSElBUkhLaWh5emVuaDlzRjQ4a202emstY2RCeWVVamdoZw?oc=5": {
+  "title": "長期インフレ圧力、緩やかに蓄積するリスク エネ高騰で＝英中銀ピル氏 - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUlqNHZhR3BOMUthZ3l0ajdTZGZtUFg1b19GUTU0aFlfakpLdUx6MHVkR3oxbTlzcDB4cldsRVl5Mmkyd1dOcEk5ZzhWclJBNFRuQUk5RGRzbm9jY1c3czNkOWlKbFJEZ2hiM21oVVd0V3FJaXQ3OGxMSjRhckxibjJQQWVxZXpaSnZSX0tnRW95blEtaFkxVF9PWlFKLUVudlhjZW1GQUJoamV1OEhyaWw0U0stWVZHR1BKTFBGMFI?oc=5": {
+  "title": "AI’s Wildest Spenders Are Hitting the Accelerator - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://variety.com/2026/film/global/the-odyssey-new-bfi-imax-screenings-sell-out-30-minutes-1236825096": {
+  "title": "‘The Odyssey’ Craze Continues as New BFI Imax Screenings Sell Out in Under 30 Minutes (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1785519056.1069922
+ },
+ "https://animeanime.jp/article/2026/07/31/101613.html": {
+  "title": "『人付き合いが苦手な未亡人の雪女さんと呪いの指輪』がアニメ化！2026年10月に放送決定！キービジュアルも公開♪",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://www.animenewsnetwork.com/news/2026-07-31/3-of-yu-hachi-manga-get-yusanchi-omnibus-short-anime-in-october/.240133": {
+  "title": "3 of Yū-hachi's Manga Get Yūsanchi! Omnibus Short Anime in October",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CLWI2MzNlOWRUVDl2QzRMcjhsNDVVXy11TUlDUGFrUzZlYVJXQlVRLTJFdFF1N1ZKTjdNRGlKRzhDb2lqRThvS09tWWNzTUQwMDduQm5DQmhPUQ?oc=5": {
+  "title": "バーナム英首相、北海開発で「実利的」対応 トランプ氏発言受け - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYTVwTEszMjRQNzMxcmZCWlpVOEVGM1kxXzhueGpBT2VoS1V2a1NTb1dLazgwVUhjXzVZU0k3UFQ2b3VweEhwS1FfSWNiWTNWYjFOdjlhR3p5bnZIRGpfYk8yRzR4RUgtN1JoRlNlTGRQbGEtRDYta2U2Ym1qbWp0UUoyMjlSazR4X3VSR2lRY0hzd2JRa3Mwc3J1bG9BLXYyZDNveDgxSktSVGtXSDNHeHdoenFiWGs?oc=5": {
+  "title": "Zoe Saldaña to Receive Locarno Fest Special Honor - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://animeanime.jp/article/2026/07/31/101612.html": {
+  "title": "新作映画「BanG Dream! Ave Mujica prima aurora 」10月16日より公開！ 最新PV、キービジュアルも",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJbjZTaGlfRWFnMXk3M1Z6c096blFycEVGYWNIZTFCdE9IcVFyRkI2eUg2a1F3VlhRVlNVTThNX3lqQl8wc1dFUHFzdlVIWGJhSndz?oc=5": {
+  "title": "パウ・パトロールの世界的ブームを「大真面目に」マーケティング分析してみた｜こじみく(下着のプロデューサー) - 日経COMEMO",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "グレー",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZbHNxUFVybFM3SFUwS2dLU3lwUEVXRnlPci1ySHhRRnZMeWxyVHZhVE80OWRCSEQ2U295ZndsWm9QYjlpbHJ2WlZvTS15N2w2X29BRzFlM0V3ekw4c2lIeDRiMjF4WUdOQ2tjUzlNZWpVSEUwTEx6YjRCYw?oc=5": {
+  "title": "TVアニメ『ゴーストコンサート : missing Songs』より新商品が発売！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ObGJUSTdFZHltOGtCRjZYdzR2cFZhUDEzdjZJUUdnMzd1b3huWG9DSGNIU3BESzBTb0RGYV9fNFloRm5xWXJGSGkxbzNEUWFpM2J4VkpiUGJxdw?oc=5": {
+  "title": "ＥＵ、ＡＩギガファクトリー建設へ100億ユーロ投資計画 米中に対抗 - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1785519056.1069922
  }
 }
