@@ -100,6 +100,11 @@ def main() -> int:
     _start_watchdog()
     print("収集中...")
     candidates = collect()
+    if not candidates:
+        # 全フィードが0件＝ネットワーク不通の可能性が高い。窓・digest・🆕バッジを
+        # 壊さずスキップし、次回実行に委ねる（2026-08-01 14時便のWi-Fi未接続で発生）。
+        print("収集0件（全フィード失敗＝ネット不通の可能性）。前回のdigestを保持して終了")
+        return 0
     seen = store.load_seen()
     window = store.load_recent()  # 直近ウィンドウ（採用済みストーリー）
     for it in window:
