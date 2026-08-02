@@ -9736,5 +9736,299 @@
   "source": "アニメ！アニメ！",
   "label": "対象外",
   "ts": 1785648741.69822
+ },
+ "https://variety.com/2026/film/box-office/spider-man-brand-new-day-global-debut-nears-1-billion-1236825975": {
+  "title": "‘Spider-Man: Brand New Day’ Obliterates Expectations With $927 Million Global Debut",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1785692397.065106
+ },
+ "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-1237015459": {
+  "title": "‘Spider-Man: Brand New Day’ Powers To Amazing Second-Best Global Opening At Box Office With $927M WW; ‘Odyssey’ Nearing $1B WW",
+  "source": "Deadline(Box Office)",
+  "label": "媒体加算",
+  "ts": 1785692397.065106
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-02/webtoon-based-live-action-series-high-school-queen-confirms-lead-cast-ahead-of-2027-release/.240186": {
+  "title": "Webtoon-Based Live-Action Series High School Queen Confirms Lead Cast Ahead of 2027 Release",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785692397.065106
+ },
+ "https://deadline.com/2026/08/wonder-man-showrunner-clear-up-rumors-cancellation-1237015463": {
+  "title": "‘Wonder Man’ Showrunner Posts Video To “Clear Up” Rumors About Cancellation: “There Is No Movie In The Works”",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1785692397.065106
+ },
+ "https://variety.com/2026/film/box-office/the-odyssey-spiderman-biggest-box-office-weekend-history-1236825132": {
+  "title": "‘Spider-Man: Brand New Day’ and ‘The Odyssey’ Power Biggest Collective Weekend in Box Office History With $430 Million",
+  "source": "Variety(Box Office)",
+  "label": "媒体加算",
+  "ts": 1785692397.065106
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-02/nano-list-webtoon-gets-animated-adaptation-debuting-on-august-17/.240185": {
+  "title": "Nano List Webtoon Gets Animated Adaptation Debuting on August 17",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785692397.065106
+ },
+ "https://variety.com/2026/film/box-office/spider-man-brand-new-day-box-office-opening-weekend-1236825953": {
+  "title": "‘Spider-Man: Brand New Day’ Swings to Mind-Blowing $355 Million Debut, Second-Biggest Opening Weekend in Box Office History",
+  "source": "Variety(Box Office)",
+  "label": "媒体加算",
+  "ts": 1785692397.065106
+ },
+ "https://variety.com/lists/best-movies-streaming-august-2026": {
+  "title": "21 Best Movies New to Streaming in August: ‘Michael,’ ‘Mother Mary,’ ‘Oppenheimer’ Back on Peacock and More",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1785692397.065106
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-02/firefly-wedding-tv-anime-reveals-more-cast-october-9-debut-ending-theme-in-new-teaser-video/.240192": {
+  "title": "Firefly Wedding TV Anime Reveals More Cast, October 9 Debut, Ending Theme in New Teaser Video",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785692397.065106
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4MElsNVZ5Nm5rbi1pZnVMWlRZMHFvd1RCRjVLb3g2VWR2X3lQaVZKNVVqUklOdXZDa2o4bGM1dVJVYk9Na2xuc3NaMGZ3RFFESndfSnFsSWtGcTljeDJmVHIteWtzNmNzQmxmUjBtaEttazBRR3c0U0w2NA?oc=5": {
+  "title": "DLEがアニメーション制作を担当！「FGO」ショートアニメ『Fate/Grand Order藤丸立香はわからない』Season4が配信決定！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1785692397.065106
+ },
+ "https://variety.com/2026/tv/news/house-of-stassi-finale-stassi-schroeder-fight-beau-clark-katie-maloney-hulu-1236825637": {
+  "title": "Stassi Schroeder Takes Us Inside That Explosive ‘House of Stassi’ Finale: ‘I Felt Like Julius Caesar’",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1785692397.065106
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-02/witch-on-the-holy-night-film-reveals-double-visual-game-smartphone-version-with-same-day-release-as-/.240188": {
+  "title": "Witch on the Holy Night Film Reveals 'Double Visual,' Game's Smartphone Version with Same-Day Release as Film",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785692397.065106
+ },
+ "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUF5aG1zZkVtamlBTEJQTU9ZQUxVd05GeFNZVVhMTUpTeFhKdERhbWlXbFZQX2sxbW1ucGhLVWotLXhyQXZ3d1FtbGFrQmJDc1owVnlvcGt2SUJIeVNFWFJ1bV9SUTB1VVFSV21EdnlWRHViNmEydHV3OWduOXlyWkktT1Y2VmtxMG9VUXhXMkg3UlVkbnl0NkZDVUgxemI4SUE?oc=5": {
+  "title": "Richard L. O’Connor, Emmy-Winning Producer, Dies at 96 - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "重複スキップ",
+  "ts": 1785692397.065106
+ },
+ "https://variety.com/2026/film/news/nicole-kidman-sandra-bullock-practical-magic-cinespia-screening-1236825330": {
+  "title": "Nicole Kidman and Sandra Bullock Surprise Fans at ‘Practical Magic’ Screening in Hollywood Forever Cemetery for L.A.’s Cinespia",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1785692397.065106
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-02/sublime-licenses-robin-at-the-break-of-dawn-cake-dog-caramelized-welcome-to-the-tiger-detective-/.240183": {
+  "title": "SuBLime Licenses Robin at the Break of Dawn, Cake Dog Caramelized, Welcome to the Tiger Detective Agency for 2027 Release",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785692397.065106
+ },
+ "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OX042UFVNZ3pwd0pFYXVRUHZ4XzRjV041TmQxN3ZrRUR2Yl84X0gwblZ5VVB1Vzd2NnhsdFJzaHdHZm5tRnRnelRfWVhmNU0?oc=5": {
+  "title": "映画｢ちいかわ｣はホラーより怖い…興行収入｢キングダム｣超え､満員の映画館に\"どよめき\"が起こる結末 - PRESIDENT Online（プレジデントオンライン）",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "媒体加算",
+  "ts": 1785692397.065106
+ },
+ "https://deadline.com/2026/08/modest-mouse-replaces-guitarist-allegations-dm-minor-1237015496": {
+  "title": "Modest Mouse Replaces Guitarist Simon O’Connor Amid Allegations Of DMing Minor",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://animeanime.jp/article/2026/08/02/101676.html": {
+  "title": "「朝から泣いちゃった」「霹靂一閃六連キターーー」善逸＆じいちゃんのエピソード回は必見！「鬼滅の刃」再放送第十七話【ネタバレあり反応まとめ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://0115765.com/archives/198509": {
+  "title": "『ぼっち・ざ・ろっく』の虹夏が“メイド姿”でフィギュア化！文化祭衣装でウィンク＆黒目の表情を楽しめる",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR3ZKNl9McGl3am50cDQzMGthTUZrRXFlMmdMUElpdnZoc09VcklpUGdvSUc0am9kelVGajRIbnNtUHFQX1M4YUEtNzNheFJsRWZUUXVkclo0bEpPMWlfeHBnVmtIR1NmOVdNOUdrb2t0TDBneUM2WERMVlFuVWRjaExsamJIOVViY1dmREhDazQ2Q3pOd290RzVkT2x3SWk1b0NDM2I3SWtlTkNmSFJlU19YMTVVZmJmMlBoam9n?oc=5": {
+  "title": "ノーラン、スピルバーグ、デル・トロらが語る「映画と生成AI」…トップクリエイターたちの懸念とは - Business Insider Japan",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "グレー",
+  "ts": 1785692397.065106
+ },
+ "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sMUpDcGtHa3czZ2dCWm1MUXhUSXhGUVY2MnVJMmliOXFhdWtwTFNTbENIb1JQWFRHX28zZ1J6d1hXVmdZT0JWWl9OeWM1NlE5N0hYd00xTkxScnJYS2FjeVdtUUt5WkxrSHNHUFRtWHQ?oc=5": {
+  "title": "ふるっぱー仲川瑠夏＆早瀬ノエル、人気アニメの映画に声優で登場にネット反響「絶対観に行くね！」「可愛い生き物たち」 - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://variety.com/2026/tv/news/wonder-man-canceled-co-creator-reaction-marvel-disney-1236825977": {
+  "title": "‘Wonder Man’ Co-Creator Says ‘Contracts Were Signed, Schedules Were Cleared’ Before Marvel Series Was Canceled: ‘This Is Not a Marketing Stunt’",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1785692397.065106
+ },
+ "https://animeanime.jp/article/2026/08/02/101675.html": {
+  "title": "「意味わからんくらいかっこいい！」「作画天才」「BLEACH」浦原喜助の卍解“観音開紅姫改メ”お披露目！ グリムジョー再登場も「待っていた」の声続出【第42話ネタバレあり反応まとめ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://0115765.com/archives/198498": {
+  "title": "テレ東系×土曜朝同士の縁で…「しまじろう」と「ウルトラマン」が周年コラボ　8月8日にテレビ共演決定",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://animeanime.jp/article/2026/08/02/101674.html": {
+  "title": "「ディズニー」ドナルド＆デイジー×サマンサタバサのバッグが超キュート☆デニム調やキャンバス生地などこれからの季節にピッタリ◎",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://0115765.com/archives/198485": {
+  "title": "手を認識して「VTuberを“なでなで”」推しと触れ合える体験コンテンツ　148万円から企業向けに提供",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1785692397.065106
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-02/chained-soldier-tv-anime-gets-3rd-season/.240191": {
+  "title": "Chained Soldier TV Anime Gets 3rd Season",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://deadline.com/2026/08/haile-gerima-black-lions-roman-wolves-black-maroons-1237012646": {
+  "title": "Haile Gerima Dissects His 10 Hour Documentary Feature ‘Black Lions – Roman Wolves’ & Teases His Next Project On America’s Black Maroons",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://animeanime.jp/article/2026/08/02/101673.html": {
+  "title": "「幼女戦記II」軍服or黒猫…どっちのターニャがお好き？MA-1風ジャケットなど豪華賞品に注目☆くじ引き堂に登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://0115765.com/archives/198461": {
+  "title": "カプコン1Qソフト販売数で『プラグマタ』が堂々首位！数多の『バイオ』旧作を抑え250万本売る【ランキング】",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1785692397.065106
+ },
+ "https://animeanime.jp/article/2026/08/02/101672.html": {
+  "title": "「BLEACH 千年血戦篇」一護と雨竜の戦いを“浮世絵”で表現！江戸切子、若狭塗箸、あぶらとり紙など伝統工芸コラボ第2弾登場【8月5日～】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-02/super-robot-wars-z-ii-hakai-hen-game-gets-remaster/.240178": {
+  "title": "Super Robot Wars Z II: Hakai-hen Game Gets Remaster",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1785692397.065106
+ },
+ "https://animeanime.jp/article/2026/08/02/101671.html": {
+  "title": "「僕ヤバ」山田杏奈のお風呂上がり＆お着替え姿にドキドキっ☆ アクスタなど新作アイテム登場♪",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://news.google.com/rss/articles/CBMixwFBVV95cUxPajJLelh6Z1BJbzZuSHc3ZVFfaF85T051ZDVleTZ0Mko0b2NhdUpZaVJBaTd3cDJkTmNXYlRNRkpMLURpYlR3NUtjOGxzODh6NnJHbVoyS2ozVlFSMWZtWDBGZ2VfSHU1MnZjOGN6eERSX3VFRV9hc3BPajJfMl8wb3BUZDhQOWlWdGNZYkhJRk0yZWN6bHA2dkhtVEhydzFVeEQxUWcwRThyOVNlbThRS3ZsbU5JQXhfa0U5cnJjZWpHZXhfTTJZ?oc=5": {
+  "title": "Australia defends teen social media ban after study shows most still online - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://variety.com/2026/tv/awards/hacks-hannah-einbinder-paul-w-downs-legacy-spinoff-1236825927": {
+  "title": "‘Hacks’ Stars Hannah Einbinder and Paul W. Downs on the Legacy of ‘Hacks’ and Which Character Needs a Spinoff First",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://animeanime.jp/article/2026/08/02/101670.html": {
+  "title": "「東リベ」“黒髪”マイキーに“黒髪”千冬の黒フォーマル姿がカッコよすぎて…!!グッズの事後通販開始",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-02/dark-gathering-manga-takes-1-month-break/.240189": {
+  "title": "Dark Gathering Manga Takes 1-Month Break",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdVV2Z2RrbV94RnlDU1hzc1NWNDlFN0tYanBEMmVlYTJEdGNQcVBoTlZnMk1nNnB4NnRvX3BRaktjM2loSE1IVDRfUUZ5TXNKY0FuRVpGc08yLVJVQUhKbFF3STBOdw?oc=5": {
+  "title": "『映画ちいかわ』のキーキャラクター セイレーンと島二郎をどう演じた？ - 日経クロストレンド",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jYjBFSXVhTExrRE5qVGNBZElQY1QtSkV3Y1Z2ZkE0WlR4Rkp1SU1yZHFqeERDcWNWQzY3U1duUGh4MlB6dXpid2hsZFRVUmhuSzVMczN5dzhVUElmTXlTd2RPNjdjaFA5Wk9mMi02bkhrSjZqakJHN1J0TQ?oc=5": {
+  "title": "「世界が選ぶデジモンアニメ4作品ベストエピソード投票」結果発表！投票により選ばれたエピソードのTV放送が決定！『僕らが選んだベストアドベンチャー』フジテレビ他にて10月４日より毎週日曜朝9時放送開始！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1BZck5EVWxaa0x0QzZpLVp5aXpFbVpiVmtLdHRNNjNLcjc2NU95MlFRLXdDRWdia3g4VmJYdGtyWjhsNjVUTWptaWRmRFViOVAyaHdyamFxbUlIOXd0ZzVNV0pPWl92bmhuNURpWTFoYVFCclNFa3ZodVJTbjRpWWFKbVBvNW54MWtpVVRzdGlVOERmR29nS1ZYOXE5bVJCaGpaVHpLY3JVbHdNQUNfNXpjeGtfdHM?oc=5": {
+  "title": "Consortium led by Amanda Staveley to buy Gold family's stakes in West Ham United - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://animeanime.jp/article/2026/08/02/101669.html": {
+  "title": "「ぼっち・ざ・ろっく！」ひとりたち結束バンドメンバーを大胆デザイン♪ソックス&カラビナが登場！コミケで先行販売も",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://animeanime.jp/article/2026/08/02/101668.html": {
+  "title": "「呪術廻戦」虎杖悠仁、伏黒恵、禪院直哉、日車寛見たちを新たなタッチで表現♪ Ani-Artシリーズ第9弾登場☆",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-02/even-the-student-council-has-its-holes-anime-casts-shizuka-ishigami/.240171": {
+  "title": "Even the Student Council Has its Holes! Anime Casts Shizuka Ishigami",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://animeanime.jp/article/2026/08/02/101667.html": {
+  "title": "「東方Project」の一番くじが登場よ！霊夢や魔理沙が“ちょこのっこぬいぐるみ”になったぜ！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-02/crunchyroll-to-stream-eleceed-fx-fighter-kurumi-chan-uncle-obsession-with-cute-things-more-anime-/.240182": {
+  "title": "Crunchyroll to Stream Eleceed, FX Fighter Kurumi-chan, Uncle's Obsession with Cute Things, More Anime; English Dub for Sound! Euphonium",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1785692397.065106
+ },
+ "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMU5qTTRZQnFMcGNvMnRxZGsxZkR1dUFnREZfUnYtQWdzVXlKYXE2RnZWdTJRODE3WkF2aDFXQVNLSm1QWmZqSEt3ZVV1YS1wZ0ZKT1hWYllZNDJBdG9aTmx0RURuZmR3YzZydjI5ak52ek15ZDBaVEVEb2R4dGt4bVhsN2RrVzJlWVd1c01wRDNjb2FGY0RibXY3NGV3NmFJQlRSVGw1UFZ5Sk8xajdWclREQXNrSjVa?oc=5": {
+  "title": "SB19, Sombr, Wet Leg And Empire Of The Sun Kick Off Lollapalooza 2026 - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XdXRpWjluempmYkd4WnVGdVl0TGZOQl95VXZnWDI3TUEtdFhySGdmWF95TFVlb3U5UlRTSEdfWlNOdzhrN1hOUGQ1S056Tkp3cmZnanhOUFlmRm12b3F0QXRNZk1HMmhKRFVGbVh2N0NqVnIzNjhmbHV3NA?oc=5": {
+  "title": "『荒野行動』×アニメ『鬼滅の刃』コラボ第２弾、8月2日（日）より開催決定！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnYWVGcmJUN1RmR19XaGpwNDFmRnRTNzZvbXdIV2xhUERzSWQ4eThQYi1Kb3lqVnlvbU9lVzJoUVN4RE13X0NlS2xxSldBeS1DeXhNbkJGb3lNMUNQLTNja05xWENZc1hrcnllTUthVXVmTFVYUnhTTzhXMA?oc=5": {
+  "title": "【TVer】アニメ『名探偵コナン』家族がテーマの「想い紡ぐ愛の記憶！家族セレクション」全37話を毎日1話ずつ無料配信 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1785692397.065106
+ },
+ "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa1ZYUGM4QU9velNZcEhlQkpZNVdXRUpwOV85TUpWZl9nRkY5MTE0N3NLYVMybEdyVkhfa0Zva3lESzVxekItNnd3RGlqdjgtN1h0ODF2WDBPbWNRQkpwWjVrSGpHcVJkdC0yX19NMlBGa2VtWWN1YUIxMXVaekc3UENsdGl3VV9Zb2xjQWpxM2ZuaFdES1UzYWtoNmdGQ2hZbHloSjB3?oc=5": {
+  "title": "Ella Langley Ties The Biggest Hit By Harry Styles - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1785692397.065106
  }
 }
