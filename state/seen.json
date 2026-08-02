@@ -9436,5 +9436,305 @@
   "source": "Googleニュース(bloomberg.com)",
   "label": "対象外",
   "ts": 1785607419.924948
+ },
+ "https://variety.com/2026/shopping/news/best-spider-man-board-games-hasbro-monopoly-buy-online-1236825826": {
+  "title": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1785648741.69822
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-02/discotek-to-release-digimon-frontier-pani-poni-dash-lupin-iii-part-ii-outlanders-samurai-pizza-cats-/.240181": {
+  "title": "Discotek to Release Digimon Frontier, Pani Poni Dash!, Lupin III: Part II, Outlanders, Samurai Pizza Cats, 10+ More Anime on BD This Year",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785648741.69822
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-01/jaadugar-a-witch-in-mongolia-anime-new-video-unveils-cast-member-kujira/.240174": {
+  "title": "Jaadugar: A Witch in Mongolia Anime's New Video Unveils Cast Member Kujira",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785648741.69822
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFVGJUMlp1WlhLYnR5WDBzN2xaWV9YT05GR19QR2xjZGZmU0NGRW5hN2RySGpzeFk2NEQ4cHBLRzlGeFlvNldEeG9KQlhXYmExRGlyVktuSlItNTgzWVdZY2dyTlJUbGFSeGpPNm03UnBaZENtVWc?oc=5": {
+  "title": "『デジモン』完全新作アニメ制作決定！2027年放送予定で30周年プロジェクト始動 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1785648741.69822
+ },
+ "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0RoX3JTWjJKOUU0MDZodVZqeHRraTBsbWdWRGtiSWhtZUhzbS1kbUxlX2JrV21VZ0hJUzJfS1VnSzZmdExoY2dPUnZ6OWgxaklSRmxWbkhSYnV0VGRvZ3NTUDN4bVk3dHJjWkxqQ0hEMDRpM096SUVuUzJDUnp3djF3bDdzb2xTck5wT3dadnZadnJHSUxJaXl4dVo2cFI1ZG83dnF5VlhBbmNVNzBUNk5MbFhzSjJf?oc=5": {
+  "title": "Stephen King Movie ‘Desperation’ in the Works From ‘Final Destination’ Duo, Sam Raimi - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "重複スキップ",
+  "ts": 1785648741.69822
+ },
+ "https://variety.com/2026/shopping/news/how-to-watch-wwe-summerslam-2026-live-online-free-1236822004": {
+  "title": "WWE SummerSlam 2026 Livestream: Here’s Where to Watch the Two-Night Pro Wrestling Event Live Online for Free",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1785648741.69822
+ },
+ "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnZXQmY4RGlUOFlPcUhCMExUeXF5NmVEVGV6RHpVNE9kM1ctSzlKWmpuUkpyeTVjNVVCZ1huem4yQkU4OUFCTms0YWJuby12b3ZZb1N5cXNUNHY1YTM1U0VxZ2w4dmw3MU9xWDlQSFdFX3FYQzNOYXhQd0QtbWRjRDFJODAwN2tpcVdaQTVmeXplVHlpSGUxdUZSZ1JVWWR3WEVKODhBM2x2amI0VDRnUFBGVXVQRE5J?oc=5": {
+  "title": "Alonso delighted at Mudryk doping resolution but Chelsea lose to Spurs in Sydney - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "重複スキップ",
+  "ts": 1785648741.69822
+ },
+ "https://variety.com/2026/tv/news/juliette-lewis-cape-fear-finale-crystal-death-1991-movie-1236818597": {
+  "title": "Juliette Lewis on Fiery ‘Cape Fear’ Finale, ‘Nostalgic’ Nods to 1991 Film and Why Crystal Will ‘Haunt’ Max Forever",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1785648741.69822
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUR4aERLVE00azhSZHJQbWZZUktuVmNhYkFKb1lTWUhEcS1CS3dIbEdJREpybnlaRk01elZwWi1EMlNLV290anVpWTltNDNON1p0em1LLXBraWlSTzhMOVAydVM0NFhSR1dZNE8wRzJvaC16dGlPUkVoM25ZRjZvejNTMzRZZWZNMEE4UnRJN2JWTDc2VTdYblhiNnlYQVhnUmVxQktVSlJ2VWgtZVJfWFBuUQ?oc=5": {
+  "title": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "重複スキップ",
+  "ts": 1785648741.69822
+ },
+ "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNi12V2ROZ19UY3dMUlJac1R3UjdkOFIzWDVJREp4THdlckRHSTJNaFNjS3JzM2FBYl8zbUhVdktpZWNpYURYQlFfRUFNWkNIdndtVWs2dUgtdW1rWkpzVGJ2d3hVSEtFNDRCSERtTFVFdVZ2OXp0WGRtZGNqQzdLZElpWTVfRENjQ2gyZGhuWm5FcU1vZXVyclhlV0ZoMDRQdFE?oc=5": {
+  "title": "『デジモン』完全新作アニメ制作決定（C）本郷あきよし・東映アニメーション - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1785648741.69822
+ },
+ "https://deadline.com/2026/08/vincent-pastore-tributes-the-sopranos-alums-1237015368": {
+  "title": "Vincent Pastore Tributes: ‘The Sopranos’ Alums Jamie-Lynn Sigler, Michael Imperioli & More Remember “Kind-Hearted Brother”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101666.html": {
+  "title": "「CCさくら」封印の杖やクロウカードをさり気なくデザイン♪“推し”をひそかに楽しめる傘・オシブレラが登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://0115765.com/archives/198354": {
+  "title": "ドル円相場混乱のタイミングで…『FX戦士くるみちゃん』アニメ化この秋放送決定　投資友達やブロガーまでFX戦士続々",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://variety.com/2026/tv/news/it-welcome-to-derry-season-2-update-cultural-themes-1930s-1236825738": {
+  "title": "‘It: Welcome to Derry’ Creator Says Season 2 Will ‘Not’ Shy Away From the ‘Horrible’ Cultural Themes of the 1930s: It’s the ‘Heart of Our Story’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://deadline.com/2026/08/scott-hylands-dead-1237015350": {
+  "title": "Scott Hylands Dead: ‘Night Heat’ & ‘Fargo’ Actor Was 83",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101665.html": {
+  "title": "「ムーミン」リトルミイの刺繍と水玉柄が可愛すぎる♪ 夏のお出かけにぴったりな2WAYバッグが新登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://0115765.com/archives/198428": {
+  "title": "『ギャバン』新作Vシネが12月に限定上映決定！エタニティが初公開、ビスカトニック星団事件の真相に迫る",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://variety.com/2026/shopping/news/how-to-watch-roach-jr-vs-zepeda-boxing-live-online-free-1236823309": {
+  "title": "Lamont Roach Jr. vs. William Zepeda Livestream: Here’s Where to Watch the Boxing Title Bout Online for Free",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://deadline.com/2026/08/a-life-illuminated-interview-director-tasha-van-zandt-cinematographer-sebastian-zeck-1237015335": {
+  "title": "‘A Life Illuminated’: Of Bioluminescence, Mysterious Sea Creatures, And A Woman Scientist’s Groundbreaking Quest",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101664.html": {
+  "title": "「ミルサブ」の世界観が大爆発☆ BEAMS MANGARTと初コラボ！Tシャツ、フーディー、トートバッグが登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://0115765.com/archives/198418": {
+  "title": "『無職転生Ⅲ』第6話、修羅場再び？第2期のあのキーパーソンが現れる…【先行カット】",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://variety.com/2026/tv/news/vincent-pastore-dead-big-pussy-the-sopranos-hbo-1236825791": {
+  "title": "Vincent Pastore, Who Played ‘Big Pussy’ on ‘The Sopranos’, Dies at 80",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://deadline.com/2026/08/cbs-news-nikki-battiste-joins-nbc-early-today-anchor-1237015325": {
+  "title": "CBS News Correspondent Nikki Battiste Joins NBC’s ‘Early Today’ As Anchor: “A True Homecoming”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101663.html": {
+  "title": "「ドラえもん」どこでもドアから飛び出すドラえもん&のび太や、タイムマシンをデザイン！N.Y発「レスポートサック」バッグコレクション登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://0115765.com/archives/198411": {
+  "title": "ソニー、PS5ディスク終了の批判に「気持ち受け止める」決算会見で姿勢示す　小売店との対話やPCとの差別化も言及",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1785648741.69822
+ },
+ "https://variety.com/2026/music/news/lollapalooza-delays-flooding-wolf-alice-cortis-1236825734": {
+  "title": "Lollapalooza Shortens Wolf Alice and Cortis Sets, Delays Several More Amid Intense Flooding",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://deadline.com/2026/08/vin-diesel-fast-forever-best-script-still-crying-1237015315": {
+  "title": "Vin Diesel Calls ‘Fast Forever’ The “Best Script” He’s Read In Decades: “I Am Still Crying”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101662.html": {
+  "title": "「五等分の花嫁」二乃、三玖、四葉たちがパステル調の“星空メイド”姿でカワイイ♪ 新作アイテムにどきどき☆【Ani-Art KAWAII label】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JQWNIOXFOMFI5aFBXNWE2VlZ2Y0pUOE1DdUE4VUswN0M1aDBOR25hTEFfSjRvVmkyNGE0LW1jM0M3VEwzMTRMeURUVWxfZll2X0NHNS1adzRUV0ZNZTJVVWlPXzdZMnBqN0l5aEl0ZmZRZmxTcXB0a0hpYw?oc=5": {
+  "title": "TVアニメ『性別「モナリザ」の君へ。』、ティザーPV公開 主人公・有馬ひなせ役に安済知佳が決定&コメント到着！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://variety.com/2026/film/reviews/wild-inside-review-the-central-park-owl-1236825626": {
+  "title": "‘Wild Inside’ Review: The Story of the Central Park Owl Becomes a Moving and Haunting Documentary",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://deadline.com/2026/08/lil-uzi-vert-lollapalooza-set-canceled-weather-issues-1237015301": {
+  "title": "Lil Uzi Vert’s Lollapalooza Set Canceled Amid “Weather Issues,” Joins Major Lazer",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101661.html": {
+  "title": "ポチャッコ、けろけろけろっぴ、タキシードサムたちが駅弁に!? 新幹線で夏休みを楽しむ姿はグッズに☆「はぴだんぶい」JR東海とコラボ企画",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zQUZBZkR2NnZ0V0tuREhtVmd5aXVPOTZsdjNYRnRNVEhSMDI0aTQxa3R2eHQwYktBS1RSMENMY3FweFhIUi16QVF0czFVWFNLZk1mZl9EemFKY29pR1gyMVNzajNfOV9HWHRFZGprcVB3eDRHN2hKS3VHNA?oc=5": {
+  "title": "世界中で話題のTVアニメ『天幕のジャードゥーガル』第3弾PV&スペシャルビジュアル解禁！～第4弾追加キャスト情報～第一皇后・ボラクチン役を演じるのはくじら！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://deadline.com/2026/08/vincent-pastore-dead-the-sopranos-star-big-pussy-1237015282": {
+  "title": "Vincent Pastore Dies: ‘The Sopranos’ Star Was 80",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101660.html": {
+  "title": "「ヒロアカ」デク・爆豪・轟がクレープ屋さんに♪ めじるしキーホルダー、クレープ風ハンカチなど限定グッズ＆コラボクレープが登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://variety.com/2026/film/news/vin-diesel-fast-forever-best-script-1236825704": {
+  "title": "Vin Diesel Says ‘Fast Forever’ Has the ‘Best Script I Have Read in Decades’: ‘I Am Still Crying’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://deadline.com/2026/08/nirmal-purja-dead-1237015258": {
+  "title": "Nirmal Purja Dies In Avalanche: Celebrated Mountaineer Featured In Netflix Documentary ’14 Peaks: Nothing Is Impossible’ Was 43",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101659.html": {
+  "title": "「ヱヴァ序」微笑む綾波レイ、“ココに注目”のミサトさんのサービスショットも立体化♪ ヤシマ作戦時の初号機は全長約49cmの大迫力!!【一番くじ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101658.html": {
+  "title": "「ワンピース」ルフィやローと乾杯！焼きそばや光るドリンクカップなどお祭りメニュー登場☆あの“麦わら帽子”もグッズ化!? 【USJ「ワンピース・プレミア・サマー」が開幕】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://variety.com/2026/music/news/rolling-stones-behind-the-song-mick-jagger-andrew-watts-mr-charm-1236825650": {
+  "title": "The Rolling Stones ‘Behind the Song’: See Mick Jagger and Producer Andrew Watt’s Deep Dive on the Creation of ‘Mr. Charm’ (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101657.html": {
+  "title": "アスナ、アリスの警官コスが可愛すぎ♪ 「SAO」ダイバーシティ東京プラザで行われたポップアップショップの事後通販がスタート！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101656.html": {
+  "title": "「スター・ウォーズ：ビジョンズ／九人目のジェダイ」新悪役・ナワームの“青い”ライトセーバーの意図は？「NARUTO」キャラデザ西尾鉄也と創り上げた“和風”ビジュとは？監督が明かす",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOGc5dGYxM1ZfWW80UmJVRmRmVlliMHVxekpRdWpQeFZTM0JiQVpNd0RsU0EyejlWT3hid3BwaWdHcXduX1hmMlUybjFGZG93bmxMR0NDZVpnS1hrRnVHMlQ4OHIyWGk1cUJEdWNfc2lTd0pERkhWUnBReEo5dUZfUDNOejl3ZTQwbFRqWDJjSEVYaUUwM2R1T2gyOA?oc=5": {
+  "title": "Former AC Milan and Italy defender Baresi dead at 66 - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101655.html": {
+  "title": "ミッキーたちのレトロ可愛いアパレルが登場♪ ミッキーシルエットの巾着やお顔ポーチもたまらん！【AMERICAN HOLIC】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101654.html": {
+  "title": "「ラブライブ！」凛＆真姫＆花陽が「僕たちはひとつの光」衣装で立体化！ あみあみ限定で「ミニアクリルキャラクタープレート(A6サイズ)」が付属",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYRjc2dHZfdXM1N3QzN1QyTnRPQTVaTG1YVmh6MTRROGx3aHNMMktndEN1RndrMk5FV1RsZzJGbTliZ1gyak5Dbi1yUmxoSk1BNkkteTlZZ1BpMm54dmZYNFBySHdQRklr?oc=5": {
+  "title": "実写版「モアナと伝説の海」配役ぴったり…心憎い仕掛けたっぷり - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101653.html": {
+  "title": "「ポムポムプリン」×横浜赤レンガ倉庫がコラボ♪ 限定グッズや、約2メートルの“巨大バルーン”が登場【8月14日～】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGVNN0paTnpyRXZaVzdTMzEzc2JFTE9YLVJXVWZvd3NKVjNnZzJkc1hOcW5QWXJvSlRMUEozQzdTWUFqSmd5Mm42TGFUcDdST29fSDFNa1BnWGIwMEVIWmpOUHlpUURSdWFnMVl6bTJzT1JhaDlTRmc0amtNY2hnX3pUQnVycjRiNFpTRjVTNG5YazZGeXExRkFVZmxLWkU4NW5GZTliYmdWNktzN1NteERrdi1aSW5Vb0ln?oc=5": {
+  "title": "Vin Diesel Says ‘Fast Forever’ Is the “Best Script” He’s Read in Decades: “I Am Still Crying” - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQzRSR0d1SkVubXdFWmpHWmJ3bVl1Z21LZFZGeGlEWmdyeTFWS01sN0NIM0ZubncxTzRCUzdFel9UUnA4OW95eF9IUWZwZ2lqY1hmb0FSVnd2V21uNmdlNUdCakN6bE4wWmZUdkFkQ3J5UUxxY0pxVzNINlR3NmlOZHRkUEo0dGhXdE9FV0g3dFlVSmQzdUVuNnM4MEd5ZzIzMlZubll3SDRPMlVjS3lOYk5BMkZnNlVYblk5cnln?oc=5": {
+  "title": "New ‘Ghost In The Shell’ Toys From Bandai Spirits Are Out This January - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1785648741.69822
+ },
+ "https://animeanime.jp/article/2026/08/02/101652.html": {
+  "title": "「鬼滅の刃」猗窩座、累、堕姫＆妓夫太郎…鬼がナンジャタウンを占拠!? コラボフードやufotable描き下ろしグッズが登場☆【8月21日～】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785648741.69822
  }
 }
