@@ -28,9 +28,27 @@ def _strip_source(title: str) -> str:
     return title
 
 
+# 引用符付き作品名（'Spider-Man: Brand New Day' / 『鬼滅の刃』等）。位置を問わず除去。
+# 話題作はレビュー/サントラ/興行/リーク等の別ストーリーが全て作品名を共有するため、
+# 作品名トークンだけで誤マージされる（Spider-Man開幕週の記事が全部1カードに吸われた事故）。
+_QUOTED_TITLE_RE = re.compile(
+    "['‘]([^'’]{2,60})['’](?:s)?"      # 'Title' / 'Title's
+    "|\"([^\"]{2,60})\""                               # "Title"
+    "|[『「【]([^』」】]{2,60})[』」】]"                 # 『タイトル』「タイトル」【タイトル】
+)
+
+
+def _strip_work_titles(title: str) -> str:
+    """引用符付きの作品名を全て除去してから類似判定する（残りの実質語で比較）。
+    残りが空になる場合＝見出しが作品名そのものの場合は除去しない。"""
+    rest = _QUOTED_TITLE_RE.sub(" ", title)
+    return rest if rest.strip() else title
+
+
 def tokens(title: str) -> set[str]:
     """有意トークン集合：英数語(2文字以上,ストップ語除く) + CJK文字bigram。"""
-    t = unicodedata.normalize("NFKC", _strip_source(title)).lower()
+    t = _strip_work_titles(unicodedata.normalize("NFKC", _strip_source(title)))
+    t = t.lower()
     words = {w for w in re.findall(r"[a-z0-9]{2,}", t) if w not in _STOP}
     cjk = re.findall(r"[぀-ヿ一-鿿]", t)
     bigrams = {cjk[i] + cjk[i + 1] for i in range(len(cjk) - 1)}

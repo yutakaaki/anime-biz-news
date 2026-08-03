@@ -152,6 +152,14 @@ def main() -> int:
         if hit is not None:
             if art.source and art.source not in hit["sources"]:
                 hit["sources"].append(art.source)
+            # 続報が新しければ代表を差し替える（見出し・URL・日付を最新に）。
+            # 差し替えないと、古い日付のカードが続報を吸収したまま2日窓から消え、
+            # ストーリー全体が表示されなくなる（Spider-Man開幕週末で発生）。
+            if art.published_ts is not None and art.published_ts > (hit.get("published_ts") or 0):
+                hit["title"], hit["url"] = art.title, art.url
+                hit["published"], hit["published_ts"] = art.published, art.published_ts
+                hit["is_new"] = True
+                hit["updated"] = True
             seen[key] = {"title": art.title, "source": art.source, "label": "媒体加算", "ts": now}
             n_buzz += 1
             continue
