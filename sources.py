@@ -27,6 +27,9 @@ DIRECT_FEEDS = [
     # 専用フィードは興行記事だけなので10本で3日以上もつ＝取りこぼしがほぼ無くなる。
     ("https://variety.com/v/film/box-office/feed/", "Variety(Box Office)"),
     ("https://deadline.com/v/box-office/feed/", "Deadline(Box Office)"),
+    # 深掘り(コラム)強化: セクション直接フィードが生きている媒体（2026-08-04実測）
+    ("https://www.forbes.com/hollywood-entertainment/feed/", "Forbes(Hollywood)"),
+    ("https://www.economist.com/culture/rss.xml", "Economist(Culture)"),
     ("https://www.cartoonbrew.com/feed", "Cartoon Brew"),
     ("https://animeanime.jp/rss/index.rdf", "アニメ！アニメ！"),
     ("https://0115765.com/feed", "アニメ業界ニュース(0115765)"),
@@ -72,6 +75,11 @@ GOOGLE_QUERIES_EN = [
     "AI film production OR video generation studio",
     "generative AI content copyright OR licensing",
     "AI dubbing OR localization film OR anime",
+    # オピニオン/ライフスタイル面（RSS非公開の媒体はGoogleニュースのパス付きsite:で収集。
+    # ペイウォールでもタイトル+概要で判定・表示できればOK）
+    "site:bloomberg.com/opinion movie OR film OR hollywood OR streaming OR anime OR AI",
+    "site:newsweek.com/opinion movie OR film OR hollywood OR anime OR AI",
+    "site:reuters.com/lifestyle",
     # コラム/深掘りが多い一般媒体を site: 指定でテーマ絞り収集
     "anime OR animation OR \"generative AI\" site:hollywoodreporter.com",
     "anime OR animation OR \"generative AI\" site:reuters.com",
@@ -85,7 +93,7 @@ GOOGLE_QUERIES_EN = [
 def _label(q: str, lang: str) -> str:
     """digest表示用のソース名。site: クエリは媒体ドメインを見やすく出す。"""
     if "site:" in q:
-        dom = q.split("site:", 1)[1].strip()
+        dom = q.split("site:", 1)[1].strip().split()[0]  # キーワード付きでもドメイン部だけ
         return f"Googleニュース({dom})"
     prefix = "Googleニュース" if lang == "ja" else "Google News"
     return f"{prefix}: {q}"
