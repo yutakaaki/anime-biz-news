@@ -11158,5 +11158,317 @@
   "source": "Googleニュース(newsweekjapan.jp)",
   "label": "対象外",
   "ts": 1785799708.619508
+ },
+ "https://variety.com/2026/theater/news/geno-segers-apology-transgender-comments-hadestown-1236827212": {
+  "title": "Geno Segers Apologizes For Transgender Comments After ‘Hadestown’ Exit: ‘I Recognize the Impact of My Statements’",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1785820970.430563
+ },
+ "https://deadline.com/2026/08/ariana-grande-upcoming-break-boundaries-1237016875": {
+  "title": "Ariana Grande Says Upcoming Break Was “Not A Reactive Or Impulsive Thing” & Something Planned Although “Boundaries, They Need To Be Set”",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1785820970.430563
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-03/pan-dorobo-anime-new-video-unveils-more-cast-and-staff-opening-song/.240257": {
+  "title": "Pan Dorobō Anime's New Video Unveils More Cast & Staff, Opening Song",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785820970.430563
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-03/live-action-love-is-better-the-second-time-around-season-2-confirms-2-returning-cast-members/.240253": {
+  "title": "Live-Action Love is Better the Second Time Around Season 2 Confirms 2 Returning Cast Members",
+  "source": "Anime News Network",
+  "label": "媒体加算",
+  "ts": 1785820970.430563
+ },
+ "https://variety.com/2026/music/news/ariana-grande-clarifies-upcoming-break-planned-in-advance-1236827152": {
+  "title": "Ariana Grande Clarifies Upcoming Break and Says It Was Planned in Advance: ‘Boundaries, They Need to Be Set’",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1785820970.430563
+ },
+ "https://deadline.com/2026/08/geno-segers-apologizes-fired-hadestown-transgender-comments-1237016825": {
+  "title": "Geno Segers Apologizes After Being Fired From ‘Hadestown’ Over Transgender Comments: “I Accept Full Responsibility For My Words”",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMzRrMHZJUm9jTlpkdUJxUnFVcjZUc1hyMXVsV1pfam0zSTJtdTE1eGVGc2kwTkIwR0xibnlwM3ZyajZTRFZqSHhXTXphYzVscGZGd3puY2JBX25fLUdtbExGMEt1SS01dTQ4MU5qUFFBY0xsQjZMcmFURXZ0dGZZbW5kaXNELUVjaUllc193RVJPN2wyaUpDb0g1bHhkbTFjOUR1QkhQTG56Nnc?oc=5": {
+  "title": "The War Room newsletter: Inside a 38-tonne armoured beast - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "重複スキップ",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdlVscTc4RWVvWlRtTmI1STNuVkJtdlk0QnA3WnFrMHQxcnNTXzhXNWZ1SnVaTGFCdVZuN0hVN1FEdVFJVXpnb2t4bVpnWDhpNl80NVpxVVJVVU9hVXhqXzNTTjd3M3R5UjRRVnE4aFNyNDIwaW9FZjV3bkVLM2xVeEhUdDlvOThCMFJNcEFqQ3FpVzcyZDVvXzZiaTN5cUlDbHAxYko5aElTOGVpZ0IwMw?oc=5": {
+  "title": "Morocco says Spain should have foreseen migration impact of court ruling - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "重複スキップ",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfZkZUNWVMVS1JRjVJbWFjWl8wVEl4QjRLX1FMMzNYQ1FkU3pWNkNaX2pUbE4zSlRkSW01Sk9nelNsdE1rSUxMa2k5aHJUWUNYSk1JSVRzN3lGZ2xmNERaLXpBeFZOOTVuV3Vr?oc=5": {
+  "title": "［時代の証言者］柔の道を生きる 山下泰裕＜２３＞オリパラ招致成功 感動 - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "重複スキップ",
+  "ts": 1785820970.430563
+ },
+ "https://animeanime.jp/article/2026/08/04/101714.html": {
+  "title": "「閃光のハサウェイ キルケーの魔女」Prime Videoで国内独占配信へ！8月31日より見放題配信がスタート",
+  "source": "アニメ！アニメ！",
+  "label": "対象",
+  "ts": 1785820970.430563
+ },
+ "https://0115765.com/archives/198752": {
+  "title": "サーティワン、夏恒例の『ポケモン』コラボ！今年は30周年の「赤・緑」にあわせフシギダネ、ヒトカゲ、ゼニガメもアイスになる",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OUW9WNVZiY0pSTm43RzhiTUpDR0czYVd6ZnF6R3pSNnhJalkyMEFuZHpUb2lQUzJmMmx3NE1qT09CZUN3YmU4cmdldmxhSWE0SldoQzQzV29MY0RVWmhCdUhpTUw1elFHT3ZXdzN1Vm9KNjE1X3c?oc=5": {
+  "title": "聖地を探すのはあなたです！アニメ「小林さんちのメイドラゴン」舞台の埼玉・越谷で試み - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMickFVX3lxTE9sTlllcTZHTUozNW1wNU9mSC1ya2IzQlA3V21DdmphcUdzZ1lIQjYxV1JjSVNYNXpiQlJhVGJrdnBzcW81NzN6a2Q5NjJ6R0YtWFZfME1aOFFkYVgtZVVfWUlnM0RYMDJUVjg2ejdyQTV2dw?oc=5": {
+  "title": "「福岡三越」にアニメグッズ販売店「アニメイト」入店へ…拡大する専門店街ラシックに九州最大規模の店舗 - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSzVYaUZWQlBFVjhJUV81M2hYQS0ySHY2eDI4RWJrcHBwVzJCaEdCM3VBMWUyS3J4QW1GeDA3TTNEZHJLMjl6eXcwOGNhRzhRX094UlFqc2l4UTY0U3RWNnl1bEJoekVqY1g2Umh6d01FU2hfbkEwTEtoRDFHYzJ5U09xdngxdjhFZ0w1T1FmWkV5WWxMM3FlZHE1dlltbFJkLVphYjFMX0kzSndDa2ZSdG1JcGtFOTdNMW9qUDVYbWIxUkU0S2U4dzg0b2JhbUFPRDJYVA?oc=5": {
+  "title": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Moves to No. 2 in 2nd Weekend - Crunchyroll",
+  "source": "Google News: anime box office",
+  "label": "対象",
+  "ts": 1785820970.430563
+ },
+ "https://variety.com/2026/film/obituaries-people-news/mary-rivera-dead-spider-man-no-way-home-neds-grandma-1236827154": {
+  "title": "Mary Rivera, ‘Spider-Man: No Way Home’ Actress, Dies at 82",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://deadline.com/2026/08/mary-egida-rivera-dead-spider-man-no-way-home-actress-1236980295": {
+  "title": "Mary Egida Rivera Dies: ‘Spider-Man: No Way Home’ Actress Was 82",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://animeanime.jp/article/2026/08/04/101713.html": {
+  "title": "クロミが“大人可愛い”ランジェリーに♪ “隠れクロミ”刺繍やチャーム、小悪魔っぽショーツが愛され度満点◎",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://0115765.com/archives/198754": {
+  "title": "SBI新生銀、名前変えた某他行からの受け皿に「SBIの銀行」と名乗り夏のキャンペーン　旧住信SBIとの優位性アピール",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOU9OREpRMlEtczBGTWExZ2lIZ2pMRVlKSV9hcEx6b1NGam9YcDVEV3g3YmRSRmNKYk5YUUJZWlQ4cUNRMW9mX2JxcHVPdWc3czBDQjQ1TGhEV2Q0WEJncS0zV0Z4dk5XbTFTU1drNUZJbnEtek9tcGRIWlJLdGhpWnVQVG1TVDY4aHhXN2NTYzZkOUJDWmluaUJ2NWU4RGM3WFVQNy00enRNblVXdnlvNXowbzJYZTNYdUZ2Yjlucw?oc=5": {
+  "title": "Hundreds of firefighters battle blaze at Wildberries warehouse in Russia's Vladimir region - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://variety.com/2026/film/reviews/ice-cream-man-review-eli-roth-1236826106": {
+  "title": "‘Ice Cream Man’ Review: Eli Roth’s Children-of-the-Damned Splatter Movie Is No Treat",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://deadline.com/2026/08/ice-cream-man-review-eli-roth-1237016757": {
+  "title": "‘Ice Cream Man’ Review: Eli Roth Blends ‘Home Alone’ And ‘Hostel’ For Over-The-Top Unrated Bloodfest",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://animeanime.jp/article/2026/08/04/101712.html": {
+  "title": "「シン・仮面ライダー」ほか8000作品以上を著作権侵害― 映画の文字抜き出しサイト運営者らに有罪判決",
+  "source": "アニメ！アニメ！",
+  "label": "対象",
+  "ts": 1785820970.430563
+ },
+ "https://0115765.com/archives/198764": {
+  "title": "食べ物系？東宝アニメ、次期新作に向けた予告を開始「飯テロ画像」公開",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTFBZMGdVMDNQX2RPVGxCVmYxV1dEcERLN0pVQjkxT3hnSVBJMWM3OElrTVo0UWtCODlnZklBS3o4R3A4eVBw?oc=5": {
+  "title": "【おはようgamebiz(8/4)】ドリコム決算レポ、ソニー・日テレのアニメ事業、「ヒロアカ」新作が8月6日リリース、『スト6』SteamでTOP3独占 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTklRZUw1Qm9qNkRhakFuMDh5ekg1RW1MemFXVDlKQXRWNTVvbk5EY2h0QnhGQnJDN2t3Z28wWWpHblp2U0N0Ry1iM0pwM1FoVWpUdHJZNzFLeGdjTHdtUkh6aHZVdTBxM1pVTEE1TkdTTVVQdEh4VnlUOWg4RXNweFpaV1JLeVFSVkN4SE1oUjRXNW1YVHU4NQ?oc=5": {
+  "title": "Jay Clayton sworn in as U.S. director of national intelligence - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://deadline.com/2026/08/mary-holland-cast-dc-jimmy-olsen-superman-spinoff-series-1237016747": {
+  "title": "Mary Holland Joins DC’s Jimmy Olsen ‘Superman’ Spinoff Series",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1785820970.430563
+ },
+ "https://animeanime.jp/article/2026/08/04/101711.html": {
+  "title": "【2026夏アニメ ライターが選ぶここがいいから語らせて！3選】この先どうなるの!?推しの未来が気になりすぎる「鎧真伝サムライトルーパー」「乙女怪獣キャラメリゼ」「グロウアップショウ 」",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMiogFBVV95cUxQblFINTNDcnpPUlJyNXVxRHZUNTkxSGhLZU1yaC0xOEdUclZIdWRlaF80Y0VlcTFiU19yNlFwRTdHb2p6ektxcHN6eGhTVmItMEVKV2dsZVoxdng3WHhzempwRlhoX0V0ZWdFdC05RGJxdnFxdkxrNWItYk5pZ1VQZ2RxU0ZiTkI2Mk0yN0JueHZaNjJLUjM0QlBqVFM1bUhPc2c?oc=5": {
+  "title": "tuki.「第三惑星」ミュージックビデオ サムネイル - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUF3YlFCU0JxWld4Ujd0Rjdpb3ZwaXYzQUo4akpwTlJFRGZGckNXMTVUdjdtME5xbE84bkhxMlhoczNrT212akoycGNCZFVTZzFLbW9zUzVwUVBWZmlpNkdDWUUwRmxsQ3YzeTVYWGZZMVhaTXB5WTVIZDdXX01rdWpNNW9KVGVYR1JuT0gwdDV3UEtKbmVEX2JweXRGNzlPOXRWQ0s0OEh0bkU?oc=5": {
+  "title": "Former Ukrainian top commander sees no prospect of Kyiv joining NATO - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWE5SclRtVUotR0hsckRyeHRiQTBaclE2aTdRbEpNZVREOVpFNXZqMGx5eXFZUVByM3RTMmZ4ck5tdGl4N3EtMFpWMF9neWxWc3dIOU9qREY4T1doZ1FUUnBHelU3RU94Y3o1VTdhRmNKdDBXU1lyOGF1WjFQMnUwallPZTdTdTNHODV4RE9kLU94bUo3OFlQdHZjcWRXVGNIRW1jT0F1ZTBjZDBURDdtc01nZ29heXlyMTFF?oc=5": {
+  "title": "Checks and Balance newsletter: Democrats are in a state of convulsion - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://variety.com/2026/tv/news/dermot-mulroney-sad-chicago-fire-exit-reaction-1236827150": {
+  "title": "Dermot Mulroney Says He’s ‘Sad to See it Go’ After ‘Chicago Fire’ Exit: ‘We Gave it Our All for Two Seasons’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://animeanime.jp/article/2026/08/04/101710.html": {
+  "title": "「チェンソーマン レゼ篇」ボムの“チョーカーのピン”や、早川アキの“刀”を散りばめて…♪ 自動巻腕時計が全4型で登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGREQll2Zjl2S1hoUmZUZFd0YzBvNDJGbm1KaWZOZFluRFJrM0ZFdTNZNHBKQi1nNVAyWEdZcnR5LUZ6NmxyakMzQVZVMGlMT1FfRjVMejk2VWNkZmhiNUg4WWxmYUZoVFNIdXNUWFd3Y1JrSGRkUVl3c1czWC0tQmxOTHBxb3lmcHFTRU13dldZX1JXMDNTczRtamVhLXhjY3YxcnlhZVZFOV9temp3?oc=5": {
+  "title": "Zelenskiy dismisses Ukraine's ambassador to US - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://deadline.com/2026/08/chicago-fire-dermot-mulroney-leaving-nbc-series-1237005344": {
+  "title": "‘Chicago Fire’s Dermot Mulroney Says “It’s Bitter To Have To Leave” NBC Series After Two Seasons",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://animeanime.jp/article/2026/08/04/101709.html": {
+  "title": "ムーミン、リトルミイ、スナフキンと一緒にお絵描きタイム♪ お米から生まれた画材「キットパス」コラボ登場【8月9日（ムーミンの日）より発売】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnhfUXdoLVpyUHB6VUhXbzY1OUJtOHQ5b2NadGh4c3pKNWpOVGlSajQzeVcxVVIwQWtkQnZaM3hjUTFCQy1Va2xjcldnNFFseklPaHphZ2JtcmRZN0Q4ZzBWeUlGcFlmb0hXQmxiLVVEd0haSldmbGlScnhkaV9tdldEOVk3T2x1VGRXUHJmaW1jeGpfOWs5aGRaYXdZNzB1MDhYcVVWcw?oc=5": {
+  "title": "Apple vs. OpenAI: How Siri AI Stacks Up Against the New ChatGPT - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://deadline.com/2026/08/spider-man-brand-new-day-amy-pascal-interview-1237016593": {
+  "title": "‘Spider-Man: Brand New Day’ Producer Amy Pascal On How Destin Daniel Cretton’s Vision Made The Difference, Franchise’s Future & A 007 Update",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1785820970.430563
+ },
+ "https://animeanime.jp/article/2026/08/04/101708.html": {
+  "title": "“ジークジオン”「機動戦士ガンダム」シリーズのロゴマーク入りTシャツ登場！ アムロ、シャア、ジオン公国、マフティーのマークをさり気なくアピール",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFFyX2FGQlBGYWZVYkc5dlBIbGZFaEFQa0dHVkpCLU9wQS1kbWVsclUtNUdnUDBDNXNGUVpfTU96UlY3SUpsN1FRb1M2bzZFY1Z0OXAxS1ZHSmxISVJId1ZVNGZ0dE5vQVRNUkVoak90c1VkYWFVLWJVdXhnVWVSUWxXcHdEX0NCaGV5Ty04RER2NktkQllod1dPSDljSFphaTNlYUQ5Slh0TUJ6c0E?oc=5": {
+  "title": "Denmark begins extended military conscription in response to Russia, Trump - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://deadline.com/2026/08/late-fame-review-willem-dafoe-and-greta-lee-superb-in-wonderful-indie-film-about-art-and-rediscovery-in-a-new-york-long-gone-1237016538": {
+  "title": "‘Late Fame’ Review: Willem Dafoe And Greta Lee Superb In Wonderful Indie Film About Art And Rediscovery In A New York Long Gone",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://animeanime.jp/article/2026/08/04/101707.html": {
+  "title": "「ゴジラ」あの咆哮で目覚める！第1作公開当時の貴重なオリジナル音源搭載の目覚まし時計が登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTllwODZPRGVVOEtCc0N2VFZGSlhkbml3S2QzVWFjRVFYYy1IejI2VC1fYmdzRTR5U2dQcHBXTDgzRG9BcFBkVlpraENKNjdhU3BGQ3cycFpUcUhHUEx4ZG5FV0tEY3VOVDVsRU05QTZVX1JMYXZkLW1fWXhIOWpQamtHNXdfV1VQUVlPY2FFeldtWXR6ckx6ZnpYNnhvcUFPZmNTMjFyQTdXMGp5TS1KQkRvR2FBaDVMR1lFVg?oc=5": {
+  "title": "Lithuanian police launch racism investigation after Black powerlifter incident - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://deadline.com/2026/08/stefano-pozzebon-cnn-rome-correspondent-1237016649": {
+  "title": "Stefano Pozzebon Named CNN International Correspondent Based In Rome",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://animeanime.jp/article/2026/08/04/101706.html": {
+  "title": "「FGO」マシュやギルガメッシュほか、人気サーヴァントたちがちびぐるみに！ ポーチとあわせるとゲーム内カードを再現可能",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5": {
+  "title": "US signs deal to boost Patriot and THAAD missile parts production - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://animeanime.jp/article/2026/08/04/101705.html": {
+  "title": "「映画ちいかわ」で話題！ セイレーン役・鈴木みのりが歩んできた“歌姫”の軌跡",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdlRFUlRNYmhiWm43dF9CNm11VVM2a3VNeVBMeE16bFRMM0NXWmctM3hTZEQ5T2lOV2UzX2I0Vk04N2xtUGFpWGM2WXNVVDJBdkxvaWNfN1c4aktsaXp1bzAyOGZoalVESks4M3QyeTl2Q2Z0VlYxTzJQWHctMWFHaUowejYtbmNhSURVR3IzWWJzT0NZZkZXdW9oamVWdjZNRGVnM2VzSVAyZnh0NU50M1hsVQ?oc=5": {
+  "title": "EXCLUSIVE: Chinese state traders make large US soybean purchases - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMickFVX3lxTE5DaUhlay1NX0s1MGZRSzAzNllaXzg4TFc5T2pMcUsyUTB6SmI5bmRSdGM5endocmtZa2R1RVFVWGx4ZzUwalVQQ1ZOeHpwcHgweDBLbV9iRTN3eXQ2SkR1ZlQ3NVo2ZGhIcFVTRFZSUVZoQQ?oc=5": {
+  "title": "ＴＳＭＣ熊本第１工場が通常の生産体制に復帰…熊本地震で一時停止、第２工場の建設も再開：地域ニュース - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWNGV0pFTEEyR0lKeXhzNWIwVWpnWEFzUXQtVTJmYUJ5UGxsUDVNSUhfX0JRUUVENkVsbzZwU05lYVdJbHRfSFBuNjQtUWI3TFJDTm12Mmg2UHNGajFOeDBUb19FN3lmOFVtdlU2R2JtN2VSRUhVNnpqS2ZQT3MyNkFrZDNFbkx6WWFCSDUzYU5VM21WZTEtU3pvdG9KSTBYVWRHaV9FX2lDYVo3QkhIX1BVanM4dw?oc=5": {
+  "title": "JO1 Releases New Single ‘WHATCHA DOIN’’ From Upcoming English EP - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMivgFBVV95cUxObm5abmxuWVVCMWR2ZDdDaTFWSnJ5SEYxZnc5MFg0Qko5RkJWMGZpTndzclotOVAza0ZYRHJoTmpUZk1yclB4MnZxUFlYanVwbnlGd3JaNk5sZ2YxbjliM3EyVk55bUtEZU9mQWNRR214WTlQRVdTRXAwbVdGRzdYdE1CY0hrOXlIWjRlV0V0VGg2d05qLUJzT05iQ0oyaS13UFM4azRFMXF2T2ZOUEhPT2hJblN1bUozNlc1SkNn?oc=5": {
+  "title": "US FAA certifies Boeing 737 MAX 7 in win for planemaker - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE5IVkRaLU9LTEMzcFFjc0stRGZqZ3d0MGdfSGRBeHdBYlBZb25nRUwxZTY0dkNPdnJuTHZzejhaZ1RDTDZj?oc=5": {
+  "title": "ソニーG、アニメ事業をグループ横断で強化 クランチロールとアニプレックスが『俺レべ』劇場版で連携 配給会社「アニメック」も始動 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象",
+  "ts": 1785820970.430563
+ },
+ "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdjVKeUJKRkpmY1NzM05YMlFTVFFuelQ1WllGS09EVkMzeVpRRE94ZFhkeEVoZzFWdmQwVzJ1OXRNZEhhbFlZdTM2WGkzM0hOZU1UbW9XTi1ZQVQ5NWVucUlyQnVoTjRXVk44MWhHZnVQODlfZURTS2huM2wwYXpYQWZ5eVdXTFlpbWVrWUhrekwxa2FlVExQMHF5X3RadVdqcjJNRUJ3c2lEcUxtSWFTUnRnTS1UWW5IZU9oNlpQU1BBX0RfNEhKaTE2bEpFc1ZPb2Vz?oc=5": {
+  "title": "Planemakers and repair shops take steps to conserve aircraft windows in tight market - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785820970.430563
  }
 }
