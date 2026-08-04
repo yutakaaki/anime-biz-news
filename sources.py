@@ -83,7 +83,9 @@ GOOGLE_QUERIES_EN = [
     # コラム/深掘りが多い一般媒体を site: 指定でテーマ絞り収集
     "anime OR animation OR \"generative AI\" site:hollywoodreporter.com",
     "anime OR animation OR \"generative AI\" site:reuters.com",
-    "anime OR animation OR \"generative AI\" site:economist.com",
+    # EconomistのエンタメビジネスはCulture以外(Business/Briefing/Leaders)にも載るため、
+    # セクション横断のキーワード検索で補完（Culture直接フィードと併用）
+    "anime OR animation OR film OR hollywood OR streaming OR \"generative AI\" site:economist.com",
     "anime OR animation OR \"generative AI\" site:forbes.com",
     "anime OR animation OR \"generative AI\" site:newsweek.com",
     "anime OR animation OR \"generative AI\" site:bloomberg.com",
