@@ -11974,5 +11974,389 @@
   "source": "Googleニュース(bloomberg.com/opinion)",
   "label": "対象外",
   "ts": 1785849023.019903
+ },
+ "https://variety.com/2026/music/news/ariana-grande-eating-disorder-speculation-harmful-1236827071": {
+  "title": "Ariana Grande May or May Not Be Struggling. We Can Talk About It Without Trying to Shame Her",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1785864233.033199
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-04/your-letter-webtoon-gets-stage-musical-adaptation/.240187": {
+  "title": "Your Letter Webtoon Gets Stage Musical Adaptation",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSR2kwMlhBNEFoYlFmbVRNcEhEV2x4Vjc2VUxLbFJaajJVckVfZXJyYlVDUXBiRDlnanFhcW53Wm4wc0ZPUUFzZFY4VC1qakZhdk94dGVMZkF1SmkzbmRkYzktbEd3c09EVXd2eGlVb1g2QWdTbHhwNUxXRWNzdU0?oc=5": {
+  "title": "＜映画ちいかわ 人魚の島のひみつ＞公開1週間で興収33.3億円 入プレ第2弾はキャラ総集結のボンボンドロップシール - news.yahoo.co.jp",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "媒体加算",
+  "ts": 1785864233.033199
+ },
+ "https://variety.com/2026/tv/news/mystery-science-theater-3000-rifftrax-release-date-1236826527": {
+  "title": "‘Mystery Science Theater 3000: The RiffTrax Experiments’ Sets Online Release Schedule",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/monster-the-lizzie-borden-story-release-date-photos-netflix-1237017206": {
+  "title": "‘Monster: The Lizzie Borden Story’ Sets Netflix Release Date, Unveils First-Look Photos",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1785864233.033199
+ },
+ "https://www.forbes.com/sites/paultassi/2026/08/04/spider-man-brand-new-day-falls-out-of-the-top-10-mcu-rotten-tomatoes-scores": {
+  "title": "‘Spider-Man: Brand New Day’ Falls Out Of The Top 10 MCU Rotten Tomatoes Scores",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3hDTE95STF2RllHcGhNcVZ1TzdKYm0tMFBXQ3laN25VOTgyLUp5SHZqdlR0eEUwdXA2dUZ4dG0zQ2xteldva1RfSTU3WnotRDlRempRUDl6SUw1LUVhYjFXa05vTmpIRGFtSElweDc5aGk5azUtaGJ0bzJ2VlV1dnBlTWhNRHlmOHJublNEMFpFUV84MmlwNXVsWE1SaTBaZURMcW1YLUN1Tm05ZFZZQkZxb04tQ1JwM1E?oc=5": {
+  "title": "Netflix Oscar Hopeful ‘La Bola Negra’ Will Receive Company’s Longest Release in Theaters Before Streaming - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "媒体加算",
+  "ts": 1785864233.033199
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-04/the-dangers-in-my-heart-manga-ends-in-3-chapters/.240281": {
+  "title": "The Dangers in My Heart Manga Ends in 3 Chapters",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/colin-from-accounts-premiere-date-season-three-1237017289": {
+  "title": "‘Colin From Accounts’ Sets Premiere Date For Third & Final Season",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWXhHVzBuanlEaEhaeVhGQkgyR3p6QzJkRWF2UU9DWEtLMEVRSHROQ3RUYmFlQ0w4UThCdzE0V1BnOUtDYWV4dkp1aFZxeUE2MENHX3E4bTAzVzJWNkpmSG11MzVIRW9tOXhOSEJtSDBmZXVCa1puNU9nNXZ6Vl9zVEh4SWJMamREclNWUzJn?oc=5": {
+  "title": "4 Things To Know About Minimax H3 - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "重複スキップ",
+  "ts": 1785864233.033199
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-04/super-robot-wars-z-ii-hakai-hen-game-remaster-teased-for-english-release/.240255": {
+  "title": "Super Robot Wars Z II: Hakai-hen Game's Remaster Teased for English Release",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5": {
+  "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "重複スキップ",
+  "ts": 1785864233.033199
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-04/kamome-maruyono-i-love-dokagui-mochizuki-san-manga-gets-tv-anime/.240278": {
+  "title": "Kamome Maruyono's I Love Dokagui! Mochizuki-san Manga Gets TV Anime",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1785864233.033199
+ },
+ "https://variety.com/2026/film/news/maude-apatow-poetic-license-sony-pictures-classics-row-k-1236827137": {
+  "title": "Maude Apatow Directorial Debut ‘Poetic License’ Lands at Sony Pictures Classics After Row K Debacle (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/viola-davis-ascent-series-paramount-plus-john-logan-1237016749": {
+  "title": "Viola Davis Stars In ‘Ascent’ Thriller Series Ordered By Paramount+ From John Logan",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazQ0RXJnY0F2bTBGREdBTmc2c0FHTXd3RENBYzMyZVQ3R2tGYkl5M01MdXZFQUVOanlrbHZjQ1ZycWg5VUZEZGR5NjFfZDFlQUNxVWlvSjJkMGlWMlBxUmRKakllNTZwcnVFR2lRU1NmWnR0QXZiTFZ1S3l6VkQ0RFNwbjJTcTRKampRaXdfNFo0UnBKMzdHWlVzdHlnM2xpcXJtYkRB?oc=5": {
+  "title": "Jaafar Jackson Set to Join Will Smith in Action Thriller ‘Supermax’ - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "媒体加算",
+  "ts": 1785864233.033199
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/08/03/bts-ties-with-the-biggest-rapper-on-the-charts-after-a-new-no-1": {
+  "title": "BTS Ties With The Biggest Rapper On The Charts After A New No. 1",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/jamie-foxx-to-star-deadlocked-amazon-mgm-1237017119": {
+  "title": "Jamie Foxx To Lead Hostage Actioner ‘Deadlocked’ For Amazon MGM",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://www.forbes.com/sites/timlammers/2026/08/04/the-x-files-lego-set-is-released-with-mulder-scully-and-cast-minifigures": {
+  "title": "LEGO Releases ‘The X-Files’ Set With Mulder, Scully And Cast Minifigures",
+  "source": "Forbes(Hollywood)",
+  "label": "対象",
+  "ts": 1785864233.033199
+ },
+ "https://www.economist.com/culture/2026/08/04/the-rock-star-chef-is-off-the-menu-at-noma": {
+  "title": "The rock-star chef is off the menu at Noma",
+  "source": "Economist(Culture)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://www.cartoonbrew.com/series/flying-bark-olan-rogers-lightfold-265160.html": {
+  "title": "Flying Bark And Olan Rogers’ Lightfold Team Up For Original Animation Project",
+  "source": "Cartoon Brew",
+  "label": "対象",
+  "ts": 1785864233.033199
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-03/crunchyroll-adds-english-dub-for-the-daily-life-of-a-middle-aged-online-shopper-in-another-world-/.240254": {
+  "title": "Crunchyroll Adds English Dub for The Daily Life of a Middle-Aged Online Shopper in Another World Anime",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWm53Rk9HaU1qRW9CUEZLY1oyMENJRlVPelA4RDF4YkhVUVV0V25vUnlzTUJsVEhvVTc5NTFhRlRhV2JDLVZGX2xTVDhRR0J1UkRPN1VFOFlaanFsZzZtUlBEMjAwVWM3ak4tM1FNQ3djRG05RUdabFd0TTJpOFVDSFFWaER5dWlTM2tEWUJpbXQ5b3loNXU5NHJkdnlQcFdWQncxRGptZ2hqWTdFWWltd1hMeDdqTy14cmNsSjZDdGJsV0lCVEVnMHdLYjlIMnoyZU5uanNMUDFGYndpYmU4SVd3V2hkSU5vWDBZU2U5YU1sMWFIVHg2OFRQTkVQYXBy?oc=5": {
+  "title": "AI Motion Graphic Animation Videos by MultiVision Creative Bridges Historical Storytelling and Futuristic Worlds - StreetInsider",
+  "source": "Google News: generative AI animation OR anime",
+  "label": "グレー",
+  "ts": 1785864233.033199
+ },
+ "https://variety.com/2026/tv/news/tv-news-roundup-week-of-august-3-1236827611": {
+  "title": "‘Colin From Accounts’ Season 3 Trailer: Gordon and Ashley Deal With the Awkward Proposal Gone Wrong (TV News Roundup)",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/the-mummy-cast-numan-acar-kevin-j-oconnor-oded-fehr-1237017224": {
+  "title": "Numan Acar Joins Universal’s ‘The Mummy’ As Kevin J. O’Connor And Oded Fehr Ink Deals To Return",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-billion-record-1237017056": {
+  "title": "‘Spider-Man: Brand New Day’ 2nd Fastest Pic To Cross $1B At Global Box Office; Sony Boss Tom Rothman On Secret Of Success",
+  "source": "Deadline(Box Office)",
+  "label": "対象",
+  "ts": 1785864233.033199
+ },
+ "https://www.forbes.com/sites/laurasirikul/2026/08/04/mnets-girls-planet-2027-expands-search-for-next-global-girl-group": {
+  "title": "Mnet’s ‘GIRLS PLANET 2027’ Expands Search For Next Global Girl Group",
+  "source": "Forbes(Hollywood)",
+  "label": "対象",
+  "ts": 1785864233.033199
+ },
+ "https://www.cartoonbrew.com/feature-film/sun-xun-magic-atlas-interview-265154.html": {
+  "title": "Peering Through the Cracks: How Sun Xun Spent A Decade Creating The Chinese Epic ‘Magic Atlas’ With 500 Artists",
+  "source": "Cartoon Brew",
+  "label": "対象",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaWI0UFBGTkQ4dzJIZWRJVHg4d2dBcjNva3p5WlQtTC1zUEdGQTRSa0ZsZnF1ajhhdmVCdVdtd0xKaWx5T1NqYkVMS3lDdlZUbjFGTjRWcnZWaG9sZmRXa19mMm92UXZ4Q2VkLXlxSHdqenQ3OE9SMGtIc1VXNmZaOU80Zmx5OGtzdjlGTE1pNUpLQQ?oc=5": {
+  "title": "The Trump admin just banned Roombas: what else is affected? - Newsweek",
+  "source": "Googleニュース(newsweek.com)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-monday-record-1237017035": {
+  "title": "‘Spider-Man: Brand New Day’ Has Record Monday At U.S. Box Office With $47M",
+  "source": "Deadline(Box Office)",
+  "label": "対象",
+  "ts": 1785864233.033199
+ },
+ "https://www.forbes.com/sites/paultassi/2026/08/04/florence-pugh-is-the-black-widow-the-mcu-needs-as-shown-in-brand-new-day": {
+  "title": "Florence Pugh Is The Black Widow The MCU Needs, As Shown In ‘Brand New Day’",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-04/netflix-adds-2nd-gundam-hathaway-film-on-august-31/.240283": {
+  "title": "Netflix Adds 2nd Gundam Hathaway Film on August 31",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVZGc1lSSGxvaXVoX2pBRG5rN1hTcU40dS1TQXl0ZU4yYUNDVFU2ODdCakpRai1hbFJwUVVkQVo0MVdENEg0YUQ4c25uZERIRUJqMHlBbVUwYXVfX3c0ZlpmdmVhVjRWUVFTbE93YnlzLV8zVW1FU3hhbFQ4Sy1OVkNXcHZsQzdIRXpVYmplcXdwOFJQS19XZk5TdVIxNlU?oc=5": {
+  "title": "AI offers 'lifeline' for emerging economies, World Bank says - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://variety.com/2026/sports/news/roger-federer-hall-of-fame-induction-tennis-channel-1236826844": {
+  "title": "Roger Federer’s Hall of Fame Induction Ceremony Set to be Broadcast on the Tennis Channel (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/rebecca-rittenhouse-cast-hulu-cable-guy-pilot-1237017125": {
+  "title": "Rebecca Rittenhouse Cast In Hulu’s Cable Guy Pilot",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/netflix-la-bola-negra-release-date-1236966032": {
+  "title": "Netflix Sets Longest Theatrical Window Ever At 46 Days For Cannes Acquisition ‘La Bola Negra’",
+  "source": "Deadline(Box Office)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-04/fire-emblem-fortune-weave-game-video-reveals-story-characters-classes-dungeons/.240282": {
+  "title": "Fire Emblem: Fortune's Weave Game's Video Reveals Story, Characters, Classes, Dungeons",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://variety.com/2026/tv/news/christina-applegate-returns-home-hospitalization-months-1236827615": {
+  "title": "Christina Applegate Returns Home After Months-Long Hospitalization and ‘All Is Well’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/trump-amc-theatres-nicole-kidman-maga-1237017195": {
+  "title": "White House Does Its Own Take On Nicole Kidman AMC Theatres Spot To Promote MAGA “Golden Age”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://www.forbes.com/sites/daviddeal/2026/08/04/why-spider-man-is-hollywoods-most-bankable-superhero": {
+  "title": "Why Spider-Man Is Hollywood’s Most Bankable Superhero",
+  "source": "Forbes(Hollywood)",
+  "label": "対象",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEFLS3BsakV2T2tzRE1ES1A5VjdJV1Bsd2NKbXVENGVTb0pfY3pRRkg3R2piS0t4UmcteVhQUTB2WXh4dUczVXhXdWlQUUYzQXN5UmZUdXp6LUpqUWppbWVDMUVJNHBMQ0hCQUx5S1pCWDhEVHgtTDZRT0RvSWo5eEZFOVR4dXRwS1F5TTBoUTNMOEM3LU5YcjY4OUlUdHNXTFFwQ1dreVFqOHFaR3ZHTDZn?oc=5": {
+  "title": "Qatar Signals Progress Toward Short-Term Deal Between US, Iran - bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://variety.com/2026/film/news/eli-roth-studio-notes-shrinking-residuals-ice-cream-man-borderlands-1236827569": {
+  "title": "Eli Roth Got Sick of Studio Notes and Shrinking Residuals, With ‘Ice Cream Man’ He’s Going Into Business for Himself",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1785864233.033199
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-04/kemono-jihen-manga-to-end-in-26th-volume-after-10-years/.240251": {
+  "title": "Kemono Jihen Manga to End in 26th Volume After 10 Years",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://variety.com/lists/new-leaders-2026": {
+  "title": "Hollywood’s New Leaders: Class of 2026",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/heated-rivalry-crowds-locations-1237017170": {
+  "title": "‘Heated Rivalry’ To Fans: Don’t Crowd Us",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTc3YWtLb1FlNGE3dDlBMnFwajJ2T0tHaExndUEwa1dubGQwMnRiUnBpdHc1aDdKREh2VUpHSF9YaDVDRVprdmdLOGRWcXlaRlAzaWZOSHdWdXh5aDQ5R2JzVFptMzhHaXR6UzV0Qm5zdzhYQVNaR2RxME1VX2xCOXBFcS1feGVyWnp5ZFRVajFXOWJxVnBzbUFHcEJoenZ5em00RUc3M0hMZF92T0k1eVVBWnYyRmxpWXZVY3ZERDVzZmdF?oc=5": {
+  "title": "Russia says Ukrainian drone attack on holiday-makers killed seven, including 3 children - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://variety.com/2026/film/news/brittany-snow-the-housemaids-secret-sydney-sweeney-1236826813": {
+  "title": "Brittany Snow Joins Sydney Sweeney in ‘The Housemaid’s Secret’",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/housemaids-secret-brittany-snow-1237017186": {
+  "title": "Brittany Snow Joins Lionsgate’s ‘The Housemaid’s Secret’",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://variety.com/2026/film/news/martin-scorsese-susan-sarandon-jack-henry-robbins-sketch-1236827159": {
+  "title": "Martin Scorsese and Susan Sarandon Squash Their Children’s Internet Beef in New Jack Henry Robbins Sketch (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/the-oldest-person-in-the-world-trailer-exclusive-1237016812": {
+  "title": "116 And Counting? Award-Winning Filmmaker Sam Green’s Latest Documents ‘The Oldest Person In The World’",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjctVlNYeHlvTEFkR0daNHhRekNuSW5iNmU4V21fX1Rwa1FjNjNDTWhYSkg1WU82VXY4cEVwdHpPV2hYZkhvaVJjN2VSNFV0ODd4QnVyblhPd2pMb2ZWSFpTWDJwR1ZPcW5GLWtySE5uSi1BWXFCUi13QVZKWlpqa1J1aFhPNHFnbEFoUUM1cnEwZFBScEFyYUtnSUNCazlVMWl2RElRc083U0JJSGFuTkJrVmw?oc=5": {
+  "title": "‘Spider-Man: Brand New Day’ Hits $1 Billion Globally With Second-Fastest Pace Ever - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzFrNFI0Ry1iYVEtVTB1SFBPbXF1N244ZjJOaTh4SE52eWVETjFvcHBlRlJ5eXlpdGJsYktuX1JPVW5LbmRneW1jQXdpdC1XSmo4OTVEME42eXk3bEhBYWZUOEdOaHVmSHc0OFk3NUl2Y2lkYXZvdGlFa0Q0ODVMYVdNSHZ1SzU2czZSN3ZuczdBbFVJSTZSTkZPTXItMU1zV0Z0VmxsT2RvaVNxT0tsd0hiWDdKcERacDVsUERSdFpRbXpIU1NGa29aU0xMd08wbl9mc1lUbjA?oc=5": {
+  "title": "EXCLUSIVE: Ukraine's Fire Point starts to integrate European tech into missile defence system - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/lol-last-one-laughing-us-version-amazon-1237016580": {
+  "title": "‘LOL: Last One Laughing’ Lands U.S. Version At Amazon",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zYldhOEVkLUk2Mk5fcjBfaXlhNFVrbV9FVGZRZ2xSSDMtTHJ6aUd5aEZqbFp3dkxjemtneDRUOHlUejN2R2RTM1pscjNMcm00UDVrdGwxQW1POThyV1ctTEc2Q2o4Q0U?oc=5": {
+  "title": "ケイコ・フジモリ新大統領、「波乱」の船出…治安危機のペルーを立て直せるか - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRDdnUHdPRndRbVBJOEZOTlJhWV9Pa2RnVkpaV3Q5RnZUQVFoQ0RIZVgwQjFwRnJZZ0VsNmNyamVsVEJnejJleEhidTU4clVIeGpLZ0FaaGd5aG1TYnI3OS1DLVZrd2p5NllhdnZFU2JOWm9tYXczX0FDQzJMWlp1dDE2ekFoMUhDU1pCMHBOM2dsYzgzMzJhNnpzR2Njamo4MWV1d3FoSExmcE5OSnhodWV5b056Y0Fv?oc=5": {
+  "title": "What Happens When Speed Cameras Get Shut Off - bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblVZczZKV09tZld5VFdvdHNqVlVWVWJsNTVSOGVtNXJYTmt2VDFGT09oU0JLanJtSGt3MHN6NktoMHhZU05ESmNUbDlEYTdPRE9SNDg5R29TS1YyUHp4eHpvZEkwdnNWZlBfQ1BKTi0wcTNRTnE5dUozeGcyV2hiSWZiOC1NSDNjWkNWNXFyZlY3RjNoUnR2dmxhU1YxZ2tHZG1zVzlrem5ialY1WWluM0xB?oc=5": {
+  "title": "Bessent Says Yen Level Problem for Japan, Other Currencies - bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://deadline.com/2026/08/my-momma-told-me-podcast-wave-deal-1237015890": {
+  "title": "Wave Partners With Comedians Langston Kerman & David Gborie On Podcast ‘My Momma Told Me’; Caleb Hearon Boards As Executive Producer",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXZLcTE0TDFST3djQnlwdDRnTmxhV3dQRlAtd05oQ3l4V3pfRlFVbVNGcHNKUlJoMFRCeEs5TmlTOThEU1FDS2N5R01OMWJyUFFfcVB6Z0x2TFFIYW9Dc3JadnRQbnd4c3JySnpIUy0wNmlQd00wdTYtanhqME5TM2gwQlJ2WTA?oc=5": {
+  "title": "China won’t apologise for overcapacity - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV19pSmN0d2FDSVRmSzNHbUVLd3dLTGdMc2p2VnFIc1lIQW5XNDN5VmUtakk4dHVaRWZYN21fYzBIa3F0YXhKMnRXTXRfc19GbGZxLUEyckVFdWJmNDdKOHB1aDMtOUh0UU5SZlRVWk5DQktpQ1NXMGVPOUlzN085WEtfVGVDaW55LWUyNnd1WXNOeU1CQlpCYkdVMkk1MldNMVgycWwtZ0N4Z1R0OVpNNm1LTjA5Zw?oc=5": {
+  "title": "World Bank Urges Emerging Nations to Embrace AI Amid Weak Growth - bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaENsc1hFcnh2a0lwdGU5blhPVDA5UEdkUlNxaklySVctWGJBRFl6YndLNnZ0VWwyY0ViejFvTzROa2xDMjMyWHNBMWtEVDJ0WWNtTUcwUkc0b19FRDZKWThZTHRlZ3JhRFYzZFQtLWVTUHVvcENzSUxQNXZBWXdqSjU5clB4YXZXUXkzUHFZZXQwNzhuSUxnUHVERzhmSks4NzBmTXFjeVE?oc=5": {
+  "title": "Tony Triumph Meets Tough Economics For ‘Schmigadoon!’ - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "グレー",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0U2hBV3RMS3JWTEw0bUFYRW9ibi1EQXlPSmx3YTJlekctUFJMREVVSkFEX3ZWaWNGV25FZnVHdnlULWtyRnZTUEtmbVdkamJMVlE?oc=5": {
+  "title": "MAGAZINE｜アートがもっと楽しくなる記事 - art NIKKEI",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE9fSW1QZEhZck92QmRnMV9CbnNTVWU3Z0lZVUw2bDV0ZHVCYkNIZ09KVjlTUmtvVUl2OERPWEFCRlFXVERG?oc=5": {
+  "title": "【今日は何の日？】KLab、アニメやラノベ等の人気IP作品と海外ゲームのコラボ支援を事業化…IP作品のゲーム開発・運営で培ったノウハウで新たなエンタメ体験創出へ（2023年8月4日） - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMingFBVV95cUxQSHdkNTFudHJBQzhzVTlNdFNna3ZSWlQzV01uQ3NwbUdXZ3doSHZBOEhhNlRfWmZadnQySHJuSkFJRDZZY3gtNS1WaWQ5UFF5cGdiTGlOZHdGTnlKdzYzUU9NTF9VZGZRNTJhUmhFbTRaX2FQTVZOcGJYMTVVOUMxSlktQjFlUXB4Ty01UDZzbVAtUy0zQU4yaUxDSFc4dw?oc=5": {
+  "title": "What Is The Singularity And Are We There Yet? - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1785864233.033199
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUFMMkNhOWdPSUpEd1MtTy1adlkySUstdnZJbU9POG5vekRkOW93OVRXRkk4N2dOendOV1FQeHdfcGZYMlRqdFZQTlVES1V5NU5ibkJmVlFFS1J3V3RvSGNBcWtnbDVZX3NnaDI3YnNnMlJ1MzJjZU9JY2YtTnU1S2dsSjBNNkNpX2w3VHprSUZEcHFuVzUyVFh0OXFYVTltNGxTWHRWd0NlbmJvT1VvSEpqQkI?oc=5": {
+  "title": "US Job Openings Edged Lower in June as Layoffs Remained Limited - bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1785864233.033199
  }
 }
