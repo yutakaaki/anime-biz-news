@@ -16156,5 +16156,473 @@
   "source": "Googleニュース(reuters.com)",
   "label": "対象",
   "ts": 1786165242.133939
+ },
+ "https://www.forbes.com/sites/erikkain/2026/08/08/nyt-connections-hints-and-answers-for-sunday-august-9": {
+  "title": "NYT ‘Connections’ Hints And Answers For Sunday, August 9",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1786208437.3875399
+ },
+ "https://www.economist.com/culture/2026/08/08/plot-twist-newsletter-how-ted-lasso-became-more-than-a-tv-character": {
+  "title": "Plot Twist newsletter: How Ted Lasso became more than a TV character",
+  "source": "Economist(Culture)",
+  "label": "重複スキップ",
+  "ts": 1786208437.3875399
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-08/even-the-student-council-has-its-holes-anime-casts-yumi-uchiyama/.240400": {
+  "title": "Even the Student Council Has its Holes! Anime Casts Yumi Uchiyama",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWk9ZaWdmNjZYOERYOHZkVnlmd3ZPVDZ2aE10UWJ2YkN4YlNzQnRCSjdENFJsSFJUc1VaUVdVSjl3SDJjdlNQLTV3?oc=5": {
+  "title": "『トイ・ストーリー5』ピクサー・アニメーション史上最速で興行収入100億円を突破！ - banger.jp",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "媒体加算",
+  "ts": 1786208437.3875399
+ },
+ "https://variety.com/2026/film/features/tony-dominic-sessa-anthony-bourdain-struggles-matt-johnson-1236829327": {
+  "title": "‘Tony’ Star Dominic Sessa on How Being a ‘Liar’ Helped Him Portray Anthony Bourdain and Why the Film Foreshadows His Later Struggles",
+  "source": "Variety",
+  "label": "媒体加算",
+  "ts": 1786208437.3875399
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/08/08/charli-xcx-reaches-no-1-for-the-first-time-on-one-of-the-most-competitive-albums-charts": {
+  "title": "Charli XCX Reaches No. 1 For The First Time On One Of The Most Competitive Albums Charts",
+  "source": "Forbes(Hollywood)",
+  "label": "媒体加算",
+  "ts": 1786208437.3875399
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/08/08/beyoncs-decade-old-song-helps-her-reach-a-chart-milestone": {
+  "title": "Beyoncé’s Decade-Old Song Helps Her Reach A Chart Milestone",
+  "source": "Forbes(Hollywood)",
+  "label": "媒体加算",
+  "ts": 1786208437.3875399
+ },
+ "https://deadline.com/2026/08/anthony-michael-hall-breakfast-club-sequel-1237029314": {
+  "title": "Anthony Michael Hall Says ‘Breakfast Club’ Director John Hughes Hoped For A Sequel With Grown-Up Characters",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1786208437.3875399
+ },
+ "https://deadline.com/2026/08/taylor-swift-donald-trump-august-tik-tok-1237029309": {
+  "title": "Team Trump Trolls Taylor Swift With Song Use Before Copyright Claim Brings Silence",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1786208437.3875399
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/08/08/drakes-masterpiece-joins-one-of-the-most-exclusive-clubs-on-the-charts": {
+  "title": "Drake’s Masterpiece Joins One Of The Most Exclusive Clubs On The Charts",
+  "source": "Forbes(Hollywood)",
+  "label": "媒体加算",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxQamRGcXFaNi1MR2thUGZTRWtRQmN1aEZkb0JrMktmellDNFdlQ2tkcGp0WjhNdDZsX1dheVprbHo0cTAzUFg1WjU5TlNpLTBZTzhka2FwRklNQWVaQXFnZHZMS1NXd0JWWXJpNUo5T3NRa0wxRFZ0eS0xdm9QTjAxUzItNEFDN3lrdTN2cWJONi1TTndaNnpaOHVOcFFLRE40YzhLd0tNakF4eUpJOHZZWUFhUVA?oc=5": {
+  "title": "Iran Says Hormuz Deal Close But That Its Conditions Must Be Met - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "重複スキップ",
+  "ts": 1786208437.3875399
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/08/08/ella-langley-ties-three-of-the-biggest-hits-of-all-time": {
+  "title": "Ella Langley Ties Three Of The Biggest Hits Of All Time",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMivAFBVV95cUxOelA2T2J1T2MwTVFLd3NiRmFXb29OX1lhdURPYnZMajRUT0c2UUpjMWpESU1aOERwWHZPRHUwdGtSQ3k1WDBQc1M0cXNLQ2JOTnlLM3YxdjhqZmFQYjRsNXJEakxzS2dxNGF0YTJITkhFTDlpREJna2NKSmhtYWh1RjVYUG1KS1BuYjV3LWRMXy1LNDZQREFVUVpqOVlYNW1qUFRTVDBpTUhwYmJVZk42YnBhWEQ5ejB0NGJkMQ?oc=5": {
+  "title": "Werner Herzog to Receive San Sebastian Film Festival’s Donostia Award - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "重複スキップ",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0FxUnp0X0hlTkxWLTRPVTdDdG5Da2xUVmhxS3Z4X09pbVJRVmNsUjNKSjdSdGM2NGlFRFBwMG9yaGhFLVZqZTJyVS1DbEJJYVpWOFRuVncyeXcxenN1SVJVTkVZb1pmWlRJLWNneHluM1NMYjBzWXg0MzZ4TUhPRUVzM3M4Wkd5eHdDSVZ4OVN4cmJrWWJwZ3Z4YmUyYlBIV2NXM3I1VWpaclRsM25idEhrMGZSeUkzaUE?oc=5": {
+  "title": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "媒体加算",
+  "ts": 1786208437.3875399
+ },
+ "https://variety.com/2026/music/news/taylor-swift-song-august-removed-trump-tiktok-video-1236830512": {
+  "title": "Taylor Swift Song ‘August’ Removed From Trump TikTok Video",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWnF1WExUSzRBejlYZnQ2V2U3c29FNVZlNl9pUHV1ZDdPVk5fVXVnam8tX2o4bEIzTE5WWmUxMVIwQXlfMUVZUGVNV3JNaVBINU92dExha2pPRXNSR1dXdndicDdhV3pQbi1mZ2JKb1lSMmt5NWhJNkNjeEx5OXdlaWMydnFFRXNBa3dBQmNsOFRwRjNVeTFnc2tpWWEwNUN3NnI3VTNfLS1HMFNiSnBqZkVUN0cteUpUdTMySEFqNmxCVHFEbGxrZUo5RDNKWk5jSHRV?oc=5": {
+  "title": "‘Spider-Man: Brand New Day’ Projected To Make $143 Million At 2nd Weekend Box Office - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "媒体加算",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wck83T2ctdTZLZUdpZWQ3WjVUalFyNUN0Q0x2ZFhVVHQ4dWduQ1VBaW1fWFZIMlRiOWdTYXYydFVGVzE1WkxxVnNTR2VQOUFfamMxNFBvUjUzdXZUSTg4ZWxhTEpmbGk1X3JTWVJUNEVHTGYtbExNXzZiZFl6aDQ?oc=5": {
+  "title": "「金曜アニメ枠倍増」した日本テレビ、1Qアニメ事業は“作品数増加”で増収 利益は『薬屋』反動響き減益（オタク総研） - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "媒体加算",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPajlYR1MyLUNCUFE5ZkctOGhYUVhUNXZFLTFpaFY4TTNRTWdoSkV1ZEh1S0ZTR3RvNlVCU2xEeWxmNm5BTVBtZFdpM3djcFd4dXRqUjNwUG92WEs2cXNTV3hQNmc5OW5PUEpQNmFydzhENGRqM3FXRzJrOF9OWUN3alFKc2txaHhNUXlfbjdpamVkbVY1NFAyVmREWmlmWUg5SS1IazFOVXpFQnlUZFJWeFdnSWpnYmpU?oc=5": {
+  "title": "Aisling Bea Joins Brendan Fraser, Jeff Daniels in Sci-Fi Thriller ‘Starman’ (Exclusive) - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "重複スキップ",
+  "ts": 1786208437.3875399
+ },
+ "https://variety.com/2026/film/global/olivia-wilde-the-invite-locarno-seth-rogen-1236830606": {
+  "title": "Olivia Wilde Says She’s Become ‘So Much More Romantic’ Because of ‘The Invite’: ‘It Melted the Cynic Out of Me’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://deadline.com/2026/08/olivia-wilde-the-invite-theatrical-release-1237029352": {
+  "title": "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101868.html": {
+  "title": "ブルマの食い込み、むっちりとした腰まわり…そして“挑発する目”!!「おさぼりギャル 愛沢りさ」フィギュアで新登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://0115765.com/archives/199549": {
+  "title": "人気声優・小倉唯、“三十代初”の写真集　20歳の時と同じ舞台で…新たな魅力見出す「ゆいま～る」解禁",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DczkyMFlFNVBETEpVSUpIRXNKdEVHUnpxaTZCZ2V3X1Z3ZG01QWIzck8tcTFIYUt0RHVmSG5DSXRJbkhld2dmWmVkdzZZaVl4aExHeDNkRUlIUkhNYkItcVUyWnZsREYyZlNUN0FwYUtEQlR5MDZELWRDNA?oc=5": {
+  "title": "【物語はクライマックスへ！】TVアニメ『DIGIMON BEATBREAK』最終章【アスカ編】のビジュアル＆あらすじ・先行カット公開！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://deadline.com/2026/08/madeleine-carlisle-stephen-colbert-60-minutes-atlantic-1237029326": {
+  "title": "Madeleine Carlisle, Former ’60 Minutes’ Associate Producer & Daughter Of Stephen Colbert, Lands Writing Gig At The Atlantic",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101867.html": {
+  "title": "「私を選んで」…口元に咥えた値札やスカートの裾を持ち上げる仕草にズギュンッ!!!!ベルドール「ロゼ」がフィギュアで新登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://0115765.com/archives/199521": {
+  "title": "ホロライブEN所属VTuberが『メイドインアビス』新作劇場版の主題歌アーティストに抜擢　過去作携わった作曲家も参画",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pNkVsdmUtMjFoN2o0TFNlSmhxQ0M0VVlNMFhiRTZ1LTkzMk14LThfcEtkZ09xQ0dGX3FUYkVETXdLTFVmdTZVWjNMbjBBTktHdExBcm1tLUxuWDVrc180djI2LUVRRmo4dHAwVFVoM0l3TXg1ekVZTVlkNWQ3UG8?oc=5": {
+  "title": "「VIVANT」で生成AIが使われたのはこのシーンだ!〜TBSドラマ初の本格利用〜【調査情報デジタル】 - Yahoo!ニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "グレー",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxOam1zTHR2Q2pxY0RHMWVKMVRQRU1vRVA3RHd3SHlLZnlWUTd4b0FDYk8zSktFTllqMm9HYzdaMW9OdWFMcGNfbm9hTHZGYUtnQk56d2xWVDJIM0RFZGx3bjFocUFrRTB5NHU3TXQ3MGx0Q3lqa0l2UXI2MDFGaTV5YWhyM3NVZlNnSUdYNDJPREJrbTk4MDRSQ0ZDZDNwVUhjV3ZSd2ktUUw1Q3ZSX0JaYkZoMA?oc=5": {
+  "title": "War Brings Winter of Discontent for the World’s Workhorse Fuel - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://variety.com/2026/film/global/liaison-pictures-because-the-night-productions-locarno-1236830322": {
+  "title": "Atlanta-Based Liaison Pictures Joins France’s Because the Night Productions on Locarno Match Me! Title ‘Behemoth Ann Holds a Seance’ (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101866.html": {
+  "title": "ムーミン谷の仲間たちをモチーフに♪「une nana cool」とのコラボ第4弾インナーウェアやルームウェアが登場！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://0115765.com/archives/199101": {
+  "title": "『イナズマイレブン』新作スマホゲームが好発進、iPhoneで17日連続トップ5入り　短時間でも遊びやすいゲーム性など評価",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1786208437.3875399
+ },
+ "https://variety.com/2026/film/box-office/box-office-spider-man-second-weekend-the-odyssey-1236830599": {
+  "title": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1786208437.3875399
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/08/08/ariana-grande-reaches-a-career-milestone-as-she-soars-into-the-top-10": {
+  "title": "Ariana Grande Reaches A Career Milestone As She Soars Into The Top 10",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101865.html": {
+  "title": "セクシー水着で弾ける夏☆「かのかり」「カナン様」「瑠璃の宝石」…コミケ108に「きゃらON！」出展！22タイトル・350種以上のグッズ販売",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5": {
+  "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTEteXhQZS1BOVdVUGN1YkJGLXpnNWEyaXlOeWVBS05JUko0cF9ydEsyanFlNnRqbXpvQ2JkSWVfSEtRQVBlRXlVZGpXYTBJQjhyaktGdkZnRGFGby1jTUw0ejdGSEFSa012b19uMHhBU003alFUNUcyX056ZGFkWUpBSEdvNkV4aDdVbThxWERUM3BNSWJF?oc=5": {
+  "title": "A fishing competition reels in viewers - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://variety.com/2026/film/news/oxic-trailer-yash-dual-role-gangster-epic-1236830597": {
+  "title": "Yash’s ‘Toxic’ Trailer Unveils Dual-Role Father-Son Conflict at Core of Gangster Epic",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://www.forbes.com/sites/hannahabraham/2026/08/08/i-think-we-go-to-italy-david-henrie-on-potential-wizards-beyond-waverly-place-movie-and-that-finale": {
+  "title": "“I Think We Go To Italy”: David Henrie On Potential ‘Wizards Beyond Waverly Place’ Movie And That Finale",
+  "source": "Forbes(Hollywood)",
+  "label": "対象",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101864.html": {
+  "title": "“あんたの全てを壊して、オレが勝つ”「幽☆遊☆白書」 幽助、蔵馬、コエンマたちがウォーターガンバトル!? 新作グッズが登場☆",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://variety.com/2026/artisans/news/spider-man-brand-new-day-fight-scene-jean-grey-phoenix-1236830062": {
+  "title": "How ‘Spider-Man: Brand New Day’s’ Climactic Fight Scene Secretly Evokes Jean Grey’s Phoenix",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://deadline.com/2026/08/bill-maher-ariana-grande-jokes-1237029302": {
+  "title": "Bill Maher Makes Weight Jokes About Ariana Grande, ‘Real Time’ Audience Groans",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101863.html": {
+  "title": "「響け！ユーフォニアム」あすか、夏紀、優子ら先輩も描き下ろし♪秋の京阪電車コラボ開催【9月1日～】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMiggFBVV95cUxONm96b2w5ZnU4ZC01M1pkbGxlMmtFdGhla2hzTzVWZFFLX3JDVmVvUm5UcU9EVmhfdG9vWHF5dlFyY0txcDBCY1FyTUxJOXNOdDRZZVFEWFBxOTNkOXhzdVdWM0JMeGxrWkFmdDdhZTgwdWtBLTZ2bUo3ODJIaUxuMHp3?oc=5": {
+  "title": "生成ＡＩ、被災地照らす 避難者自ら情報掲示板開発―偽映像も、浮かぶ功罪・熊本 - 時事ドットコム",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6UjZPYnJha2VNRG9IUzc4bXN3TUdUN0JoZDJMT0M0QWFRQ1FXOGF0SkRpbXo0ZkVUZlFjY19mczl1YU1CVWVRTG1YMTBBMDlRSG9YMUNSZ1RGYXA4YkdhV3VjSUxJOTgzeHpHWjNLdHk3UGhjQS12czFzSQ?oc=5": {
+  "title": "アニメ『ヤニねこ』第1～6話無料振り返り上映会 8/13（木）22時～配信決定！ ヤニねこ役・夏吉ゆうこのサイン入り台本が当たる プレゼントキャンペーンを実施 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://variety.com/2026/film/reviews/kettice-review-1236830542": {
+  "title": "‘Ketticè’ Review: An Amusing, Original Portrait of Adolescent Ennui Against a Backdrop of Adult Cluelessness",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://deadline.com/2026/08/sara-sidner-cnn-false-stage-4-cancer-scare-1237029297": {
+  "title": "CNN Anchor Sara Sidner Reveals Harrowing False Stage 4 Cancer Scare",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101862.html": {
+  "title": "「本好きの下剋上 領主の養女」セガ ラッキーくじオンラインが登場！エタージュラやトランプなどがラインナップ",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EQkN1Y09lVDNJY09KVktnMS1NRXd3bWtRcVZMdTliSHluRkVKR3RlVHQ2N185bUN3SE5tZHJ4bTFJYllUX0hEWW5Da2xoVU1Pa2dEUE1XU2t1Qnh2MEFNMTBGcnVKUk5UWlYyMW1OYmhhTWRJS0JlOTdVbw?oc=5": {
+  "title": "「アニメ『僕のヒーローアカデミア』FINAL SEASON」のコンテンツプリントがセブン‐イレブンのマルチコピー機に登場 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmNpUDQyODliWHdkSTZoYjYyMDg4bEZZQmw5WXBNWkpickFFUGt6bEJxU3V2VlpGSW4ySUd2SVA4Szd4RElueDJZaHNVOFVJYVZtQ0FCS0VJQmEwMTNSU2lFMUZScHJielFCQ0hUS2swaEItRVhqZXdSUUpSN1JXWEhqX21CdDhuV3F1MUJ6NFdaekpCcS1KQThjbVozOWdhNWFJR2MwU21QRDJSb3c?oc=5": {
+  "title": "Private Credit Squeezed By Bank Refinancings: Credit Weekly - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://variety.com/2026/film/news/satyajit-ray-goopy-gyne-bagha-byne-maharaja-tomare-selam-1236830536": {
+  "title": "Satyajit Ray’s ‘Goopy Gyne Bagha Byne’ Making to be Chronicled in Srijit Mukherji’s ‘Maharaja Tomare Selam’",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1786208437.3875399
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/08/08/morgan-wallen-misses-out-on-a-new-no-1-as-his-duet-partner-blocks-him": {
+  "title": "Morgan Wallen Misses Out On A New No. 1 As His Duet Partner Blocks Him",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101861.html": {
+  "title": "【推しの子】アイ、アクア、ルビーが日本全国・47都道府県の地図デザインとコラボ!? チャーム付ピンバッジに♪",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLU0zQkFqMXVqOExRZ2pKeEVOeFZTSi15a2tzejdBRWhsRkQxWVlwRjNGT0x6cTFjWHRzRDRib2Z0XzhxbmhoZkV2VGRBVTFTZlNGSnFPMUQ3SWZ5NmFxeVR4SktaN1FWZ3N5UFJlazNpQ3B6OU5acEtjNTFkcDNFcWF2QmFqbUpxRzV4WFBMNi0zbmZTeHdiX200R3phcG5WVjFNX3R3RXhTU2RsREpGc3pQN3k?oc=5": {
+  "title": "DraftKings Blasts Prediction Bets on Earnings Calls Comments - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://variety.com/2026/film/news/i-rarely-wake-up-dreaming-review-1236830181": {
+  "title": "‘I Rarely Wake Up Dreaming’ Review: An Affecting Trans Relationship Drama Brings Fresh Perspective to the War in Ukraine",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/08/08/nirvanas-signature-smash-reaches-a-new-chart-peak": {
+  "title": "Nirvana’s Signature Smash Reaches A New Chart Peak",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101860.html": {
+  "title": "見なよ…オレのチャイナ服を…「メダリスト」いのり、司、光、いるかの新作グッズ♪ くるくる回るアクスタ登場！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHBPZHFxVkloVl84VkpEYjI5RldoWVJmZkJOUkFxX0t4U0p5VjNpNmgtR1NiN3pleVRvMGV3ampnLWdMV0t6UU51VEhlVWpFMnB5dGo5UFdLMENaZ1pMNEk4UmZiS0ZqbEtYSHRTNDNCSGg3U2d5TDNsVVREM0VGVUVWVGhYNzhXYzRabExzMUl1WldQV3JUR0l5N0xLREhHa3VEdzFHUTM?oc=5": {
+  "title": "To Understand the US Economy, Just Board an Airplane - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://www.forbes.com/sites/hannahabraham/2026/08/08/would-have-loved-to-see-max-janice-leann-brown-on-that-wizards-beyond-waverly-place-finale": {
+  "title": "“Would Have Loved To See Max”: Janice LeAnn Brown On That Wizards Beyond Waverly Place Finale",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101859.html": {
+  "title": "夏アニメ「さよならララ」“セル画”の壮絶な撮影現場とは― 設備探し、故障、修理…困難の連続!? OP映像のメイキング公開",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RU42T0FJazFlaFNVMmc0djFkYUsyZU5XSXpfb0w5S3NSSGhsRkM5T0s4TTRvNkZRVEx5b0FJRlhiYUFWZjhCOFFoS0FfWGJuR0hlYWxPME1wSWZBeWVV?oc=5": {
+  "title": "Lessons from Chinese AI - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTm1zX2RMQU9WaGNkNlhLbXcwemxQMHRHMnJrWHZVWXlXbFF3SXg2OHYybjZfZ3UzdVhpOTB2N0c2bXNPaG9Kb3BpWXJMYl9LakZ3bkRJUnBlQlFWdVdXR0p3NHpvTHV3U3ZWVnFFc18xdWs0MExvdEN1clE4WnV3VzNKdDNRTTJOYVFTRUpnM1hKbUEzOW5yZFFDMmFrZDhLY1k5LVFrdVNJNERKb3R4Ykt3?oc=5": {
+  "title": "Ukraine Grain Exports to Slump After Russian Strikes on Odesa - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://www.forbes.com/sites/sabrinareed/2026/08/08/anna-pigeon-episode-1-tracks-sheila-drurys-real-killer-and-lands-on-a-bigger-conspiracy": {
+  "title": "‘Anna Pigeon’ Episode 1 Tracks Sheila Drury’s Real Killer And Lands On A Bigger Conspiracy",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101858.html": {
+  "title": "「夏目友人帳」夏目＆ニャンコ先生の式姿が可愛い♪ お求めやすい価格の「ねんどろいどべーしっく」から登場！ ちんまい二人が並んだ姿にキュン☆",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2VqelJlaHRqX1MxOVlBd3Y2UGpNVHBpdVEzV2F0OVJ2VmlNRmVpb2oxemsxa1Q3OTVFOEQwaXVvWjRWR1ZGcm12VkpkZDdoc2Vka29TZFBhb3FCdHdEaXUtbVZ3QWQxeklGaUVyUjl0TVB6TGNIaW5hMTBPMnZlNXJpdmlyQXlKZkxvNWpuMzFBclNObk1TaVlvaWxZYmJTblE3TldUakNpam9UQ0tZTFVnRWg4OGpoc0dNVkFaLXdsU00wTVY0?oc=5": {
+  "title": "Investors Clamor to Bet on AI Whiz Kid's Fund After Situational Awareness Turmoil - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://www.forbes.com/sites/timlammers/2026/08/08/minions--monsters-streaming-date-nears-as-franchise-shows-wear-at-box-office": {
+  "title": "‘Minions & Monsters’ Streaming Date Nears As Franchise Shows Wear At Box Office",
+  "source": "Forbes(Hollywood)",
+  "label": "対象",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101857.html": {
+  "title": "ガンダムX、ガンダムヴァサーゴがかっこよすぎる！ 「ガンダムX」筆絵タッチで描かれたTシャツが明日（8/9）まで予約受付中！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMitwFBVV95cUxPemM5QzNxUlFQR3IwZjIyXzFmUExfWldVNTFLZ2NZYXRZSS12LVl4eTlGNXRJb0otZk1WS0tpeGQ2cFAxU3FfdWw5Xy1abHJFVXhPRUw2elVjNWZMQ25Vejl4ZEppUzlKeWZ4THJ5RjVTcURHVFBCdmdmcW9WdWVnRm5RYnJXd1pUS3JsRkdhbkdVOUZXbDFKXzJwejFOblBWWVdYVGsxUGdSdDM4TEI0Z1NBVWI0dGM?oc=5": {
+  "title": "Permabear Michael Burry Ignores a Crucial Fact About US Stocks - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com/opinion)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMEhVbklrZGpobV84bGQ4aFVMTklET1FsMFpYckw0Ymo5c3p1OGtLTkZuVzc5eDluNzU4R18tNTNiTG1rek1RSWhnMEh3dE0yQlczWm90SV9CbmF1TElCS042Ymx0MUE3M3A4NENTUVFqdVpfNW5DaWVRUFF0UjhKNVBQcXJTdw?oc=5": {
+  "title": "7 Funds With Crazy High Yields - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdXlvWVBIWGdJb2d4bGZmdDZEQWVuTHEzZjZ0bjhvRWMwckcxMDdDb0h3cXk5UWNBbDZfa1JIQTBrNGdwTG0zbW0tSlc3dHlJdE1mMFFTS0ZrTTdtaDVwSXh1UmFLXzRXRDlqUnowRUpJeUxrZ1NyUy1XaFQ4aGJqNDFZeVhYODNwdWlNWkc3Q3hoMVBVRzlBTHU3Q0l4SGpMOGNyeVZzdTlHemc?oc=5": {
+  "title": "Alphabet Returns to Bond Market Despite AI Spending Worries - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101856.html": {
+  "title": "「ヒロアカ」デク、爆豪、お茶子たちの浴衣姿が可愛い！コラボカフェが東京・大阪・名古屋・福岡で開催",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KRTRtbEJpRjlXWDdRbjNBQmZqTy14T0VmUmNjRTc4NnlaMnktTGcxaV9IejR3WF9UUm5kelItVUM0WXdUZFNERENLRVFlcUlqLVlENTgzVkhoVnYzeEZBdDhoYTJBaWVCYktDYXB5UDJOSGhqanBHck9GNHdQQVk?oc=5": {
+  "title": "映画「ちいかわ」は大人もハマる傑作!「原作は東野圭吾?」の声も飛び交う仕掛けが満載（アニメ！アニメ！） - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ29QajJZeU1MUE5iU2tTY25PMWYtbUlrOG5vUmZXRHdVNHZVRGU3S0p6Smd0a2RndW4zb0g5YzZyb0ZJNm5nNDk1Rm5OR0N5TlBfaWlBZDZOMDcxWEtERlpMNHhRa3hMY01ZcmF0V0wtaXlKaXJjVmVjTXp0aWdwOXNpejJEd0lYNWlfRkJRc05LUGVsQ2N3VHI5RC0wX3BCNUNoZEFXX2k?oc=5": {
+  "title": "Taiwan’s Biggest Threat May Not Be China’s Military - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com/opinion)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMnJmSFIwVUJVQ3RiUU1ha0h4WkY5akVkZnJ1Yng1NkxBaDM4cHQxc25Beko0WU5yeUdiVjVkWlhhbERLdi1qdnpDWnB4R2JTbDlYTlRmalFSNDVfb1N1MWFKYlpTSTRLd0Z2TzBOMndlOUFJamtQRU9Wc1Q2UVMyeW1NbUIxYnVUOWJBblZTY2U5eDBwZV9YNHNYYWZBVHNCcTAwcTRoXzJjNzdKZmRCRmhzRmU3cUZpc0VGZXRGZG5nR2tkTV9R?oc=5": {
+  "title": "China's gold reserves rise by most since October 2023 as buying pace quickens - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXkySnlYbDUzR3kyWjJMaGRCLVFUTzFkRUZJS00tTEFBdTk4amxlYWhzTUdpOG1OblBJQU1PYTVQY3Rsdk40UlJReWdjYnhhZDBEdXY1OFUwWWpBMEtoZkFUMDZNQ29DaUZTUXN2QUpBUGtHb1lOb0NjMVc3RUtHZF9BUFNtWENxN3AxWUlYZjJ6eXQ2LVFkQ2ZVdW1KbjJ0cW91WUpUcDltd0JsTnk5TWRhZ2U?oc=5": {
+  "title": "Drones Sighted Over German Military Base After Airport Incident - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://animeanime.jp/article/2026/08/08/101855.html": {
+  "title": "「クレしん」メガネで“知的な”しんちゃん爆誕!?「Zoff」初コラボ☆ チョコビ型メガネケースも欲しい～",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15QVJnWlBkM20zVkJSVUl5NklJR1VTU2EtUDNvT0JFRFJZZEMwVXRFMnNSWjJQS1lueXBLVk51WVRIMEdrSUpJVW5wZWlqT09FclQ2UQ?oc=5": {
+  "title": "生成ＡＩ、被災地照らす＝避難者自ら情報掲示板開発―偽映像も、浮かぶ功罪・熊本 - 時事通信ニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBseXVpV1pLd2pObUc1dy1IQWhaTGltQ2FPblh4ZUVBMzY1dzlndnpaa2htQUVUU002SkVYOWtXd0VoeXhJMG5heXEtVFktaXFzYWRVaVhWdlZjcWFEamJXWTh3?oc=5": {
+  "title": "インドに亡命中のバングラデシュ元首相、１２月に帰国する意向「同胞が苦しんでいるのを傍観できない」 - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
+ },
+ "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRWRSdkZZZUU0ekxhN1NDZzgtUEV3WEVHTzJvSS1uQ3VzdGJiM240WUdFVGZKb3ZIZkcwd1JFcVI5Z1UzZi1ocGZCQnhaWkhIYzlFMGFhMU5tQkJtRGQ5UWtSM3lhRVJ1U2JGX2VjY0U3eHYzZTFhd3QzRjRFWHhDU1YtLTd6aEdmbEgyYzY1NGNnZk50ZUVueWo0M0FHcmk1UGpCTHJn?oc=5": {
+  "title": "Trump Is Aiding a Golden Age for Renewable Energy - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com/opinion)",
+  "label": "対象外",
+  "ts": 1786208437.3875399
  }
 }
