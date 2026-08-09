@@ -16624,5 +16624,383 @@
   "source": "Googleニュース(bloomberg.com/opinion)",
   "label": "対象外",
   "ts": 1786208437.3875399
+ },
+ "https://deadline.com/2026/08/obama-tan-suit-life-larry-the-pursuit-of-unhappiness-finale-1237029530": {
+  "title": "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1786251640.058126
+ },
+ "https://deadline.com/2026/08/matthew-mcconaughey-performs-quill-rivals-amziah-king-watch-1237029525": {
+  "title": "Matthew McConaughey Performs “Quill” In Scene From ‘The Rivals of Amziah King’ — Watch",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1786251640.058126
+ },
+ "https://www.forbes.com/sites/erikkain/2026/08/08/nyt-pips-answers-sunday-august-9": {
+  "title": "NYT ‘Pips’ Hints, Answers And Walkthrough For Sunday, August 9",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1786251640.058126
+ },
+ "https://www.forbes.com/sites/erikkain/2026/08/08/wordle-answer-sunday-august-9": {
+  "title": "Today’s Wordle 1877 Hints And Answer, Sunday August 9",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1786251640.058126
+ },
+ "https://deadline.com/2026/08/dwayne-johnson-reacts-live-action-moana-negative-reviews-1237029465": {
+  "title": "Dwayne Johnson Reacts To Live-Action ‘Moana’s Negative Reviews: “Just The Way It Goes”",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1786251640.058126
+ },
+ "https://www.forbes.com/sites/erikkain/2026/08/08/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more": {
+  "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1786251640.058126
+ },
+ "https://variety.com/2026/film/news/perez-hilton-update-surgery-live-stream-family-statement-1236830699": {
+  "title": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1786251640.058126
+ },
+ "https://www.forbes.com/sites/timlammers/2026/08/08/michael-streaming-shifts-to-starz-this-week-as-sequel-filming-nears": {
+  "title": "‘Michael’ Streaming Shifts To STARZ This Week As Sequel Filming Nears",
+  "source": "Forbes(Hollywood)",
+  "label": "媒体加算",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101880.html": {
+  "title": "【夏休みの宿題】日本の夏は妖怪！演じてる声優わかるかい？『夏目友人帳』ニャンコ先生＜クイズ　第2回＞",
+  "source": "アニメ！アニメ！",
+  "label": "媒体加算",
+  "ts": 1786251640.058126
+ },
+ "https://deadline.com/2026/08/madonna-william-orbit-tribute-1237029382": {
+  "title": "Madonna Pays Tribute To Late ‘Ray Of Light’ Producer William Orbit: “Your Music Gave Me A Magic Carpet To Fly On”",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1786251640.058126
+ },
+ "https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655": {
+  "title": "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1786251640.058126
+ },
+ "https://deadline.com/2026/08/morrissey-las-vegas-cancellation-1237029376": {
+  "title": "Morrissey Cancels This Month’s Four-Show Las Vegas Residency",
+  "source": "Deadline",
+  "label": "媒体加算",
+  "ts": 1786251640.058126
+ },
+ "https://deadline.com/2026/08/andrew-lloyd-webber-gcats-gutted-broadway-1237029355": {
+  "title": "Andrew Lloyd Webber “Gutted” About Tonight’s Closing Of ‘Cats: The Jellicle Ball’; Composer Hopes Broadway Will “Come To Its Senses”",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFByZ3RzOERVekFFZUczVUZvYndHZktraGlhZndLTnY3NFY0VUN3c0FuQVRfWGRGVGZNazZSSkxIRHRaNnhyR1hiX091Rmh0MzYzVU5EOUd5VE1FR0ZQNXdwVXNyazJaSzVkZk93ajVoVTNrZWUyVjdvZE1YVmdJSlVEV3hHS1RmT1d4bGtGSW94dWNoUk5XeUkzT0tSUjNtZmhhMGdWUi1neTRtQnJEUzdn?oc=5": {
+  "title": "Plot Twist newsletter: How Ted Lasso became more than a TV character - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "重複スキップ",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWE5jT1dwNzg0SGdqZTVIYTlQNVhaVjJ5TTZyNmM5RVFNWFJFbHdPVHNoR3VEdmEzU2FoNE5TdE5hbkJmQWdzQnpZT3NyRk9USXpYZENta29hZUZLLTVTQ19rVWZEbWRKaGg3c1E5NnZnU2RLc3ZqNHhOTEJ3eG9idm14cnpMLUlBLWpuVzNKOHVjUEFTUWhWWWRsc0NHY2thSWg0WGFweVNDQXp6eEF4Z0xyNnZtdVRMX0cyTl95OG4?oc=5": {
+  "title": "Morgan Wallen Misses Out On A New No. 1 As His Duet Partner Blocks Him - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "重複スキップ",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMirgFBVV95cUxONlRKSmRxWG5ScDhtV19vT0RkUzlXOGhhSWRTNjVUUjlZVk56aDhCMlJiNXB2b2wxMVhCNllCNk0yYlR3alNBWFJPVXFMSlVnaFJpcXQ0cUNiLTZidmg0Qi1teVVSNnh4TzNsZkE0WmY4OEZJaW53MnlQLXRPZV93VmUzRjhsV2dJZXVyc1EtRVJlWWlRbUl4RHRCTHJyS3NXU281V2FBUXdOUGg4VUE?oc=5": {
+  "title": "Ella Langley Ties Three Of The Biggest Hits Of All Time - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "重複スキップ",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFo1YTNlY3JUTmxObUpqbjRtQ2ZsYjVXUlU5bjNUaXZsYVZJS1R4dmR0MWRUOF9hTjExQUw5akIyOUJ1RWRFSlRoTjdNMndWQ29NNzZiNDB6eUpPME1LbGFSakI4cXNXSGZlS2J1U1EyNDBrRGtpaFZTX05QekJkV0txVzhpR0J2aEFDQ3JMczZKQUw3Z2IyTnREUUFLQnR4Q0FQU0Z3?oc=5": {
+  "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "媒体加算",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3lnR2ZGUnNVNlRUVWUteW96cW1HcTBfRWl4NFJtNGJYQTZIRVBZTlU2ZUZCbzBOSUh4MTZ1SENDMU1BYjR4MVJDOHU1clJwcHJSM3dodWduTmVGM0lZeEpteXpiajFGMk4tbjBOLUlRZDFpQkVhTVd0T2U2MVpYUVBhemhLMEUxXzF2M3M5Um5RZFlMekpIUlJ0dGNQb1BhSEt0TWFMZERZaWdkMTQ5alJlVTI?oc=5": {
+  "title": "SK Hynix to Spend $38 Billion on Chip Fab Expansion in Korea - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "重複スキップ",
+  "ts": 1786251640.058126
+ },
+ "https://variety.com/2026/shopping/news/whitney-houston-barbie-buy-online-1236830603": {
+  "title": "Whitney Houston Gets Her Own Barbie, Recreating Iconic ‘I Wanna Dance With Somebody’ Look",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://www.forbes.com/sites/timlammers/2026/08/09/mattel-honors-whitney-houston-with-release-of-barbie-collectors-doll": {
+  "title": "Mattel Honors Whitney Houston With Release Of Barbie Collector’s Doll",
+  "source": "Forbes(Hollywood)",
+  "label": "対象",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101885.html": {
+  "title": "リトルミイのデザインが甘辛キュート♪ ムーミン×ルコックスポルティフのコラボ第3弾が登場！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://0115765.com/archives/199652": {
+  "title": "『名探偵プリキュア』映画オリジナルキャラ一挙解禁、今回が“プリキュア初”の人気声優も！各々「光栄」と喜び語る",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-08/magilumiere-magical-girls-inc-season-2-casts-yusuke-shirai/.240407": {
+  "title": "Magilumiere Magical Girls Inc. Season 2 Casts Yusuke Shirai",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdk94SGhfOXRPREJRMDNUei0tSkZ4ZzRWSHJiWDNSREk3RW5vTnRVeFJsWmM3cFdHUnVlMEt0TjJTOXpIeWs1ejY1N1M4NU5TTUpxTlRONm12UVVHU0d3NzBnSTludWhXY1lTMWVWZzh3bmcyb1FHTlBBMFFhamtleWlFVlQ0M1V4dnRrTmZLWWt5QU0zdXJQZTZFWWhzVVpHWERKa3VIX19fb0ZiYklZQlhvZkh5Umc?oc=5": {
+  "title": "〔注目株〕エンタメ系、連日好調＝ＩＰビジネス順調、非ＡＩ物色の受け皿 - Moomoo",
+  "source": "Googleニュース: AI エンタメ 投資 OR 資金調達",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://variety.com/2026/film/news/gina-prince-bythewood-children-of-blood-and-bone-tomi-adeyemi-mvaaff-1236830592": {
+  "title": "Gina Prince-Bythewood Discusses the Worldbuilding of ‘Children of Blood and Bone’ and Praises Author Tomi Adeyemi as a ‘Genius’",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101884.html": {
+  "title": "「クリィミーマミ」が令和アイドルに!? 現代トレンドファッションを着こなすマミがキュート♪ オンラインくじに登場☆【ラッフルくじ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://0115765.com/archives/199611": {
+  "title": "ソフトバンク、端末2年レンタル改悪へ　返却査定の厳格化で“塗装はがれ”でも2.2万円負担…上限も倍額に　保証加入なら免除",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMiakFVX3lxTE55Y2hQLXByRG5BVjFzQU14SHg5SmF4aEtINmxYQzFlVDItdmZmMVJFYk1TamtFQl84QUJrdWxJRGQ4eGRTY1cycldfSDAwZU5aMHhZZGdjT1V2MGoyVmZhSU1oZTI2QWFMRmc?oc=5": {
+  "title": "テレビ朝日がサントリー「GREEN DA・KA・RA」とコラボ！同局初の映像フルAIテレビコマーシャルを制作！8/9(日)「バスケットボール男子日本代表国際試合 日本×モンゴル」中継内で全国放送決定！ - PR TIMES",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0anlBMFJEUjZ2bEZNcWxFcVdYVmNhUWdwdGlIODFyQWZ3dDdzT3cyclMyRnljcFlyaGx1Q1FwN3FCQm5ycndCZW5pUUVBM3BGcXg2c2NSdEdfZm1IMG1OYW1EanhKVkRnbHRjbGNZb3pVWEZlc0EtZkYyNA?oc=5": {
+  "title": "九州最大級のマンガ・アニメ ・ゲーム の祭典『KPF2026 （北九州ポップカルチャーフェスティバル 』第1弾出演者を発表 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://variety.com/2026/legit/news/andrew-lloyd-webber-cats-the-jellicle-ball-closing-night-1236830708": {
+  "title": "Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1786251640.058126
+ },
+ "https://deadline.com/2026/08/jane-schoenbrun-toxic-soup-slasher-genre-camp-miasma-1237029457": {
+  "title": "Jane Schoenbrun On Deconstructing The “Toxic Soup” Of The Slasher Genre In ‘Teenage Sex & Death at Camp Miasma’: “It’s There In The DNA”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101883.html": {
+  "title": "約25億円の新エリア開業☆「サンエックス」リラックマ＆すみっコぐらしのアトラクションにショップ、レストランも！「富士急ハイランド」内【レポート】",
+  "source": "アニメ！アニメ！",
+  "label": "対象",
+  "ts": 1786251640.058126
+ },
+ "https://0115765.com/archives/199597": {
+  "title": "『無職転生Ⅲ』卒業のリニアとプルセナ、獣族の決断とは…？第7話「第四段階」【先行カット】",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OREZWNTRqNVhZUEcteW9yakJpYVdSczBQdUJZb0VPUnoxSlJqWVZvZlRIYWFkcUVDOFZ1eVk3a2RXbTRnVUVsREZrem1MMVpVMGIzVEwyZ0pxVUhmYkxUcGJJcFJmaER1alN0bzIxdGZCZFZsM3dBRTNwTQ?oc=5": {
+  "title": "【TVer】アニメ『薬屋のひとりごと』第1期・第2期全話を期間限定で順次無料配信 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://variety.com/2026/film/news/warner-bros-ai-dog-podcast-the-end-of-oak-street-1236830713": {
+  "title": "Warner Bros. Uses AI Dog Podcast to Promote ‘The End of Oak Street’: ‘Ewan McGregor Was Excellent With Treats’",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101882.html": {
+  "title": "「薬屋のひとりごと」猫猫＆壬氏がネモフィラに囲まれて…♪ 茨城県コラボの限定グッズが登場！クリアファイルやポストカードなど",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://0115765.com/archives/199507": {
+  "title": "【VITURE Beast】ARグラス、エンタメを大迫力で楽しむならコレ。最大級の視野角で仕事にも活かせる高性能モデルをレビュー",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://deadline.com/2026/08/one-night-only-director-understands-sex-purge-comparisons-1237029460": {
+  "title": "‘One Night Only’ Director Understands The “Sex Purge” Comparisons",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://www.forbes.com/sites/hannahabraham/2026/08/08/were-going-for-it-jpop-duo-yoasobi-on-grammy-aspirations-and-being-main-characters": {
+  "title": "“We’re Going For It”: JPop Duo YOASOBI On Grammy Aspirations And Being Main Characters",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101881.html": {
+  "title": "「ちいかわ」“ギチギチのゴーグル付き”うさぎ靴下や、27年カレンダーも！新作アイテム続々登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWNTcWdvTHZsQ0FKZTBPWkZfQTZIUlNwcThNNFFWZ29IbEZhd3BibF8yN2NXYzVKZ05Ka2I3LVhxUW55WHJDYmdVTC1NZ2hta0NUYW05emhKUHVUaklLQnB4T0pSdUc4Uy1kYVRzMS1aZlNUZWgzbF9vTGREVVVuQ09CYlVDaXFEYXJ2M1FvSnp2YnVUN0x6bHZEZw?oc=5": {
+  "title": "京急電鉄、人気アニメコラボ企画で「お詫びとお知らせ」「等身大パネルが、紛失または盗難」と公表 「なんで被害者が」「いまの日本はこんなにも」多数の声 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682": {
+  "title": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1786251640.058126
+ },
+ "https://deadline.com/2026/08/monsters-of-god-interview-eric-goode-1237029438": {
+  "title": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rX0dXRDN1VFl0RVA2NUlrZmhYbHRPRFVzRUotZk52X2lXbVNoTzV0NGxFTUxMQzZvWUJnT1ZBNWpNOThKajI1cHpsSGo5OHc?oc=5": {
+  "title": "興収“１００億超え”を連発！『国民的アニメ』サブスク配信が【間もなく終了】に「今のうちに観なきゃ」相次ぐ反響 - TRILL",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1786251640.058126
+ },
+ "https://variety.com/2026/tv/news/heated-rivalry-author-negativity-season-2-casting-1236830685": {
+  "title": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://deadline.com/2026/08/heated-rivalry-author-dismiss-negative-reactions-season-2-casting-1237029395": {
+  "title": "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101879.html": {
+  "title": "感動シーンがよみがえる…！「FAIRY TAIL」ナツ、ルーシィ、ハッピーのフィギュアなどが当たる！20周年記念の一番くじ登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://variety.com/2026/music/news/morrissey-cancels-las-vegas-residency-logistical-issues-1236830670": {
+  "title": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://deadline.com/2026/08/melissa-barrera-takes-weekend-off-titanique-lost-voice-1237029390": {
+  "title": "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101878.html": {
+  "title": "見よ！この肉体美！ 「無職転生III」エリス・ボレアス・グレイラットが立体化！ 大人になったエリスの魅力を完全再現",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDBDdmxkN0N4Wl92N0lDVFRoOHBVUGdXVzJzaDZZVHdrZ1ZlRmhqR0dwZ1lvcFJDTjdZZ0plMFYycEZkeW0wOGZEeFE2OUxvZmFEQ2htNDl0eVo5c2ctR3dKVlZyVHlIWlRxUGVIc0Jsbm9fdHhvUFNTbHlpSXY0dDdpcm03NjhDbHVrZG5rVzA1RVdGQlpIdFBncw?oc=5": {
+  "title": "手越祐也率いるT.N.T、新作アニメ『朱色の仮面』宣伝大使に就任 9月開催イベントに声優陣と登壇【メンバーコメントあり】 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://variety.com/2026/music/news/l-a-jazz-festival-canceled-john-legend-janelle-monae-1236830665": {
+  "title": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101877.html": {
+  "title": "「サンリオ」シナモロール、ハンギョドンのモンスター姿がメニューに☆ LABUBUと初コラボ記念のスイーツも！【サンリオピューロランド】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMickFVX3lxTE5HcnRoU05qeG5DcWpZVHlSbzhNSUJTZmY2NVMzTlh1WTg3WHBiN1hjaFZ1WW9iWGJLa0RCdF9oUE9qSURJRmpTdFZoc1Y4NTJJb0VZRnVTTEpHTngtUy1zTWhBRk1seHhMd21lb2tOY0VQQQ?oc=5": {
+  "title": "博多座で「ベティーちゃん」のミュージカル、宝塚の元星組トップスター・礼真琴さん「宝塚時代と正反対の役」 - yomiuri.co.jp",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101876.html": {
+  "title": "ルフィ、シャンクス、五老星…「ONE PIECEカードゲーム」プロモカード9枚入り！4周年記念商品が抽選販売【9月2日23時まで】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zbHFoWEt0M24wUjJFbHdwZzZadWZoelA1clBZN0pYQ3ZPVHlTMV9KdVczRlVBWkMwRGExT1g4ajdaeEpuWDBhbUFhMm04TGN4MjVWcVpuWnRUMGlRdEhvbmMxanlTTTZIUms4eXpiVlllSVU?oc=5": {
+  "title": "鳥取：名探偵コナンまつり 「平次と和葉」初参加 声優の生アフレコ観客喜び ：地域ニュース - yomiuri.co.jp",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101875.html": {
+  "title": "夏アニメ「無職転生III」ナナホシは、ルーデウスにある提案をするが…第7話先行カット",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101874.html": {
+  "title": "「魔女の宅急便」ジジ＆グーチョキパン店の黒電話がキュート♪「ルージュの伝言」流れるオルゴール登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101873.html": {
+  "title": "ガンダムシールド型の寝袋も再販！ 「機動戦士ガンダム」アウトドアブランドNANGAとコラボしたアパレルがカッコいい！ 日常使いしやすいシンプルなデザイン",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101872.html": {
+  "title": "ハローキティがふわふわのバンビ柄やレオパード柄に☆ 全6種でどれが出るかはお楽しみ♪「フラッフィーハローキティチャーム」第2弾登場【8月20日～】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbURVRnIzOTk4WTgyZTctUnpFS0h5YlozanY2eHFKVHVQREVrYkpvbk1qZTk1cUE5Qm91S19PS0FwV3ZWampuUHAwanowcFJuOTdHd19pT1dhXzRpWjJUcUhwRXB1SmV2cEZINnpNZjZZbnZXeVdMaGNtRTJFc2JYR1ItdkY4SVVVTF9IdnQ2MW5hRjQyeEstc3B2TGVVRkJWTk85bEk5NlZrRnRDVUhyZmVRM3FrZw?oc=5": {
+  "title": "Fed Split on Rate Hikes Deepens as Five Years of High Inflation Tests Patience - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://animeanime.jp/article/2026/08/09/101871.html": {
+  "title": "「映画名探偵プリキュア！」鬼頭明里、島崎信長、内山昂輝がゲスト出演！ 喜びコメントも「まさか自分がご縁をいただくことがあるとは...」",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786251640.058126
+ },
+ "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FRHoyX0FfWHdHaHF6c3lSVmRVVzNWbVhhWEh0dTV1bEtHdkxfUE5sQ0xPWDlBRHNtUk9rOHVpMy1ILVYwcEFJSnRsUVI5cGxfdE9zamFRWXRNX0pjRUdVYVZ6VTk2QQ?oc=5": {
+  "title": "副首都、指定が複数に及ぶ可能性も…自治体間の予算ぶんどり合戦も懸念 - yomiuri.co.jp",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1786251640.058126
  }
 }
