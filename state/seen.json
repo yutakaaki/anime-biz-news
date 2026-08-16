@@ -4480,5 +4480,455 @@
   "source": "Googleニュース(sankei.com)",
   "label": "対象外",
   "ts": 1786817177.104931
+ },
+ "https://deadline.com/2026/08/astra-tv-awards-2026-winners-full-list-1237041860": {
+  "title": "Astra TV Awards 2026 Winners Include ‘Hacks’, ‘The Pitt’ & ‘Shrinking’ — Full List",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://www.forbes.com/sites/timlammers/2026/08/15/new-x-men-cast-members-and-stars-who-played-their-roles-before-them": {
+  "title": "See New ‘X-Men’ Cast Members And Stars Who Played Their Roles Before Them",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-15/toryumon-takeda-doga-manga-ends-in-7th-volume/.240608": {
+  "title": "Toryumon Takeda's Doga Manga Ends in 7th Volume",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTGdNeHNwY0h3RDQ0bGJtazlCNWNzMEJ5M2NEYk5kazZXc0hpYklSczYtb2NHY29vckxQc1JfWEhWdTRVQjY4aGRWOUprOFdtdWFMaWlGQmlTdERqQThsV1ljeUVJMlRLaXBpa2lNelRWbG1XVW9xZVU5blpWWF9XUTlqOXd3RE9aMWhnbzFjb3lmYmpRai1aSG9pN2h3QVdwN2FVS2tPZ2pEbDlldldUa1hCUGZxZ1VvVGZyV1R0UVpqd3BDeWVVNU01T2tjeUtzdUhQU19zVjd4a1Y0cXlzTkdMS2xyOHF1?oc=5": {
+  "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jY2JaZXdWSEV5WkxIT2lPaHBSV0dxTnJmcVE5R0ZFUUVUX3k0ekVWeFhnczhQUW03T0xBRGRFem1wQ1htXzlySWRMZFZONFpnajFEM2w2bVVtckZLYlNyMDNodHI?oc=5": {
+  "title": "なぜ日本アニメはフランス人の心をつかんだのか 熱狂を生んだ「虚構」の力 - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://variety.com/2026/tv/news/d23-espn-disney-international-eric-schrier-carol-choi-1236835550": {
+  "title": "Disney Leaders Talk Streaming Strategy and Growth Drivers: Sports, Local Language, Vertical Media and Emerging Formats",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://deadline.com/2026/08/rupauls-drag-race-renewed-season-19-mtv-1237040720": {
+  "title": "‘RuPaul’s Drag Race’ Renewed For Season 19 At MTV & Paramount+ Picks Up ‘RuPaul’s Drag Race All-Stars’ For Season 12",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://www.forbes.com/sites/erikkain/2026/08/15/wordle-hints-clues-answer-sunday-august-16": {
+  "title": "Today’s Wordle #1884: Hints And Answer, Sunday August 16",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://deadline.com/2026/08/john-higgins-scrubs-season-2-grant-abc-snl-1237041813": {
+  "title": "‘SNL’ Alum John Higgins Joins ‘Scrubs’ For Major Role In Season 2 Of ABC Revival",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://www.forbes.com/sites/erikkain/2026/08/15/nyt-pips-answers-solutions-sunday-august-16": {
+  "title": "NYT ‘Pips’ Hints, Answers And Walkthrough For Sunday, August 16",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://www.forbes.com/sites/erikkain/2026/08/15/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more": {
+  "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://www.forbes.com/sites/erikkain/2026/08/15/nyt-connections-hints-answers-sunday-august-16": {
+  "title": "NYT ‘Connections’ #1162 Hints And Answers For Sunday, August 16",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJSE1XS3ZsM1JnRGZHWlFPOGdueHdXd2NnYzdZaHZJMkYzUlBRWWR0aE04b3NQeXQtN0RIUVFfWG1CUDVIZkQwQnlsbzdNZ29GelZKd2ZKemEyM1dpOUNoMGFHUWNFbWM0SkdESTRDZjJyb01KdG1seG1Jdw?oc=5": {
+  "title": "『杖と剣の伝説』×アニメ『ぼっち・ざ・ろっく！』開催決定！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://deadline.com/2026/08/survivor-cast-creatives-emmy-interview-season-50-future-1237040981": {
+  "title": "‘Survivor’ Cast & Creatives Look Back On Epic Season 50 & How It’s A “Leaping-Off Point” For S51 & Beyond – Contenders TV Nominees Studio",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TX21SWC1qTWtKMzh3N1pxTWs4c21UbFVvWGpKZXUzZVFHcHh0XzBkUnNUS3MzT0hWdmhBeHVVVU5aNUxodjd3VUJFVmtDQXNNVE9ZWnJWdzBYUDIwbnQ4d2N1d013NVIwd1BEYg?oc=5": {
+  "title": "浜松市、「ゆるキャン△」モデル地でキャンプ開催 声優ら登場 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "重複スキップ",
+  "ts": 1786856882.217461
+ },
+ "https://variety.com/2026/awards/news/the-pitt-hacks-beef-astra-tv-awards-winners-1236835570": {
+  "title": "‘The Pitt,’ ‘Hacks’ and ‘Beef’ Among Astra TV Awards Winners",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://deadline.com/2026/08/disney-2028-box-office-x-men-tangled-ghost-rider-d23-1237041743": {
+  "title": "Disney D23 Takeaway: With ‘X-Men’, ‘Tangled’, ‘Incredibles 3’ & More, Movie Studio Poised To Slay In 2028",
+  "source": "Deadline(Box Office)",
+  "label": "対象",
+  "ts": 1786856882.217461
+ },
+ "https://animeanime.jp/article/2026/08/16/102090.html": {
+  "title": "ついにヒノカミ神楽が!!「神すぎる」「何度観ても圧巻」「涙ちょちょぎれ回」…「鬼滅の刃」禰豆子の覚醒と“竈門炭治郎のうた”に号泣再放送第十九話【ネタバレあり反応まとめ】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://0115765.com/archives/200374": {
+  "title": "ツインエンジン山本社長に聞く、原作を「作る」意気込み―IP開発戦略、バンダイやSBIとの協業の狙いとは【独占インタビュー後編】",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jT3dia19wZV9hMjM5VWdnOFFYelpsd243TlZVZGhWWUF2ZFVwSVM2T0Ytc2luVVVWTUtSaDIzd0F6X1haQS1GTGI4RTVNaTl4VEo0TkJ6dzJSQnVINmRVOTF5YWpzNHh5T1pXdkNFa2FOZ0N2TDVnTzY0VElxUjA?oc=5": {
+  "title": "上坂すみれ 興行収入目標は「1兆円」？！劇場版アニメ「機動警察パトレイバーEZY File2」（スポニチアネックス） - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Db1FmMHk1QnB5eUVxbDdabHN4ck5zak9RQTl4Ql9MdUhDU0FFc2J1VUx6cFB0T3Nsb0pzTGc1S1hUczZZdVZIdHgwbw?oc=5": {
+  "title": "アニメ×AIに「フルスタック」で挑む—AiHUBが目指す制作基盤とは？ - thinkit.co.jp",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "グレー",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PR1d4dVpaMDJWMHpLVUJJdnpMU3JrT19NR0NSajNwQWlna3NOUFdOcEJVbS11dVJDTDRZeFU3NVZwcDNkVkpITEV6UExyN1prTkstWWtLZHlRdThVOXJEc0VPNFhPaDVXZTRRYjJsRjdTM0NzVFE?oc=5": {
+  "title": "DNPが工芸品とアニメを組み合わせ 海外向け新ブランドを7月から米国で展開 月刊Biz・swittch - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象",
+  "ts": 1786856882.217461
+ },
+ "https://variety.com/2026/film/news/monsters-inc-themed-land-will-disney-world-2027-1236834775": {
+  "title": "‘Monsters, Inc.’ Themed Land Will Open at Disney World in 2027",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1786856882.217461
+ },
+ "https://deadline.com/2026/08/caitriona-balfe-joins-live-action-tangled-queen-arianna-1237041900": {
+  "title": "‘Outlander’s Caitríona Balfe Joins Live-Action ‘Tangled’ As Queen Arianna",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://www.forbes.com/sites/carolinereid/2026/08/15/the-356-billion-driving-force-behind-disneys-next-theme-park": {
+  "title": "The $35.6 Billion Driving Force Behind Disney's Next Theme Park",
+  "source": "Forbes(Hollywood)",
+  "label": "対象",
+  "ts": 1786856882.217461
+ },
+ "https://animeanime.jp/article/2026/08/16/102089.html": {
+  "title": "スヌーピーをモダンプレッピーにデザイン♪ 秋冬にピッタリなセーターやラグビーシャツ、パファージャケットなど全12型登場【トミー ヒルフィガー】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://0115765.com/archives/200778": {
+  "title": "ガンダム、リコリコ、SAO…今年のコミケ、パチンコ系企業が4社も。オタク層に“新作版権台”をアプローチ",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1786856882.217461
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-15/patlabor-the-case-files-game-debuts-on-september-17/.240599": {
+  "title": "Patlabor the Case Files Game Debuts on September 17",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMinAFBVV95cUxNME41aEJjMXpvVXJkWm5kWk81bUZUT0dhVkFtSHBhZlZoNGduX3JSVl9XUXhWMnVGcnRuaGNMMmFtY0tISjNNQ3JmMzRkaXlZN3I1TXk5c011SE1kMWgteWZCVmNaNkdIelJTUVZQNE5oTEg2bFk5czFERDVSSWR2LWZZZnJzQkd3UDlxbU14MEloYzB4ZGp6bkZydnDSAZwBQVVfeXFMTTBONWhCYzF6b1VyZFpuZFpPNW1GVE9HYVZBbUhwYWZWaDRnbl9yUlZfV1F4VjJ1RnJ0bmhjTDJhbWNLSEozTUNyZjM0ZGl5WTdyNU15OXNNdUhNZDFoLXlmQlZjWjZHSHpSU1FWUDROaExINmxZOXMxREQ1Uklkdi1mWWZyc0JHd1A5cW1NeDBJaGMweGRqem5GcnZw?oc=5": {
+  "title": "上坂すみれ　興行収入目標は「1兆円」？！劇場版アニメ「機動警察パトレイバーEZY　File2」 - ｄメニューニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wNmFmbXY2czEzdGpZbVQwT0l1YzJCT0xSNUNTa3hnQm5BajRwd2NFN1RUSnM3ZzZ3Y1NxbXdLTTYwWXFtR3FPY1MyRWRwZXhGelFXblNOcDVvWXdfMVJLOVlkVHcyWlBOOWw4NUR1VHVyY0NoZjBEaTY1QQ?oc=5": {
+  "title": "アニメ10周年記念『斉木楠雄のΨ難』 番外編各TOP３発表＆麻生周一先生お祝いイラスト公開！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://variety.com/2026/tv/news/rupaul-drag-race-all-stars-untucked-renewed-mtv-paramount-1236834928": {
+  "title": "‘RuPaul’s Drag Race,’ ‘All Stars’ and ‘Untucked’ Renewed for New Seasons at MTV and Paramount+",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1786856882.217461
+ },
+ "https://www.forbes.com/sites/timlammers/2026/08/15/the-end-of-oak-street-projected-to-open-with-20-million-as-spider-man-holds-top-slot": {
+  "title": "‘The End Of Oak Street’ Projected To Open With $20 Million As ‘Spider-Man’ Holds Top Slot",
+  "source": "Forbes(Hollywood)",
+  "label": "対象",
+  "ts": 1786856882.217461
+ },
+ "https://animeanime.jp/article/2026/08/16/102088.html": {
+  "title": "「ハイキュー!!」日向翔陽、孤爪研磨、赤葦京治…彼らの熱い名場面を永久保存！トレーディング場面写アクリルスタンド、アクリルキーホルダーなどが受注開始！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://0115765.com/archives/200797": {
+  "title": "108回目のコミケ、初日は13万人も来場　工事で規模縮小も変わらず盛況、『超かぐや姫！』には長蛇の列",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-15/boruto-manga-takes-1-month-break/.240585": {
+  "title": "Boruto Manga Takes 1-Month Break",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkaDc1OUhzTGgxUllyU2pHWURWY1hWUzVvVzI2dUFOSzZMeTdzSkxYSm8yOXl1UkdTY29vc0lKd01vQ21rN3JXWTJVR3VfTWlXeHM0NWRPbkRSampvX0NxOTRENFRMVjNp?oc=5": {
+  "title": "LTX、オープンウェイト世界モデル「LTX-2.5」公開 ネイティブ複数ショット・4K HDR対応、Physical AI向け基盤も - Ledge.ai",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "グレー",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEpWX2dkemtDZUFOVGlaUEZOemFkNXRBdjViY2tmZWRBOFhuM2FIU0NEbEptRHVtdmxWZzJ3RVZuM2FBRzdpTVJvUkttR2FObTF3Ui1vcmE1Z0VRcjFzdU0zeHNTVF9XYS1yLWZBWXZuV01tMnFqSUZ1YUlqZm1DYnE5LThsZmZra3hsVXdWV1IwQmo5VkRmWV8yWEFnbmZEOVV6SVVWZnVrc1JCY1RXZHRwWQ?oc=5": {
+  "title": "Storm Lala Strengthens to Hurricane While Closing In on Hawaii - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://animeanime.jp/article/2026/08/16/102087.html": {
+  "title": "【平成女子×少女マンガ】「カードキャプターさくら」王道魔法少女モノから“封印解除（レリーズ）”されたオタクの扉～汝のあるべき姿に戻らん～",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://0115765.com/archives/200799": {
+  "title": "『無職転生Ⅲ』 新章【ケイオスブレイカー編】に突入！第8話「空中城塞」【先行カット】",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-15/kingdom-hearts-iv-game-presents-4-minute-trailer/.240610": {
+  "title": "Kingdom Hearts IV Game Presents 4-Minute Trailer",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMimgFBVV95cUxORkVTRGVwWFF5RG90SlRVYTdnVEJJWFd4RU0tQmNWNGZGWldlaGxtLUFkOGpBa0lscXdDNERYOUZUNGZNWHFTUzJoMUhaVkNjeWpabkJfYjJNY0J6dkxtMURucDQtdXdWc1BSUV9ORi0tMTlBQ2NRRVNTVXZBX3RfbVRVbF9SSVJUQXUyU3pZc0ZEOHdpa2NoQmJn?oc=5": {
+  "title": "あるアニメ映画が中国でセンセーションを巻き起こし、そのあまりのひどさゆえに興行収入が1000倍に増加した。 - Vietnam.vn",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1786856882.217461
+ },
+ "https://variety.com/2026/music/news/slipknot-confirms-sid-wilson-sudden-exit-1236835546": {
+  "title": "Slipknot Confirms Sid Wilson’s Sudden Exit: ‘We Wish Him the Best’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://animeanime.jp/article/2026/08/16/102086.html": {
+  "title": "「名探偵コナン」サッカー大好き・新一も描き下ろし！Jリーグコラボビジュ公開　「コナンDAY」にはアーティスト登壇が決定",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://0115765.com/archives/200733": {
+  "title": "「臭いのは君じゃない、服だ」過酷な夏のコミケに“消臭ゲート”3年連続で出現、臭い問題の改善提案",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-15/plott-announces-rakuraku-hanten-short-anime-for-september/.240605": {
+  "title": "Plott Announces Rakuraku Hanten Short Anime for September",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tMzFPTXBrUkIya2htdDFfQmtYTk41X2FZOEhoNktHSUloOUpyVjJwWUowMDVDVWlTcUp5WlhnMUdsaGtmc1hrNmY4RFZkajRkbER5T3V1a3NzSGJNYzhBeXJ6WnlSa2lNd2c?oc=5": {
+  "title": "上坂すみれ「興行収入１兆円！」 劇場版アニメ「機動警察パトレイバーー」公開記念舞台あいさつ登壇 - デイリースポーツ",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://variety.com/2026/shopping/news/how-to-watch-claressa-shields-vs-kaye-scott-boxing-live-online-1236833217": {
+  "title": "Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://deadline.com/2026/08/mason-thames-mckenna-grace-filmed-nimrods-regretting-you-1237041798": {
+  "title": "Mason Thames Reveals He & McKenna Grace Filmed ‘Nimrods’ Before ‘Regretting You’, Talks Possibility Of Doing “Another Job Together”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://animeanime.jp/article/2026/08/16/102085.html": {
+  "title": "「着せ恋」海夢が探偵コス!? どんな謎でも解決しそう♪ 約19cmの大迫力フィギュアが全国のアミューズメント施設に登場【8月4週より】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFBPekkwR2JXcU1IUkc0aVdPNlo2MTJrNGtrVDBlM1B6djV0RlIzbUgxRTN0bWJJQjRESHdBekEtZHk2RTVhQ3RBT2prQlJreHdYQXd5VVZZQVJ0Nk1BT1NiZjNrb3VyeUR1dGc5NmZZWnpoQVBVQ3pSWlBNb3JSZ2VKY0Y0SFdvRFRZeTl6dGMtb2h1V2Q4cHJOeFB6VGlQSnp1bENJUWxPbkFnNHdNWkplUQ?oc=5": {
+  "title": "Hormuz Ship Attacks Mount as US Vows to Cripple Iran’s Economy - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://variety.com/2026/film/festivals/director-frieda-luk-olivia-luccardi-sacred-creatures-1236835353": {
+  "title": "Director Frieda Luk on Olivia Luccardi’s ‘Sacred Creatures’ Role and the Fine Line Between ‘Crazy’ and ‘Enlightened’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://deadline.com/2026/08/the-traitors-season-4-contestants-emmy-interview-1237041716": {
+  "title": "Rob Rausch Played It Cool On ‘The Traitors’ But His Co-Stars Think “Mr. America” Was A “Bad Boy” – Contenders TV Nominees Studio",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://animeanime.jp/article/2026/08/16/102084.html": {
+  "title": "「ブルーロック」×モンスト初コラボ！潔世一・糸師凛・凪誠士郎が期間限定ガチャに登場【8月16日12時より】",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMieEFVX3lxTE96MWUxZzRwVmdiaTdVbTU0YUQ3b0Ytb1BNVEh3OXdpdjdCTGxva29pblhJYm5Cby1OUnBXUUZ5YjU3UVpSa1F0UVNWLUJxSGl3TVBLcTcxQ0dSRWtnd0lYd0oydVZjenJXWHFta211WHg1RFFzZ3BKTA?oc=5": {
+  "title": "上坂すみれ「興行収入1兆円！」 劇場版アニメ「機動警察パトレイバーー」公開記念舞台あいさつ登壇 - au Webポータル",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FRndrT1QxanhRSUZ2WUREcEpDa3R3a1lyQzNhUE5udEZiYl84eUI5ekNmcVozM09zMkNTblNzNEVJcmhmcHNDaFBfX3oxYW1kTTV0UXdISC1WQQ?oc=5": {
+  "title": "他社がレイオフを進めるAI時代、マイクロソフトが提示する「ソフトランディング」という選択肢 - Forbes JAPAN",
+  "source": "Googleニュース(forbesjapan.com)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pZEp5TG9fakx0eUMwN3hIaWF2UGl5THE4Ykh3MHhoRkZnNjczQ0trSV9CSGxOX0RRWGxXTkowQUV3dVloZ1BlVjBzb3hKSl9FV0tIbm5fSmlRU3hGUjN5alVyYU05UQ?oc=5": {
+  "title": "都内の民泊施設から不明になったイギリス人少女、無事保護…「親が恋しくなった」と横浜の交番訪れる - yomiuri.co.jp",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRGloMUNIaENVX3d4c0M2TmFBNENTWXIzMnFEMUJnTlF2aEw0N3dxWXNVWlRhX2l1cUp2eDc5TjV6SUdEZk40dzk5VGtzZ2EzWHJ6cEl2Wnl3ZERlVG1ERnJGMHRLS0NWWm5xd1hGb2ZWYWxqd1NnMmZNXzA1aXpUR1NqdlgyWmVoXzFNTFVYVVBva1hJRlptVEJET0NyNUZTY2NKTXBjNDN1ZjNjek9lR2wyYXRwdWluRFkxSGo0YzduaHc?oc=5": {
+  "title": "Big Batteries to Bolster the Grid Are Stuck Waiting to Plug In - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://variety.com/2026/tv/news/lanterns-creators-grounded-show-future-dcu-1236835494": {
+  "title": "‘Lanterns’ Bosses and Stars on How the Show’s Grounded Approach Ushers in an ‘Entirely Different Kind of Superhero’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://deadline.com/2026/08/scott-foley-returning-scrubs-sean-kelly-season-2-revival-1237041064": {
+  "title": "Scott Foley Returning To ‘Scrubs’ As Sean Kelly In Season 2 Of ABC Revival To Revisit Classic Storyline",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://animeanime.jp/article/2026/08/16/102083.html": {
+  "title": "あのころの思い出蘇る…♪「リラックマ」デビューからの人気テーマが復刻！懐かしさと新しいかわいさが詰まったグッズシリーズが登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55ZUNQc2VTQzlhOGVBSmEyYTVmVmY1dm1uVHpsUVVyeUREZnk1RzVsQTN0WjZYNUU3Y0pBZ1ZoMlFNQUxjNHFHcktFclRwanJBSUFKd0RIMmI0QQ?oc=5": {
+  "title": "なぜ顧客獲得コストは上がり続けるのか、4つの「漏れ」 - Forbes JAPAN",
+  "source": "Googleニュース(forbesjapan.com)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6MVFKVnhxQURHaE5UYUNRTFFMTGV2Q1hjLW9aVkM5ak1vclpOM09CZ2hfamNlUTJBZS1ETXN6eDRaZlNWM1ZHN1JNUUhkRkMxdjhfWnpaX2xNaG92cFVKbWI1bHFpWVE?oc=5": {
+  "title": "イラン、米との協議再開は未定 ホルムズ海峡巡るトランプ氏発言に反発 - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkVoeFNmcE1YbndkMkxEZElyamFES2xJcG9hNlhIc0w5REVfb252QVRlRDZ5SVVXbkdySDVXWnZHTEFGMVVFQ2I4LS1jdDNoVDhhQnBvelMwSXdQOHpPdmpwVHNoRnRqaTNLSVZEMXNiZWo4alV2cGZIcEFaSkFYQzE1WHVVcGx6V25SU1R4ZjVnTDk1WDV1VnQ3MUhaRnJrbm9venpLbDJmZW5sYllHRHZR?oc=5": {
+  "title": "Colombia Asks US to Pause Tariffs in Deadly Quake’s Aftermath - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://variety.com/2026/film/festivals/how-would-you-get-this-movie-made-vachon-film4-bbc-1236835455": {
+  "title": "‘How the F— Would You Get This Movie Made in America?’ Christine Vachon, Film4, BBC Film Put ‘Trainspotting,’ ‘Ratcatcher’ and ‘The Wicker Man’ Through the 2026 Greenlight Test",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1786856882.217461
+ },
+ "https://deadline.com/2026/08/summer-house-season-10-emmy-interview-1237041687": {
+  "title": "‘Summer House’ Enters A “New Chapter” After Landing Its First Emmy Recognition – Contenders TV Nominees Studio",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1786856882.217461
+ },
+ "https://animeanime.jp/article/2026/08/16/102082.html": {
+  "title": "「ムーミン」リトルミイ、ミムラ姉さん、異父弟のスナフキン…意外な家族のつながりをデザイン♪ トート＆ショルダーの2WAYバッグが登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://variety.com/2026/tv/news/selena-gomez-slams-wondermind-lawsuit-file-to-dismiss-1236835495": {
+  "title": "Selena Gomez Slams ‘Completely Meritless’ Wondermind Lawsuit, Will File to Dismiss ‘Baseless Claims’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://deadline.com/2026/08/all-things-spidey-d23-friendly-neighborhood-amazing-friends-1237040751": {
+  "title": "All Things Spidey At D23: Tom Holland, Anniversary Comic Book, ‘Friendly Neighborhood’ Sneak-Peak, ‘Amazing Friends’ Renewal & Upcoming Special ‘Spidey and the Avengers: Halloween Team-Up!’",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://animeanime.jp/article/2026/08/16/102081.html": {
+  "title": "「仮面ライダーマイス」十二支同盟の“戌”と“未”、キャスト発表！岩永丞威と長谷川かすみが出演「大変光栄に思います」「私が変身する時が来るとは…！」",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTbVJ3Mmh6alNDSm5RUml4NTZBRnBvb2FycE5XUkhYam12MnNjRkRaWHJaR2pXbUlGVmR1SHQ2STQzQnhNMFk4UVZmOXpYX29sbDVRaTRWb0hNd09FQm4zdnoxd04yY0p3LUY4SGhTbVFyNXZ3NDVQVXlucw?oc=5": {
+  "title": "9/19(土)名古屋戦 TVアニメ「名探偵コナン」×Ｊリーグコラボデー『コナンDAY』開催決定！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LUzhrYjVlM3VHanJjT1Joc1dBdEVxVmZKdlZWUXlackVmMzBJZGw4emJNZm4ybFFoTGxWU0daajh0RDFRUzE0YTRBTkh5X0VBWThPTVZSNlNYQTVOU2ZXU2JELVNIVk0?oc=5": {
+  "title": "ユナイテッドヘルス幹部射殺事件、被告が有罪認める 12月18日に量刑言い渡し - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRS1XRndqcWdxTF9maXNONy1PVzkzT0Y3RkZvNUxJSTA4UWx2NzZZbUZCWjdUME1vazNPTGtRVkZpRThQN1dJR3ZDNUkyR3dDRVhZc3BjbUFvaTBsTEI2T21OdGoxWkN2MkwxVWg2T05QN1J3OG5yM2wySTZoaGJyYjRDTmJCd0JfYzRUOWxPdnpaZ0FLRnVNc1J5TFpwZ1FETE96ZW9nZVFUYzdOdGJUbzhETDVHdw?oc=5": {
+  "title": "Disney, Square Enix preview 'Kingdom Hearts 4' video game at fan convention - Reuters",
+  "source": "Googleニュース(reuters.com/lifestyle)",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://deadline.com/2026/08/slipknot-announces-sid-wilson-exit-1237041712": {
+  "title": "Slipknot Announces Sid Wilson’s Exit: “We Wish Him The Best”",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://animeanime.jp/article/2026/08/16/102080.html": {
+  "title": "「名探偵プリキュア！」“キュアアルカナ”のビジュアルがお披露目！黒から白へフォームチェンジ☆るるかのペンダ ントにも変化が…！後期ED曲も放送開始♪",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1786856882.217461
+ },
+ "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JanptcEdkLTZfTG5pVlRwWUxtWjY2NXY1d21PekUtb1Y4NWZ2eGNnNFNoNU1tNk50T3FOTWs2UnZLWENodkEwTlFKV0hRYThyQXNuckF6by1IaVRCV001TjM0b2gwV00?oc=5": {
+  "title": "フーシ派、サウジアラムコ施設をドローン攻撃 紅海沿岸モカにミサイル6発 - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1786856882.217461
  }
 }
