@@ -19,7 +19,7 @@ if [ -f "$DIR/.env" ]; then
 fi
 
 # launchd は最小PATHなので補う（python3 と --user で入れたパッケージのため）
-export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:$HOME/Library/Python/3.9/bin:$PATH"
+export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/homebrew/bin:$HOME/.local/bin:$HOME/Library/Python/3.9/bin:$PATH"
 
 mkdir -p "$DIR/state"
 echo "===== $(date '+%Y-%m-%d %H:%M:%S') 実行開始 =====" >> "$LOG"
@@ -63,6 +63,24 @@ if [ -f "$DIR/outputs/digest.html" ]; then
     echo "push失敗 試行$i → リトライ" >> "$LOG"; sleep 10
   done
   [ "$PUSH_OK" = 1 ] || echo "push最終失敗（3回とも不通。次回実行で再送されます）" >> "$LOG"
+
+  # push できてもGitHub側のPagesデプロイが失敗することがある（503やランナー確保失敗）。
+  # 公開されなければiPadで読めないので、デプロイ結果を確認して失敗なら再トリガーする。
+  if [ "$PUSH_OK" = 1 ] && command -v gh > /dev/null 2>&1; then
+    REPO=yutakaaki/anime-biz-news
+    for attempt in 1 2 3; do
+      sleep 60  # ビルド完了を待つ（通常25〜75秒）
+      ST=$(gh api "repos/$REPO/pages/builds/latest" --jq '.status' 2>/dev/null || echo "unknown")
+      if [ "$ST" = "built" ]; then
+        echo "Pagesデプロイ成功（確認$attempt回目）" >> "$LOG"; break
+      fi
+      if [ "$ST" = "building" ] || [ "$ST" = "queued" ]; then
+        echo "Pagesデプロイ進行中（確認$attempt回目）" >> "$LOG"; continue
+      fi
+      echo "Pagesデプロイ失敗(status=$ST) → 再トリガー" >> "$LOG"
+      gh api -X POST "repos/$REPO/pages/builds" >> "$LOG" 2>&1 || echo "再トリガー失敗" >> "$LOG"
+    done
+  fi
 fi
 
 # 次のウェイクを予約（朝2:00の実行後→今日の13:58 / 午後14:00の実行後→翌朝01:58）。
