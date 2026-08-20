@@ -208,6 +208,18 @@ def build_markdown(target: dict, rel: list[tuple[float, dict]]) -> str:
     rel_sorted = sorted(rel_items, key=lambda x: (_when(x) or 0))
 
     L: list[str] = []
+    # 全文をそのままChatGPT等に貼る前提なので、指示を先頭に置く（材料より前に読ませる）
+    L.append("以下は1つのニュースと、その話題に関する過去報道の一次材料です。")
+    L.append("この材料の範囲だけで、note記事の構成案を作ってください。")
+    L.append("")
+    L.append("**制約**")
+    L.append("- 材料にない事実や推測を足さないこと（足す場合は「推測」と明記）")
+    L.append("- 各見出しに、根拠となる材料（日付・数字・媒体）を紐づけること")
+    L.append("- 主張は1本に絞り、時系列または対比で展開すること")
+    L.append("- 見出しの数字が宣伝目的の枕（累計部数・過去の興収など）の場合は主軸に据えないこと")
+    L.append("")
+    L.append("---")
+    L.append("")
     L.append(f"# 素材パック: {title}")
     L.append("")
     L.append(f"- **公開**: {_fmt_full(ts)}")
@@ -290,19 +302,6 @@ def build_markdown(target: dict, rel: list[tuple[float, dict]]) -> str:
         L.append(f"- {h}")
     L.append("")
 
-    L.append("---")
-    L.append("")
-    L.append("### ChatGPT等に渡すときの推奨プロンプト")
-    L.append("")
-    L.append("```")
-    L.append("以下は1つのニュースと、その話題に関する過去報道の一次材料です。")
-    L.append("この材料の範囲だけで、note記事の構成案を作ってください。")
-    L.append("制約:")
-    L.append("- 材料にない事実や推測を足さないこと（足す場合は「推測」と明記）")
-    L.append("- 各見出しに、根拠となる材料（日付・数字・媒体）を紐づけること")
-    L.append("- 主張は1本に絞り、時系列または対比で展開すること")
-    L.append("（ここに上の素材パックを貼り付け）")
-    L.append("```")
     return "\n".join(L)
 
 
