@@ -1,303 +1,5 @@
 [
  {
-  "url": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-2-1237042050/",
-  "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B WW – Global Top 10 Box Office Update",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Tue, 18 Aug 2026 01:05:00 +0000",
-  "published_ts": 1787015100,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Spider-Man実写映画の全世界興行収入が20億ドル突破した新規数字ニュース。映像コンテンツの興行成績・Box officeの数字が主題であり、非アニメでも興行数字ニュースは対象。",
-  "ts": 1786901767.2344708,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9NajRIZXowRVFMcDY1XzlNTnBZZzlQUzg5bmxSX3V1M1RaeUZ4RjNMTGtuU1llX2V5RnEyYmJxR3Q3MXRj?oc=5",
-  "title": "マイナビ出版、AIアニメ・AIマンガによる書籍販促を開始 － 表紙だけでは伝わらない本の魅力をAIで届ける出版×AIの新たな挑戦 - gamebiz【ゲームビズ】",
-  "source": "Googleニュース(gamebiz.jp)",
-  "sources": [
-   "Googleニュース(gamebiz.jp)"
-  ],
-  "published": "Tue, 18 Aug 2026 04:22:00 GMT",
-  "published_ts": 1787026920,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "マイナビ出版が書籍販促にAIアニメ・AIマンガを活用する新サービス開始は、コンテンツ（出版・書籍）× AI（生成AI活用）× ビジネス（販促・マーケティング戦略）の3分野が揃う事業発表であり、最優先対象。",
-  "ts": 1787030061.6133828,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVXRRWEtRWkpWOWxyZG41b2psbXZsandjNUk1X3NUMkRXTmtoQ2kzWEVZRzBXcHNUZWsyalFkSzFmVm9KWFJuX1lLalBuUEw3NXNDVUxHSWtZZTJwLTlfVzgzOEVYMWpkMzVjQlAtZ1ZSTTdzNEQ0alVUVkVGMzlQckZPNDBSbnE0R3hrdzF6b2VVdUxDNDV5YjNLS3dGSmNDZ0JreWVKWUFfdVRVWGpFWjhHUjAwOURLc1JTOV9jWmdHSmptMnJyQ2Nua0lSTFU2UkJWMkFR?oc=5",
-  "title": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Stays at No. 1 in 4th Weekend - Crunchyroll",
-  "source": "Google News: anime box office",
-  "sources": [
-   "Google News: anime box office"
-  ],
-  "published": "Tue, 18 Aug 2026 00:35:00 GMT",
-  "published_ts": 1787013300,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ映画『ちいかわ』の日本興行ランキングにおける4週目の1位継続という興行成績の数字ニュースであり、コンテンツ（アニメ映画）とビジネス（興行実績）が主題となっているため対象。",
-  "ts": 1787030061.6133828,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/vin-diesel-fast-forever-starts-shooting-december-1236836906/",
-  "title": "Vin Diesel Says ‘Fast Forever’ Starts Shooting in December",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Tue, 18 Aug 2026 04:20:59 +0000",
-  "published_ts": 1787026859,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "大型映画シリーズの最終章制作スケジュール発表であり、コンテンツ（映画IP）の制作進行状況とともに、Universalの最大利益率フランチャイズ・累計興収73億ドルというビジネス規模が主題に含まれているため対象。",
-  "ts": 1787030061.6133828,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/08/lakers-iger-buss-family-stak-1237043368/",
-  "title": "Shooting Foul? Buss Family Dispute Now Leaves Lakers Stake Sale To Bob Iger & Josh Kushner In Purgatory, Maybe",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Tue, 18 Aug 2026 01:15:00 +0000",
-  "published_ts": 1787015700,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "NBA（バスケットボール）はスポーツコンテンツ領域であり、Bob IgerやJosh Kushnerによるロサンゼルス・レイカーズの$12.5億ドルの買収・所有権変更はメジャーな業界M&Aに相当するため、themes=コンテンツ+ビジネスで対象となる。",
-  "ts": 1787030061.6133828,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nbE8zMlVtTmg1c240ZlZTMXZRZU1FWmtHXzJOM1hKdGV2YWtLV3pkMnlJWFQxZGNEN2lMZEJwbmc4amlyOGVNNWx2OF85UzVuUDhKSXJVWE53blI1Mlkwcml0SENUNFdWZ3FTS1ZB?oc=5",
-  "title": "〝目に痛い〟中国アニメ映画「牛来」 ７０万円の製作費で興収２億円突破 - au Webポータル",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Tue, 18 Aug 2026 04:58:51 GMT",
-  "published_ts": 1787029131,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "中国アニメ映画の製作費と興行収入という具体的な数字が主題であり、低予算での成功事例を伝えるビジネス系の興行ニュースのため対象。アニメコンテンツの興行成績の実績値報道は必ず拾う対象。",
-  "ts": 1787030061.6133828,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jSkZfYkNldkt4YVhlX3pieVhUTlhlYmJub3cyalA3MFFaTGtXbXI2YkVTWHZIRExWLWVSZWxHc1hoaVJRM1JZdEVJbzRrOXI2Q2h2X1F2a0JGbFd2S1RDU1h6UENERFB3?oc=5",
-  "title": "日テレAI-HRが生成AI専門映像制作の株式会社スムージースタジオとパートナー連携を開始 - ニコニコニュース",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Tue, 18 Aug 2026 04:30:19 GMT",
-  "published_ts": 1787027419,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "日本テレビ傘下のAI企業と生成AI映像制作企業の提携は、映像制作業界のAI活用を具体化する提携発表であり、コンテンツ×AI×ビジネスの3分野が揃う。",
-  "ts": 1787030061.6133828,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55Vkx2VjZLRG0wVm1wX014QVZISms0THRXUEp6b2luQmhXTjBicmtZRVJITDFPa2xyVnZDX0JyaVJ2SmVSaDhCbU1IbWpqd3lJWFpETFZ1WW8?oc=5",
-  "title": "MPAとByteDance、生成AI動画・画像モデルの知的財産保護で国際合意 - Brand New Creativity",
-  "source": "Googleニュース: 生成AI 著作権 アニメ OR 映画 OR 映像",
-  "sources": [
-   "Googleニュース: 生成AI 著作権 アニメ OR 映画 OR 映像"
-  ],
-  "published": "Tue, 18 Aug 2026 02:00:04 GMT",
-  "published_ts": 1787018404,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "MPA（映画協会）とByteDanceが生成AI動画・画像モデルの知的財産保護で国際合意を発表した記事で、映像コンテンツ産業（コンテンツ）、生成AIの権利・規制（AI）、企業間の提携合意（ビジネス）の3分野が揃う最優先案件。",
-  "ts": 1787030061.6133828,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Za3AyX3NGMGhsX0gzQkhkVjVFQzRvX0pxZEQzcm94UkZ1OFpmODdCMnpiT2lYTkR1YUMtYWR2NlZnVm1hVXZ2UkVLWlA1cDFYamlNcG5yam9IdjdOYmpTSHBLM0FObEZXcVVvd0QxSGpVdWlLeGc?oc=5",
-  "title": "Netflix、アニメ専門ページ「アニメホーム」を日本で公開 視聴履歴や好みに応じて作品を提案 - sankei.com",
-  "source": "Googleニュース(sankei.com)",
-  "sources": [
-   "Googleニュース(sankei.com)"
-  ],
-  "published": "Tue, 18 Aug 2026 03:01:09 GMT",
-  "published_ts": 1787022069,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "Netflixがアニメ専門ページを新機能として公開する発表であり、アニメコンテンツの配信戦略・プラットフォーム機能拡張が主題で、配信ビジネスの新展開に該当するが、AIの活用や具体的な売上数字は本文から判明しないため、コンテンツとビジネスの2分野。",
-  "ts": 1787030061.6133828,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/201029",
-  "title": "“日本Webtoonの先駆け”的マンガアプリがサービス終了、業界からも驚きの声「comico」購入作品は一部引き継ぎ",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Tue, 18 Aug 2026 02:39:00 +0000",
-  "published_ts": 1787020740,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "漫画配信プラットフォーム（Webtoon）の大型サービス終了と、購入作品の別プラットフォームへの移行という、デジタル漫画ビジネス・配信戦略に関わる実質的な経営判断が主題。コンテンツ＋ビジネスに該当し、業界構造の変化を示すニュースである。",
-  "ts": 1787030061.6133828,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/tv/news/jeanie-buss-lakers-sale-bob-iger-josh-kushner-1236836879/",
-  "title": "Jeanie Buss Seeks to Contest Sale of Los Angeles Lakers to Bob Iger and Josh Kushner: Report",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Tue, 18 Aug 2026 03:22:15 +0000",
-  "published_ts": 1787023335,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "NBAフランチャイズの大型M&A（Lakers売却、125億ドル）と経営統合をめぐる訴訟であり、メジャースポーツエンタメ企業（元Disney CEO等）の買収・支配権争いは映像産業の大型構造ニュースに準じるが、アニメ・映画・TV等のコンテンツIPではなくスポーツ球団であるため、通常のコンテンツ軸（アニメ・映画・漫画・ゲーム）からは外れる。ただし記事の主題が経営統合と支配権争いの法的紛争であり、数字（125億ドル）が明確なため、映像・エンタメ業界全体を揺るがす構造ニュースとして準対象と判定。実際の業界への影響度は低く確信は中程度。",
-  "ts": 1787030061.6133828,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/08/kevin-macdonald-pep-guardiola-man-city-beautiful-obsession-1237014372/",
-  "title": "Kevin Macdonald On Capturing Pep Guardiola For Prime Video’s ‘A Beautiful Obsession’: “Like Having Robert De Niro Play A Football Coach”",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Mon, 17 Aug 2026 23:01:00 +0000",
-  "published_ts": 1787007660,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Prime Videoの配信ドキュメンタリー『A Beautiful Obsession』の制作背景とビジネス戦略（City Studiosとソニー・ピクチャーズテレビションの提携、複数プロジェクト進行中）が主題であり、コンテンツ＋ビジネスの2分野に該当する。",
-  "ts": 1787030061.6133828,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBVEFvZE9SVFRXZHJENFkyeE1ScVlaam1GdDZrLVYyNkVzTG95QlhkZnpDSEp0V1Rkb01yU24wNXBvZTFSRllV?oc=5",
-  "title": "スムージースタジオと日テレAI-HRが連携、生成AI映像制作の実務支援を強化する取り組み - voix.jp",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Tue, 18 Aug 2026 01:49:07 GMT",
-  "published_ts": 1787017747,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "生成AIを用いた映像制作ツール・サービスの開発・提携であり、映像産業向けのAI活用とビジネス提携が主題のため、コンテンツ・AI・ビジネス3分野が揃う。",
-  "ts": 1787030061.6133828,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUTWlBNzAxNThoRlptZjZYTUJrOUxXb1g4aHJOMnNFTVZmV3UzaDFoOEtHcGxGWUhma09TNUQzYzEyOVZwd2dTWTV0M2FRLXNCVS1RU081b01hbGZrbkZaR1VBbmpVNmFlbWhUbVAyQWd4SkEyYld6SEtR0gGOAUFVX3lxTE9FUVotWFFoNGJJMGlGY2RMT0ptbHkzcThrbkl6VkVSdkEwZHZMWGFXTXZPeXh3eExmbmNnX1hxSXVqcG81cHVEWGdtNkRERy1kVVNjeERiaWtBbzdKbzhsLTFfd2ZzZEtlcTBuNklobDhqWWQwNW8yY2tMVy15cmdkYU5Rd1B3MzFaOUIxeXc?oc=5",
-  "title": "米国映画協会とバイトダンスがAI著作権保護で初合意 - CHOSUNBIZ - Chosunbiz",
-  "source": "Googleニュース: 生成AI 著作権 アニメ OR 映画 OR 映像",
-  "sources": [
-   "Googleニュース: 生成AI 著作権 アニメ OR 映画 OR 映像"
-  ],
-  "published": "Tue, 18 Aug 2026 01:34:00 GMT",
-  "published_ts": 1787016840,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映像業界（米国映画協会）とAI企業（バイトダンス）がAI著作権をめぐる合意に達したニュースであり、コンテンツとAIの2分野が該当。映像業界のAI規制・権利保護は必須拾い対象。",
-  "ts": 1787030061.6133828,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/gaming/news/sims-mean-girls-clueless-gaming-news-roundup-week-august-17-1236836647/",
   "title": "‘The Sims 4’ Sets In-Game Crossover With ‘Clueless’ and ‘Mean Girls’ (Gaming News Roundup)",
   "source": "Variety",
@@ -950,8 +652,8 @@
   "confidence": "高",
   "reason": "中国アニメ映画の興行収入２億円突破という新規の業績数字が主題であり、製作費との比較でビジネス価値を示しているため、コンテンツ＋ビジネスの組み合わせで対象。",
   "ts": 1787118804.917139,
-  "is_new": true,
-  "updated": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-08-18/comico-manga-service-in-japan-shuts-down-in-january-2027-after-13-years/.240662",
@@ -1034,7 +736,8 @@
   "confidence": "高",
   "reason": "映画興行の2024年夏の興収が$4 billion超と過去実績を上回ったことが主題であり、Box officeの数字ニュースとして対象。映像産業の興行成績データは実写映画であっても拾う対象である。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92bU5VUk4zOTYyei1ZUjFlQkJtdkxvUG8zcWx1SGtDUi1UY09TMGRfbnFMZncxZVZpU01OWm9qZVBhN1FZNHR0OV9qdjRkUUYybkNzX3dVZTFVMFM2VmwyYlFn?oc=5",
@@ -1054,7 +757,8 @@
   "confidence": "中",
   "reason": "ハリウッドなど映像業界のAI受け入れ動向と、YouTubeなどの動画プラットフォームとの競争戦略を扱うもので、コンテンツとAIが主題。非アニメだがAI活用が映像業界全体に関わる重要な動向であり、業界の構造的な変化を論じた記事と判断。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/08/marissa-jo-cerar-drowning-in-paper-flowers-novel-universal-1237044907/",
@@ -1074,7 +778,8 @@
   "confidence": "高",
   "reason": "小説のTV化開発という映像コンテンツ化プロジェクトであり、製作側（Universal Global Television、プロデューサー陣）の参画、出版社との大型契約（セブンフィギュアディール）といったビジネス取引が主題で、コンテンツ+ビジネスの2分野を満たす。ただしアニメ・漫画・ゲームではなく実写小説原作だが、映像化開発のビジネス動向（製作委員会体制、契約規模）が明示されているため対象に該当する。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/series/strawberry-vampire-episode-two-emily-brundige-265782.html",
@@ -1094,7 +799,8 @@
   "confidence": "中",
   "reason": "アニメーション作品（Strawberry Vampire）の視聴数・プラットフォーム上の成績が主題で、クリエイター資金調達（Kickstarter $42,000）とYouTubeでの収益化ビジネスについて言及されているため、コンテンツ+ビジネスに該当します。ただしビジネスの主軸は数字（視聴数・Hype順位）と資金調達で、経営規模や市場影響は限定的なため、信頼度は中程度とします。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3ZG9xU0RzYzhSM3JpV1NrS3QzU2N6b2o0RF9GQndVbDZPX1JueHpqcFJZN1dLY0dOOWxLa3kyTTJmeWZmSUJVblJMUjU5Z0xSQzR6bUdTUW5YMzZPbEVxMTBVcHZncVlFLXRua205czBaWGhM?oc=5",
@@ -1115,7 +821,8 @@
   "confidence": "高",
   "reason": "ByteDance（字節跳動）と米映画協会がAI著作権について合意し、動画生成ツール（Seaweed Dance・Seedream）の保護を強化する取引。映像産業のAI権利をめぐる実質的な契約で、コンテンツ業界全体に影響を与える重要なビジネスニュース。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xQktoT0tWRC1lV0h2T2lkeHRmdXZBRjFFUkhNR3BhNFpvQUdnMTZmYndzUHBPbFgzV2s3Wmp2b2NaMXVaWEh6b1M3LW8tVE40NjZZeDlZMFlJR0RCZEZFU19VVWpwZzBCSHBHbQ?oc=5",
@@ -1135,7 +842,8 @@
   "confidence": "高",
   "reason": "アニメ制作市場が初めて4000億円を超えたという新規に判明した市場規模の数字が主題であり、コンテンツ（アニメ）とビジネス（市場規模）の両分野を満たすため。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/focus/federal-film-tax-credit-production-1236837623/",
@@ -1155,7 +863,8 @@
   "confidence": "高",
   "reason": "映像制作産業（映画・TV制作）の経営・政策に関わるニュース。連邦税制優遇策による映像制作拠点の競争力強化、州税制との相互作用、雇用・市場への影響を掘り下げた記事であり、コンテンツ産業のビジネス・政策が主題。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/law/christian-metal-sues-netflix-over-kpop-demon-hunters-name-265765.html",
@@ -1175,7 +884,8 @@
   "confidence": "高",
   "reason": "Netflixのアニメ映画『KPop Demon Hunters』の商標をめぐる訴訟で、コンテンツ企業と音楽バンドの権利・商標侵害に関わるビジネス紛争が主題であり、映像産業の知財問題として対象となる。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/focus/crunchyroll-anime-global-1236837643/",
@@ -1195,7 +905,8 @@
   "confidence": "高",
   "reason": "Crunchyrollのアニメ配信事業戦略（字幕/吹き替え多言語展開、劇場公開、グローバル展開）と経営実績（購読者数500万→2,100万増）、ソニー傘下での事業成長、新作劇場化などが主題であり、コンテンツ＋ビジネスの2分野が濃く揃っている。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://animeanime.jp/article/2026/08/19/102181.html",
@@ -1215,7 +926,8 @@
   "confidence": "中",
   "reason": "ABEMAによるアニメ『涼宮ハルヒの憂鬱』の放送20周年記念企画として、配信チャンネル開設と無料配信を伴う宣伝施策が主題であり、コンテンツ（アニメ）とビジネス（配信プラットフォームの戦略・キャンペーン）に該当するが、クイズ企画自体は告知要素が強く、新たな配信開始や契約数字などの経営インパクトは記事に記載されていないため確度は中程度。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSDRfYTdsZVFkWkduaFk0MGtITjk2bU5rNG9ZVnY2VkhsNTljU1lKZC0xeWlMMlJGYmFKNFcxM0ZFaTdrZTFtQUl0bjk5dDZWYUlVLWpad0xxUzhHaFQ1cEgyeWJ4SzJ3cE9mZzBGemhtVkFyQUVCNUdDblpQcXU1TzJldE9DbUU1NmZqamJEbElPT0Z0dEpMYXJYSUFtODBNemFvbldaNElGcURpT2pEd0kwbHhmQQ?oc=5",
@@ -1235,7 +947,8 @@
   "confidence": "高",
   "reason": "アニメーション（Cartoon）の興行成績（Box Office Hit）が記事の主題であり、コンテンツ+ビジネスの2分野が揃っているため対象。新たに判明した興行成績の数字ニュースは必ず拾う。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/08/jennifer-delia-mark-webber-launch-beyond-culture-banner-1237045325/",
@@ -1255,7 +968,8 @@
   "confidence": "高",
   "reason": "実写映画・ドキュメンタリー制作会社の設立と初期スレート発表であり、アーティスト中心の経営モデル・創作上の所有権と財務管理が主題。映像コンテンツ産業のビジネス新展開（新しい制作会社の発表）に該当するため対象。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelFRdl9STFFQdDBvTHRRVXFFWHUzekJtOFhTdjh4V3V5eGRSSUxiU1BQV2xFV3UyUktlOU5yM0c5MEF2cUVNbTFxU0hrZHlyN1FkS2ZUNDJTZTRHZkY2QUNBQldRRXQ1UjVQZTNicEFmRDdFRklDWWR2RFVSWnJJS0lEYnpVeExzRmY4WWtRVVhiRWlxLW1LVG9JSzFuTHhTMmdER0NiMDN3M1pEaVhZWQ?oc=5",
@@ -1275,7 +989,8 @@
   "confidence": "高",
   "reason": "実写映画（Spider-Man）の国内興行収入が$800M達成という新規の実績数字が主題であり、非アニメ映像でも興行成績は対象に該当します。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/global/netflix-buys-wu-tang-clan-doc-the-disciple-1236838138/",
@@ -1295,7 +1010,8 @@
   "confidence": "高",
   "reason": "Netflixが映像作品（ドキュメンタリー）の配信権を買収し公開日を設定した取引ニュースであり、コンテンツ＋ビジネスの2分野が該当します。非アニメの映像ですがビジネス（配信権買収）が主題のため対象です。",
   "ts": 1787159073.2036579,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/maureenkerr/2026/08/19/california-is-fighting-over-film-tax-credits-as-ai-studios-rely-less-on-production-payroll/",
@@ -1316,6 +1032,248 @@
   "confidence": "高",
   "reason": "映像制作産業（コンテンツ）におけるAI技術の影響と、カリフォルニア州の映画税制補助金（ビジネス・政策）の関係を分析した記事。AI導入によって制作コストの構造が変わり、地域産業政策の有効性が減じることを論じており、3分野が主題として統合している。",
   "ts": 1787159073.2036579,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OazhEN3V5SXFSd29KRnZDeFNFcXhZY0F5dW9aQkstNk5mUGJidkNUTm1jYXNqSUZGTkhmM3AxZUJiRU1FRkI4Qzl5WC0tdlVuWF92Q3NHUmZnQW5pd01QR3RTRQ?oc=5",
+  "title": "【新刊案内】『AI映像制作アーカイブス2026』8月27日発売！ AIを使用した映像制作の最新事例を一挙解説 - VIDEO SALON",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Wed, 19 Aug 2026 15:54:58 GMT",
+  "published_ts": 1787154898,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "AI映像制作の最新事例を解説する書籍の発売告知であり、コンテンツ（映像制作）とAIが主題だが、「出版物の発売告知」という告知そのものが記事の中心で、業界全体を揺るがす大型ニュースではなく、ビジネス数字（売上見込み・売上実績）も不明であるため判定が微妙。ただし映像制作のAI動向を論じた書籍の告知なので、内容が実務的ノウハウであれば参考価値があり、取りこぼしを避けるため保留にする。",
+  "ts": 1787202034.556108,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXUU9idVJvSWFSRExiQ1ZBVmdYcTdmampFbjlvRUpuV1FpdTRPeE8zMFk5YTV2X0haR0JVSGFEMkg2UHdVWm5qVA?oc=5",
+  "title": "中国発の動画サイト「bilibili」アプリ版が世界展開 本人確認不要、AI翻訳にも対応 - KAI-YOU",
+  "source": "Googleニュース: AI 吹き替え OR 翻訳 アニメ OR 映画",
+  "sources": [
+   "Googleニュース: AI 吹き替え OR 翻訳 アニメ OR 映画"
+  ],
+  "published": "Thu, 20 Aug 2026 02:47:00 GMT",
+  "published_ts": 1787194020,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "bilibiliの世界展開は配信プラットフォームの国際戦略（ビジネス）であり、AI翻訳機能は記事の主題に含まれるAI技術であり、動画コンテンツ配信サービスそのものがコンテンツ領域に該当するため、3分野すべてが揃う。",
+  "ts": 1787202034.556108,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/box-office-spider-man-brand-new-day-to-beat-insidious-6-1236837576/",
+  "title": "Box Office: ‘Spider-Man: Brand New Day’ to Rule in Fourth Weekend, ‘Insidious: Out of the Further’ Aims for $25 Million Debut",
+  "source": "Variety(Box Office)",
+  "sources": [
+   "Variety(Box Office)"
+  ],
+  "published": "Wed, 19 Aug 2026 15:40:34 +0000",
+  "published_ts": 1787154034,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Spider-Man: Brand New Dayの初国内興収$800M到達、週末興行成績の数字が主題であり、新たに判明した興行実績値の報道のため、コンテンツ＋ビジネスで対象。",
+  "ts": 1787202034.556108,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iRWhZSm1USUh1eElNSkVzbURBR0p2QU9IQzdwU2pfcVA2Ylg3ZlQzVDFhclJDZjFzM2JvNFFSRTFMTGJFOVVSY1NJRUFJbVZ2VnlLamMteU9JTlhDYTJMWHJ4ZDBITVAwTlR3?oc=5",
+  "title": "全国で1,000名以上のAI学習を支援してきたA.I.KEN（アイケン）が、AIを活用した映像制作特化型の 『A.I.KEN リスキリングキャンプ 映像制作コース』をリリース - 時事ドットコム",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Thu, 20 Aug 2026 04:15:00 GMT",
+  "published_ts": 1787199300,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "AIを活用した映像制作の教育プログラムリリースで、AIと映像制作（コンテンツ産業）の接点があるが、実質的なビジネス取引・数字・業界への影響が明確でなく、サービス提供企業の自社プログラム発表の色合いが強いため。",
+  "ts": 1787202034.556108,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CeXZUMHhJNVgtOWJ4eFY3UHFzSUhHVVZVOTJpRmw3WHREaFJfMFNlRXhiNnk4N2NDcW1fWjdZcVFTd0xhNE1sTnZILWJWR29idmc0VzgyQzlldzlQZmtEZGxqd9IBaEFVX3lxTE1kQmZBNnkwa29yNnFQNmZpNDVkb2xPUUJDRTZ5Z1ItaDJhLXhSVjRGV2VXU2ZXbWZaR0JyaWU0OG03dG5RLVBOblNyZS1iODU4LWJ1dHZCMTNJai1NRmRJUEpuMG5iZ090?oc=5",
+  "title": "下手すぎて見たくなる？ 中国のアニメ映画、ネット酷評からの快進撃 - Infoseek",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Wed, 19 Aug 2026 23:23:09 GMT",
+  "published_ts": 1787181789,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "中国アニメ映画の興行成績（ビジネス）と、ネット評価から興行的快進撃に至るまでのストーリー（深掘り）が主題であり、コンテンツ＋ビジネスの2分野を満たすため対象。",
+  "ts": 1787202034.556108,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkbHB5Wi15X1VGWUhjQzJ4ZTMzdmRwNXpiN2RzcGpyN1MyOHRSNU9QYTU3SERsMzNKOUhaRDJkVkYyRThSN2g0WXpaSQ?oc=5",
+  "title": "★AIで映像制作★①【JAI検】AI映像制作！芭蕉の俳句を映像化②【動き出せ！青春】AIで昔の思い出写真を映像化！ - TVer",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Wed, 19 Aug 2026 17:18:40 GMT",
+  "published_ts": 1787159920,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "低",
+  "reason": "AIで映像制作するというコンテンツ×AI の組み合わせだが、タイトルと本文から見出しに「俳句の映像化」「思い出写真の映像化」と記載されており、これが企業のビジネス発表なのか単なる番組/機能紹介なのか、また映像制作ツール・プラットフォームの新機能発表に関わる記事なのか詳細が不明確であり、判定の確実性が低い。",
+  "ts": 1787202034.556108,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-08-19/scholastic-graphix-imprint-to-offer-5-new-titles-based-on-osamu-tezuka-manga/.240728",
+  "title": "Scholastic's Graphix Imprint to Offer 5 New Titles Based on Osamu Tezuka's Manga",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Wed, 19 Aug 2026 16:33:27 -0400",
+  "published_ts": 1787171607,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "手塚治虫の漫画IPを基にした新刊5タイトルをScholasticが出版する契約・提携発表であり、コンテンツ（漫画）とビジネス（出版契約・ライセンス展開）が主題。",
+  "ts": 1787202034.556108,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBMSWFJcTRqY1ZWRHdVSmFVY2FZaDNYZW1KRWRxcXNRY2dycDd1RWRzX2tDcEppaHZFZDhneHdMV0R1NTFZ?oc=5",
+  "title": "推し活市場を熱狂させる「グッズ企画・MD」の仕組みと成功事例…アニメグッズ×推し活がもたらす巨大な相乗効果【推し活から学ぶ経済学】 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "sources": [
+   "Googleニュース(gamebiz.jp)"
+  ],
+  "published": "Wed, 19 Aug 2026 23:02:00 GMT",
+  "published_ts": 1787180520,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "アニメグッズの企画・マーチャンダイジング戦略と推し活市場の相乗効果について分析する記事だが、グッズ発売そのものの告知ではなく業界の仕組みと成功事例を掘り下げているため、ビジネス主題として捉える余地がある一方で、グッズ企画の一般的な解説に留まる可能性もあるため確度が中程度。",
+  "ts": 1787202034.556108,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/erikkain/2026/08/19/fortnite-chapter-7-season-4-override-start-time-servers-down/",
+  "title": "Here’s The Exact Time ‘Fortnite’ Chapter 7, Season 3 Ends And Season 4 ‘Override’ Begins",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Wed, 19 Aug 2026 16:15:40 -0400",
+  "published_ts": 1787170540,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ゲームIPのシーズン更新に伴う大型クロスオーバーキャラクター（Sonic、Persona 5、Kingdom Hearts等）と新Battle Passの内容が主題であり、ゲームコンテンツと新シーズン開始というビジネス上の重要なタイミング（メンテナンス時刻・ダウンタイム情報）が含まれるため。ただしAIの関与がなく、数字ニュースではないため「中」の確度。",
+  "ts": 1787202034.556108,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/08/adele-exarchopoulos-joins-megan-park-apple-movie-1237045734/",
+  "title": "Adèle Exarchopoulos Joins Zoë Kravitz In Apple Film From ‘My Old Ass’ Director Megan Park",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Wed, 19 Aug 2026 22:15:00 +0000",
+  "published_ts": 1787177700,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "実写映画の制作発表でキャスティング情報が主体だが、Appleの映画製作プロジェクト、製作委員会の構成（Apple Studios、LuckyChap、FilmNation）が明記されており、大型配信企業による映像コンテンツ製作ビジネスとして判定した。ただし興行数字や契約金額は無く、AI要素も無いため中程度の信頼度。",
+  "ts": 1787202034.556108,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/timlammers/2026/08/19/spider-man-brand-new-day-and-other-2-billion-movies-at-box-office/",
+  "title": "‘Spider-Man: Brand New Day’ Reaches A Rare $2 Billion Worldwide, Joining 7 Others",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Wed, 19 Aug 2026 16:10:43 -0400",
+  "published_ts": 1787170243,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画『Spider-Man: Brand New Day』が初週末17日で20億ドルを突破した興行成績（Box office）の数字ニュースであり、映像産業の興行ビジネスを伝える速報。非アニメだが業界全体を揺るがす大型興行記録の報道であり対象。",
+  "ts": 1787202034.556108,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/201293",
+  "title": "フイギュア大手のコトブキヤ、営業利益が50％以上減少…円安・材料高騰が重荷、収益性押し下げ",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Wed, 19 Aug 2026 07:17:07 +0000",
+  "published_ts": 1787123827,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ホビー・プラモデル製造販売企業（アニメ・キャラクターIPに関わる）の決算・営業利益・売上高などの財務実績と経営状況が主題であり、コンテンツ＋ビジネスの条件を満たす。",
+  "ts": 1787202034.556108,
   "is_new": true
  }
 ]
