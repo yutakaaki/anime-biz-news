@@ -342,3 +342,156 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
+
+# ---------------------------------------------------------------- Web版（iPad用）
+
+import hashlib
+
+
+def dossier_id(url: str) -> str:
+    """記事URLから短い安定IDを作る（ファイル名・リンク用）。"""
+    return hashlib.sha1(normalize_url(url).encode("utf-8")).hexdigest()[:10]
+
+
+def _esc(s: str) -> str:
+    return (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
+
+
+_MD_LINK = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+_MD_BOLD = re.compile(r"\*\*([^*]+)\*\*")
+
+
+def _inline(s: str) -> str:
+    s = _esc(s)
+    s = _MD_LINK.sub(r'<a href="\2" target="_blank" rel="noopener">\1</a>', s)
+    s = _MD_BOLD.sub(r"<strong>\1</strong>", s)
+    return s
+
+
+def md_to_html(md: str) -> str:
+    """このツールが出力するマークダウンの部分集合をHTMLに変換する
+    （見出し・箇条書き・表・リンク・強調・コードブロックのみ）。"""
+    out: list[str] = []
+    in_ul = in_table = in_code = False
+    for raw in md.split("\n"):
+        line = raw.rstrip()
+        if line.startswith("```"):
+            if in_code:
+                out.append("</pre>")
+            else:
+                out.append('<pre class="code">')
+            in_code = not in_code
+            continue
+        if in_code:
+            out.append(_esc(line))
+            continue
+        is_row = line.startswith("|") and line.endswith("|")
+        if in_ul and not line.startswith("- "):
+            out.append("</ul>"); in_ul = False
+        if in_table and not is_row:
+            out.append("</tbody></table></div>"); in_table = False
+        if not line:
+            continue
+        if line.startswith("### "):
+            out.append(f"<h3>{_inline(line[4:])}</h3>")
+        elif line.startswith("## "):
+            out.append(f"<h2>{_inline(line[3:])}</h2>")
+        elif line.startswith("# "):
+            out.append(f"<h1>{_inline(line[2:])}</h1>")
+        elif line.startswith("---"):
+            out.append("<hr>")
+        elif line.startswith("- "):
+            if not in_ul:
+                out.append("<ul>"); in_ul = True
+            out.append(f"<li>{_inline(line[2:])}</li>")
+        elif is_row:
+            cells = [c.strip() for c in line.strip("|").split("|")]
+            if set("".join(cells)) <= set("-: "):   # 区切り行
+                continue
+            if not in_table:
+                out.append('<div class="tw"><table><thead><tr>'
+                           + "".join(f"<th>{_inline(c)}</th>" for c in cells)
+                           + "</tr></thead><tbody>")
+                in_table = True
+            else:
+                out.append("<tr>" + "".join(f"<td>{_inline(c)}</td>" for c in cells) + "</tr>")
+        else:
+            out.append(f"<p>{_inline(line)}</p>")
+    if in_ul:
+        out.append("</ul>")
+    if in_table:
+        out.append("</tbody></table></div>")
+    if in_code:
+        out.append("</pre>")
+    return "\n".join(out)
+
+
+_PAGE = """<!doctype html><html lang="ja"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>素材パック: {title}</title>
+<style>
+ body{{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans",sans-serif;
+   line-height:1.75;margin:0;padding:16px;max-width:860px;margin:0 auto;color:#222;background:#fff}}
+ h1{{font-size:20px;line-height:1.5;border-bottom:2px solid #333;padding-bottom:10px}}
+ h2{{font-size:17px;margin-top:28px;border-left:5px solid #37507a;padding-left:10px}}
+ h3{{font-size:15px;color:#555}}
+ a{{color:#0b6e8c}}
+ .tw{{overflow-x:auto;-webkit-overflow-scrolling:touch}}
+ table{{border-collapse:collapse;width:100%;font-size:13px;min-width:520px}}
+ th,td{{border:1px solid #ddd;padding:7px;text-align:left;vertical-align:top}}
+ th{{background:#f4f6f8}}
+ pre.code{{background:#f6f8fa;padding:12px;border-radius:8px;overflow-x:auto;
+   font-size:13px;white-space:pre-wrap;word-break:break-word}}
+ ul{{padding-left:22px}} li{{margin:4px 0}}
+ .bar{{position:sticky;top:0;background:#fffdf3;border-bottom:1px solid #f0c36d;
+   padding:10px 0;margin:-16px -16px 16px;padding-left:16px;padding-right:16px;z-index:9}}
+ button{{background:#1a7f37;color:#fff;border:0;border-radius:8px;padding:11px 16px;
+   font-size:15px;font-weight:600;cursor:pointer}}
+ button:active{{opacity:.7}}
+ .back{{display:inline-block;margin-left:12px;font-size:14px}}
+ .hint{{font-size:12px;color:#666;margin-top:6px}}
+</style></head><body>
+<div class="bar">
+  <button id="cp">📋 全文をコピー（ChatGPTに貼る）</button>
+  <a class="back" href="../index.html">← ダイジェストへ</a>
+  <div class="hint">コピー後、ChatGPTアプリに貼り付けてください。末尾に推奨プロンプトが入っています。</div>
+</div>
+{body}
+<textarea id="src" style="position:absolute;left:-9999px;top:0">{raw}</textarea>
+<script>
+document.getElementById('cp').onclick=async function(){{
+  var t=document.getElementById('src').value, b=this;
+  try{{ await navigator.clipboard.writeText(t); }}
+  catch(e){{ var a=document.getElementById('src'); a.style.left='0'; a.select();
+            document.execCommand('copy'); a.style.left='-9999px'; }}
+  b.textContent='✓ コピーしました'; setTimeout(function(){{b.textContent='📋 全文をコピー（ChatGPTに貼る）';}},2000);
+}};
+</script></body></html>"""
+
+
+def build_page(target: dict, md: str) -> str:
+    return _PAGE.format(title=_esc(target.get("title", "")[:60]),
+                        body=md_to_html(md), raw=_esc(md))
+
+
+def generate_all(window: list[dict], archive: list[dict], out_dir: str = "docs/dossier") -> dict:
+    """窓の深掘り記事すべての素材パックHTMLを書き出し、{url_key: 相対リンク} を返す。
+    APIは使わないので毎回作り直して問題ない（数秒・無料）。"""
+    os.makedirs(out_dir, exist_ok=True)
+    # 古いページを掃除（窓から外れた記事のぶん）
+    for f in os.listdir(out_dir):
+        if f.endswith(".html"):
+            try:
+                os.remove(os.path.join(out_dir, f))
+            except OSError:
+                pass
+    links: dict[str, str] = {}
+    for it in candidates(window):
+        rel = related(it, archive)
+        md = build_markdown(it, rel)
+        did = dossier_id(it.get("url", ""))
+        with open(os.path.join(out_dir, f"{did}.html"), "w", encoding="utf-8") as f:
+            f.write(build_page(it, md))
+        links[normalize_url(it.get("url", ""))] = f"dossier/{did}.html"
+    return links

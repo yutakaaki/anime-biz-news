@@ -223,6 +223,17 @@ def main() -> int:
     window = list(by_key.values())
 
     clusters = _aggregate_dicts(window)
+
+    # 素材パック（考察ネタ用の資料）をHTMLで書き出し、digestからリンクする。
+    # API不使用なので毎回作り直してよい。失敗してもdigest本体は出す。
+    try:
+        import dossier  # 循環importを避けるためここで読み込む
+        DOSSIER_LINKS.clear()
+        DOSSIER_LINKS.update(dossier.generate_all(clusters, dossier.load_archive()))
+        print(f"素材パック {len(DOSSIER_LINKS)} 件を docs/dossier/ に生成")
+    except Exception as e:  # noqa: BLE001
+        print(f"  [素材パック生成スキップ] {e}")
+
     os.makedirs(OUT_DIR, exist_ok=True)
     out_path = os.path.join(OUT_DIR, "digest.html")
     with open(out_path, "w", encoding="utf-8") as f:
@@ -288,6 +299,10 @@ def _badge(text: str, color: str) -> str:
             f'font-size:12px;margin-right:4px">{html.escape(text)}</span>')
 
 
+# 素材パックへのリンク {正規化URL: 相対パス}。render_html 前に main() が差し込む。
+DOSSIER_LINKS: dict = {}
+
+
 def _card(it: dict) -> str:
     label = it.get("label", "")
     itype = it.get("type", "その他")
@@ -307,12 +322,18 @@ def _card(it: dict) -> str:
     new_b = _badge("🔄更新", "#0b6e8c") if it.get("updated") else (_badge("🆕NEW", "#e8a33d") if is_new else "")
     style = ("border:1px solid #f0c36d;border-left:5px solid #e8a33d;background:#fffdf3;"
              if is_new else "border:1px solid #ddd;")
+    dpath = DOSSIER_LINKS.get(normalize_url(it.get("url", "")))
+    dossier_btn = (
+        f'<div style="margin-top:10px"><a href="{dpath}" '
+        f'style="display:inline-block;background:#37507a;color:#fff;text-decoration:none;'
+        f'padding:7px 12px;border-radius:8px;font-size:13px;font-weight:600">'
+        f'📋 素材パックを見る</a></div>' if dpath else "")
     return f"""<article style="{style}border-radius:8px;padding:14px;margin:10px 0">
   <div style="font-size:12px;color:#666">{html.escape(it.get("source", ""))} ・ {html.escape(when)}</div>
   <h3 style="margin:6px 0"><a href="{html.escape(it.get("url", ""))}" target="_blank">{html.escape(it.get("title", ""))}</a></h3>
   <div>{new_b}{buzz}{type_b}{chips}{label_b}</div>
   <p style="color:#444;font-size:14px;margin:8px 0 0">{html.escape(it.get("reason", ""))}</p>
-  {also}
+  {also}{dossier_btn}
 </article>"""
 
 
