@@ -165,6 +165,18 @@ def main() -> int:
     with open(web_path, "w", encoding="utf-8") as f:
         f.write(dossier.build_page(target, full))
 
+    # digestを作り直して「✍️ 下書きを見る」リンクを反映（iPadから辿れるように）
+    try:
+        import shutil
+        run.DOSSIER_LINKS.update(dossier.generate_all(window, archive))
+        run.CAND_NO.update(dossier.number_map(window))
+        run.DRAFT_LINKS.update(run.scan_drafts(window))
+        with open(os.path.join(OUT_DIR, "digest.html"), "w", encoding="utf-8") as f:
+            f.write(run.render_html(window))
+        shutil.copy(os.path.join(OUT_DIR, "digest.html"), "docs/index.html")
+    except Exception as e:  # noqa: BLE001
+        print(f"  [digest更新スキップ] {e}")
+
     print(f"\n{body}\n")
     print(f"--- 保存: {md_path}")
     print(f"--- Web: {web_path}")

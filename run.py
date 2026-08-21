@@ -232,6 +232,8 @@ def main() -> int:
         DOSSIER_LINKS.update(dossier.generate_all(clusters, dossier.load_archive()))
         CAND_NO.clear()
         CAND_NO.update(dossier.number_map(clusters))
+        DRAFT_LINKS.clear()
+        DRAFT_LINKS.update(scan_drafts(clusters))
         print(f"素材パック {len(DOSSIER_LINKS)} 件を docs/dossier/ に生成")
     except Exception as e:  # noqa: BLE001
         print(f"  [素材パック生成スキップ] {e}")
@@ -305,6 +307,23 @@ def _badge(text: str, color: str) -> str:
 DOSSIER_LINKS: dict = {}
 # ネタ候補番号 {正規化URL: 番号}。draft.py / dossier.py の N と一致させる。
 CAND_NO: dict = {}
+# 生成済みの下書き {正規化URL: 相対パス}。docs/draft/ を走査して作る。
+DRAFT_LINKS: dict = {}
+
+
+def scan_drafts(items: list[dict], out_dir: str = "docs/draft") -> dict:
+    """生成済みの下書きページを探し、記事URLと結びつける。"""
+    import dossier
+    links = {}
+    if not os.path.isdir(out_dir):
+        return links
+    have = {f[:-5] for f in os.listdir(out_dir) if f.endswith(".html")}
+    for it in items:
+        key = normalize_url(it.get("url", ""))
+        did = dossier.dossier_id(it.get("url", ""))
+        if did in have:
+            links[key] = f"draft/{did}.html"
+    return links
 
 
 def _card(it: dict) -> str:
@@ -331,11 +350,17 @@ def _card(it: dict) -> str:
     no_b = (f'<span style="background:#333;color:#fff;padding:3px 9px;border-radius:6px;'
             f'font-size:13px;font-weight:700;margin-right:6px">#{no}</span>' if no else "")
     dpath = DOSSIER_LINKS.get(key)
-    dossier_btn = (
-        f'<div style="margin-top:10px"><a href="{dpath}" '
-        f'style="display:inline-block;background:#37507a;color:#fff;text-decoration:none;'
-        f'padding:7px 12px;border-radius:8px;font-size:13px;font-weight:600">'
-        f'📋 素材パックを見る</a></div>' if dpath else "")
+    wpath = DRAFT_LINKS.get(key)
+    btns = []
+    if dpath:
+        btns.append(f'<a href="{dpath}" style="display:inline-block;background:#37507a;'
+                    f'color:#fff;text-decoration:none;padding:7px 12px;border-radius:8px;'
+                    f'font-size:13px;font-weight:600;margin-right:6px">📋 素材パック</a>')
+    if wpath:
+        btns.append(f'<a href="{wpath}" style="display:inline-block;background:#b3541e;'
+                    f'color:#fff;text-decoration:none;padding:7px 12px;border-radius:8px;'
+                    f'font-size:13px;font-weight:600">✍️ 下書きを見る</a>')
+    dossier_btn = f'<div style="margin-top:10px">{"".join(btns)}</div>' if btns else ""
     return f"""<article style="{style}border-radius:8px;padding:14px;margin:10px 0">
   <div style="font-size:12px;color:#666">{html.escape(it.get("source", ""))} ・ {html.escape(when)}</div>
   <h3 style="margin:6px 0"><a href="{html.escape(it.get("url", ""))}" target="_blank">{html.escape(it.get("title", ""))}</a></h3>
