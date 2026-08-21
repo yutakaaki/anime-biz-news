@@ -136,10 +136,23 @@ def pick_target(arg: str | None, window: list[dict], archive: list[dict]) -> dic
     return next((r for r in pool if low in (r.get("title", "") or "").lower()), None)
 
 
-def candidates(window: list[dict]) -> list[dict]:
-    """窓の深掘り記事を新しい順に（＝ネタ候補）。"""
-    deep = [x for x in window if x.get("type") == "深掘り"]
-    return sorted(deep, key=lambda x: -(x.get("published_ts") or 0))
+def candidates(items: list[dict]) -> list[dict]:
+    """ネタ候補の正順（digest・素材パック・下書きで共通）。
+    深掘りを新しい順に並べ、続けて複数媒体が報じた速報を話題度順に並べる。
+    ※必ず集約後(_aggregate_dicts)のリストを渡すこと。集約前だと digest の
+      表示と番号がずれる。"""
+    deep = sorted([x for x in items if x.get("type") == "深掘り"],
+                  key=lambda x: -(_when(x) or 0))
+    hot = sorted([x for x in items if x.get("type") != "深掘り"
+                  and len(x.get("sources") or []) >= 2],
+                 key=lambda x: (-len(x.get("sources") or []), -(_when(x) or 0)))
+    return deep + hot
+
+
+def number_map(items: list[dict]) -> dict:
+    """{正規化URL: 候補番号} を返す（digestのバッジ表示用）。"""
+    return {normalize_url(c.get("url", "")): i
+            for i, c in enumerate(candidates(items), 1)}
 
 
 # ---------------------------------------------------------------- 関連記事

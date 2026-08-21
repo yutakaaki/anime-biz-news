@@ -93,15 +93,7 @@ def load_env(path: str = ".env") -> None:
             os.environ.setdefault(k.strip(), v.strip().strip('"').strip("'"))
 
 
-def candidates(window: list[dict]) -> list[dict]:
-    """ネタ候補: 深掘りを新しい順に、続けて話題の速報（複数媒体が報じたもの）。
-    速報も考察の入口になるため候補に含める（Box office・決算・M&A など）。"""
-    deep = sorted([x for x in window if x.get("type") == "深掘り"],
-                  key=lambda x: -(x.get("published_ts") or 0))
-    hot = sorted([x for x in window if x.get("type") != "深掘り"
-                  and len(x.get("sources") or []) >= 2],
-                 key=lambda x: (-len(x.get("sources") or []), -(x.get("published_ts") or 0)))
-    return deep + hot
+
 
 
 def generate(material: str) -> str:
@@ -127,9 +119,10 @@ def main() -> int:
     load_env()
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     do_push = "--push" in sys.argv
-    window = store.load_recent()
+    import run
+    window = run._aggregate_dicts(store.load_recent())  # digestと同じ集約後リスト
     archive = dossier.load_archive()
-    cands = candidates(window)
+    cands = dossier.candidates(window)
 
     if not args:
         if not cands:

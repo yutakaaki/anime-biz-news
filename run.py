@@ -230,6 +230,8 @@ def main() -> int:
         import dossier  # 循環importを避けるためここで読み込む
         DOSSIER_LINKS.clear()
         DOSSIER_LINKS.update(dossier.generate_all(clusters, dossier.load_archive()))
+        CAND_NO.clear()
+        CAND_NO.update(dossier.number_map(clusters))
         print(f"素材パック {len(DOSSIER_LINKS)} 件を docs/dossier/ に生成")
     except Exception as e:  # noqa: BLE001
         print(f"  [素材パック生成スキップ] {e}")
@@ -301,6 +303,8 @@ def _badge(text: str, color: str) -> str:
 
 # 素材パックへのリンク {正規化URL: 相対パス}。render_html 前に main() が差し込む。
 DOSSIER_LINKS: dict = {}
+# ネタ候補番号 {正規化URL: 番号}。draft.py / dossier.py の N と一致させる。
+CAND_NO: dict = {}
 
 
 def _card(it: dict) -> str:
@@ -322,7 +326,11 @@ def _card(it: dict) -> str:
     new_b = _badge("🔄更新", "#0b6e8c") if it.get("updated") else (_badge("🆕NEW", "#e8a33d") if is_new else "")
     style = ("border:1px solid #f0c36d;border-left:5px solid #e8a33d;background:#fffdf3;"
              if is_new else "border:1px solid #ddd;")
-    dpath = DOSSIER_LINKS.get(normalize_url(it.get("url", "")))
+    key = normalize_url(it.get("url", ""))
+    no = CAND_NO.get(key)
+    no_b = (f'<span style="background:#333;color:#fff;padding:3px 9px;border-radius:6px;'
+            f'font-size:13px;font-weight:700;margin-right:6px">#{no}</span>' if no else "")
+    dpath = DOSSIER_LINKS.get(key)
     dossier_btn = (
         f'<div style="margin-top:10px"><a href="{dpath}" '
         f'style="display:inline-block;background:#37507a;color:#fff;text-decoration:none;'
@@ -331,7 +339,7 @@ def _card(it: dict) -> str:
     return f"""<article style="{style}border-radius:8px;padding:14px;margin:10px 0">
   <div style="font-size:12px;color:#666">{html.escape(it.get("source", ""))} ・ {html.escape(when)}</div>
   <h3 style="margin:6px 0"><a href="{html.escape(it.get("url", ""))}" target="_blank">{html.escape(it.get("title", ""))}</a></h3>
-  <div>{new_b}{buzz}{type_b}{chips}{label_b}</div>
+  <div>{no_b}{new_b}{buzz}{type_b}{chips}{label_b}</div>
   <p style="color:#444;font-size:14px;margin:8px 0 0">{html.escape(it.get("reason", ""))}</p>
   {also}{dossier_btn}
 </article>"""
