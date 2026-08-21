@@ -489,7 +489,7 @@ if(bb) bb.onclick=function(){{ copyFrom('bodysrc', this, '✍️ 本文だけコ
 </script></body></html>"""
 
 
-_BODY_RE = re.compile(r"^## 4\. 本文下書き\s*$(.*?)^## 5\.", re.M | re.S)
+_BODY_RE = re.compile(r"^## \d+\. 本文下書き\s*$(.*?)^## \d+\.", re.M | re.S)
 
 
 def _body_only(md: str) -> str:
