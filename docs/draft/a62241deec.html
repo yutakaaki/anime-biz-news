@@ -24,9 +24,10 @@
  .hint{font-size:12px;color:#666;margin-top:6px}
 </style></head><body>
 <div class="bar">
-  <button id="cp">📋 全文をコピー（ChatGPTに貼る）</button>
-  <a class="back" href="../index.html">← ダイジェストへ</a>
-  <div class="hint">コピー後、ChatGPTアプリに貼り付けてください。末尾に推奨プロンプトが入っています。</div>
+  <button id="cp">📋 全文をコピー</button>
+  <button id="cpbody" style="background:#b3541e;margin-left:8px">✍️ 本文だけコピー（note用）</button>
+  <a class="back" href="../index.html">← 一覧へ</a>
+  <div class="hint">「本文だけコピー」はnoteにそのまま貼れます。「全文」は構成案・X投稿案・確認事項を含みます。</div>
 </div>
 <h1>下書き: 「アニメ制作市場」初の4千億円突破もピークアウトの可能性 人手不足で制作キャパシティに限界感 2026年市場は5年ぶり - ニコニコニュース</h1>
 <p>元記事: https://news.google.com/rss/articles/CBMie0FVX3lxTFBEeEtmZkZfaU1aRUFZWmhHU0I5TWRYeE9qekVyb0l3a2tsVU56UnJiUHFKU204ZmdnX0d2aWFIUnRFOFVieEZIaElXRDBSWXJUSm1XanlTTGlUZlg4cXJKT1BjenJ4VkttUzNvTE9DekNUajhUNk1SeE1fMA?oc=5</p>
@@ -178,12 +179,53 @@
 - **日テレAI-HRとスムージースタジオの連携内容**（アニメ制作が対象なのか、広告・実写映像なのか）。アニメ文脈で引くなら要確認です。
 - バイトダンス×米映画協会の協定は**米国の話**です。日本の制作現場のルール整備と直結するかは慎重に。本文では「別の軸」として置いています。
 </textarea>
+<textarea id="bodysrc" style="position:absolute;left:-9999px;top:0">過去最高の年に、ピークアウトの話が出る
+
+2026年8月19日、帝国データバンクの調査として、2025年のアニメ制作市場が初めて4000億円を超えたと報じられました（日本経済新聞）。同じ日、ニコニコニュースはこの調査を「初の4千億円突破もピークアウトの可能性」という見出しで伝えています。理由として挙げられているのは、人手不足による制作キャパシティの限界感です。
+
+過去最高の数字と、頭打ちの予感が、同じ記事の中に並んでいる。まずこの居心地の悪さから始めたいと思います。
+
+普通、市場が伸び悩むと言われるとき、私たちはまず需要を疑います。飽きられたのではないか、他の娯楽に時間を取られているのではないか、と。けれど今回の指摘はそこではありません。作る側の余力の話です。
+
+天井は需要側ではなく供給側にある
+
+需要の議論は、実際には別のレイヤーで進んでいます。6月24日には「海外で売れるアニメは何が違うのか」というテーマのイベント報道がありました。どうすればもっと売れるか、という問いは今も現役です。
+
+一方で、8月19日の記事が示しているのは、売れるかどうか以前に、そもそも作れる本数に上限があるという話です。ここは分けて考えたほうがよさそうです。需要のボトルネックと供給のボトルネックは、打ち手がまったく違うからです。
+
+需要が足りないなら、企画や宣伝、海外展開に投資します。供給が足りないなら、人を増やすか、一人当たりの生産性を上げるしかありません。そして人を増やすには時間がかかります。育成に何年もかかる職種であればなおさらです（※推測）。
+
+「1枚30分」が「200枚を10〜20分」になる世界
+
+7月12日の報道は、この文脈で読むと意味が変わってきます。アニメ制作へのAI導入を扱った記事で、「1枚30分」だった作業が「200枚を10〜20分」になる、という数字が出ています。桁が二つも三つも動く話です。
+
+同じ記事の見出しには「人手不足の救世主？ 人間を淘汰？」という両論が並び、歴46年のアニメーターが「私の仕事がなく…」と語ったことが記されています。ここが難しいところです。経営から見れば供給制約の解消策でも、現場から見れば自分の職能の否定に見える。
+
+8月18日には、日テレAI-HRが生成AI専門の映像制作会社スムージースタジオとパートナー連携を開始したと報じられました。放送局系の組織が生成AI専業のスタジオと組む。実務のレイヤーで話が動き始めているサインだと思います。
+
+ただ、AIを「コストを下げる道具」として語ると、この議論はまず間違いなくこじれます。人件費を削る話に聞こえるからです。もし4000億円の壁が本当に供給側にあるのなら、語るべきは削減ではなく、これまで作れなかった分をどう作るか、のほうではないでしょうか。同じ技術でも、置く文脈で受け取られ方が変わります。
+
+効率化より先に、ルールの合意が要る
+
+もう一本、8月19日には別の動きもありました。バイトダンスが米映画協会とAI著作権保護協定を締結した、というニュースです。プラットフォーム側と権利者側が、AIをめぐる線引きについて合意する。効率化の話とは別の軸ですが、無関係ではありません。
+
+何をどう学習させ、何を許さないのか。その合意がないまま生産性の数字だけが先行すると、現場は道具を信用しません。7月14日にはゲーム・アニメ・マンガの翻訳を扱うErudAiteの出展も報じられており、制作以外の工程にもAIは入り始めています。範囲が広がるほど、ルールの重さは増していきます。
+
+4000億円という数字は、これまでの成果の記録です。次に問われるのは、その先を誰がどうやって作るのか。人を増やすのか、生産性を上げるのか、両方なのか。少なくとも「売れているから大丈夫」という話ではなさそうです。
+
+---</textarea>
 <script>
-document.getElementById('cp').onclick=async function(){
-  var t=document.getElementById('src').value, b=this;
-  try{ await navigator.clipboard.writeText(t); }
-  catch(e){ var a=document.getElementById('src'); a.style.left='0'; a.select();
-            document.execCommand('copy'); a.style.left='-9999px'; }
-  b.textContent='✓ コピーしました'; setTimeout(function(){b.textContent='📋 全文をコピー（ChatGPTに貼る）';},2000);
-};
+function copyFrom(id, btn, label){
+  var t=document.getElementById(id).value;
+  function done(){ btn.textContent='✓ コピーしました';
+    setTimeout(function(){btn.textContent=label;},2000); }
+  if(navigator.clipboard&&navigator.clipboard.writeText){
+    navigator.clipboard.writeText(t).then(done).catch(function(){fallback();});
+  } else { fallback(); }
+  function fallback(){ var a=document.getElementById(id); a.style.left='0'; a.select();
+    document.execCommand('copy'); a.style.left='-9999px'; done(); }
+}
+document.getElementById('cp').onclick=function(){ copyFrom('src', this, '📋 全文をコピー'); };
+var bb=document.getElementById('cpbody');
+if(bb) bb.onclick=function(){ copyFrom('bodysrc', this, '✍️ 本文だけコピー（note用）'); };
 </script></body></html>

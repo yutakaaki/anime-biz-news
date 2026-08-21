@@ -24,9 +24,9 @@
  .hint{font-size:12px;color:#666;margin-top:6px}
 </style></head><body>
 <div class="bar">
-  <button id="cp">📋 全文をコピー（ChatGPTに貼る）</button>
-  <a class="back" href="../index.html">← ダイジェストへ</a>
-  <div class="hint">コピー後、ChatGPTアプリに貼り付けてください。末尾に推奨プロンプトが入っています。</div>
+  <button id="cp">📋 全文をコピー</button>
+  <a class="back" href="../index.html">← 一覧へ</a>
+  <div class="hint">コピー後、ChatGPTアプリに貼り付けてください。冒頭に指示文が入っています。</div>
 </div>
 <p>以下は1つのニュースと、その話題に関する過去報道の一次材料です。</p>
 <p>この材料の範囲だけで、note記事の構成案を作ってください。</p>
@@ -140,12 +140,19 @@
 - **AI×お金の接点**: 関連記事にAIとビジネスの両方があります。技術の話を収益・コスト構造に接続できます。
 - **数字の比較**: 上の数字を並べ、増減や桁の変化を主張の根拠に使えます。
 </textarea>
+<textarea id="bodysrc" style="position:absolute;left:-9999px;top:0"></textarea>
 <script>
-document.getElementById('cp').onclick=async function(){
-  var t=document.getElementById('src').value, b=this;
-  try{ await navigator.clipboard.writeText(t); }
-  catch(e){ var a=document.getElementById('src'); a.style.left='0'; a.select();
-            document.execCommand('copy'); a.style.left='-9999px'; }
-  b.textContent='✓ コピーしました'; setTimeout(function(){b.textContent='📋 全文をコピー（ChatGPTに貼る）';},2000);
-};
+function copyFrom(id, btn, label){
+  var t=document.getElementById(id).value;
+  function done(){ btn.textContent='✓ コピーしました';
+    setTimeout(function(){btn.textContent=label;},2000); }
+  if(navigator.clipboard&&navigator.clipboard.writeText){
+    navigator.clipboard.writeText(t).then(done).catch(function(){fallback();});
+  } else { fallback(); }
+  function fallback(){ var a=document.getElementById(id); a.style.left='0'; a.select();
+    document.execCommand('copy'); a.style.left='-9999px'; done(); }
+}
+document.getElementById('cp').onclick=function(){ copyFrom('src', this, '📋 全文をコピー'); };
+var bb=document.getElementById('cpbody');
+if(bb) bb.onclick=function(){ copyFrom('bodysrc', this, '✍️ 本文だけコピー（note用）'); };
 </script></body></html>

@@ -24,9 +24,9 @@
  .hint{font-size:12px;color:#666;margin-top:6px}
 </style></head><body>
 <div class="bar">
-  <button id="cp">📋 全文をコピー（ChatGPTに貼る）</button>
-  <a class="back" href="../index.html">← ダイジェストへ</a>
-  <div class="hint">コピー後、ChatGPTアプリに貼り付けてください。末尾に推奨プロンプトが入っています。</div>
+  <button id="cp">📋 全文をコピー</button>
+  <a class="back" href="../index.html">← 一覧へ</a>
+  <div class="hint">コピー後、ChatGPTアプリに貼り付けてください。冒頭に指示文が入っています。</div>
 </div>
 <p>以下は1つのニュースと、その話題に関する過去報道の一次材料です。</p>
 <p>この材料の範囲だけで、note記事の構成案を作ってください。</p>
@@ -53,10 +53,8 @@
 <h2>2. 同じ話題の過去報道（時系列）</h2>
 <p>この話がどう動いてきたか。考察の骨格はここから作れます。</p>
 <div class="tw"><table><thead><tr><th>日付</th><th>媒体</th><th>見出し</th></tr></thead><tbody>
-<tr><td>07/02</td><td>Googleニュース: AI 映像制</td><td><a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1HMHlSY1FmSXF0ZWx2NjVMMnJhVGoza1FSREt5elVxaWg5cHQweW1kVENfUVVRQllXRWhGUHUzX1V5UTVJdTRKV2Q4cW5mYzdxZkFpMlBrVFlfTk1hRFhGQjZfNkV1U3A1Wl9Z?oc=5" target="_blank" rel="noopener">7/15（水）オンラインセミナー開催！AI映像制作の最前線をnpaka氏と検証。はじめてのAutodesk Flow Studio - CG</a></td></tr>
 <tr><td>07/13</td><td>Googleニュース(nikkei.</td><td><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1LZDRoQTNFVm9zWVdkenlHcXdMVlJfM0tGbUNUUGVRRUdqWnJ3Rk05WFcxMldzVXpxeTZ3MnJoLTVSMjdCbGwxaEYwZDU5SjFGaE43akdRMWVaU2lBcENZdlF6My00Yklwc0dtMA?oc=5" target="_blank" rel="noopener">人気声優、自身の声をAIで再現 「海賊版ボイス」に事業化で対抗 - 日本経済新聞</a></td></tr>
 <tr><td>07/13</td><td>Googleニュース: 生成AI ア</td><td><a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1GeDA2c3FuZTJIdy1ZTm5rclFnNXJfZ1ZyUFBmRml4TVIyeDhYQXhob1JnOFF0bTMwMkwzWjlKXzNCQWo1bTE4NngwTkk1VHRlRXlXSC1KcENxbWw5RkFEZUFoZTVyM3RoaGc?oc=5" target="_blank" rel="noopener">アニメ特化動画生成AIモデル『AnimeGen』を公開 - PR TIMES</a></td></tr>
-<tr><td>07/14</td><td>Googleニュース: 生成AI ア</td><td><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFAxUW1iclpZWE9yV0JlM256TzVKMk1oemZ3Uk1ma0tlX1l2TzFBb2JlSW1DaWFteFJxZWpoVGZwM2dMNEtxN2NIVVZ5X0N0dkpKYjdaZkVZQ2xKNTl6VlNnLU83bVNaZ09PZE1Qc1ljRQ?oc=5" target="_blank" rel="noopener">生成AIで担うアニメ・ゲームの新しい制作体制 - 宣伝会議</a></td></tr>
 <tr><td>07/23</td><td>Variety</td><td><a href="https://variety.com/2026/film/news/darren-aronofsky-ai-primordial-soup-raising-15-million-1236818544/" target="_blank" rel="noopener">Darren Aronofsky’s AI Studio Primordial Soup Raising $15 Million</a></td></tr>
 <tr><td>08/05</td><td>Google News: gener</td><td><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPWm53Rk9HaU1qRW9CUEZLY1oyMENJRlVPelA4RDF4YkhVUVV0V25vUnlzTUJsVEhvVTc5NTFhRlRhV2JDLVZGX2xTVDhRR0J1UkRPN1VFOFlaanFsZzZtUlBEMjAwVWM3ak4tM1FNQ3djRG05RUdabFd0TTJpOFVDSFFWaER5dWlTM2tEWUJpbXQ5b3loNXU5NHJkdnlQcFdWQncxRGptZ2hqWTdFWWltd1hMeDdqTy14cmNsSjZDdGJsV0lCVEVnMHdLYjlIMnoyZU5uanNMUDFGYndpYmU4SVd3V2hkSU5vWDBZU2U5YU1sMWFIVHg2OFRQTkVQYXBy?oc=5" target="_blank" rel="noopener">AI Motion Graphic Animation Videos by MultiVision Creative Bridges His</a></td></tr>
 <tr><td>08/05</td><td>Variety</td><td><a href="https://variety.com/2026/film/news/eli-roth-studio-notes-shrinking-residuals-ice-cream-man-borderlands-1236827569/" target="_blank" rel="noopener">Eli Roth Got Sick of Studio Notes and Shrinking Residuals, With ‘Ice C</a></td></tr>
@@ -71,6 +69,8 @@
 <tr><td>08/17</td><td>Forbes(Hollywood)</td><td><a href="https://www.forbes.com/sites/carolinereid/2026/08/16/disney-reveals-middle-east-research-for-abu-dhabi-theme-park/" target="_blank" rel="noopener">Disney Reveals Middle East Research For Abu Dhabi Theme Park</a></td></tr>
 <tr><td>08/18</td><td>Google News: AI fi</td><td><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0t2SHVjb21rdDZEVkZfdHVUY3h0NWdJbjVwcmxqOUF1bW9oSlZILUNlVEhFbVpJdHd0ODJhWlBGci11T21QdlpmdGRyQWlqMVBXWkVnblVCVlE2MHdXZnRYMldkVzd6T3pyX05IQWZXZXprZFBDME5pamxPS3N3bnV0ellUUQ?oc=5" target="_blank" rel="noopener">This R-Rated Film Studio Wants to Be the HBO of AI - WIRED</a></td></tr>
 <tr><td>08/20</td><td>Googleニュース: AI 映像制</td><td><a href="https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkbHB5Wi15X1VGWUhjQzJ4ZTMzdmRwNXpiN2RzcGpyN1MyOHRSNU9QYTU3SERsMzNKOUhaRDJkVkYyRThSN2g0WXpaSQ?oc=5" target="_blank" rel="noopener">★AIで映像制作★①【JAI検】AI映像制作！芭蕉の俳句を映像化②【動き出せ！青春】AIで昔の思い出写真を映像化！ - TVer</a></td></tr>
+<tr><td>08/20</td><td>Googleニュース: 生成AI ア</td><td><a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFBQN3dyOHo5REhPYzlDcGpibDU4VzZnRVFiWDlmTDEtV1VtTXE5LXBPMkhZUmZrUXIxMXcwQ0dvRTlrRmFtbGRRUUpKNFRHVl95SzJrNVpaaGp4M2JjaHpaaWZmcThmdWNYTXc?oc=5" target="_blank" rel="noopener">最新動画生成AI「Seedance 2.5」搭載AIアニメ制作プラットフォーム「PopPixs」提供開始 - PR TIMES</a></td></tr>
+<tr><td>08/20</td><td>Googleニュース: AI 映像制</td><td><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBFcEszdFRBSHFLSGc2RzVUcHpGZlk0TG1IUnR1cFpJdnpGYlJramVFYll5RGJRN3JPV0RyYmhyeDJEN3RNYTF3QUxaWVViUjhKZ09PWG5ZRmdWTHkxblk0NEpxcURLSGZKWlYyb3B2eldFSFJH?oc=5" target="_blank" rel="noopener">Flow Studio に「3D Editor + Canvas」を導入 〜生成から演出へ - Autodesk News</a></td></tr>
 </tbody></table></div>
 <h3>関連報道に出てきた数字（推移の材料）</h3>
 <ul>
@@ -84,14 +84,14 @@
 <h2>3. 論点の広がり（関連記事の分野内訳）</h2>
 <ul>
 <li>分野: コンテンツ 18件、AI 13件、ビジネス 9件</li>
-<li>関連記事 18件（うち深掘り 5件）</li>
+<li>関連記事 18件（うち深掘り 4件）</li>
 </ul>
 <h2>4. 考察の切り口候補（材料から機械的に提示）</h2>
 <ul>
-<li><strong>推移で語る</strong>: 関連報道が18本・約48日にわたって存在します。「いつ何が起き、何が変わったか」を時系列で追うと、飛躍のない構成になります。</li>
+<li><strong>推移で語る</strong>: 関連報道が18本・約38日にわたって存在します。「いつ何が起き、何が変わったか」を時系列で追うと、飛躍のない構成になります。</li>
 <li><strong>AI×お金の接点</strong>: 関連記事にAIとビジネスの両方があります。技術の話を収益・コスト構造に接続できます。</li>
 <li><strong>数字の比較</strong>: 上の数字を並べ、増減や桁の変化を主張の根拠に使えます。</li>
-<li><strong>先行分析への応答</strong>: 関連する深掘り記事が5本あります。既存の見方に賛成/反論する形が書きやすいです。</li>
+<li><strong>先行分析への応答</strong>: 関連する深掘り記事が4本あります。既存の見方に賛成/反論する形が書きやすいです。</li>
 </ul>
 <textarea id="src" style="position:absolute;left:-9999px;top:0">以下は1つのニュースと、その話題に関する過去報道の一次材料です。
 この材料の範囲だけで、note記事の構成案を作ってください。
@@ -121,10 +121,8 @@
 
 | 日付 | 媒体 | 見出し |
 |---|---|---|
-| 07/02 | Googleニュース: AI 映像制 | [7/15（水）オンラインセミナー開催！AI映像制作の最前線をnpaka氏と検証。はじめてのAutodesk Flow Studio - CG](https://news.google.com/rss/articles/CBMia0FVX3lxTE1HMHlSY1FmSXF0ZWx2NjVMMnJhVGoza1FSREt5elVxaWg5cHQweW1kVENfUVVRQllXRWhGUHUzX1V5UTVJdTRKV2Q4cW5mYzdxZkFpMlBrVFlfTk1hRFhGQjZfNkV1U3A1Wl9Z?oc=5) |
 | 07/13 | Googleニュース(nikkei. | [人気声優、自身の声をAIで再現 「海賊版ボイス」に事業化で対抗 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE1LZDRoQTNFVm9zWVdkenlHcXdMVlJfM0tGbUNUUGVRRUdqWnJ3Rk05WFcxMldzVXpxeTZ3MnJoLTVSMjdCbGwxaEYwZDU5SjFGaE43akdRMWVaU2lBcENZdlF6My00Yklwc0dtMA?oc=5) |
 | 07/13 | Googleニュース: 生成AI ア | [アニメ特化動画生成AIモデル『AnimeGen』を公開 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE1GeDA2c3FuZTJIdy1ZTm5rclFnNXJfZ1ZyUFBmRml4TVIyeDhYQXhob1JnOFF0bTMwMkwzWjlKXzNCQWo1bTE4NngwTkk1VHRlRXlXSC1KcENxbWw5RkFEZUFoZTVyM3RoaGc?oc=5) |
-| 07/14 | Googleニュース: 生成AI ア | [生成AIで担うアニメ・ゲームの新しい制作体制 - 宣伝会議](https://news.google.com/rss/articles/CBMib0FVX3lxTFAxUW1iclpZWE9yV0JlM256TzVKMk1oemZ3Uk1ma0tlX1l2TzFBb2JlSW1DaWFteFJxZWpoVGZwM2dMNEtxN2NIVVZ5X0N0dkpKYjdaZkVZQ2xKNTl6VlNnLU83bVNaZ09PZE1Qc1ljRQ?oc=5) |
 | 07/23 | Variety | [Darren Aronofsky’s AI Studio Primordial Soup Raising $15 Million](https://variety.com/2026/film/news/darren-aronofsky-ai-primordial-soup-raising-15-million-1236818544/) |
 | 08/05 | Google News: gener | [AI Motion Graphic Animation Videos by MultiVision Creative Bridges His](https://news.google.com/rss/articles/CBMigAJBVV95cUxPWm53Rk9HaU1qRW9CUEZLY1oyMENJRlVPelA4RDF4YkhVUVV0V25vUnlzTUJsVEhvVTc5NTFhRlRhV2JDLVZGX2xTVDhRR0J1UkRPN1VFOFlaanFsZzZtUlBEMjAwVWM3ak4tM1FNQ3djRG05RUdabFd0TTJpOFVDSFFWaER5dWlTM2tEWUJpbXQ5b3loNXU5NHJkdnlQcFdWQncxRGptZ2hqWTdFWWltd1hMeDdqTy14cmNsSjZDdGJsV0lCVEVnMHdLYjlIMnoyZU5uanNMUDFGYndpYmU4SVd3V2hkSU5vWDBZU2U5YU1sMWFIVHg2OFRQTkVQYXBy?oc=5) |
 | 08/05 | Variety | [Eli Roth Got Sick of Studio Notes and Shrinking Residuals, With ‘Ice C](https://variety.com/2026/film/news/eli-roth-studio-notes-shrinking-residuals-ice-cream-man-borderlands-1236827569/) |
@@ -139,6 +137,8 @@
 | 08/17 | Forbes(Hollywood) | [Disney Reveals Middle East Research For Abu Dhabi Theme Park](https://www.forbes.com/sites/carolinereid/2026/08/16/disney-reveals-middle-east-research-for-abu-dhabi-theme-park/) |
 | 08/18 | Google News: AI fi | [This R-Rated Film Studio Wants to Be the HBO of AI - WIRED](https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0t2SHVjb21rdDZEVkZfdHVUY3h0NWdJbjVwcmxqOUF1bW9oSlZILUNlVEhFbVpJdHd0ODJhWlBGci11T21QdlpmdGRyQWlqMVBXWkVnblVCVlE2MHdXZnRYMldkVzd6T3pyX05IQWZXZXprZFBDME5pamxPS3N3bnV0ellUUQ?oc=5) |
 | 08/20 | Googleニュース: AI 映像制 | [★AIで映像制作★①【JAI検】AI映像制作！芭蕉の俳句を映像化②【動き出せ！青春】AIで昔の思い出写真を映像化！ - TVer](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkbHB5Wi15X1VGWUhjQzJ4ZTMzdmRwNXpiN2RzcGpyN1MyOHRSNU9QYTU3SERsMzNKOUhaRDJkVkYyRThSN2g0WXpaSQ?oc=5) |
+| 08/20 | Googleニュース: 生成AI ア | [最新動画生成AI「Seedance 2.5」搭載AIアニメ制作プラットフォーム「PopPixs」提供開始 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTFBQN3dyOHo5REhPYzlDcGpibDU4VzZnRVFiWDlmTDEtV1VtTXE5LXBPMkhZUmZrUXIxMXcwQ0dvRTlrRmFtbGRRUUpKNFRHVl95SzJrNVpaaGp4M2JjaHpaaWZmcThmdWNYTXc?oc=5) |
+| 08/20 | Googleニュース: AI 映像制 | [Flow Studio に「3D Editor + Canvas」を導入 〜生成から演出へ - Autodesk News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBFcEszdFRBSHFLSGc2RzVUcHpGZlk0TG1IUnR1cFpJdnpGYlJramVFYll5RGJRN3JPV0RyYmhyeDJEN3RNYTF3QUxaWVViUjhKZ09PWG5ZRmdWTHkxblk0NEpxcURLSGZKWlYyb3B2eldFSFJH?oc=5) |
 
 ### 関連報道に出てきた数字（推移の材料）
 - 07/23: $15 Million
@@ -150,20 +150,27 @@
 
 ## 3. 論点の広がり（関連記事の分野内訳）
 - 分野: コンテンツ 18件、AI 13件、ビジネス 9件
-- 関連記事 18件（うち深掘り 5件）
+- 関連記事 18件（うち深掘り 4件）
 
 ## 4. 考察の切り口候補（材料から機械的に提示）
-- **推移で語る**: 関連報道が18本・約48日にわたって存在します。「いつ何が起き、何が変わったか」を時系列で追うと、飛躍のない構成になります。
+- **推移で語る**: 関連報道が18本・約38日にわたって存在します。「いつ何が起き、何が変わったか」を時系列で追うと、飛躍のない構成になります。
 - **AI×お金の接点**: 関連記事にAIとビジネスの両方があります。技術の話を収益・コスト構造に接続できます。
 - **数字の比較**: 上の数字を並べ、増減や桁の変化を主張の根拠に使えます。
-- **先行分析への応答**: 関連する深掘り記事が5本あります。既存の見方に賛成/反論する形が書きやすいです。
+- **先行分析への応答**: 関連する深掘り記事が4本あります。既存の見方に賛成/反論する形が書きやすいです。
 </textarea>
+<textarea id="bodysrc" style="position:absolute;left:-9999px;top:0"></textarea>
 <script>
-document.getElementById('cp').onclick=async function(){
-  var t=document.getElementById('src').value, b=this;
-  try{ await navigator.clipboard.writeText(t); }
-  catch(e){ var a=document.getElementById('src'); a.style.left='0'; a.select();
-            document.execCommand('copy'); a.style.left='-9999px'; }
-  b.textContent='✓ コピーしました'; setTimeout(function(){b.textContent='📋 全文をコピー（ChatGPTに貼る）';},2000);
-};
+function copyFrom(id, btn, label){
+  var t=document.getElementById(id).value;
+  function done(){ btn.textContent='✓ コピーしました';
+    setTimeout(function(){btn.textContent=label;},2000); }
+  if(navigator.clipboard&&navigator.clipboard.writeText){
+    navigator.clipboard.writeText(t).then(done).catch(function(){fallback();});
+  } else { fallback(); }
+  function fallback(){ var a=document.getElementById(id); a.style.left='0'; a.select();
+    document.execCommand('copy'); a.style.left='-9999px'; done(); }
+}
+document.getElementById('cp').onclick=function(){ copyFrom('src', this, '📋 全文をコピー'); };
+var bb=document.getElementById('cpbody');
+if(bb) bb.onclick=function(){ copyFrom('bodysrc', this, '✍️ 本文だけコピー（note用）'); };
 </script></body></html>

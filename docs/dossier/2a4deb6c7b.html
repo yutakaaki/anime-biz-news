@@ -24,9 +24,9 @@
  .hint{font-size:12px;color:#666;margin-top:6px}
 </style></head><body>
 <div class="bar">
-  <button id="cp">📋 全文をコピー（ChatGPTに貼る）</button>
-  <a class="back" href="../index.html">← ダイジェストへ</a>
-  <div class="hint">コピー後、ChatGPTアプリに貼り付けてください。末尾に推奨プロンプトが入っています。</div>
+  <button id="cp">📋 全文をコピー</button>
+  <a class="back" href="../index.html">← 一覧へ</a>
+  <div class="hint">コピー後、ChatGPTアプリに貼り付けてください。冒頭に指示文が入っています。</div>
 </div>
 <p>以下は1つのニュースと、その話題に関する過去報道の一次材料です。</p>
 <p>この材料の範囲だけで、note記事の構成案を作ってください。</p>
@@ -53,7 +53,6 @@
 <h2>2. 同じ話題の過去報道（時系列）</h2>
 <p>この話がどう動いてきたか。考察の骨格はここから作れます。</p>
 <div class="tw"><table><thead><tr><th>日付</th><th>媒体</th><th>見出し</th></tr></thead><tbody>
-<tr><td>06/29</td><td>Deadline</td><td><a href="https://deadline.com/2026/06/nia-long-jaafar-jackson-michael-bet-awards-1236969530/" target="_blank" rel="noopener">Nia Long Praises Jaafar Jackson For ‘Michael’ Success: “It Was A Joy W</a></td></tr>
 <tr><td>07/10</td><td>Googleニュース(nikkei.</td><td><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbi1GRmxwcDE2Z0hGcVIzVlZtdW5vVmlPOF90dUFEX3ExNk0wNTRuVXlZWWRKY0lHUjh6MkVyR2ZZc2JRWWNHOXE3ekNjTWgtRTA1NEo3SFloN2U2XzJiOG5ZZkQ0MjB2bnNLa3Y3UnR2U3hycUIzaHhHQVpDMG5MYnBKSGluSVdzbElTUDVqbDdSLWRBQzE0OG9fVFg5cEUwRmlLZml2Zlk?oc=5" target="_blank" rel="noopener">中国キャラ祭典、日本コンテンツの人気根強く 日中冷え込みが影 - 日本経済新聞</a></td></tr>
 <tr><td>07/11</td><td>アニメ業界ニュース(0115765)</td><td><a href="https://0115765.com/archives/194733" target="_blank" rel="noopener">中国上海でアジア最大のアニメゲーム展示会、日本企業の出展も例年以上に活況【BilibiliWorld】</a></td></tr>
 <tr><td>07/13</td><td>アニメ業界ニュース(0115765)</td><td><a href="https://0115765.com/archives/195188" target="_blank" rel="noopener">中国の大型アニメゲーム展示会、3日で40万人来場　コミケの“倍”規模で海外オタク取り込み顕著【BilibiliWorld】</a></td></tr>
@@ -65,35 +64,32 @@
 <tr><td>07/30</td><td>Googleニュース(reuters</td><td><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNV282eFFJaWhwTTZwb2plSWNGcFZEejRJYmJ1aElWU2J5NU5QNHdTM2NEQXJGc2VZWlRCcUd3eVZsVWlOLTdnS0NDMldLa2FsR2dZUXJPRlV4LWNIM1ZjVjhrWE4xeWNUczNGSWlLMHh5Y1BZVHF2bk5ESjdYYVZUanpvRFgxYlFCRS1YTVU2VmVDb0YwRXFQZWFpaHNyZHZtcGJ4YjhsZmNsNzdDUjZNd2Fn?oc=5" target="_blank" rel="noopener">BTS boycott Grammys over new Asian pop award category - Reuters</a></td></tr>
 <tr><td>08/04</td><td>Cartoon Brew</td><td><a href="https://www.cartoonbrew.com/feature-film/sun-xun-magic-atlas-interview-265154.html" target="_blank" rel="noopener">Peering Through the Cracks: How Sun Xun Spent A Decade Creating The Ch</a></td></tr>
 <tr><td>08/05</td><td>Googleニュース(reuters</td><td><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNT0FBUDNGdkVtTHVkdFhqWWFxTTlLckc5aFEzV1R3TkkyYVFlNUtMTnVFU08xTHh5TkNtYUxVOExuempYNUJYQkRqaFpFUWliazZ1NDh1LVc2Z3VZc0lnYzl1YjIwSWcyNHdSN0ZqNkVUQlVnX0ZZM2JxUnk1YmJpenlKUERkOXpYd0tBRVRBc1hEUXJKMm02d09EWnFHMHhrc1hCTWhlWWtJajhSQnFXc0htbHBvRV9WWk9qM3pB?oc=5" target="_blank" rel="noopener">As Nolan's "Odyssey" draws global audiences, Sicily's Favignana braces</a></td></tr>
-<tr><td>08/07</td><td>Variety</td><td><a href="https://variety.com/2026/film/news/lionsgate-q2-2026-michael-narrows-loss-1236829508/" target="_blank" rel="noopener">‘Michael’ Boosts Lionsgate Quarterly Results as Studio Narrows Loss to</a></td></tr>
 <tr><td>08/08</td><td>Googleニュース(reuters</td><td><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3c2bmh5aUpYb1U2LWFUaFdROEZZRmhsZFJGd2ZKeld0bzc3TVFETVg1ejBEQm5rMnVEZy1GTVNOeHBhbVJnVFdiMTFQcXV5RmhIU0lQX3pDY0FXOUJaQUlpd3JxQi1nNE5Xd3piNUhqVmF0UV9oNWo5YTZJUUwzOWkwdDJLV1I1cnQ4NDY3LThSUDJwLWNvQlF0ZV9tSzNkRHIxV1VfTmVyUGxGMWNFaS1lVElaTGJyc1E?oc=5" target="_blank" rel="noopener">Take-Two touts 'unprecedented GTA VI pre-orders', but maintains bookin</a></td></tr>
 <tr><td>08/09</td><td>Googleニュース(bloombe</td><td><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcnBtTmtsVk1VZkZpcmVKUzdRNzNiLWY0aWlQNzl3MjNfOHRKOEpVM2VxalRNYm1xNFRpR3FHY1hubmFfeWsxT19WQmVubjZLSXJ4NThFYUh1bWswRFVidjJ4MmFYTUxxQ2t0YXlRNk5hYWVkNGF5N2x5dXpMQmF4YmVKSXdqcWNBZTlxTGxvZnR0dXoyVVdTbUU4dmp2dUJaenJ3bGlBZFJqbnRVc19LclM3bkY0SmVhUnRj?oc=5" target="_blank" rel="noopener">‘The Odyssey’ Is a Blockbuster Built on Scarcity - Bloomberg.com</a></td></tr>
 <tr><td>08/10</td><td>Googleニュース(bloombe</td><td><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE05NUhFWEhnZERFZEdWMmlBYVZEUDZocDdZS3J6SkdLVlVSRjdSX3hMNkdSMTVDWVJoOFV3ZjZ1S0t0a1VoeHJmOGtHeUtVbTFoaTFxdlBmZ0xrR1pGRnU3eU5DdDMxSVR2YW5TZWpSM21KNnVt?oc=5" target="_blank" rel="noopener">This is the year we went back to the movies. Here are eight lessons Ho</a></td></tr>
 <tr><td>08/18</td><td>Googleニュース(reuters</td><td><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOblRFUzRfTndFOVh2dVMzUm1vWU9sOGFRcTYyRG1USEc0VXJ6d2lWQVFBdll5TGM0b1dSV0JiUDdoWDFERmsxcTkxM2Z6S1VtUllCekFXSWdpNVFENjhHbjVsUzh6NndCbVltcExfLVpUYUVHSEUyRTRNdVQ4OTFwY0djRXlkODZHMnNVSWR5LXpiNVpIZ0xmOGtnMk5KWVgwSlBCOHRhc0ZuVWliN25jT25KcXBaeVllUjBPTGFtZ2swVWM?oc=5" target="_blank" rel="noopener">Microdramas boom in a shrinking Hollywood as studios chase a TikTok au</a></td></tr>
 <tr><td>08/19</td><td>Googleニュース(bloombe</td><td><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPSDRfYTdsZVFkWkduaFk0MGtITjk2bU5rNG9ZVnY2VkhsNTljU1lKZC0xeWlMMlJGYmFKNFcxM0ZFaTdrZTFtQUl0bjk5dDZWYUlVLWpad0xxUzhHaFQ1cEgyeWJ4SzJ3cE9mZzBGemhtVkFyQUVCNUdDblpQcXU1TzJldE9DbUU1NmZqamJEbElPT0Z0dEpMYXJYSUFtODBNemFvbldaNElGcURpT2pEd0kwbHhmQQ?oc=5" target="_blank" rel="noopener">Chinese Cartoon So Bad You Have to See It Becomes Box Office Hit - Blo</a></td></tr>
+<tr><td>08/21</td><td>Forbes(Hollywood)</td><td><a href="https://www.forbes.com/sites/sophiamorano/2026/08/20/how-paw-patrol-could-show-disney-the-way-to-bluey-movie-success/" target="_blank" rel="noopener">How ‘Paw Patrol’ Could Show Disney The Way To ‘Bluey’ Movie Success</a></td></tr>
 </tbody></table></div>
 <h3>関連報道に出てきた数字（推移の材料）</h3>
 <ul>
-<li>??/??: 977.4億ドル</li>
 <li>07/13: 40万人</li>
 <li>07/13: 35%</li>
 <li>07/13: 126%</li>
 <li>07/18: 710億円</li>
 <li>08/04: 4000万人</li>
-<li>08/07: $29 Million</li>
-<li>08/07: 10億ドル</li>
 </ul>
 <h2>3. 論点の広がり（関連記事の分野内訳）</h2>
 <ul>
-<li>分野: コンテンツ 18件、ビジネス 18件、AI 1件</li>
-<li>関連記事 18件（うち深掘り 6件）</li>
+<li>分野: コンテンツ 17件、ビジネス 17件、AI 1件</li>
+<li>関連記事 17件（うち深掘り 7件）</li>
 </ul>
 <h2>4. 考察の切り口候補（材料から機械的に提示）</h2>
 <ul>
-<li><strong>推移で語る</strong>: 関連報道が18本・約50日にわたって存在します。「いつ何が起き、何が変わったか」を時系列で追うと、飛躍のない構成になります。</li>
+<li><strong>推移で語る</strong>: 関連報道が17本・約41日にわたって存在します。「いつ何が起き、何が変わったか」を時系列で追うと、飛躍のない構成になります。</li>
 <li><strong>AI×お金の接点</strong>: 関連記事にAIとビジネスの両方があります。技術の話を収益・コスト構造に接続できます。</li>
 <li><strong>数字の比較</strong>: 上の数字を並べ、増減や桁の変化を主張の根拠に使えます。</li>
-<li><strong>先行分析への応答</strong>: 関連する深掘り記事が6本あります。既存の見方に賛成/反論する形が書きやすいです。</li>
+<li><strong>先行分析への応答</strong>: 関連する深掘り記事が7本あります。既存の見方に賛成/反論する形が書きやすいです。</li>
 </ul>
 <textarea id="src" style="position:absolute;left:-9999px;top:0">以下は1つのニュースと、その話題に関する過去報道の一次材料です。
 この材料の範囲だけで、note記事の構成案を作ってください。
@@ -123,7 +119,6 @@
 
 | 日付 | 媒体 | 見出し |
 |---|---|---|
-| 06/29 | Deadline | [Nia Long Praises Jaafar Jackson For ‘Michael’ Success: “It Was A Joy W](https://deadline.com/2026/06/nia-long-jaafar-jackson-michael-bet-awards-1236969530/) |
 | 07/10 | Googleニュース(nikkei. | [中国キャラ祭典、日本コンテンツの人気根強く 日中冷え込みが影 - 日本経済新聞](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbi1GRmxwcDE2Z0hGcVIzVlZtdW5vVmlPOF90dUFEX3ExNk0wNTRuVXlZWWRKY0lHUjh6MkVyR2ZZc2JRWWNHOXE3ekNjTWgtRTA1NEo3SFloN2U2XzJiOG5ZZkQ0MjB2bnNLa3Y3UnR2U3hycUIzaHhHQVpDMG5MYnBKSGluSVdzbElTUDVqbDdSLWRBQzE0OG9fVFg5cEUwRmlLZml2Zlk?oc=5) |
 | 07/11 | アニメ業界ニュース(0115765) | [中国上海でアジア最大のアニメゲーム展示会、日本企業の出展も例年以上に活況【BilibiliWorld】](https://0115765.com/archives/194733) |
 | 07/13 | アニメ業界ニュース(0115765) | [中国の大型アニメゲーム展示会、3日で40万人来場　コミケの“倍”規模で海外オタク取り込み顕著【BilibiliWorld】](https://0115765.com/archives/195188) |
@@ -135,39 +130,43 @@
 | 07/30 | Googleニュース(reuters | [BTS boycott Grammys over new Asian pop award category - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxNV282eFFJaWhwTTZwb2plSWNGcFZEejRJYmJ1aElWU2J5NU5QNHdTM2NEQXJGc2VZWlRCcUd3eVZsVWlOLTdnS0NDMldLa2FsR2dZUXJPRlV4LWNIM1ZjVjhrWE4xeWNUczNGSWlLMHh5Y1BZVHF2bk5ESjdYYVZUanpvRFgxYlFCRS1YTVU2VmVDb0YwRXFQZWFpaHNyZHZtcGJ4YjhsZmNsNzdDUjZNd2Fn?oc=5) |
 | 08/04 | Cartoon Brew | [Peering Through the Cracks: How Sun Xun Spent A Decade Creating The Ch](https://www.cartoonbrew.com/feature-film/sun-xun-magic-atlas-interview-265154.html) |
 | 08/05 | Googleニュース(reuters | [As Nolan's "Odyssey" draws global audiences, Sicily's Favignana braces](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT0FBUDNGdkVtTHVkdFhqWWFxTTlLckc5aFEzV1R3TkkyYVFlNUtMTnVFU08xTHh5TkNtYUxVOExuempYNUJYQkRqaFpFUWliazZ1NDh1LVc2Z3VZc0lnYzl1YjIwSWcyNHdSN0ZqNkVUQlVnX0ZZM2JxUnk1YmJpenlKUERkOXpYd0tBRVRBc1hEUXJKMm02d09EWnFHMHhrc1hCTWhlWWtJajhSQnFXc0htbHBvRV9WWk9qM3pB?oc=5) |
-| 08/07 | Variety | [‘Michael’ Boosts Lionsgate Quarterly Results as Studio Narrows Loss to](https://variety.com/2026/film/news/lionsgate-q2-2026-michael-narrows-loss-1236829508/) |
 | 08/08 | Googleニュース(reuters | [Take-Two touts 'unprecedented GTA VI pre-orders', but maintains bookin](https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3c2bmh5aUpYb1U2LWFUaFdROEZZRmhsZFJGd2ZKeld0bzc3TVFETVg1ejBEQm5rMnVEZy1GTVNOeHBhbVJnVFdiMTFQcXV5RmhIU0lQX3pDY0FXOUJaQUlpd3JxQi1nNE5Xd3piNUhqVmF0UV9oNWo5YTZJUUwzOWkwdDJLV1I1cnQ4NDY3LThSUDJwLWNvQlF0ZV9tSzNkRHIxV1VfTmVyUGxGMWNFaS1lVElaTGJyc1E?oc=5) |
 | 08/09 | Googleニュース(bloombe | [‘The Odyssey’ Is a Blockbuster Built on Scarcity - Bloomberg.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcnBtTmtsVk1VZkZpcmVKUzdRNzNiLWY0aWlQNzl3MjNfOHRKOEpVM2VxalRNYm1xNFRpR3FHY1hubmFfeWsxT19WQmVubjZLSXJ4NThFYUh1bWswRFVidjJ4MmFYTUxxQ2t0YXlRNk5hYWVkNGF5N2x5dXpMQmF4YmVKSXdqcWNBZTlxTGxvZnR0dXoyVVdTbUU4dmp2dUJaenJ3bGlBZFJqbnRVc19LclM3bkY0SmVhUnRj?oc=5) |
 | 08/10 | Googleニュース(bloombe | [This is the year we went back to the movies. Here are eight lessons Ho](https://news.google.com/rss/articles/CBMidEFVX3lxTE05NUhFWEhnZERFZEdWMmlBYVZEUDZocDdZS3J6SkdLVlVSRjdSX3hMNkdSMTVDWVJoOFV3ZjZ1S0t0a1VoeHJmOGtHeUtVbTFoaTFxdlBmZ0xrR1pGRnU3eU5DdDMxSVR2YW5TZWpSM21KNnVt?oc=5) |
 | 08/18 | Googleニュース(reuters | [Microdramas boom in a shrinking Hollywood as studios chase a TikTok au](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOblRFUzRfTndFOVh2dVMzUm1vWU9sOGFRcTYyRG1USEc0VXJ6d2lWQVFBdll5TGM0b1dSV0JiUDdoWDFERmsxcTkxM2Z6S1VtUllCekFXSWdpNVFENjhHbjVsUzh6NndCbVltcExfLVpUYUVHSEUyRTRNdVQ4OTFwY0djRXlkODZHMnNVSWR5LXpiNVpIZ0xmOGtnMk5KWVgwSlBCOHRhc0ZuVWliN25jT25KcXBaeVllUjBPTGFtZ2swVWM?oc=5) |
 | 08/19 | Googleニュース(bloombe | [Chinese Cartoon So Bad You Have to See It Becomes Box Office Hit - Blo](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSDRfYTdsZVFkWkduaFk0MGtITjk2bU5rNG9ZVnY2VkhsNTljU1lKZC0xeWlMMlJGYmFKNFcxM0ZFaTdrZTFtQUl0bjk5dDZWYUlVLWpad0xxUzhHaFQ1cEgyeWJ4SzJ3cE9mZzBGemhtVkFyQUVCNUdDblpQcXU1TzJldE9DbUU1NmZqamJEbElPT0Z0dEpMYXJYSUFtODBNemFvbldaNElGcURpT2pEd0kwbHhmQQ?oc=5) |
+| 08/21 | Forbes(Hollywood) | [How ‘Paw Patrol’ Could Show Disney The Way To ‘Bluey’ Movie Success](https://www.forbes.com/sites/sophiamorano/2026/08/20/how-paw-patrol-could-show-disney-the-way-to-bluey-movie-success/) |
 
 ### 関連報道に出てきた数字（推移の材料）
-- ??/??: 977.4億ドル
 - 07/13: 40万人
 - 07/13: 35%
 - 07/13: 126%
 - 07/18: 710億円
 - 08/04: 4000万人
-- 08/07: $29 Million
-- 08/07: 10億ドル
 
 ## 3. 論点の広がり（関連記事の分野内訳）
-- 分野: コンテンツ 18件、ビジネス 18件、AI 1件
-- 関連記事 18件（うち深掘り 6件）
+- 分野: コンテンツ 17件、ビジネス 17件、AI 1件
+- 関連記事 17件（うち深掘り 7件）
 
 ## 4. 考察の切り口候補（材料から機械的に提示）
-- **推移で語る**: 関連報道が18本・約50日にわたって存在します。「いつ何が起き、何が変わったか」を時系列で追うと、飛躍のない構成になります。
+- **推移で語る**: 関連報道が17本・約41日にわたって存在します。「いつ何が起き、何が変わったか」を時系列で追うと、飛躍のない構成になります。
 - **AI×お金の接点**: 関連記事にAIとビジネスの両方があります。技術の話を収益・コスト構造に接続できます。
 - **数字の比較**: 上の数字を並べ、増減や桁の変化を主張の根拠に使えます。
-- **先行分析への応答**: 関連する深掘り記事が6本あります。既存の見方に賛成/反論する形が書きやすいです。
+- **先行分析への応答**: 関連する深掘り記事が7本あります。既存の見方に賛成/反論する形が書きやすいです。
 </textarea>
+<textarea id="bodysrc" style="position:absolute;left:-9999px;top:0"></textarea>
 <script>
-document.getElementById('cp').onclick=async function(){
-  var t=document.getElementById('src').value, b=this;
-  try{ await navigator.clipboard.writeText(t); }
-  catch(e){ var a=document.getElementById('src'); a.style.left='0'; a.select();
-            document.execCommand('copy'); a.style.left='-9999px'; }
-  b.textContent='✓ コピーしました'; setTimeout(function(){b.textContent='📋 全文をコピー（ChatGPTに貼る）';},2000);
-};
+function copyFrom(id, btn, label){
+  var t=document.getElementById(id).value;
+  function done(){ btn.textContent='✓ コピーしました';
+    setTimeout(function(){btn.textContent=label;},2000); }
+  if(navigator.clipboard&&navigator.clipboard.writeText){
+    navigator.clipboard.writeText(t).then(done).catch(function(){fallback();});
+  } else { fallback(); }
+  function fallback(){ var a=document.getElementById(id); a.style.left='0'; a.select();
+    document.execCommand('copy'); a.style.left='-9999px'; done(); }
+}
+document.getElementById('cp').onclick=function(){ copyFrom('src', this, '📋 全文をコピー'); };
+var bb=document.getElementById('cpbody');
+if(bb) bb.onclick=function(){ copyFrom('bodysrc', this, '✍️ 本文だけコピー（note用）'); };
 </script></body></html>

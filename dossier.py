@@ -452,26 +452,57 @@ _PAGE = """<!doctype html><html lang="ja"><head><meta charset="utf-8">
  .hint{{font-size:12px;color:#666;margin-top:6px}}
 </style></head><body>
 <div class="bar">
-  <button id="cp">📋 全文をコピー（ChatGPTに貼る）</button>
-  <a class="back" href="../index.html">← ダイジェストへ</a>
-  <div class="hint">コピー後、ChatGPTアプリに貼り付けてください。末尾に推奨プロンプトが入っています。</div>
+  <button id="cp">📋 全文をコピー</button>{extra_btn}
+  <a class="back" href="../index.html">← 一覧へ</a>
+  <div class="hint">{hint}</div>
 </div>
 {body}
 <textarea id="src" style="position:absolute;left:-9999px;top:0">{raw}</textarea>
+<textarea id="bodysrc" style="position:absolute;left:-9999px;top:0">{body_raw}</textarea>
 <script>
-document.getElementById('cp').onclick=async function(){{
-  var t=document.getElementById('src').value, b=this;
-  try{{ await navigator.clipboard.writeText(t); }}
-  catch(e){{ var a=document.getElementById('src'); a.style.left='0'; a.select();
-            document.execCommand('copy'); a.style.left='-9999px'; }}
-  b.textContent='✓ コピーしました'; setTimeout(function(){{b.textContent='📋 全文をコピー（ChatGPTに貼る）';}},2000);
-}};
+function copyFrom(id, btn, label){{
+  var t=document.getElementById(id).value;
+  function done(){{ btn.textContent='✓ コピーしました';
+    setTimeout(function(){{btn.textContent=label;}},2000); }}
+  if(navigator.clipboard&&navigator.clipboard.writeText){{
+    navigator.clipboard.writeText(t).then(done).catch(function(){{fallback();}});
+  }} else {{ fallback(); }}
+  function fallback(){{ var a=document.getElementById(id); a.style.left='0'; a.select();
+    document.execCommand('copy'); a.style.left='-9999px'; done(); }}
+}}
+document.getElementById('cp').onclick=function(){{ copyFrom('src', this, '📋 全文をコピー'); }};
+var bb=document.getElementById('cpbody');
+if(bb) bb.onclick=function(){{ copyFrom('bodysrc', this, '✍️ 本文だけコピー（note用）'); }};
 </script></body></html>"""
 
 
+_BODY_RE = re.compile(r"^## 4\. 本文下書き\s*$(.*?)^## 5\.", re.M | re.S)
+
+
+def _body_only(md: str) -> str:
+    """下書きから「本文下書き」節だけを取り出し、noteに貼れる素の文章にする
+    （見出しの ### は外して行として残す）。"""
+    m = _BODY_RE.search(md)
+    if not m:
+        return ""
+    body = m.group(1).strip()
+    body = re.sub(r"^#{1,6}\s*", "", body, flags=re.M)   # 見出し記号を外す
+    body = re.sub(r"\*\*([^*]+)\*\*", r"\1", body)        # 強調記号を外す
+    return body.strip()
+
+
 def build_page(target: dict, md: str) -> str:
+    body_raw = _body_only(md)
+    if body_raw:
+        extra = ('\n  <button id="cpbody" style="background:#b3541e;margin-left:8px">'
+                 '✍️ 本文だけコピー（note用）</button>')
+        hint = "「本文だけコピー」はnoteにそのまま貼れます。「全文」は構成案・X投稿案・確認事項を含みます。"
+    else:
+        extra = ""
+        hint = "コピー後、ChatGPTアプリに貼り付けてください。冒頭に指示文が入っています。"
     return _PAGE.format(title=_esc(target.get("title", "")[:60]),
-                        body=md_to_html(md), raw=_esc(md))
+                        body=md_to_html(md), raw=_esc(md),
+                        body_raw=_esc(body_raw), extra_btn=extra, hint=hint)
 
 
 def generate_all(window: list[dict], archive: list[dict], out_dir: str = "docs/dossier") -> dict:

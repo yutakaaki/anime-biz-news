@@ -24,9 +24,10 @@
  .hint{font-size:12px;color:#666;margin-top:6px}
 </style></head><body>
 <div class="bar">
-  <button id="cp">📋 全文をコピー（ChatGPTに貼る）</button>
-  <a class="back" href="../index.html">← ダイジェストへ</a>
-  <div class="hint">コピー後、ChatGPTアプリに貼り付けてください。末尾に推奨プロンプトが入っています。</div>
+  <button id="cp">📋 全文をコピー</button>
+  <button id="cpbody" style="background:#b3541e;margin-left:8px">✍️ 本文だけコピー（note用）</button>
+  <a class="back" href="../index.html">← 一覧へ</a>
+  <div class="hint">「本文だけコピー」はnoteにそのまま貼れます。「全文」は構成案・X投稿案・確認事項を含みます。</div>
 </div>
 <h1>下書き: How a low-budget fever dream sparked a Chinese box office revolt - Reuters</h1>
 <p>元記事: https://news.google.com/rss/articles/CBMitgFBVV95cUxPUlNjZ2t4d1B2NERYV2tDaURFTnFrbW5BOFh0QklNSjVtV0hDYUxyRzU3V1hxNmJ4WUdOdjVEUTdYRkNOalB1bWRNTjJUTlUyZlp3VjQ3YTVadXZxUlhIVWxnR19OMHlrX0s1Z29WTUZDVmpEOHJtZWZzd1EtNUJ6ZkszajBHU3JvQ1RLYlBmcUtORnl4eHBOaFBINFJnUUtfNGJyY0VySEwzNHBqOXo0endaYVM3dw?oc=5</p>
@@ -188,12 +189,61 @@
 - **『The Odyssey』はハリウッド作品、対象作は中国作品**です。産業構造も観客も別物なので、あくまで設計思想の対比としてのみ扱っています。因果として結ばないよう注意してください。
 - 710億円という数字が、**中国の夏休み興行全体**なのか特定期間なのか、AFPBBの記事で範囲を確認しておくと安全です。
 </textarea>
+<textarea id="bodysrc" style="position:absolute;left:-9999px;top:0">「出来が悪いから観に行く」という動機
+
+中国の映画興行で、少し変わった現象が起きているようです。
+
+7月27日のCartoon Brewは、中国国産アニメが興行首位に立ったと報じました。そこから3週間ほど経った8月19日、Bloombergが同じ話題を「Chinese Cartoon So Bad You Have to See It Becomes Box Office Hit」という見出しで扱っています。出来が悪すぎて、逆に観に行かずにいられない。そういう理由で客が入ったという整理です。
+
+そして8月20日、Reutersがこれを「low-budget fever dream（低予算の熱に浮かされた夢）」が起こした「box office revolt（興行の反乱）」と表現しました。低予算の作品が、大作が並ぶ興行の序列をひっくり返した、という文脈だと読めます。
+
+面白いのは、この3本が約1か月かけて「珍しいヒット作」から「反乱」へと語り口を変えていることです。単発の珍事として片付けられなくなった、ということなのだと思います。
+
+ハリウッドは、まったく逆の方向に賭けている
+
+同じ夏、ハリウッドで起きていたことを並べると、対比がはっきりします。
+
+8月9日のBloombergは、ノーランの『The Odyssey』を「Blockbuster Built on Scarcity」——希少性の上に建てられた大作、と評しました。上映形式や機会をあえて絞ることで価値を作る。極めて設計的なヒットの作り方です。8月10日にも同じくBloombergが、今年は劇場に人が戻った年だとしてハリウッドへの教訓をまとめています。
+
+一方で8月18日のReutersは、縮小するハリウッドでマイクロドラマ（縦型ショートドラマ）が急成長し、スタジオがTikTok的な観客を追いかけていると報じました。
+
+つまりハリウッドは、「極端に希少な体験」と「極端に軽い体験」の両端に向かっています。どちらも供給側が設計して、観客をそこへ誘導する構造です。
+
+中国で起きたことは、その逆でした。誰も設計していない粗さが、観客の側の「これは観ておかないと」という衝動に火をつけた。ヒットの起点が、作り手ではなく観客の側にある。ここが決定的に違うのではないでしょうか。
+
+伸びている市場では、想定外が起きる余地がある
+
+背景として押さえておきたい数字が一つあります。
+
+7月18日のAFPBB Newsによれば、中国の2026年夏休み映画の興行収入は710億円相当を突破しました。パイそのものが動いている市場です。
+
+市場が縮んでいるとき、興行は確実な打ち手に寄ります。実績のあるIP、大きな宣伝費、安全な設計。逆に市場が伸びているときは、その安全圏の外側にも人が流れる余白が生まれます。「出来が悪いらしい」という理由で映画館に足を運ぶ余裕は、たぶん縮小市場では出てきません。
+
+低予算の作品が上位に食い込めたのは、作品の力だけの話ではなく、市場側のコンディションの話でもあった。そう見るほうが、再現性を考えるうえでは健全な気がします。
+
+日本側が見るべきは、作品ではなく観客の動き方
+
+日本のコンテンツにとっての示唆も、作品論ではなく観客論のほうにあると思います。
+
+7月13日のアニメ業界ニュースは、上海のBilibiliWorldに3日で40万人が来場したと伝えています。これは映画興行ではなくイベントの数字なので、直接の比較はできません。ただ、7月10日の日本経済新聞が、日中関係の冷え込みのなかでも日本コンテンツの人気は根強いと報じている通り、この観客層の熱量は日本作品にも向いています。
+
+その同じ観客が、「話題になっているから観に行く」という動き方で興行を動かしている。ここは無視できません。
+
+作品の完成度を上げることと、観客が語りたくなる余白を作ることは、別の仕事です。前者だけを磨いてきた日本のコンテンツ産業にとって、後者をどう扱うかは、これから避けて通れない論点になるのかもしれません。
+
+---</textarea>
 <script>
-document.getElementById('cp').onclick=async function(){
-  var t=document.getElementById('src').value, b=this;
-  try{ await navigator.clipboard.writeText(t); }
-  catch(e){ var a=document.getElementById('src'); a.style.left='0'; a.select();
-            document.execCommand('copy'); a.style.left='-9999px'; }
-  b.textContent='✓ コピーしました'; setTimeout(function(){b.textContent='📋 全文をコピー（ChatGPTに貼る）';},2000);
-};
+function copyFrom(id, btn, label){
+  var t=document.getElementById(id).value;
+  function done(){ btn.textContent='✓ コピーしました';
+    setTimeout(function(){btn.textContent=label;},2000); }
+  if(navigator.clipboard&&navigator.clipboard.writeText){
+    navigator.clipboard.writeText(t).then(done).catch(function(){fallback();});
+  } else { fallback(); }
+  function fallback(){ var a=document.getElementById(id); a.style.left='0'; a.select();
+    document.execCommand('copy'); a.style.left='-9999px'; done(); }
+}
+document.getElementById('cp').onclick=function(){ copyFrom('src', this, '📋 全文をコピー'); };
+var bb=document.getElementById('cpbody');
+if(bb) bb.onclick=function(){ copyFrom('bodysrc', this, '✍️ 本文だけコピー（note用）'); };
 </script></body></html>
