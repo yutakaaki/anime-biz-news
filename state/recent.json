@@ -1,404 +1,5 @@
 [
  {
-  "url": "https://variety.com/2026/film/box-office/the-odyssey-biggest-r-rated-movie-all-time-deadpool-wolverine-1236838976/",
-  "title": "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion",
-  "source": "Variety(Box Office)",
-  "sources": [
-   "Variety(Box Office)"
-  ],
-  "published": "Thu, 20 Aug 2026 16:51:48 +0000",
-  "published_ts": 1787244708,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映画『The Odyssey』の興行収入$1.352billionが歴代R指定映画最高となったことを報じる新規実績値のニュースであり、Box officeの数字が主題であるため、コンテンツ+ビジネスで対象。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/08/the-odyssey-box-office-record-r-rated-1237046481/",
-  "title": "‘The Odyssey’ Slays ‘Deadpool & Wolverine’ To Become Highest Grossing R-Rated Movie Ever At Global Box Office",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Thu, 20 Aug 2026 16:51:46 +0000",
-  "published_ts": 1787244706,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映画の興行成績（Box Office）が新たに判明した数字ニュースであり、R-Rated映画の歴史的記録達成という実績値を報じている。映像コンテンツ（実写映画）の興行収入は業界全体の重要なビジネスデータに該当するため対象。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RRFFlRl8wZFc3M1lrYk5nQVRGMUk2SF9OWl9yOTg4Sk5vS2RBY0w4RDB3OFdDdTQ3aWpGWDRNUEZHRmlJekhpV1M0RWtKc1dQMmhkX2IyX2tRWG1scV9WaWtlTkM1NWhjZXc?oc=5",
-  "title": "【京都橘大学】生成AIによる「声の模倣」をアニメの現場から考える ―声優・弁護士・AI開発者と考える声の著作権連続講座を開催 申込受付中― - PR TIMES",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Thu, 20 Aug 2026 06:30:58 GMT",
-  "published_ts": 1787207458,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "その他",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "アニメ現場とAI（生成AIによる声の模倣）を扱う講座の開催告知だが、記事の主題は「イベント/講座の開催案内」であり、AI技術や権利をめぐる実質的なビジネス展開・訴訟・規制・投資などの具体的な事実報道ではなく、PR・宣伝的な告知であるため、判定は微妙。ただし声の著作権をめぐるAI影響は業界の重要課題であり、確信を持って対象外にしない。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFcEszdFRBSHFLSGc2RzVUcHpGZlk0TG1IUnR1cFpJdnpGYlJramVFYll5RGJRN3JPV0RyYmhyeDJEN3RNYTF3QUxaWVViUjhKZ09PWG5ZRmdWTHkxblk0NEpxcURLSGZKWlYyb3B2eldFSFJH?oc=5",
-  "title": "Flow Studio に「3D Editor + Canvas」を導入 〜生成から演出へ - Autodesk News",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Thu, 20 Aug 2026 11:30:26 GMT",
-  "published_ts": 1787225426,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "Autodesk製の映像制作ツール「Flow Studio」への機能追加（3D Editor + Canvas）は映像制作AI技術に関わるが、具体的な導入企業・契約金額・市場への影響が記事本文に見当たらず、製品ニュースレベルの可能性があるため。映像業界のAI動向として関連性は高いがビジネスの実質（契約・出資・導入企業の業績）が不明確のためグレー判定。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUlNjZ2t4d1B2NERYV2tDaURFTnFrbW5BOFh0QklNSjVtV0hDYUxyRzU3V1hxNmJ4WUdOdjVEUTdYRkNOalB1bWRNTjJUTlUyZlp3VjQ3YTVadXZxUlhIVWxnR19OMHlrX0s1Z29WTUZDVmpEOHJtZWZzd1EtNUJ6ZkszajBHU3JvQ1RLYlBmcUtORnl4eHBOaFBINFJnUUtfNGJyY0VySEwzNHBqOXo0endaYVM3dw?oc=5",
-  "title": "How a low-budget fever dream sparked a Chinese box office revolt - Reuters",
-  "source": "Googleニュース(reuters.com)",
-  "sources": [
-   "Googleニュース(reuters.com)"
-  ],
-  "published": "Thu, 20 Aug 2026 08:53:43 GMT",
-  "published_ts": 1787216023,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "中国での低予算映画の興行成功をめぐる事例報告であり、映像制作・興行ビジネスの市場動向（Box office関連）を扱っているため、コンテンツ＋ビジネスで対象。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/music/global/christian-metal-band-netflix-kpop-demon-hunters-1236839131/",
-  "title": "Christian Metal Band Demon Hunter Sues Netflix Over ‘KPop Demon Hunters,’ Citing Trademark Infringement",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Thu, 20 Aug 2026 17:01:30 +0000",
-  "published_ts": 1787245290,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Netflixのアニメ映画と実在する音楽バンドの商標権をめぐる訴訟であり、コンテンツ（映像作品）とビジネス（法的紛争・知的財産権）の両分野を含む。映像業界の権利問題として重要なニュースのため対象。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/sophiamorano/2026/08/20/how-paw-patrol-could-show-disney-the-way-to-bluey-movie-success/",
-  "title": "How ‘Paw Patrol’ Could Show Disney The Way To ‘Bluey’ Movie Success",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)"
-  ],
-  "published": "Thu, 20 Aug 2026 12:00:00 -0400",
-  "published_ts": 1787241600,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Blueyの劇場化とPaw Patrolの興行成功をめぐる分析記事で、キッズIPの映画化戦略とBox office実績が主題。コンテンツ（アニメ番組の劇場化）とビジネス（興行成功の展望）が揃い、業界の参考事例を論じており対象。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9oeFZEaXNpUmZPNkVDWGVPVi1EUk05TlBXWUZsRlV0RHB0UEZfeURzYndhWlVpMjNJWnNtY1ZTTk9UcGFncWc?oc=5",
-  "title": "生成AIと声の著作権、アニメの現場から考える連続講座 - Koubo",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Thu, 20 Aug 2026 09:36:16 GMT",
-  "published_ts": 1787218576,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "その他",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "アニメ（コンテンツ）と生成AIの著作権をめぐる講座・教育プログラムであり、AIの権利・規制という実質的な主題を含むが、記事本文がなく『講座の開催告知』である可能性が高く、実際のビジネス取引や新規数字・判例などの具体的な事実報道が不明確であるため、対象と確定できない段階で保留する。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/artist-rights/paramount-skydance-warner-bros-discovery-merger-job-losses-265822.html",
-  "title": "New Report Warns Paramount-WBD Merger Could Devastate Los Angeles’ Production Workforce",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Thu, 20 Aug 2026 14:30:12 +0000",
-  "published_ts": 1787236212,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ParamountとWarner Bros. Discoveryの大型M&A（Skydance傘下での買収）が業界の地図を変える規模の構造ニュースであり、アニメ・VFX・映像産業への雇用・経済的影響を深く掘り下げた分析記事。メジャースタジオの経営統合による市場への実質的な影響がテーマで、コンテンツ＋ビジネスの2分野が明確に該当。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/201481",
-  "title": "“中国版YouTube”ビリビリ動画、グローバル展開に本腰　中国国外の認知拡大、投稿者囲い込みへ",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Thu, 20 Aug 2026 09:36:59 +0000",
-  "published_ts": 1787218619,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "動画配信プラットフォーム(コンテンツ)のグローバル展開戦略・国際版アプリ提供開始(ビジネス)が主題で、アニメ・ゲームコンテンツに強みを持つサービスの海外事業拡大ニュースであるため対象。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1dQY2lueldjN2ljZTR3ZVBfVm96azQ3S3RBZGRIOFUyX1FjRktGdzY2VFNval9PaF9YdHRQdm9OQS1MbWxQdmVmbThvQUJLeWF0MkhHRlI3dlNObHZNZjFvbDJJM0l1SWFlZDNEdTFHM1VZOHJlOTYxc05GMnNQWEY0RXRFN0VMU3dGRF9TbW1JOGdScU1nU0tkNk00eUtDaFMxdjExcjJ3b05CaWJQR181VmRvQzlFSTZCdVBQTDl5Um93ek9Ueg?oc=5",
-  "title": "From prompt to production: How Aagey Se Right AI Studio is redefining AI filmmaking - afaqs!",
-  "source": "Google News: AI film production OR video generation studio",
-  "sources": [
-   "Google News: AI film production OR video generation studio"
-  ],
-  "published": "Thu, 20 Aug 2026 12:58:24 GMT",
-  "published_ts": 1787230704,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "AI映像制作スタジオの事業モデル・技術解説が主題で、AI（生成AI/映像生成技術）とコンテンツ（映像制作）が揃っているが、具体的なビジネス実績（資金調達額・契約金額・売上など）の記載が不明確で、ビジネスの主題性が弱いため判定に迷う。AI×映像産業の動向として確認の価値あり。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/paultassi/2026/08/20/the-walking-dead-isnt-dead-after-dead-city-scott-gimple-reveals/",
-  "title": "‘The Walking Dead’ Isn’t Dead After ‘Dead City,’ Scott Gimple Reveals",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)"
-  ],
-  "published": "Thu, 20 Aug 2026 11:07:01 -0400",
-  "published_ts": 1787238421,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "The Walking Dead宇宙の今後の展開とシリーズ戦略について、CCOスコット・ギンプルの発言から経営方針（シリーズ数削減、ロールアウトの遅延化）を掘り下げた記事。映像コンテンツ産業の戦略・経営判断が主題であり、AI要素は無いがビジネスの実質（制作・配信戦略）を含む。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.economist.com/culture/2026/08/20/japans-music-cafes-are-striking-a-chord-abroad",
-  "title": "Japan’s music cafés are striking a chord abroad",
-  "source": "Economist(Culture)",
-  "sources": [
-   "Economist(Culture)"
-  ],
-  "published": "Thu, 20 Aug 2026 12:59:02 +0000",
-  "published_ts": 1787230742,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "日本の音楽カフェという文化ビジネスの海外進出・トレンドを扱う記事。コンテンツ（音楽・文化施設）とビジネス（新規開店・海外展開・ビジネスモデル）の両軸が主題だが、AIは関わらず、具体的な契約金額や売上数字の記載有無で確実性がやや低い。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/anime/san-diego-fc-captain-tsubasa-viz-media-265818.html",
-  "title": "MLS’s San Diego FC Recruits ‘Captain Tsubasa’ As Anime’s Mainstream Sports Crossover Continues",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Thu, 20 Aug 2026 13:29:49 +0000",
-  "published_ts": 1787232589,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメIP（キャプテン翼）と実在スポーツ企業（MLSのサンディエゴFC）の提携により、ライセンスビジネス（限定グッズ付きチケットパッケージ）を展開する主題であり、コンテンツとビジネスが揃う。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xbHJWcmdOTzdzTWhXYWFlcGpCUC1DRHZ5NmRzOHIza011c29RNFc5cWVjdXo4bXE5c19mNXlyY3FoZkJxemtVVzkyOTgtNGF0Yk5Pa016eGw?oc=5",
-  "title": "上海国際映画祭の実験プログラム「AI片場」が突きつけたAI映像制作における3つの壁 - Brand New Creativity",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Thu, 20 Aug 2026 09:00:04 GMT",
-  "published_ts": 1787216404,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "上海国際映画祭の「AI片場」プログラムについて、AI映像制作における課題を分析・解説する記事。コンテンツ（映画祭・映像制作）とAI（生成AIの映像制作への活用と課題）が主題であり、深掘り分析的な内容が推測される。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IVk1BSl9xaWRnY1kxQkZzTk5LQXBKMjdsV3ZhVlF5ZTQ1U1RpQmkwWTBlNDBDaEhJM3VCdWtYdHJacWRFT2xPWmNYUmU5WDg?oc=5",
-  "title": "中国で「あまりにも作れなくて話題になった」低予算アニメーションがオンラインミームに乗って意外な興行突風を起こしている。 - 매일경제",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Thu, 20 Aug 2026 06:15:44 GMT",
-  "published_ts": 1787206544,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "中国のアニメーション作品が低予算という制作背景を持ちながら興行成績で話題を呼んでいる、映像コンテンツと興行成績（ビジネスの数字）の両面を主題とした記事。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/08/sterling-point-renewed-season-2-prime-video-1237046454/",
-  "title": "‘Sterling Point’ Renewed For Season 2 By Prime Video",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Thu, 20 Aug 2026 17:00:00 +0000",
-  "published_ts": 1787245200,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Prime Videoがドラマシリーズの第2シーズン更新を発表した配信プラットフォームの経営判断・コンテンツ投資の記事であり、コンテンツとビジネス（配信戦略・シリーズ更新の経営決定）が主題。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQN3dyOHo5REhPYzlDcGpibDU4VzZnRVFiWDlmTDEtV1VtTXE5LXBPMkhZUmZrUXIxMXcwQ0dvRTlrRmFtbGRRUUpKNFRHVl95SzJrNVpaaGp4M2JjaHpaaWZmcThmdWNYTXc?oc=5",
-  "title": "最新動画生成AI「Seedance 2.5」搭載AIアニメ制作プラットフォーム「PopPixs」提供開始 - PR TIMES",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Thu, 20 Aug 2026 06:15:54 GMT",
-  "published_ts": 1787206554,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ制作プラットフォームの提供開始という、コンテンツ領域での生成AI活用が主題であり、コンテンツとAIの両分野が揃っているため対象。ただしビジネス面の数字（資金調達額や市場規模など）は見当たらないので3分野には至らない。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sV2pXV3BsWkRkNHJsN2ZlendFNzBaRnFSWUpGbUVjYUt0dE5fTmJrYnkxRnRvN1Q1TzFaNXBXZ0l2VUs2Vkd3?oc=5",
-  "title": "PopPixsが最新動画生成AI「Seedance 2.5」を搭載し、革新的なアニメ制作環境を提供開始 - ニュースメディアVOIX",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Thu, 20 Aug 2026 06:59:06 GMT",
-  "published_ts": 1787209146,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "アニメ制作にAI技術を導入する話で、コンテンツ＋AIの要件は満たすが、本文が極めて短く、ビジネス的な実績（導入スタジオ、契約金額、市場規模への影響）の詳細が不明なため、実質的な事業規模・影響度が判定困難。確認推奨。",
-  "ts": 1787250602.782963,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/08/spider-man-insidious-out-of-the-further-global-box-office-1237046811/",
   "title": "‘Insidious: Out Of The Further’ To Scare Up $50M+ WW; ‘Spider-Man: Brand New Day’ To Prevail With $85M+ WW In Fourth Frame – Box Office Preview",
   "source": "Deadline(Box Office)",
@@ -504,28 +105,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MRkNNeHJlbXowZ0pqNmJJMGgxaUxUa1RoR3loUHU4eHBrTy1xWFpCZWdzZFZpN2l6cFBSclp6WE9IQnR6X2pJeVNYVkhNVnN1cllVbnlFdE12cVlpaVJpQUM5ZEFUVGdkUWNrWDIzWks2X2MwUndVcGt3?oc=5",
-  "title": "最新動画生成AI「Seedance 2.5」搭載AIアニメ制作プラットフォーム「PopPixs」提供開始 - ニコニコニュース",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Thu, 20 Aug 2026 18:00:15 GMT",
-  "published_ts": 1787248815,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ制作プラットフォームの立ち上げ（コンテンツ）に最新動画生成AI技術を搭載し（AI）、新サービス提供開始（ビジネス）という3分野が揃った記事であり、映像業界のAI活用の動向を示すため最優先対象。",
-  "ts": 1787288434.093958,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/08/blue-eye-samurai-renewed-third-final-season-netflix-1237047184/",
   "title": "‘Blue Eye Samurai’ Renewed For Third & Final Season At Netflix; Season 2 Gets Premiere Window — Watch The Teaser",
   "source": "Deadline",
@@ -542,27 +121,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "Netflix配信のアニメシリーズが第3シーズン(最終)で終了することが発表され、第2・3シーズンの制作・配信スケジュールが具体的に公開された配信ビジネスの速報。アニメコンテンツとNetflixの配信戦略が主題。",
-  "ts": 1787288434.093958,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/timlammers/2026/08/20/the-odyssey-sets-box-office-record-for-highest-grossing-r-rated-film/",
-  "title": "‘The Odyssey’ Sets Box Office Record For Highest-Grossing R-Rated Film",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)"
-  ],
-  "published": "Thu, 20 Aug 2026 14:13:45 -0400",
-  "published_ts": 1787249625,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Christopher Nolan監督による実写映画『The Odyssey』の興行成績（135.2億ドルで歴代R指定映画最高）が新たに判明した速報であり、Box office数字ニュースとして対象。ただしアニメではなく実写映画だが、映像産業の大型興行成績は取得基準を満たす。",
   "ts": 1787288434.093958,
   "is_new": false,
   "updated": false
@@ -716,13 +274,13 @@
  },
  {
   "url": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/",
-  "title": "Sony Double Feature At The B.O.: ‘Spider-Man: Brand New Day’ $35M, ‘Insidious 6’ $23M Opening – Box Office Update",
+  "title": "Sony Double Feature At The B.O.: ‘Spider-Man: Brand New Day’ $36M+, ‘Insidious 6’ $23M+ Opening – Saturday AM Update",
   "source": "Deadline(Box Office)",
   "sources": [
    "Deadline(Box Office)"
   ],
-  "published": "Fri, 21 Aug 2026 23:30:00 +0000",
-  "published_ts": 1787355000,
+  "published": "Sat, 22 Aug 2026 15:14:00 +0000",
+  "published_ts": 1787411640,
   "themes": [
    "コンテンツ",
    "ビジネス"
@@ -883,28 +441,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xcGlSOXFOTmJKWjFPLWFxZjJoT0UwNHN6cXJkTTZuVHdhNG9ZU09ESjlCdG1kMEdDTUlMWldia3hzWVpWNWxDelhxSnBBUmdOdWNuaGZYczY5LTFpMU40UkJpa0NVVEw5RFpPZlY5MlNpQQ?oc=5",
-  "title": "最新動画生成AI「Seedance 2.5」搭載AIアニメ制作プラットフォーム「PopPixs」提供開始 - Infoseek",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Thu, 20 Aug 2026 18:45:21 GMT",
-  "published_ts": 1787251521,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ制作向けのAIプラットフォーム「PopPixs」の提供開始で、コンテンツ（アニメ制作）とAI、ビジネス（新サービス提供開始）の3分野が揃う最優先対象。",
-  "ts": 1787333992.6973581,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://0115765.com/archives/201599",
   "title": "マンガ配信大手「まんが王国」がユーザー数急減、1年で30%減少　一人当たり課金増加も…コンテンツ減益で通期下方修正",
   "source": "アニメ業界ニュース(0115765)",
@@ -968,27 +504,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ0Jqd0VFWXNOcUpSc3hfU2JFeHNjNzlQd0tIREp6aXVONEhOUDVVMXJlWmRyeE5ja01Ea3M4MmVfdG1Lb1FiclE3SlVuZTRIa244d0hnMXdfUDltWTFiY3F6ZkNnQmxCem9jcl83MW5vb2VFTkhMR1ZXRFh5aXRNcEw4ZWgtbjYxVzlmeGpnQTN5aDZ0dFZvcEJSTzV1VHpIUmJ1ckZlZlFER29LZzVWdVpKNm1xcWl4NDlGVA?oc=5",
-  "title": "‘The Odyssey’ Sets Box Office Record For Highest-Grossing R-Rated Film - Forbes",
-  "source": "Googleニュース(forbes.com)",
-  "sources": [
-   "Googleニュース(forbes.com)"
-  ],
-  "published": "Thu, 20 Aug 2026 18:13:45 GMT",
-  "published_ts": 1787249625,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画の興行成績（Box office）に関する新規数字ニュースであり、映像産業の興行ビジネスを扱っているため、コンテンツ＋ビジネスで対象。",
-  "ts": 1787333992.6973581,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/08/meghan-markle-the-gentlemen-netflix-series-guy-ritchie-1237047424/",
   "title": "Meghan Markle Eyed For Role In Guy Ritchie’s ‘The Gentlemen’ Netflix Series – The Dish",
   "source": "Deadline",
@@ -1027,7 +542,8 @@
   "confidence": "高",
   "reason": "漫画出版社Kodansha USAが英語版漫画のライセンス取得と印刷版リリースを発表したもので、コンテンツ（漫画）と出版ビジネス（ライセンス契約・新刊リリース）の両分野が該当する。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/08/indie-films-opening-it-ends-magic-faraway-tree-andrew-garfield-1237047579/",
@@ -1047,7 +563,8 @@
   "confidence": "高",
   "reason": "実写映画複数本の週末興行成績・スクリーン数拡大・限定公開の数字とスケジュール情報が主題であり、映像産業の興行ビジネスに関わる速報。AIやアニメは含まれないが、Box office/興行成績の数字ニュースは非アニメでも対象。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/paramount-merger-warner-settlement-talks-bonta-california-1236840532/",
@@ -1067,7 +584,8 @@
   "confidence": "高",
   "reason": "ParamountとWarner Bros. Discoveryの111億ドル統合案に関する独禁訴訟の和解交渉進展を報じる記事。メジャースタジオどうしの大型M&Aをめぐる規制当局との法的紛争であり、業界の地図が変わる構造ニュースなので対象。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/08/gavin-newsom-paramount-merger-settlement-talks-1237048002/",
@@ -1087,7 +605,8 @@
   "confidence": "高",
   "reason": "ParamountとWarner Bros. Discoveryの111億ドル買収をめぐる州司法長官連合による反トラスト訴訟の続報であり、メディア大手の統合と規制当局の対応という業界全体を揺るがす大型ニュースのため、実写中心でもコンテンツ+ビジネスで対象。和解交渉の進展、訴訟日程、政治的動向が主題。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552/",
@@ -1107,7 +626,8 @@
   "confidence": "高",
   "reason": "Paramount と Warner Bros. Discovery の合併をめぐる大型M&A関連の続報であり、メジャースタジオ統合という業界地図を大きく変える構造ニュースのため、実写中心・アニメ語が本文に無くても対象。合併反対派の俳優による攻撃とそれへの企業側の反論という、進行中の大型取引をめぐる経営/業界ニュースである。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/timlammers/2026/08/21/the-odyssey-streaming-date-is-set-after-film-reaches-box-office-milestone/",
@@ -1127,7 +647,8 @@
   "confidence": "高",
   "reason": "映画『The Odyssey』の興行成績（$1.352 billion、R指定映画歴代最高）が主題であり、それに基づくストリーミング/メディア化の発表が続く。非アニメ実写映画だが、興行成績の新規数字報道は対象範囲に含まれるため。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/201679",
@@ -1147,7 +668,8 @@
   "confidence": "高",
   "reason": "アニメ制作産業の海外外注先の取引比率低下と市場規模データが主題であり、中国の人件費高騰・円安の影響、市場規模4065億8600万円（過去最高）など、制作業界の構造変化と経営数字が核心。AIは主題でないため themes に含めない。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/biz/news/secret-hollywood-groups-ai-plan-protecting-copyrighted-work-1236840245/",
@@ -1167,7 +689,8 @@
   "confidence": "高",
   "reason": "ハリウッドの映画製作者・幹部・俳優による秘密裏のAI対話グループが、クリエイティブプロセスにおけるAIの定義と人間のコントロール維持を中心とした枠組みを発表した記事。映像産業のAI活用と権利・著作権をめぐる業界の構造的議論が主題であり、コンテンツ＋AIの組み合わせで対象。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/timlammers/2026/08/21/projections-new-insidious-film-no-match-for-spider-man-brand-new-day/",
@@ -1187,7 +710,8 @@
   "confidence": "高",
   "reason": "Spider-Manを含む映画の週末興行成績の予想・実績数字が主題。複数作品の興収見通しと現在の成績が記事の中心。映像コンテンツ関連のBox office速報として対象。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/digital/news/vertical-media-150-billion-tiktok-microdramas-owl-co-1236840519/",
@@ -1207,7 +731,8 @@
   "confidence": "高",
   "reason": "垂直動画市場の2026年の規模予測（1500億ドル）と収益構造（広告131億ドル）、Meta/ByteDance/YouTubeの売上比率などビジネス数字が主題であり、マイクロドラマなどのコンテンツフォーマットの市場成長を扱うため、コンテンツ＋ビジネスの該当。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/gaming/news/sonic-hedhehog-fornite-gaming-news-roundup-week-august-17-1236836647/",
@@ -1227,7 +752,8 @@
   "confidence": "高",
   "reason": "SonicのFortniteコラボは有名IPとゲーム配信プラットフォームの公式パートナーシップであり、コンテンツ（ゲームIP）とビジネス（新シーズン展開・商品化）が明確に該当する。ただしAIは含まれない。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/08/mark-ruffalo-slams-ellisons-ties-oracle-paramount-wbd-1237047889/",
@@ -1247,7 +773,8 @@
   "confidence": "高",
   "reason": "ParamountとWarner Bros.の大型M&A（Skydanceによる敵対的買収）をめぐる継続的な訴訟・規制当局による差止め動向の続報。業界地図が変わる大規模な構造ニュースであり、メジャースタジオ統合に関わる実質的な政治・法務の動きであるため、実写中心・アニメ言及なしでも対象に該当。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGhudm5pNHhCOU1GQ0lQdTZXZldDeW5yTlNMN3k4SnBMcEZyYWtwckF6bG9BX0Ixek53Rk8xYnMxVlQyWS0tQVE4clNUcUtIN3czMnNrTmRVc2FtYnlLWFF3TG1rV24wMnFYRGV2LTI5azdGa1l5ajM1ZENxTVM0dkstQU9oSEVOVDl4ejhJeVFRUEQ3Z1h3ZFh1OUdDNmNKc1k5OHJSWWVRSzk3SGRRSm9yLWNmM0oydk9WaGszSzNOaTQ?oc=5",
@@ -1267,7 +794,8 @@
   "confidence": "中",
   "reason": "実写映画の興行成績（Box Office）という数字ニュースが主題であり、配信権の取得・配信日決定も経営取引に該当するため、コンテンツ＋ビジネスで対象。ただし本文詳細がないため信頼度は中程度。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/ianshepherd/2026/08/21/wonder-works-studio-reveals-the-creator-advantage-on-roblox/",
@@ -1287,7 +815,8 @@
   "confidence": "中",
   "reason": "Roblox上のゲーム『SpongeBob Tower Defense』の開発・配信ビジネスモデルと成功事例が主題。IPコンテンツ（SpongeBob）と事業戦略・キャッシュフロー・プラットフォーム経済が絡むため対象だが、AIや機械学習の実装が主題ではなく（アルゴリズム言及は背景説明に留まる）、確信度は中程度。",
   "ts": 1787374838.992587,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2xwaC0zNk50LW54TjE1UnBIQVBZWU9XaENQMDdQMGtvSmJTSTBaQ2FSQmw2QWF4azg0bWw3ekNzSVZLZGNybzBkckRqalVsbHltNmt2ZWd0YmxVVEMteEY0aG92alU5SXAyRnNETGRnMC0tX19HdnF5dGtBZ2JxTGNHaVNKNUVm?oc=5",
@@ -1307,6 +836,147 @@
   "confidence": "中",
   "reason": "生成AIによる声の模倣とアニメ業界の権利問題を扱うセミナー・講座の告知であり、AIとアニメというコア2分野が含まれるが、実体的なビジネス取引や経営数字がなく、主題が「講座開催の案内」である点で判定の確度が中程度。",
   "ts": 1787374838.992587,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/box-office-insidious-out-of-the-further-spider-man-1236840803/",
+  "title": "Box Office: ‘Insidious: Out of the Further’ Takes First Place on Friday With $10.6 Million, But ‘Spider-Man: Brand New Day’ Will Win the Weekend",
+  "source": "Variety(Box Office)",
+  "sources": [
+   "Variety(Box Office)"
+  ],
+  "published": "Sat, 22 Aug 2026 16:06:44 +0000",
+  "published_ts": 1787414804,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画の週末興行成績（Box office）の数字が主題であり、複数作品の初週末興収・累計興収が新たに報道されているため、コンテンツ＋ビジネスで対象。",
+  "ts": 1787418717.7693272,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/timlammers/2026/08/22/alan-ritchsons-motor-city-looks-for-jump-start-on-streaming-this-week-after-sputtering-at-box-office/",
+  "title": "Alan Ritchson’s ‘Motor City’ Looks For Jump-Start On Streaming This Week After Sputtering At Box Office",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Sat, 22 Aug 2026 13:07:39 -0400",
+  "published_ts": 1787418459,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画の興行成績（2.7百万ドル）と配信への移行が主題であり、Box officeの数字ニュースとして該当。非アニメでもビジネス（興行数字・配信戦略）が中心のため対象。",
+  "ts": 1787418717.7693272,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-08-22/yen-press-reveals-9-new-licenses-including-ubel-blatt-ii-the-gray-exorcist-seal-my-lips-with-a-kiss-/.240829",
+  "title": "Yen Press Reveals 9 New Licenses Including Übel Blatt II, The Gray Exorcist, Seal My Lips With a Kiss Manga",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Sat, 22 Aug 2026 11:45:00 -0400",
+  "published_ts": 1787413500,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "漫画・ライトノベルの英語版ライセンス契約の発表であり、コンテンツ（漫画）とビジネス（ライセンス取引）の両方を満たす。ただしビジネスの主題は「新規ライセンス契約の締結」という取引の事実であり、詳細な契約金額や経営的数字がないため速報判定。",
+  "ts": 1787418717.7693272,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iQzhBaVNhLWtzUHdjelM4cDN1SmQwRktHUlk1YUZDUFU1LU9vdmJNQkpURk9pdEp1Tkl5NFUtMnk5ZDd4UVlHUU43dWlwLU5FTXZXcGZsS0hWSWZvNDMwTnZwNnM1T2laTlE?oc=5",
+  "title": "目指すは、日本発IPで海外売上20兆円 経産省が新戦略を発表 「ものがたり大国5カ年計画」 - ITmedia",
+  "source": "Googleニュース: コンテンツ 海外売上 OR 市場規模",
+  "sources": [
+   "Googleニュース: コンテンツ 海外売上 OR 市場規模"
+  ],
+  "published": "Fri, 21 Aug 2026 12:51:39 GMT",
+  "published_ts": 1787316699,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "経産省による日本発IP（アニメ・漫画・ゲーム等を含む）の海外売上目標20兆円の新戦略発表は、コンテンツ産業全体のビジネス規模・政策・市場戦略が主題であり、コンテンツ×ビジネスの該当。",
+  "ts": 1787418717.7693272,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/201758",
+  "title": "“マイナカード認証”導入の「ポケカ」抽選、認証アリナシで当選率「2.5倍」の差か　情報サイトが集計値公開",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Sat, 22 Aug 2026 05:46:20 +0000",
+  "published_ts": 1787377580,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ポケモンカードゲーム（ゲームIP）の30周年記念商品抽選における本人認証枠と未認証枠の当選率格差（2.5倍）が調査によって明かになった、トレーディングカード市場の販売戦略・消費者行動に関わる実績値ニュースであり、コンテンツ×ビジネスが両立しているが、AIは含まれていない。",
+  "ts": 1787418717.7693272,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/paultassi/2026/08/22/there-will-be-more-outer-banks-on-netflix-after-season-5-kind-of/",
+  "title": "There Will Be More ‘Outer Banks’ On Netflix After Season 5, Kind Of",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Sat, 22 Aug 2026 10:39:11 -0400",
+  "published_ts": 1787409551,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Netflixが実写ドラマ『Outer Banks』終了後の新作スピンオフ『Kildare』を開発中という配信プラットフォームの戦略転換・新規プロジェクト発表であり、コンテンツと配信ビジネスが主題。AIは関わっていない。",
+  "ts": 1787418717.7693272,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdkZiZWdjQVB4Y2J4VnRYaEx5ZU1QLWhSTVZiWDNYQ3JxOXdTb3JndjBWdUxVVE5jVTBhMDRZVkh2YmVPLVZMaHV5dmFiM2dfWldjQXFBd2o5akJRbjhXOWZzNlJURVo2aWxkaDFBd09tNFpxLWJNUlQxNndzSG5ER0xFOWFNRVNuU0VaalgwRmJZTmswTlVoc21Xa0hXMzc0dlcyT09VaFFJbXU5aUY5QUdZR3NYTUlVNHc?oc=5",
+  "title": "‘Spider-Man: Brand New Day’ Swinging to Fourth Box Office Victory as It Tops ‘Insidious’ Sequel - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "sources": [
+   "Googleニュース(hollywoodreporter.com)"
+  ],
+  "published": "Sat, 22 Aug 2026 15:56:43 GMT",
+  "published_ts": 1787414203,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "スパイダーマンの新作映画がBox officeで1位を獲得したという興行成績の数字ニュースであり、実写映画であるが興行実績値を報道する記事として該当する。コンテンツと数字（ビジネス）の両方を満たすため対象。",
+  "ts": 1787418717.7693272,
   "is_new": true
  }
 ]
