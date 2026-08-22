@@ -171,6 +171,17 @@ def main() -> int:
     print(f"対象: {target.get('title','')[:70]}")
     print("素材パックを作成中...")
     material = dossier.build_markdown(target, dossier.related(target, archive))
+    slug0 = re.sub(r"[^0-9A-Za-z一-鿿ぁ-ヿ]+", "-", target.get("title", "material"))[:40].strip("-")
+    os.makedirs(OUT_DIR, exist_ok=True)
+    mat_path = os.path.join(OUT_DIR, f"material-{slug0}.md")
+    with open(mat_path, "w", encoding="utf-8") as f:
+        f.write(material)
+    # Web版の素材パックも書き出す（窓から外れても消えないよう generate_all が保護する）
+    os.makedirs("docs/dossier", exist_ok=True)
+    with open(os.path.join("docs/dossier", f"{dossier.dossier_id(target.get('url',''))}.html"),
+              "w", encoding="utf-8") as f:
+        f.write(dossier.build_page(target, material))
+    print(f"素材パックを保存: {mat_path}")
     print(f"下書きを生成中...（{MODEL}・1〜3分かかります）")
     body = generate(material)
 
@@ -202,6 +213,7 @@ def main() -> int:
 
     print(f"\n{body}\n")
     print(f"--- 保存: {md_path}")
+    print(f"--- 素材: {mat_path}")
     print(f"--- Web: {web_path}")
 
     if do_push:

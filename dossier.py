@@ -522,9 +522,11 @@ def generate_all(window: list[dict], archive: list[dict], out_dir: str = "docs/d
     """窓の深掘り記事すべての素材パックHTMLを書き出し、{url_key: 相対リンク} を返す。
     APIは使わないので毎回作り直して問題ない（数秒・無料）。"""
     os.makedirs(out_dir, exist_ok=True)
-    # 古いページを掃除（窓から外れた記事のぶん）
+    # 古いページを掃除（窓から外れた記事のぶん）。ただし下書きを書いた記事の
+    # 素材パックは根拠として残す（後から出所を辿れるようにするため）。
+    keep = {f[:-5] for f in os.listdir("docs/draft")} if os.path.isdir("docs/draft") else set()
     for f in os.listdir(out_dir):
-        if f.endswith(".html"):
+        if f.endswith(".html") and f[:-5] not in keep:
             try:
                 os.remove(os.path.join(out_dir, f))
             except OSError:
