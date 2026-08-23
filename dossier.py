@@ -27,7 +27,8 @@ from run import normalize_url
 
 JST = timezone(timedelta(hours=9))
 OUT_DIR = "outputs"
-MIN_BODY_CHARS = 400  # これ未満は「本文が読めていない」とみなす
+MIN_BODY_CHARS = 400   # これ未満は「本文が読めていない」とみなす
+BODY_CAP_CHARS = 12000  # 素材に載せる1記事あたりの本文上限（極端に長い記事の抑制）
 TOP_RELATED = 18  # 関連記事の最大掲載数
 
 # ---------------------------------------------------------------- 抽出ヘルパ
@@ -575,3 +576,43 @@ def generate_all(window: list[dict], archive: list[dict], out_dir: str = "docs/d
             f.write(build_page(it, md))
         links[normalize_url(it.get("url", ""))] = f"dossier/{did}.html"
     return links
+
+
+# ---------------------------------------------------------------- 下書き用の拡張素材
+
+def build_material(target: dict, rel: list, inbody: list | None = None,
+                   body: str | None = None) -> str:
+    """下書き生成（draft.py）に渡す素材。素材パック本体に加えて、
+    対象記事の本文と、記者が本文中でリンクした記事の本文を丸ごと載せる。
+
+    Web公開する素材パック(build_markdown)には本文を入れない。ページが極端に長くなり、
+    ChatGPTへ貼るときも扱いにくいため。読ませる相手が違うので出し分ける。
+    """
+    from concurrent.futures import ThreadPoolExecutor
+    from fetcher import Article, fetch_article_text
+
+    L = [build_markdown(target, rel, inbody)]
+    if body:
+        L.append("\n\n---\n\n# 対象記事の本文\n")
+        L.append(body[:BODY_CAP_CHARS])
+
+    if inbody:
+        def grab(pair):
+            t, u = pair
+            a = Article(url=u, title=t)
+            try:
+                fetch_article_text(a)
+            except Exception:  # noqa: BLE001
+                pass
+            return t, (a.text or ""), u
+
+        with ThreadPoolExecutor(max_workers=8) as ex:
+            fetched = list(ex.map(grab, inbody))
+        got = [(t, b, u) for t, b, u in fetched if len(b) >= MIN_BODY_CHARS]
+        if got:
+            L.append("\n\n---\n\n# 記者がリンクした関連記事の本文\n")
+            L.append("（対象記事の記者が「背景として読むべき」と判断した記事です。"
+                     "時系列の反復ではなく別角度の材料として使ってください）\n")
+            for t, b, u in got:
+                L.append(f"\n## {t}\n{u}\n\n{b[:BODY_CAP_CHARS]}\n")
+    return "".join(L)

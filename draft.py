@@ -119,21 +119,27 @@ def load_env(path: str = ".env") -> None:
 
 def generate(material: str) -> str:
     client = anthropic.Anthropic(max_retries=2, timeout=600.0)
+    # 素材（十数万字）はツール使用のたびに再送されるため、キャッシュして入力費を抑える。
+    # 検索回数も、本文が手元にある分だけ絞る（不足データの補完に限定）。
     with client.messages.stream(
         model=MODEL,
         max_tokens=32000,
-        system=SYSTEM,
+        system=[{"type": "text", "text": SYSTEM, "cache_control": {"type": "ephemeral"}}],
         thinking={"type": "adaptive"},
         output_config={"effort": "high"},
-        # 裏付けデータを自分で取りに行かせる（比較の基準になる数字を探すため）
-        tools=[{"type": "web_search_20260209", "name": "web_search", "max_uses": 12}],
-        messages=[{"role": "user", "content": material}],
+        tools=[{"type": "web_search_20260209", "name": "web_search", "max_uses": 5}],
+        messages=[{"role": "user", "content": [
+            {"type": "text", "text": material, "cache_control": {"type": "ephemeral"}}
+        ]}],
     ) as stream:
         msg = stream.get_final_message()
     parts = [b.text for b in msg.content if b.type == "text"]
-    usage = msg.usage
-    cost = (usage.input_tokens * 5 + usage.output_tokens * 25) / 1_000_000
-    print(f"\n--- 使用トークン: 入力{usage.input_tokens} / 出力{usage.output_tokens}"
+    u = msg.usage
+    w = getattr(u, "cache_creation_input_tokens", 0) or 0
+    rd = getattr(u, "cache_read_input_tokens", 0) or 0
+    cost = (u.input_tokens * 5 + w * 6.25 + rd * 0.5 + u.output_tokens * 25) / 1_000_000
+    print(f"\n--- 使用トークン: 入力{u.input_tokens:,} / キャッシュ書込{w:,} / "
+          f"キャッシュ読出{rd:,} / 出力{u.output_tokens:,}"
           f"（約${cost:.2f} ≒ {cost*150:.0f}円）---", file=sys.stderr)
     return "\n".join(parts)
 
@@ -171,18 +177,23 @@ def main() -> int:
     print(f"対象: {target.get('title','')[:70]}")
     print("素材パックを作成中...")
     _body, _inbody = dossier.fetch_body(target)
-    material = dossier.build_markdown(target, dossier.related(target, archive), _inbody)
+    _rel = dossier.related(target, archive)
+    # 下書きには本文込みの拡張素材を渡す（対象記事＋記者がリンクした記事の全文）
+    material = dossier.build_material(target, _rel, _inbody, _body)
+    # 保存・Web公開用は本文なしの読みやすい版
+    material_web = dossier.build_markdown(target, _rel, _inbody)
     slug0 = re.sub(r"[^0-9A-Za-z一-鿿ぁ-ヿ]+", "-", target.get("title", "material"))[:40].strip("-")
     os.makedirs(OUT_DIR, exist_ok=True)
     mat_path = os.path.join(OUT_DIR, f"material-{slug0}.md")
     with open(mat_path, "w", encoding="utf-8") as f:
-        f.write(material)
+        f.write(material_web)
     # Web版の素材パックも書き出す（窓から外れても消えないよう generate_all が保護する）
     os.makedirs("docs/dossier", exist_ok=True)
     with open(os.path.join("docs/dossier", f"{dossier.dossier_id(target.get('url',''))}.html"),
               "w", encoding="utf-8") as f:
-        f.write(dossier.build_page(target, material))
+        f.write(dossier.build_page(target, material_web))
     print(f"素材パックを保存: {mat_path}")
+    print(f"素材: 本文込み {len(material):,}字（対象記事＋リンク先{len(_inbody)}本）")
     print(f"下書きを生成中...（{MODEL}・1〜3分かかります）")
     body = generate(material)
 
