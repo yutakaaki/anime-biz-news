@@ -27,6 +27,7 @@ from run import normalize_url
 
 JST = timezone(timedelta(hours=9))
 OUT_DIR = "outputs"
+MIN_BODY_CHARS = 400  # これ未満は「本文が読めていない」とみなす
 TOP_RELATED = 18  # 関連記事の最大掲載数
 
 # ---------------------------------------------------------------- 抽出ヘルパ
@@ -211,7 +212,19 @@ def related(target: dict, archive: list[dict], limit: int = TOP_RELATED) -> list
 
 # ---------------------------------------------------------------- 出力
 
-def build_markdown(target: dict, rel: list[tuple[float, dict]]) -> str:
+def fetch_body(target: dict):
+    """記事本文と本文中リンクを取る。本文が読めなければ (None, []) を返す。"""
+    from fetcher import Article, fetch_article_text, inbody_links
+    a = Article(url=target.get("url", ""), title=target.get("title", ""),
+                source=(target.get("sources") or [target.get("source", "")])[0])
+    fetch_article_text(a)
+    if not a.text or len(a.text) < MIN_BODY_CHARS:
+        return None, []
+    return a.text, inbody_links(a, resolve_titles=True)
+
+
+def build_markdown(target: dict, rel: list[tuple[float, dict]],
+                   inbody: list | None = None) -> str:
     title = target.get("title", "")
     ts = target.get("published_ts")
     src_list = target.get("sources") or [target.get("source", "")]
@@ -277,6 +290,17 @@ def build_markdown(target: dict, rel: list[tuple[float, dict]]) -> str:
             L.append(f"- {d}: {n}")
         L.append("")
 
+    if inbody:
+        L.append("## 2b. 記事本文からリンクされた関連記事")
+        L.append("")
+        L.append("この記事の記者が「関連する」と判断して本文中に張ったリンクです。")
+        L.append("こちらの収集網には無い別角度の記事が混じっていることが多く、")
+        L.append("独自の視点を作る手がかりになります。")
+        L.append("")
+        for t, u in inbody:
+            L.append(f"- [{t}]({u})")
+        L.append("")
+
     L.append("## 3. 論点の広がり（関連記事の分野内訳）")
     from collections import Counter
     th = Counter()
@@ -307,6 +331,10 @@ def build_markdown(target: dict, rel: list[tuple[float, dict]]) -> str:
         hints.append("**AI×お金の接点**: 関連記事にAIとビジネスの両方があります。技術の話を収益・コスト構造に接続できます。")
     if rel_nums:
         hints.append("**数字の比較**: 上の数字を並べ、増減や桁の変化を主張の根拠に使えます。")
+    if inbody:
+        hints.append(
+            f"**記者が結んだ線をたどる**: 本文から{len(inbody)}本の関連記事にリンクがあります。"
+            "書き手が同じ問題圏だと考えている範囲が見えるので、そこから主題をずらすと独自性が出ます。")
     if deep_n >= 2:
         hints.append(f"**先行分析への応答**: 関連する深掘り記事が{deep_n}本あります。既存の見方に賛成/反論する形が書きやすいです。")
     if not hints:
@@ -340,8 +368,12 @@ def main() -> int:
         print(f"該当記事が見つかりません: {arg}")
         return 1
 
+    body, inbody = fetch_body(target)
+    if body is None:
+        print("※ この記事は本文が取得できません（Googleニュース経由/ペイウォール）。"
+              "アーカイブの関連報道のみで素材パックを作ります。")
     rel = related(target, archive)
-    md = build_markdown(target, rel)
+    md = build_markdown(target, rel, inbody)
     os.makedirs(OUT_DIR, exist_ok=True)
     slug = re.sub(r"[^0-9A-Za-z一-鿿ぁ-ヿ]+", "-", target.get("title", "dossier"))[:40].strip("-")
     path = os.path.join(OUT_DIR, f"dossier-{slug}.md")
@@ -533,8 +565,11 @@ def generate_all(window: list[dict], archive: list[dict], out_dir: str = "docs/d
                 pass
     links: dict[str, str] = {}
     for it in candidates(window):
+        body, inbody = fetch_body(it)
+        if body is None:
+            continue  # 本文が読めない記事は素材が薄いので作らない
         rel = related(it, archive)
-        md = build_markdown(it, rel)
+        md = build_markdown(it, rel, inbody)
         did = dossier_id(it.get("url", ""))
         with open(os.path.join(out_dir, f"{did}.html"), "w", encoding="utf-8") as f:
             f.write(build_page(it, md))

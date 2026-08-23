@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import calendar
 import re
+import urllib.parse
 from dataclasses import dataclass, field
 from typing import Optional
 
@@ -207,4 +208,99 @@ def fetch_listing(list_url: str, pattern: str, base: str, source: str,
         out.append(Article(url=url, title=title, source=source))
         if len(out) >= limit:
             break
+    return out
+
+
+# ---------------------------------------------------------------- 本文中リンク
+
+# 記事ではないリンク（ナビ・広告・パズル連載・SNS共有など）を落とす
+_LINK_SKIP_URL = re.compile(
+    r"/(tag|tags|category|categories|author|authors|topics?|search|newsletter|"
+    r"subscribe|subscription|privacy|terms|about|contact|advertis\w*|sitemap|"
+    r"video|videos|gallery|photos|podcast|events?|jobs|shop|store)/"
+    r"|wordle|/pips|connections|strands|crossword|sudoku|puzzle"
+    r"|facebook\.com|twitter\.com|x\.com/|instagram\.com|linkedin\.com|youtube\.com"
+    r"|mailto:|javascript:|/feed|\.(jpg|png|gif|pdf|mp4)$",
+    re.I,
+)
+# 記事タイトルになっていないアンカー文字列
+_LINK_SKIP_TEXT = re.compile(
+    r"^(read more|続きを読む|もっと見る|click here|here|subscribe|sign up|sign in|"
+    r"log ?in|share|次へ|前へ|一覧|トップ|home|more|関連記事|詳細|こちら|"
+    r"editorial standards|reprints?\s*&?\s*permissions?|forbes|"
+    r"privacy|terms|cookie\w*|プライバシー|利用規約)\s*$",
+    re.I,
+)
+
+
+def _looks_like_article(url: str) -> bool:
+    """記事URLらしいか。著者ページ・規約ページ等を落とすための軽い判定。
+    末尾セグメントが十分に長い（見出しスラッグ）か、記事IDらしい数字を含むこと。"""
+    path = urllib.parse.urlsplit(url).path.rstrip("/")
+    seg = path.rsplit("/", 1)[-1] if "/" in path else path
+    return len(seg) >= 20 or bool(re.search(r"\d{4,}", seg))
+
+
+def inbody_links(article: "Article", limit: int = 12,
+                 resolve_titles: bool = False) -> list[tuple[str, str]]:
+    """記事本文の中に貼られたリンクを (アンカー文字列, URL) で返す。
+
+    記者が「関連している」と判断して張ったリンクは、こちらのアーカイブ検索では
+    出てこない別角度の記事であることが多い。素材パックの幅を広げるために使う。
+    ナビゲーション・広告・パズル連載などは除外する。
+    """
+    if not article.url:
+        return []
+    try:
+        resp = requests.get(article.url, headers=HEADERS, timeout=TIMEOUT)
+        resp.raise_for_status()
+    except Exception:  # noqa: BLE001
+        return []
+    soup = BeautifulSoup(resp.text, "html.parser")
+    for tag in soup(["script", "style", "noscript", "header", "footer", "nav", "aside", "form"]):
+        tag.decompose()
+    container = soup.find("article") or soup.body or soup
+    base = urllib.parse.urlsplit(article.url)
+    out: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    for a in container.find_all("a", href=True):
+        href = a["href"].strip()
+        text = a.get_text(" ", strip=True)
+        if not text or len(text) < 12 or _LINK_SKIP_TEXT.match(text):
+            continue
+        if href.startswith("/"):
+            href = f"{base.scheme}://{base.netloc}{href}"
+        if not href.startswith("http") or _LINK_SKIP_URL.search(href):
+            continue
+        if not _looks_like_article(href):
+            continue
+        key = href.split("?")[0].rstrip("/")
+        if key in seen or key == article.url.split("?")[0].rstrip("/"):
+            continue
+        # 記事っぽいパスか（年月やスラッグを含む）で軽く絞る
+        path = urllib.parse.urlsplit(href).path
+        if len(path) < 12:
+            continue
+        seen.add(key)
+        out.append((text[:110], href))
+        if len(out) >= limit:
+            break
+
+    if resolve_titles:
+        # アンカー文字列が短い場合はリンク先の <title> を取りに行く
+        # （記者が本文中に張るリンクは語句だけのことが多いため）
+        fixed: list[tuple[str, str]] = []
+        for text, href in out:
+            if len(text) >= 28:
+                fixed.append((text, href))
+                continue
+            try:
+                r = requests.get(href, headers=HEADERS, timeout=TIMEOUT)
+                t = BeautifulSoup(r.text, "html.parser").find("title")
+                title = _normalize(t.get_text(" ", strip=True)) if t else ""
+                title = re.sub(r"\s*[|｜\-–—]\s*[^|｜\-–—]{1,30}$", "", title)
+                fixed.append(((title or text)[:110], href))
+            except Exception:  # noqa: BLE001
+                fixed.append((text, href))
+        out = fixed
     return out

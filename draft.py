@@ -170,7 +170,8 @@ def main() -> int:
 
     print(f"対象: {target.get('title','')[:70]}")
     print("素材パックを作成中...")
-    material = dossier.build_markdown(target, dossier.related(target, archive))
+    _body, _inbody = dossier.fetch_body(target)
+    material = dossier.build_markdown(target, dossier.related(target, archive), _inbody)
     slug0 = re.sub(r"[^0-9A-Za-z一-鿿ぁ-ヿ]+", "-", target.get("title", "material"))[:40].strip("-")
     os.makedirs(OUT_DIR, exist_ok=True)
     mat_path = os.path.join(OUT_DIR, f"material-{slug0}.md")
