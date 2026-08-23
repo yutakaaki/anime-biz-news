@@ -12,6 +12,7 @@
     python3 dossier.py 3              # 一覧の3番の記事で素材パックを作る
     python3 dossier.py <URL>          # URL指定
     python3 dossier.py "キーワード"    # 見出し検索で最初に当たったもの
+    python3 dossier.py 3 --full       # 本文込みの素材を作る（アイデア出し用）
 """
 from __future__ import annotations
 
@@ -347,10 +348,51 @@ def build_markdown(target: dict, rel: list[tuple[float, dict]],
     return "\n".join(L)
 
 
+# ---------------------------------------------------------------- 下書き用の拡張素材
+
+def build_material(target: dict, rel: list, inbody: list | None = None,
+                   body: str | None = None) -> str:
+    """下書き生成（draft.py）に渡す素材。素材パック本体に加えて、
+    対象記事の本文と、記者が本文中でリンクした記事の本文を丸ごと載せる。
+
+    Web公開する素材パック(build_markdown)には本文を入れない。ページが極端に長くなり、
+    ChatGPTへ貼るときも扱いにくいため。読ませる相手が違うので出し分ける。
+    """
+    from concurrent.futures import ThreadPoolExecutor
+    from fetcher import Article, fetch_article_text
+
+    L = [build_markdown(target, rel, inbody)]
+    if body:
+        L.append("\n\n---\n\n# 対象記事の本文\n")
+        L.append(body[:BODY_CAP_CHARS])
+
+    if inbody:
+        def grab(pair):
+            t, u = pair
+            a = Article(url=u, title=t)
+            try:
+                fetch_article_text(a)
+            except Exception:  # noqa: BLE001
+                pass
+            return t, (a.text or ""), u
+
+        with ThreadPoolExecutor(max_workers=8) as ex:
+            fetched = list(ex.map(grab, inbody))
+        got = [(t, b, u) for t, b, u in fetched if len(b) >= MIN_BODY_CHARS]
+        if got:
+            L.append("\n\n---\n\n# 記者がリンクした関連記事の本文\n")
+            L.append("（対象記事の記者が「背景として読むべき」と判断した記事です。"
+                     "時系列の反復ではなく別角度の材料として使ってください）\n")
+            for t, b, u in got:
+                L.append(f"\n## {t}\n{u}\n\n{b[:BODY_CAP_CHARS]}\n")
+    return "".join(L)
+
+
 def main() -> int:
     window = store.load_recent()
     archive = load_archive()
-    arg = sys.argv[1] if len(sys.argv) > 1 else None
+    _args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    arg = _args[0] if _args else None
 
     if not arg:
         cands = candidates(window)
@@ -374,14 +416,21 @@ def main() -> int:
         print("※ この記事は本文が取得できません（Googleニュース経由/ペイウォール）。"
               "アーカイブの関連報道のみで素材パックを作ります。")
     rel = related(target, archive)
-    md = build_markdown(target, rel, inbody)
+    full = "--full" in sys.argv
+    md = (build_material(target, rel, inbody, body) if full
+          else build_markdown(target, rel, inbody))
     os.makedirs(OUT_DIR, exist_ok=True)
     slug = re.sub(r"[^0-9A-Za-z一-鿿ぁ-ヿ]+", "-", target.get("title", "dossier"))[:40].strip("-")
-    path = os.path.join(OUT_DIR, f"dossier-{slug}.md")
+    prefix = "material-full" if full else "dossier"
+    path = os.path.join(OUT_DIR, f"{prefix}-{slug}.md")
     with open(path, "w", encoding="utf-8") as f:
         f.write(md)
-    print(md)
-    print(f"\n--- 保存: {path} ---")
+    if full:
+        n_links = len(inbody or [])
+        print(f"本文込みの素材を作成: {len(md):,}字（対象記事＋リンク先{n_links}本）")
+    else:
+        print(md)
+    print(f"--- 保存: {path} ---")
     return 0
 
 
@@ -576,43 +625,3 @@ def generate_all(window: list[dict], archive: list[dict], out_dir: str = "docs/d
             f.write(build_page(it, md))
         links[normalize_url(it.get("url", ""))] = f"dossier/{did}.html"
     return links
-
-
-# ---------------------------------------------------------------- 下書き用の拡張素材
-
-def build_material(target: dict, rel: list, inbody: list | None = None,
-                   body: str | None = None) -> str:
-    """下書き生成（draft.py）に渡す素材。素材パック本体に加えて、
-    対象記事の本文と、記者が本文中でリンクした記事の本文を丸ごと載せる。
-
-    Web公開する素材パック(build_markdown)には本文を入れない。ページが極端に長くなり、
-    ChatGPTへ貼るときも扱いにくいため。読ませる相手が違うので出し分ける。
-    """
-    from concurrent.futures import ThreadPoolExecutor
-    from fetcher import Article, fetch_article_text
-
-    L = [build_markdown(target, rel, inbody)]
-    if body:
-        L.append("\n\n---\n\n# 対象記事の本文\n")
-        L.append(body[:BODY_CAP_CHARS])
-
-    if inbody:
-        def grab(pair):
-            t, u = pair
-            a = Article(url=u, title=t)
-            try:
-                fetch_article_text(a)
-            except Exception:  # noqa: BLE001
-                pass
-            return t, (a.text or ""), u
-
-        with ThreadPoolExecutor(max_workers=8) as ex:
-            fetched = list(ex.map(grab, inbody))
-        got = [(t, b, u) for t, b, u in fetched if len(b) >= MIN_BODY_CHARS]
-        if got:
-            L.append("\n\n---\n\n# 記者がリンクした関連記事の本文\n")
-            L.append("（対象記事の記者が「背景として読むべき」と判断した記事です。"
-                     "時系列の反復ではなく別角度の材料として使ってください）\n")
-            for t, b, u in got:
-                L.append(f"\n## {t}\n{u}\n\n{b[:BODY_CAP_CHARS]}\n")
-    return "".join(L)
