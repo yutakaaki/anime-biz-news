@@ -107,6 +107,37 @@ def fetch_article_text(article: Article) -> Article:
         if md and md.get("content"):
             article.summary = md["content"].strip()
 
+    # 公開日時（RSSが無い媒体用）。meta から拾えたら埋める。
+    if article.published_ts is None:
+        for attrs in ({"property": "article:published_time"}, {"name": "pubdate"},
+                      {"itemprop": "datePublished"}, {"name": "date"}):
+            tag = soup.find("meta", attrs=attrs)
+            val = tag.get("content") if tag else None
+            if not val:
+                continue
+            try:
+                from datetime import datetime as _dt
+                d = _dt.fromisoformat(val.replace("Z", "+00:00"))
+                article.published_ts = d.timestamp()
+                article.published = article.published or val
+                break
+            except Exception:  # noqa: BLE001
+                continue
+    if article.published_ts is None:
+        # meta が無い媒体（Newsweek日本版など）は <time datetime> を使う
+        for t in soup.find_all("time"):
+            val = t.get("datetime")
+            if not val:
+                continue
+            try:
+                from datetime import datetime as _dt
+                d = _dt.fromisoformat(val.replace("Z", "+00:00"))
+                article.published_ts = d.timestamp()
+                article.published = article.published or val
+                break
+            except Exception:  # noqa: BLE001
+                continue
+
     article.text = _extract_main_text(soup)
     if not article.text and not article.summary:
         article.error = "no text extracted (paywall?)"
@@ -140,3 +171,40 @@ def _normalize(s: str) -> str:
     s = re.sub(r"[ \t]+", " ", s)
     s = re.sub(r"\n{3,}", "\n\n", s)
     return s.strip()
+
+
+# ---------------------------------------------------------------- HTML一覧の収集
+
+# RSSを廃止した媒体は、一覧ページのHTMLから記事リンクを拾う。
+# Googleニュース経由だとリダイレクトURLしか得られず本文が取れないため、
+# 直接URLを取りにいくことで「タイトルのみ判定」を回避する。
+# (サイト名, 一覧URL, 記事リンクの正規表現, ベースURL)
+HTML_LISTINGS = [
+    ("Forbes JAPAN", "https://forbesjapan.com/", r"^/articles/detail/\d+", "https://forbesjapan.com"),
+    ("Newsweek日本版", "https://www.newsweekjapan.jp/", r"^/articles/-/\d+", "https://www.newsweekjapan.jp"),
+]
+
+
+def fetch_listing(list_url: str, pattern: str, base: str, source: str,
+                  limit: int = 15) -> list[Article]:
+    """一覧ページのHTMLから記事リンクを拾って Article にする（本文は未取得）。
+    公開日時はここでは取れないので、判定後に本文側から補完される。"""
+    resp = requests.get(list_url, headers=HEADERS, timeout=TIMEOUT)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+    pat = re.compile(pattern)
+    out: list[Article] = []
+    seen: set[str] = set()
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if not pat.match(href):
+            continue
+        url = href if href.startswith("http") else base + href
+        if url in seen:
+            continue
+        seen.add(url)
+        title = a.get_text(" ", strip=True)
+        out.append(Article(url=url, title=title, source=source))
+        if len(out) >= limit:
+            break
+    return out

@@ -35,7 +35,8 @@ def _fmt_jst(ts, fallback: str = "") -> str:
 import dedup
 import store
 from classifier import MODEL, classify
-from fetcher import Article, fetch_article_text, fetch_feed
+from fetcher import (HTML_LISTINGS, Article, fetch_article_text, fetch_feed,
+                     fetch_listing)
 from sources import all_feeds
 
 OUT_DIR = os.path.join(os.path.dirname(__file__), "outputs")
@@ -80,6 +81,16 @@ def collect() -> list[Article]:
             continue
         per_feed.append([a for a in entries if a.url])
         print(f"  {source}: {len(entries)} 件")
+
+    # RSSを廃止した媒体は一覧ページのHTMLから収集（本文が取れるので判定精度が上がる）
+    for source, list_url, pattern, base in HTML_LISTINGS:
+        try:
+            entries = fetch_listing(list_url, pattern, base, source, limit=PER_FEED_LIMIT)
+        except Exception as e:  # noqa: BLE001
+            print(f"  [一覧失敗] {source}: {e}")
+            continue
+        per_feed.append([a for a in entries if a.url])
+        print(f"  {source}(一覧): {len(entries)} 件")
 
     seen_urls: set[str] = set()
     articles: list[Article] = []
