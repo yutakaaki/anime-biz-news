@@ -46,6 +46,8 @@ SIM = float(os.environ.get("DEDUP_SIM", "0.35"))          # タイトル類似�
 MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "2"))   # これより古い記事は除外（既定=昨日と今日）
 JUDGE_WORKERS = int(os.environ.get("JUDGE_WORKERS", "4")) # 判定を並列実行するワーカー数（高速化）
 RUN_TIMEOUT = int(os.environ.get("RUN_TIMEOUT", "900"))   # 実行の時間上限(秒)。超えたら自己強制終了（ハング対策）
+NET_RETRIES = int(os.environ.get("NET_RETRIES", "4"))     # 収集0件のときの再試行回数（スリープ解除直後のDNS待ち）
+NET_WAIT = int(os.environ.get("NET_WAIT", "60"))          # 再試行までの待ち秒数
 
 
 def _start_watchdog() -> None:
@@ -110,11 +112,21 @@ def collect() -> list[Article]:
 def main() -> int:
     _start_watchdog()
     print("収集中...")
-    candidates = collect()
+    # スリープ解除直後はDNSがまだ立ち上がっておらず全フィードが失敗することがある
+    # （2026-08-24 14時便）。少し待って数回やり直す。
+    candidates = []
+    for attempt in range(1, NET_RETRIES + 1):
+        candidates = collect()
+        if candidates:
+            break
+        if attempt < NET_RETRIES:
+            print(f"収集0件（ネット未接続の可能性）。{NET_WAIT}秒待って再試行 "
+                  f"{attempt}/{NET_RETRIES - 1}", flush=True)
+            time.sleep(NET_WAIT)
     if not candidates:
-        # 全フィードが0件＝ネットワーク不通の可能性が高い。窓・digest・🆕バッジを
-        # 壊さずスキップし、次回実行に委ねる（2026-08-01 14時便のWi-Fi未接続で発生）。
-        print("収集0件（全フィード失敗＝ネット不通の可能性）。前回のdigestを保持して終了")
+        # 何度待っても0件＝本当に不通。窓・digest・🆕バッジを壊さずスキップし、
+        # 次回実行に委ねる。
+        print("収集0件（再試行後も全フィード失敗）。前回のdigestを保持して終了")
         return 0
     seen = store.load_seen()
     window = store.load_recent()  # 直近ウィンドウ（採用済みストーリー）
