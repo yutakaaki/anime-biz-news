@@ -21,70 +21,6 @@
   "updated": false
  },
  {
-  "url": "https://variety.com/2026/film/box-office/box-office-insidious-out-of-the-further-spider-man-1236840803/",
-  "title": "Box Office: ‘Insidious: Out of the Further’ Takes First Place on Friday With $10.6 Million, But ‘Spider-Man: Brand New Day’ Will Win the Weekend",
-  "source": "Variety(Box Office)",
-  "sources": [
-   "Variety(Box Office)"
-  ],
-  "published": "Sat, 22 Aug 2026 16:06:44 +0000",
-  "published_ts": 1787414804,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画の週末興行成績（Box office）の数字が主題であり、複数作品の初週末興収・累計興収が新たに報道されているため、コンテンツ＋ビジネスで対象。",
-  "ts": 1787418717.7693272,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/timlammers/2026/08/22/alan-ritchsons-motor-city-looks-for-jump-start-on-streaming-this-week-after-sputtering-at-box-office/",
-  "title": "Alan Ritchson’s ‘Motor City’ Looks For Jump-Start On Streaming This Week After Sputtering At Box Office",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)",
-   "Googleニュース(economist.com)"
-  ],
-  "published": "Sat, 22 Aug 2026 13:07:39 -0400",
-  "published_ts": 1787418459,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画の興行成績（2.7百万ドル）と配信への移行が主題であり、Box officeの数字ニュースとして該当。非アニメでもビジネス（興行数字・配信戦略）が中心のため対象。",
-  "ts": 1787418717.7693272,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdkZiZWdjQVB4Y2J4VnRYaEx5ZU1QLWhSTVZiWDNYQ3JxOXdTb3JndjBWdUxVVE5jVTBhMDRZVkh2YmVPLVZMaHV5dmFiM2dfWldjQXFBd2o5akJRbjhXOWZzNlJURVo2aWxkaDFBd09tNFpxLWJNUlQxNndzSG5ER0xFOWFNRVNuU0VaalgwRmJZTmswTlVoc21Xa0hXMzc0dlcyT09VaFFJbXU5aUY5QUdZR3NYTUlVNHc?oc=5",
-  "title": "‘Spider-Man: Brand New Day’ Swinging to Fourth Box Office Victory as It Tops ‘Insidious’ Sequel - The Hollywood Reporter",
-  "source": "Googleニュース(hollywoodreporter.com)",
-  "sources": [
-   "Googleニュース(hollywoodreporter.com)"
-  ],
-  "published": "Sat, 22 Aug 2026 16:48:06 GMT",
-  "published_ts": 1787417286,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "スパイダーマンの新作映画がBox officeで1位を獲得したという興行成績の数字ニュースであり、実写映画であるが興行実績値を報道する記事として該当する。コンテンツと数字（ビジネス）の両方を満たすため対象。",
-  "ts": 1787418717.7693272,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://www.forbes.com/sites/timlammers/2026/08/22/hadestown-the-musical-shifts-to-streaming-this-week-after-surprising-box-office-run/",
   "title": "‘Hadestown: The Musical’ Shifts To Streaming This Week After Surprising Box Office Run",
   "source": "Forbes(Hollywood)",
@@ -691,7 +627,8 @@
   "confidence": "高",
   "reason": "韓国興行ランキングの週末興収数字ニュースで、複数作品の Box Office 実績値（興行収入・動員数）が主題。アニメ作品（Teenieping、Detective Conan、Paw Patrol、Arrietty など）も含まれており、コンテンツ＋ビジネス（興行成績）の組み合わせで対象に該当。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/08/indie-film-box-office-tony-anthony-bourdain-biopic-sizzling-1237048340/",
@@ -711,7 +648,8 @@
   "confidence": "高",
   "reason": "実写映画『Tony』の初週末興行成績（$5M、7位）を報道するBox Office速報。非アニメ映像でも興行数字が主題であり、複数作品の週末興行ランキング情報を含むため対象。AIは関わらない。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-08-24/japan-video-game-rankings-august-3-9/.240910",
@@ -731,7 +669,8 @@
   "confidence": "高",
   "reason": "日本のビデオゲーム市場の週間販売ランキング（Box office相当の実績数字）を報道しており、ゲームIPのビジネス領域の数値情報として該当します。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5iZk4yLWF6S3g1b1VjajRUUjlTaVgtSlQzRE5WN25xaGVXVU95a1J5bURlRTV5aUU1ZElLclE5Y01LdWFk?oc=5",
@@ -751,7 +690,8 @@
   "confidence": "高",
   "reason": "アニメ制作会社の設立期決算（最終損失700万円）が主題であり、コンテンツ産業のビジネス（決算数字）に該当。合弁企業の立ち上げと初期業績は企業の経営情報として対象。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pYUo1OFk3V3UzRDFVVEJwY1pMb3NqY2IyNHdLeUYtYUlid3FUQktCREtWLVlXWVFUdm5yTUpvRXF4aHVOS25oakZIMWNUd21sOV9rM1NTRmttT0JYOWw0MWFLenptczdTdFpGMUMwaTRsUUt1VHRuS3JwaFRMeUE?oc=5",
@@ -771,7 +711,8 @@
   "confidence": "高",
   "reason": "日本の映像・アニメ・漫画等コンテンツ産業の海外売上を20兆円に拡大するという経産省の政策・市場規模が主題であり、コンテンツとビジネス（市場規模・政策）両軸を満たす。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/08/nate-bargatze-launches-no-pictures-hires-lawrence-grey-1237047554/",
@@ -791,7 +732,8 @@
   "confidence": "高",
   "reason": "スタンドアップコメディアンが映画・テレビ制作の新レーベルを立ち上げ、業界ベテランの幹部を任命するという企業経営・事業拡張のニュース。コンテンツ産業のビジネス動向（制作会社の新設・人事・プロジェクト）が主題であり、コンテンツ＋ビジネスで対象。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-v-1236841327/",
@@ -811,7 +753,8 @@
   "confidence": "高",
   "reason": "中国の週末興行成績の数字ニュースであり、複数の映画作品の興行収入データが主題となっているため、コンテンツ（映像作品の興行実績）とビジネス（Box office/興行売上の数字）が該当する。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/08/box-office-domestic-7-billion-1237048328/",
@@ -831,7 +774,8 @@
   "confidence": "高",
   "reason": "米国内興行収入が通期$7.1億を突破し前年比+20%という新規の実績数字が主題であり、複数の映画作品タイトルと興行成績が詳細に報じられているため、コンテンツ+ビジネスに該当する。AIは記事に含まれていない。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/anime/gkids-yoshiaki-kawajiris-vampire-hunter-d-bloodlust-265889.html",
@@ -851,7 +795,8 @@
   "confidence": "高",
   "reason": "アニメ映画『Vampire Hunter D: Bloodlust』の北米配信権をGKIDSが取得した契約ニュースであり、コンテンツ（アニメ）とビジネス（配信権の獲得・劇場/ホームビデオリリース計画）が両立している。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/202153",
@@ -871,7 +816,8 @@
   "confidence": "高",
   "reason": "ABEMAが2026年夏アニメの再生数・コメント数の中間ランキングを発表した記事で、配信プラットフォームの視聴実績データが主題。アニメコンテンツの配信ビジネス指標として、配信数字の報道は対象に該当する。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5OU5MLVlHUGRFd3FENUVmT0JHSENibmRVSEJzT0JGd2t2dmFNNGVNbVBIYkVmM2JLcmtmM2FyWk9Cd3Q2Z3B0VmFTQW9VTGdNdmY1WXpzY0MwSlFWNHFLX210ZFNtd2JrVDVGRzFjX05JUS1C0gF6QVVfeXFMTTlybW9nbVZlVllJOGhycHVtZjc2cVhRdTFvVjdZc1owQmhBY3NDT0x0bS1mcEhxVVFuc2paNHFCVUpWNHE0d3A0eW0wZi1ETlNweHBvUWtXTm9LQTljbmVoMU5CM3dac2VCbGt4QnJkeFJ5MUtDMEJmd1E?oc=5",
@@ -891,7 +837,8 @@
   "confidence": "高",
   "reason": "アニメ風コンテンツの制作をAI技術で実現する機能アップデートで、コンテンツ×AIが主題。ただしビジネスの側面（資金調達・契約・売上など）が記事に含まれていないため、themes は2分野。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT19TMW9FMklGMF9hQ2VlTER4UG16c0l6WlVVRXEzVVVNVkVsZ3JIVEdicnE2UHphSEtWc3hKU2xna1NrM3JGWEV5enl3LVBvRWpOcUlPUm4yc3V4RFdlbnU4TDJ3SE5IeEI5eE5pZkxVOU44UTR0NjJFRzRSOTlPRXJn?oc=5",
@@ -911,7 +858,8 @@
   "confidence": "高",
   "reason": "アニメエキスポ2026の動員実績（42万人）という新たに判明したビジネス数字が主題であり、コンテンツ産業の市場規模・トレンド分析に該当するため、themes=コンテンツ+ビジネス、label=対象。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcFBqbEtwNlJRVmU2MWoyUmk4QjRXN2FxQjRSZl9feTFRN1pfR2ZTSmZ1SzBuWmtsVHh1ZUh0aG5TMGphcldZZWtDWlNiYkZ2anN2U1VBdkFNVndVY0lZTjdWdXlBR0RIWGNjaHRTbnRjMFZnR3V5cVRSLXZGelNjRl90V2xWUERhVDVRUFVTOHdVMWtSVU8wdDFCN3dncm1RSkp3WXVadkJ1UkUxTk50WjVNSGJzWHNlRTZPMjJtN29nWjZKdjNURTFnM09mU1hqMEpGU1dQS2E?oc=5",
@@ -931,7 +879,8 @@
   "confidence": "高",
   "reason": "アニメ映画の興行成績（10億円達成）が主題であり、新たに判明した実績値の報道のため、コンテンツ×ビジネスに該当する。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/08/global-box-office-spider-man-brand-new-day-insidious-6-1237048315/",
@@ -951,7 +900,8 @@
   "confidence": "高",
   "reason": "複数の映画作品の初週末・週末興行収入と累計興収の数字が主題であり、Box officeの実績値ニュースに該当。実写映画中心だがコンテンツ×ビジネスの興行成績は対象。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/anime/two-one-piece-films-announced-toei-265884.html",
@@ -971,7 +921,8 @@
   "confidence": "高",
   "reason": "アニメIPの新劇場版2本の制作発表で、公開予定年や興行実績（Film: Redの記録）に触れており、Toei Animationの戦略的なコンテンツ投資を伝える記事。制作発表と過去の興行成績の言及がビジネス要素として成立している。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oeERBdFQxNkd0R1NrZmJPQ1JOVi02cEVYN0NBWlZVU05YeU1VWnFQR0RzREFMNWFnR3VzalFKRmhwVFVEazMyUg?oc=5",
@@ -991,7 +942,8 @@
   "confidence": "高",
   "reason": "アニメ映画『ちいかわ』の新規興行収入数字（100億円突破）が主題であり、コンテンツ＋ビジネスの2分野が該当し、非アニメ実写でもない対象基準を満たす。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tNWdGWTcxcGZ5cWpnRTJEdVFhczJkZDRJbm95OFVQQlVXLU9uTU51QmhNSEh6X3llbG5QNloxR0VEV3ZYNW00aFQ1Z1IyT3RGam1VNDZ0d1o?oc=5",
@@ -1011,7 +963,8 @@
   "confidence": "高",
   "reason": "経済産業省が発表したエンタメ・クリエイティブ産業の戦略計画であり、海外売上20兆円という数字を掲げた産業規模・市場目標が主題。アニメ・漫画・ゲーム等のコンテンツ産業と経営・市場・政策が明確に関わり、「詳細解説」という深掘り形式で業界戦略を論じている。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPekFtU1RoOS1nN0o3OGlMd01IT1otRnp1MkZSdjFJYzZ4Z2VUWjJRTmRLcmxsRjkzNDZTTXJMNEpqNXNaeTVCeGJRemp5RTV5Vk5la2tGWEEzLXhLZU5fRUJwOXo4Znp4bVVKYXZzWURKUmdGMjBqNS1VRHYyWFVmenIxYTF1cngzUTdnN3g2UUVVYWpoTk84VGJLTTJXX1Bkb2d6WTJlb1pCampIMVVaRWhpbkgzdHJOT01TeXR3?oc=5",
@@ -1031,7 +984,8 @@
   "confidence": "中",
   "reason": "アーティストがAIスクレイピングから作品を保護するサイトを構築した話で、コンテンツ（アーティストの作品/知的財産）とAI（生成AI学習用のデータ収集・スクレイピング）が主題だが、ビジネスの実質的な言及が記事本文から確認できないため、AI関連の権利・規制問題として判定は中程度の確実性。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/08/netflix-renews-house-of-guinness-being-gordon-ramsay-legends-1237048823/",
@@ -1051,7 +1005,8 @@
   "confidence": "高",
   "reason": "Netflix傘下のドラマ・リアリティシリーズ複数の更新・続編決定は、配信プラットフォームの事業戦略を反映したコンテンツ投資（ビジネス）の発表であり、対象。アニメではなく実写だが、大手配信企業の番組更新という業界のビジネス動向として拾う。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/202129",
@@ -1071,7 +1026,8 @@
   "confidence": "高",
   "reason": "ポケモンモバイルゲームの新作について、DL数と収益シェアの市場データ・数字が主題であり、コンテンツ（ゲームIP）とビジネス（売上実績・市場分析）の2分野が該当するため。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-08-24/webtoon-based-live-action-inside-men-prequel-film-confirms-main-cast/.240787",
@@ -1091,7 +1047,8 @@
   "confidence": "中",
   "reason": "webtoonベースのプロジェクトであり「コンテンツ」に該当し、映画化・キャスティング発表は制作進行情報だが、元作品の商業的成功（2015年映画がヒット）と複数キャストの起用発表があることから、経営・制作委託等のビジネス要素が微かに存在するため、確実性が中程度で確認が必要な対象。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/tv/global/netflix-black-mirror-season-8-legends-gordon-ramsay-1236841382/",
@@ -1111,7 +1068,8 @@
   "confidence": "高",
   "reason": "Netflixが複数ドラマシリーズの更新・続編制作を発表する配信ビジネスのニュースであり、コンテンツ（映像作品）とビジネス（更新決定・制作発表）が主題。AIは関わらない。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/08/the-gentlemen-renewed-season-3-meghan-markle-s2-trailer-1237048820/",
@@ -1131,7 +1089,8 @@
   "confidence": "高",
   "reason": "Netflix配信ドラマの更新(シーズン3決定)と配信開始予定は、大手配信プラットフォームの番組ラインアップ戦略・契約更新に関する報道であり、実写でも配信ビジネスの取引・経営判断が主題であるため対象。ただし出演者追加発表やシーズン2予告編公開など告知要素も含むため、純粋なビジネスニュースではなく速報分類とした。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/202103",
@@ -1151,7 +1110,8 @@
   "confidence": "中",
   "reason": "ゲームIP（ウマ娘）の周年記念キャンペーンと新キャラ追加は本質的にはコンテンツの新作告知・グッズ展開（ガチャ=ゲーム内アイテム）であり、経営的な数字や取引実績は記事に見当たらず、ビジネスとしては弱い。ただしCygamesの主要事業・売上源に直結する重要な告知であることを考慮してグレーとした。",
   "ts": 1787586930.0641,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84bTFoejlhV0txbkxHLVVUOWdoSUFwVF9xZTJaTXBWYi1Cak1vclFucWRFcl90MUgyUHRBWm5VSl8yMUhBamtaNXlhMDZaMFN5MU5vSElfc1g1ME5MLXFxWHVn?oc=5",
@@ -1171,6 +1131,209 @@
   "confidence": "高",
   "reason": "アニメ劇場版の新たに判明した興行収入（100億円突破）が主題であり、コンテンツ＋ビジネスの数字ニュースのため対象。",
   "ts": 1787586930.0641,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNYWZ3UTd6R0lraXFQdXZDY0Yxd0l3V1BaSENxNlBJaF8yYUNzWWFIbW9oLV9RTE9zSUhDLUhSTU9MYjhzeXE0dHNRZGlteUpDcXJKY0lfWE5WRE9xaEJFeDRCaWVIam5fTW1EVHlYS2ZqQVZnMDZLRnRBMFNhVW1hand2TG9CR212TWdlQXdZcGZoc21hQVpwWDlZMHluemY5dGctenVvV3BtZ3hPQ3RmUUNWa2VPMVVGMlQ1RVdmTllzTXF3WkkxQjVGM3U5Z2ozbUl1d0dza3IzQl85cEVablRlV2VmUkJZdmFmV1htNm14dUstajdUb2FkWnUyY1NTM2lmcGhpUkVrOURNaWxfNFAtWXZuVzhUSnh1aUVyX3R4bDdpQXdlODNZdHJzYjRxdFE2RllNTnFNLUo2NVduaTEtLVZGOEFnMUJDZ0NtYzBNUdIB0gJBVV95cUxNYWZ3UTd6R0lraXFQdXZDY0Yxd0l3V1BaSENxNlBJaF8yYUNzWWFIbW9oLV9RTE9zSUhDLUhSTU9MYjhzeXE0dHNRZGlteUpDcXJKY0lfWE5WRE9xaEJFeDRCaWVIam5fTW1EVHlYS2ZqQVZnMDZLRnRBMFNhVW1hand2TG9CR212TWdlQXdZcGZoc21hQVpwWDlZMHluemY5dGctenVvV3BtZ3hPQ3RmUUNWa2VPMVVGMlQ1RVdmTllzTXF3WkkxQjVGM3U5Z2ozbUl1d0dza3IzQl85cEVablRlV2VmUkJZdmFmV1htNm14dUstajdUb2FkWnUyY1NTM2lmcGhpUkVrOURNaWxfNFAtWXZuVzhUSnh1aUVyX3R4bDdpQXdlODNZdHJzYjRxdFE2RllNTnFNLUo2NVduaTEtLVZGOEFnMUJDZ0NtYzBNUQ?oc=5",
+  "title": "SS Rajamouli DITCHES 'Ramayana' AI dubbing plans; to audition 1,500 artistes to dub Mahesh Babu-Priyanka - The Times of India",
+  "source": "Google News: AI dubbing OR localization film OR anime",
+  "sources": [
+   "Google News: AI dubbing OR localization film OR anime"
+  ],
+  "published": "Mon, 24 Aug 2026 01:01:00 GMT",
+  "published_ts": 1787533260,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "大規模映画製作でのAI吹き替え計画の放棄が報じられており、コンテンツ×AI軸は明確だが、ビジネス面（契約金額・投資額・市場規模など）の実質的な言及が記事から読取れず、AI技術的な決定理由の深掘りも不明なため、業界の構造的インパクトと断定できない判断の余地がある。",
+  "ts": 1787592886.982761,
+  "is_new": true
+ },
+ {
+  "url": "https://www.cartoonbrew.com/business/wildbrain-acquires-personality-ai-265896.html",
+  "title": "‘Peanuts’ Studio WildBrain Acquires ‘Hey Peppa Pig’ GenAI Company Personality AI",
+  "source": "Cartoon Brew",
+  "sources": [
+   "Cartoon Brew"
+  ],
+  "published": "Mon, 24 Aug 2026 16:19:51 +0000",
+  "published_ts": 1787588391,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメーション企業WildBrainが生成AIを扱うPersonality AIを買収（約11百万ドル+条件付き最大56百万ドル）し、キャラクター関連のインタラクティブ体験を展開する取引であり、コンテンツ（IP・キャラクター）×AI（生成AI技術）×ビジネス（M&A・投資）の3分野を完全に満たす最優先対象。",
+  "ts": 1787592886.982761,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-08-24/japan-video-game-rankings-august-10-16/.240916",
+  "title": "Japan's Video Game Rankings, August 10-16",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Mon, 24 Aug 2026 12:15:00 -0400",
+  "published_ts": 1787588100,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム（コンテンツの中心軸）の週間売上ランキング数字を報道しており、ビジネス観点の実績データが主題である。ゲームIPは対象領域であり、興行成績と同等の経営指標と判定される。",
+  "ts": 1787592886.982761,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/gaming/news/caa-indie-game-fund-frame1games-1236841590/",
+  "title": "CAA Launches Indie Game Acceleration Fund Frame1Games (EXCLUSIVE)",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 24 Aug 2026 16:32:31 +0000",
+  "published_ts": 1787589151,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム（コンテンツ必須軸）のインディーゲーム開発者向け投資・加速プログラムの立ち上げ発表であり、CAAによる資金調達・戦略投資・ビジネス支援がビジネスの主題。ゲームIPはコア領域に含まれ、投資・ファンド・資金調達がビジネスの実質。",
+  "ts": 1787592886.982761,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/biz/news/wildbrain-acquires-kid-safe-ai-platform-personality-ai-1236841595/",
+  "title": "WildBrain Acquires ‘Kid Safe’ Generative-AI Platform Personality AI in Deal Worth up to $69 Million",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 24 Aug 2026 16:08:24 +0000",
+  "published_ts": 1787587704,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "子ども向けキャラクターIPを保有するWildBrainが、生成AIプラットフォームPersonality AIを6900万ドル規模で買収する案件であり、コンテンツ（既有IP・ライセンス）、AI（生成AI・AI安全性）、ビジネス（M&A・取引金額・性能ベース報酬）の3分野が揃った最優先対象。",
+  "ts": 1787592886.982761,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjR6bUVZUUF5c0g2WmlzaUNfSTB5TjNHS05tUHpMcmVkMFdhQnlvU3lRSF9Bd1FIZTZmS1NSZzVldXFHS3V3TXFaUFNqNkZYaVAycUxVYlg4TEw4SVA2QkkwNkJQY0tXQ3RHMFNBQTR4OGY1WlFlaXRiWVRLWTNnMUZlRWJYTkJhOU9ZV3dhQ2xBTG5vQkF5ZmZZZTR3YlQ2?oc=5",
+  "title": "Eight Lessons from Hollywood’s Best Year Since The Pandemic - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "sources": [
+   "Googleニュース(bloomberg.com)"
+  ],
+  "published": "Sun, 23 Aug 2026 22:00:01 GMT",
+  "published_ts": 1787522401,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ハリウッドの映像産業における興行成績・市場動向に関する分析記事と判断され、パンデミック後の業界の構造的な変化やビジネス面の考察が主題であり、非アニメの映像であっても業界全体を揺るがす大型の構造ニュースの解説に該当するため。",
+  "ts": 1787592886.982761,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HTnJ4VWRWYWZ2TTAxVmYzSWp6WXZPRGFSbWxXcHBRSEI1VDB5ZjVJU25neWNsQ2JEa29waHM0bUhyZmFRRk9EYjY4TjR0OGZYdkZZTEhxSQ?oc=5",
+  "title": "映画『ちいかわ』公開31日間で興行収入110億円突破。4DX上映が9月5日開始、セイレーンとの戦いやラップするうさぎの躍動感が味わえる - ファミ通",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Mon, 24 Aug 2026 07:58:00 GMT",
+  "published_ts": 1787558280,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画『ちいかわ』の新たに判明した興行収入110億円が主題であり、公開31日間での達成という実績数字がビジネスの中心。4DX上映の追加は付随情報。コンテンツ＋ビジネスで対象。",
+  "ts": 1787592886.982761,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10SFZ6NlVldDVzMExYc09ZVWZnRUFwTUVGR2ZJYmFTaEl3dlVoRXVmeGk5RnZLMUhCVVFVSTF6dnREYjVq?oc=5",
+  "title": "「推し活」「インバウンド」だけでは説明しきれないゲーム・アニメグッズ市場が拡大する理由 「入口」の敷居低下と多様化で幅広い層を取り込む - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "sources": [
+   "Googleニュース(gamebiz.jp)"
+  ],
+  "published": "Mon, 24 Aug 2026 03:06:00 GMT",
+  "published_ts": 1787540760,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ゲーム・アニメグッズ市場の拡大構造を分析する記事で、市場規模・成長要因の掘り下げがあり、グッズそのものの告知ではなく業界動向を扱っているため対象。ただし具体的な売上数字や企業業績が記事に明確に示されているか本文から確認できないため確信度は中。",
+  "ts": 1787592886.982761,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMkM4bmtPOVNfNEpDd0ZScnZGMEFmVjBKbGltbUxtTG5Oa0p6NmJWVzh3YlhKczNmUVJrVEV1azNjU3lfYlNFWTktMEg0U1U0ekpUaERYdVg1TnMzRHUyZHJhS2xJUkxOVXpwNEpIVGFiMFI2SjhvSUs3Z0F6UVU?oc=5",
+  "title": "映画「ちいかわ」興行収入100億円突破 初の劇場版 口コミで集客増加（スポニチアネックス） - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Sun, 23 Aug 2026 20:25:00 GMT",
+  "published_ts": 1787516700,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ劇場版『ちいかわ』の興行収入100億円突破という新たに判明した実績数字が主題であり、コンテンツ（アニメ映画）とビジネス（興行成績の数字）両分野に該当する。",
+  "ts": 1787592886.982761,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWN0NEZEbGhKN1RTbkREOGRjWVlrQ2FMVWNZcVIzRVpJc0NZaXJaZXZqRjNQOFJHMFdLT0k4VldBUW9hXzFXYWtoZjJUYXRKYVlLYzBiaW1KUkYxN3FsaHBEOE9PQ3JRZlJSeWtSS2ZydEc0dHZaTThqZGtjUjcxQUZZdVlxQkNo?oc=5",
+  "title": "映画『ちいかわ』100億円を超えた3つのポイント 興収はどこまで伸びるのか #エキスパートトピ（武井保之） - エキスパート - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Sun, 23 Aug 2026 22:10:34 GMT",
+  "published_ts": 1787523034,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画『ちいかわ』が100億円を超えた興行成績について、その理由を分析し今後の伸びの可能性を考察する記事であり、新規に判明した数字をもとにした興行ビジネスの深掘り解説であるため、コンテンツ＋ビジネスに該当する。",
+  "ts": 1787592886.982761,
   "is_new": true
  }
 ]

@@ -13258,5 +13258,413 @@
   "source": "Googleニュース: アニメ 興行収入",
   "label": "対象",
   "ts": 1787586930.0641
+ },
+ "https://www.cartoonbrew.com/distribution/cars-anniversary-re-release-pixar-disney-265902.html": {
+  "title": "Pixar’s ‘Cars’ Will Return To Theaters For Its 20th Anniversary This Fall",
+  "source": "Cartoon Brew",
+  "label": "重複スキップ",
+  "ts": 1787592886.982761
+ },
+ "https://variety.com/2026/tv/news/cnn-streaming-technical-issues-channel-loss-1236841649": {
+  "title": "CNN Blames ‘Technical Issue’ Across Warner Bros. Discovery for Channel Going Dark",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1787592886.982761
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/08/24/post-malones-country-pivot-continues-to-pay-off-as-f-1-trillion-reaches-a-milestone": {
+  "title": "Post Malone’s Country Pivot Continues To Pay Off As ‘F-1 Trillion’ Reaches A Milestone",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1787592886.982761
+ },
+ "https://variety.com/2026/tv/global/kit-harington-harry-potter-gilderoy-lockhart-nicholas-hoult-exit-1236841629": {
+  "title": "Kit Harington Joins ‘Harry Potter’ Season 2 as Gilderoy Lockhart, Replacing Nicholas Hoult",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1787592886.982761
+ },
+ "https://www.forbes.com/sites/desjahaltvater/2026/08/24/why-goo-goo-dolls-iris-is-having-a-28-year-long-moment": {
+  "title": "Why Goo Goo Dolls’ ‘Iris’ Is Having A 28-Year-Long Moment",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUEwcmxHbXg5R2poZzNSbEhrLUxKcUJyZEJ1bTllaGdhVWN5TS1jd3cyN0g3NkQ3Q1p4WllYX0FyUkdTcFdjRDd3Q2JwbkE1d3REX2ZaM2VoQUh0QzFFYlI4OV9lUlBJUERUdzhuSVBFZ0MyVnRONVppaXRSRzFBOWRGTmxKWGhCMFFfaDZB?oc=5": {
+  "title": "経産省、日本発コンテンツの海外売上20兆円めざし「ものがたり大国5か年計画」発表 - Yahoo!ニュース",
+  "source": "Googleニュース: コンテンツ 海外売上 OR 市場規模",
+  "label": "媒体加算",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVYlBqdFo3d0tfZTg3WDRybUVnX2tFTWd5TmMzNUp5RWNwT0xaM2FsSjJfTktWWGFTX2JzODdiVV9kbGZNejYxdzFaWG1uYnk2bEFweEdQa2F3M1Zhd0pIMkRXUGlOY1F1dDkzcWdjMWdGZDBsOEZNUTVxQQ?oc=5": {
+  "title": "caseplayから大人気TVアニメ『SPY×FAMILY』のスマートフォンアクセサリー第3弾が15デザイン×170機種以上のラインナップで登場！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9qN3ZqZ2czOC01eENtaGl5ZUYxRVpweURsLTNCQTRPWjYzcU1MdEpjcW5BemhkN1U2N2I0Y3hLUG01NUthbzJn?oc=5": {
+  "title": "aimotion、初期費用0円で動画生成1本55円からの新プラットフォーム登場 - ニュースメディアVOIX",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "重複スキップ",
+  "ts": 1787592886.982761
+ },
+ "https://variety.com/2026/film/news/cars-returns-theaters-20th-anniversary-1236841637": {
+  "title": "Pixar’s ‘Cars’ Returns to Theaters for 20th Anniversary",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/08/24/taylor-swift-blocked-from-a-new-no-1-by-a-fellow-hitmaking-machine": {
+  "title": "Taylor Swift Blocked From A New No. 1 By A Fellow Hitmaking Machine",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-24/japanese-animation-tv-ranking-august-10-16/.240918": {
+  "title": "Japanese Animation TV Ranking, August 10-16",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNYWZ3UTd6R0lraXFQdXZDY0Yxd0l3V1BaSENxNlBJaF8yYUNzWWFIbW9oLV9RTE9zSUhDLUhSTU9MYjhzeXE0dHNRZGlteUpDcXJKY0lfWE5WRE9xaEJFeDRCaWVIam5fTW1EVHlYS2ZqQVZnMDZLRnRBMFNhVW1hand2TG9CR212TWdlQXdZcGZoc21hQVpwWDlZMHluemY5dGctenVvV3BtZ3hPQ3RmUUNWa2VPMVVGMlQ1RVdmTllzTXF3WkkxQjVGM3U5Z2ozbUl1d0dza3IzQl85cEVablRlV2VmUkJZdmFmV1htNm14dUstajdUb2FkWnUyY1NTM2lmcGhpUkVrOURNaWxfNFAtWXZuVzhUSnh1aUVyX3R4bDdpQXdlODNZdHJzYjRxdFE2RllNTnFNLUo2NVduaTEtLVZGOEFnMUJDZ0NtYzBNUdIB0gJBVV95cUxNYWZ3UTd6R0lraXFQdXZDY0Yxd0l3V1BaSENxNlBJaF8yYUNzWWFIbW9oLV9RTE9zSUhDLUhSTU9MYjhzeXE0dHNRZGlteUpDcXJKY0lfWE5WRE9xaEJFeDRCaWVIam5fTW1EVHlYS2ZqQVZnMDZLRnRBMFNhVW1hand2TG9CR212TWdlQXdZcGZoc21hQVpwWDlZMHluemY5dGctenVvV3BtZ3hPQ3RmUUNWa2VPMVVGMlQ1RVdmTllzTXF3WkkxQjVGM3U5Z2ozbUl1d0dza3IzQl85cEVablRlV2VmUkJZdmFmV1htNm14dUstajdUb2FkWnUyY1NTM2lmcGhpUkVrOURNaWxfNFAtWXZuVzhUSnh1aUVyX3R4bDdpQXdlODNZdHJzYjRxdFE2RllNTnFNLUo2NVduaTEtLVZGOEFnMUJDZ0NtYzBNUQ?oc=5": {
+  "title": "SS Rajamouli DITCHES 'Ramayana' AI dubbing plans; to audition 1,500 artistes to dub Mahesh Babu-Priyanka - The Times of India",
+  "source": "Google News: AI dubbing OR localization film OR anime",
+  "label": "グレー",
+  "ts": 1787592886.982761
+ },
+ "https://www.cartoonbrew.com/business/wildbrain-acquires-personality-ai-265896.html": {
+  "title": "‘Peanuts’ Studio WildBrain Acquires ‘Hey Peppa Pig’ GenAI Company Personality AI",
+  "source": "Cartoon Brew",
+  "label": "対象",
+  "ts": 1787592886.982761
+ },
+ "https://www.animenewsnetwork.com/daily-briefs/2026-08-24/crunchyroll-adds-english-dubs-for-one-piece-tv-anime-elbaph-arc-on-october-20-one-piece-heroines-on-/.240930": {
+  "title": "Crunchyroll Adds English Dubs for One Piece TV Anime's Elbaph Arc on October 20, One Piece: Heroines on October 13",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://variety.com/2026/tv/news/emily-compagno-fox-news-the-five-co-host-1236841577": {
+  "title": "Emily Compagno Joins Fox News’ ‘The Five’ as Co-Host",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/08/24/whitney-houston-returns-to-the-charts-with-a-new-album": {
+  "title": "Whitney Houston Returns To The Charts With A New Album",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-24/japan-video-game-rankings-august-10-16/.240916": {
+  "title": "Japan's Video Game Rankings, August 10-16",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTdOTDhBeGYwaTRqLWtMTWE3aU5KVXNNV1o0ZURjaV9vU3FkNmZwbkZ6WmxiVWExQ3lCblZVSjVnTS1GUk5KT3RjbmFMTGpFdDNLRUpsYjhFeTVMMmUydU91elNFelhkWDEwQU5lQjk2MDBrRHBSb18zcG5IbjhCNTltNkhmazdoLXFSMVhn?oc=5": {
+  "title": "生成AI広告は「条件が整えば活用してよい」52.0%、透明性への配慮が前提【日本インタラクティブ広告協会調べ】 - Yahoo!ニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://www.animenewsnetwork.com/daily-briefs/2026-08-24/nekopara-sekai-connect-game-launches-for-pc-on-september-28/.240926": {
+  "title": "Nekopara Sekai Connect Game Launches for PC on September 28",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://variety.com/2026/gaming/news/caa-indie-game-fund-frame1games-1236841590": {
+  "title": "CAA Launches Indie Game Acceleration Fund Frame1Games (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1787592886.982761
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/08/24/drake-extends-his-historic-lead-with-yet-another-no-1-song": {
+  "title": "Drake Extends His Historic Lead With Yet Another No. 1 Song",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://variety.com/2026/biz/news/wildbrain-acquires-kid-safe-ai-platform-personality-ai-1236841595": {
+  "title": "WildBrain Acquires ‘Kid Safe’ Generative-AI Platform Personality AI in Deal Worth up to $69 Million",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE9KOEh3ZkMtWjR2bFBtVVBpZXZnT3l1bjBfZkRNazhxOS11WXlHT2VfY29GdzBTMjhlNGhuZVpBMmxQNHhf?oc=5": {
+  "title": "【株式】東映アニメが反発 「ONE PIECE」の映画最新作「ONE PIECE FILM GOD VALLEY」が2027年夏公開が発表で - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://forbesjapan.com/articles/detail/102752": {
+  "title": "経営・戦略 2026.08.21 MAU4000万のアイビス「ライン取り」戦略とサブスク会員倍増への道筋",
+  "source": "Forbes JAPAN",
+  "label": "対象",
+  "ts": 1787592886.982761
+ },
+ "https://www.newsweekjapan.jp/articles/-/332103": {
+  "title": "数千頭の犬や猫に殺処分の危機が迫る…60年ぶりにアメリカで再燃した肉食寄生バエの脅威 アマンダ・グリーンウッド",
+  "source": "Newsweek日本版",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://variety.com/2026/film/awards/john-leguizamo-inde-navarrette-critics-choice-latino-celebration-1236840299": {
+  "title": "John Leguizamo, Inde Navarrette and James Ortiz Among Latino and Hispanic Stars Set for Honors at Critics Choice Celebración Ceremony",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://animeanime.jp/article/2026/08/24/102337.html": {
+  "title": "ポムポムプリン、シナモロール、クロミたちが可愛いシリアル風パッケージに♪ 「サンリオキャラクターズ」のシリアルチャーム＆チョコフレークが27年2月に発売！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://0115765.com/archives/202082": {
+  "title": "『暴食のベルセルク』アニメ第2期が制作決定！前作から数年…主人公役声優が続編叶った背景語る",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjR6bUVZUUF5c0g2WmlzaUNfSTB5TjNHS05tUHpMcmVkMFdhQnlvU3lRSF9Bd1FIZTZmS1NSZzVldXFHS3V3TXFaUFNqNkZYaVAycUxVYlg4TEw4SVA2QkkwNkJQY0tXQ3RHMFNBQTR4OGY1WlFlaXRiWVRLWTNnMUZlRWJYTkJhOU9ZV3dhQ2xBTG5vQkF5ZmZZZTR3YlQ2?oc=5": {
+  "title": "Eight Lessons from Hollywood’s Best Year Since The Pandemic - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象",
+  "ts": 1787592886.982761
+ },
+ "https://forbesjapan.com/articles/detail/103027": {
+  "title": "アート 2026.08.23 自称「回顧展」で見る、杉本博司の原点｜アートな数字",
+  "source": "Forbes JAPAN",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://www.newsweekjapan.jp/articles/-/332108": {
+  "title": "ギグワークの「柔軟性」を「福祉の一形態」と表現…中国著名教授の発言が炎上、背景に雇用不安",
+  "source": "Newsweek日本版",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://animeanime.jp/article/2026/08/24/102336.html": {
+  "title": "モモンガ、くりまんじゅう、ラッコの秋限定ちいかわ焼き登場♪ さつまいも・渋皮マロン・パンプキンが期間限定で楽しめる",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://0115765.com/archives/202020": {
+  "title": "『転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件』第8話、待ちに待った映画の日！【先行カット】",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUm50TWhYYi1WblJfWDBVLVV4Z0lwbEU4VkRfM3NVay1EZGNHXzlZWWhzbVNtUmZWVUJJTC0tZXpVTVU4VDhRdGdPY1ExeWJxLTY0RzVuX3RDZ3lKeld0Z3d3YVJwNnloQXhKX3N2RGNvcWFnd2JieTNPbUhoRU5sanpLdjNfaGhZRzlGajZvb2NxUnM?oc=5": {
+  "title": "From Tokyo to London, heatwaves send men to work in shorts - Reuters",
+  "source": "Googleニュース(reuters.com/lifestyle)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeVA3N0RmLUxielhCSXB5WE9MYU94X0h0dWNCZ0l2bzZMNkNIdkhEZy1xSDlpOTFpcWtBQ29SeURBR0NIQnRRem5EbExpTkI3ajZlaG1vazM4dFNoQlZ3WVd2OWtHb3RXZjYxXy1vTklDOXBZcktNTERTWTFWRlRnZTRDR0t1T2dJMVNnd1gzTVF4YkJwRWV4bzJnVE01VTVXVGdvV0h4WWJ4cXhsM3ItTXBuM0dfVjlFVmVzTGpyc1hpRURY?oc=5": {
+  "title": "Syria, Israel hold US-mediated talks to ease tensions, Syria news agency says - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://forbesjapan.com/articles/detail/102754": {
+  "title": "マーケット 2026.08.21 グロース上場の6割が下落する背景と値付けの構造的課題",
+  "source": "Forbes JAPAN",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://www.newsweekjapan.jp/articles/-/332101": {
+  "title": "人が土砂に次々に飲み込まれる…中央アフリカ共和国で金鉱山崩落事故が発生、死者は100名超",
+  "source": "Newsweek日本版",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://animeanime.jp/article/2026/08/24/102335.html": {
+  "title": "ルフィのギア4“弾む男”の迫力が凄い…！「ONE PIECE」ルフィの鬼気迫る表情にシビれる限定バウンドマンフィギュアが登場！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://0115765.com/archives/201817": {
+  "title": "【団体声明】香港に続き台湾でも…『ヤニねこ』海外で“配信停止”相次ぐ　タバコ広告との指摘も「本質的に禁煙教材では」撤回求める声",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HTnJ4VWRWYWZ2TTAxVmYzSWp6WXZPRGFSbWxXcHBRSEI1VDB5ZjVJU25neWNsQ2JEa29waHM0bUhyZmFRRk9EYjY4TjR0OGZYdkZZTEhxSQ?oc=5": {
+  "title": "映画『ちいかわ』公開31日間で興行収入110億円突破。4DX上映が9月5日開始、セイレーンとの戦いやラップするうさぎの躍動感が味わえる - ファミ通",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zMXJnUWFxbGlRR3h2WWMzVmhYWnRfdTJpV052VGIwUU1HQnNTWEUyYnRoRHBRTGlRUEZiQjhoQW1odGlOZE50WVhjUW9EVC1SOTNNSVV4THVBcW41dHc?oc=5": {
+  "title": "熱狂マーケ～スポーツマーケ最前線～ - 日経クロストレンド",
+  "source": "Googleニュース(nikkei.com)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLS1sU05BTWN4VDhRYnZLenhLUGV0TF9oQWo0TWRMMmJGRkxTeHFVcnU2NmE3Q1lZM0hQUTFRXzhMMmpMSDJMeDJhS051RlIzY3JyTnNRRGlXTkNFRFVNRnRKYURhVExBbENBQmJOcklJZ2otZ3RiYmVablhNQ3RXZnZB?oc=5": {
+  "title": "劇団四季「ノートルダムの鐘」、原作へ回帰…人間模様を鋭くえぐる：地域ニュース - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUctUXh6RjdKQkdiR0xZYTBaX0QwbXNLMUJ0NjNLX21UczhJUFozTDFWMzdkQlJaSnRuVTBFWDdLOG5nUTdHa2JXV3JLVW1oVld0MG9nUWFpRWlEUHJBWXpJLWVGQkx6YkgteHZMVVp0VHlJM0ZEU0xmcUE3dUVBMEJfc3VyMWJ4ekxwZF9XdUx3LUJ5YV9MTTN6NE0?oc=5": {
+  "title": "Gulf markets rise as oil gains lift sentiment - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS01oYVJIMXI3SnBQcEpIamZMVmFhMThQWWhWaHZvNnNIWWVQU2ItOHFpaHNPenlWdVljT251TmpLeFJDelJzWERiQlJmbndYbll4ZG4zcXNEX2htRWMyQ2theDgxeXRRQlk5MFJCNWxOVVFTeHBQdVV6YnIzSEpIT05zOEhVcHd1eEVtQ0VPeWZTZ05YckNhdmEyVy05a1N1WlZraHBlSWFGaDZSMjRBLUg5TWlMcDNWQm9JSlc1Zm11YWh2NTBoUkZKeTlhTU5qQkVzY3BPWQ?oc=5": {
+  "title": "Trump Defends AI Data Centers—Says Opposing Them Is A ‘Mistake’ And ‘Smart Ones’ Want Them - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://forbesjapan.com/articles/detail/103406": {
+  "title": "暗号資産 2026.08.23 マスクが警告した「40兆ドルの悪夢」、米国破産でビットコイン急騰",
+  "source": "Forbes JAPAN",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://animeanime.jp/article/2026/08/24/102334.html": {
+  "title": "ポムポムプリン、クロミたちがお花と一緒♪ サンリオキャラ新商品第2弾が登場！ 体験型展示イベントにて東京会場限定のオリジナルグッズが販売",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QWHRNcEZIOVFmUGlidmJMNklBY2hzeWNwMGhlY1JNTV9wV3UwcmtjMGRZWWdoOFBidndJNjlQVUo4cFN5QXpGQ1ZpeGU3RlVXT2U0dFc2MXgtWmpVREtSOVBEbGZDQzAteW1oUGNGSVNCRFlkYjNhSkotUQ?oc=5": {
+  "title": "イレブンラボジャパン、9月3日開催「WFAIA - ニコニコニュース",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPbUU1SjBGRlI3M0QteWljUmEtWDVtMWJlazlST05ZSXdhSTVCOEM1WnVZek1LeTVWcTFmVTlxaWJXUkJ2OUY5alM0S0NjMC1lX0piejdXenZnSTVYb19CZTlWZWN2RDE3Z0h3dnhiVW1oeFhnWTN5ZFE2aw?oc=5": {
+  "title": "アニメ5周年を記念して、「呪術廻戦」くじ～POP＆POP～の再販が決定!! - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE10SFZ6NlVldDVzMExYc09ZVWZnRUFwTUVGR2ZJYmFTaEl3dlVoRXVmeGk5RnZLMUhCVVFVSTF6dnREYjVq?oc=5": {
+  "title": "「推し活」「インバウンド」だけでは説明しきれないゲーム・アニメグッズ市場が拡大する理由 「入口」の敷居低下と多様化で幅広い層を取り込む - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象",
+  "ts": 1787592886.982761
+ },
+ "https://forbesjapan.com/articles/detail/103375": {
+  "title": "マーケット 2026.08.23 「安全」な米国債で損失が出て、格付けが低いジャンク債で利益──原因は償還までの長さ",
+  "source": "Forbes JAPAN",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://www.newsweekjapan.jp/articles/-/332122": {
+  "title": "足元の債券利回り急上昇、「トランプ氏のイラン戦争」の結果＝独財務相",
+  "source": "Newsweek日本版",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://animeanime.jp/article/2026/08/24/102333.html": {
+  "title": "日焼けしシナモン、キティがキュート♪ 「サンリオ」×「BAYFLOW」のコラボグッズがローソン・HMV&BOOKS onlineに登場！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMkM4bmtPOVNfNEpDd0ZScnZGMEFmVjBKbGltbUxtTG5Oa0p6NmJWVzh3YlhKczNmUVJrVEV1azNjU3lfYlNFWTktMEg0U1U0ekpUaERYdVg1TnMzRHUyZHJhS2xJUkxOVXpwNEpIVGFiMFI2SjhvSUs3Z0F6UVU?oc=5": {
+  "title": "映画「ちいかわ」興行収入100億円突破 初の劇場版 口コミで集客増加（スポニチアネックス） - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyLXhvU0R0Z0RtSW9menV6SEdlSzhRWVdpS3NDdFZ3Y1JjN200alNZTXAxNTg0WTJ6YmM4SzJBSm52aHBJbUQ2Vk9XQXVGRllPUVBoZ2dPeV9rZw?oc=5": {
+  "title": "米コロラド川、下流3州への給水削減決定 カリフォルニアやアリゾナ - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTFBJV2hzYlNPRFVhLWZLMXZzeDgwMjhqZjZGaUJTMzlOMnQtQTF4M0JVb0V1YUJMZm9DM3RmckowaEFyXzVG?oc=5": {
+  "title": "TVアニメ『暴食のベルセルク』第2期が2027年に放送決定！逢坂良太から喜びのコメントも到着！ - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2tuQzZCRzBjQS1zTUJ1cnVHNFFONjNTeC1aUVNNazZ6Vi1CeklrYTJpdkhwN2lMT0xBZTBjdC1MU0U4NUo3MjFPa0ZSczdHU2xucjEzNy1US3BDaW1zbm1nQm1fNlpwSDg4STRJMXExblM5bGpnYmNIVGl3TENHMzYwLUxpNlNRdFFPYkFFMWhlY19icTVDYTFockFTdUNj?oc=5": {
+  "title": "The Bond Market Is Returning to the Old Normal - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com/opinion)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://www.newsweekjapan.jp/articles/-/331224": {
+  "title": "中国の打ち上げたロケットが打ち上げ失敗、離昇直後に爆発し分解…その様子を捉えた動画にネット民驚愕",
+  "source": "Newsweek日本版",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/08/24/morgan-wallen-dominates-thanks-to-his-popularity-on-streaming-sites": {
+  "title": "Morgan Wallen Dominates Thanks To His Popularity On Streaming Sites",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://animeanime.jp/article/2026/08/24/102332.html": {
+  "title": "「映画ちいかわ」4DX＆“なんとかなれーッ！”応援上映が決定！ 自動制御ペンライト演出付き上映や9月のお見送り上映会も",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWN0NEZEbGhKN1RTbkREOGRjWVlrQ2FMVWNZcVIzRVpJc0NZaXJaZXZqRjNQOFJHMFdLT0k4VldBUW9hXzFXYWtoZjJUYXRKYVlLYzBiaW1KUkYxN3FsaHBEOE9PQ3JRZlJSeWtSS2ZydEc0dHZaTThqZGtjUjcxQUZZdVlxQkNo?oc=5": {
+  "title": "映画『ちいかわ』100億円を超えた3つのポイント 興収はどこまで伸びるのか #エキスパートトピ（武井保之） - エキスパート - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "label": "対象",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PN0ZhTDExbDZuOGZrZ2UyN0U4eEZnSkN0WmE5bU4xVDYtN0hCckJNTnVIZkVPSlh1b3ZMUENkWDJUM3NKbXV6RDFhTWwtWTlEamJxTWl2bGstOHJyUE9RMWowN1FLM2M0aEcybng0ZmV6UUxD?oc=5": {
+  "title": "北海道：ルパン三世フェスで栗田さん、愛之助さんら語る…作者モンキー・パンチさん出身の浜中町で：地域ニュース - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iRkdrRlB2bmE3VEk5Ykt3R05pZ3d4cW5mX0Jyb2NjTms2OTZVbVdHamFKUHczZzh4UnZQT1RGMXV6cl9haTQ2VlNEdGNqNE5SVklSeVA0dVYzZw?oc=5": {
+  "title": "ＦＴＳＥラッセル、指数採用ベトナム株発表 9月に「新興国」格上げ - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE9OblFGMExocGNRTVVvaGhjYTVlaGExa3NYWTNWdnlQZWhGdWNzZFJubEt2OVRoeUhUa01wWlZIeTU1c3lq?oc=5": {
+  "title": "アニプレックス、TVアニメ『生徒会にも穴はある！』のメインPV第1弾を公開！10月3日より各局で放送開始 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV1hjbmhCNUNoZkotTEdBSGNOb0Q0UUpDRzJUQ3RDTXBGVWZ1dUM0SFkxY0I4OVFBY0R6Y2trMXpuSTJKOHRTYV9lbnBwMXRUQ2dJYnlpa1h6QlhLSWRyeG9oVEVaS2JraUNJNUFKamJ5c3pBMVVMVFBYUGgzZDlhbjltUkZ5dXlTQlJvMUkwY2VIR0tueld5cmhrRmpfdlZhT2ZBVG1lM3RyN21ablp3NDJ3R2hLeE9Sa0R3TWl4ZENRMXlzVDcyM0R5a2k4ckhGc0pCUg?oc=5": {
+  "title": "Here’s How Scientists Turned Plastic Bottles Into Nutritious Cookies - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlExdzktSGJMc2E4b1JxZldWTW44WWZyLVpwd0dGcjBYUjV4TUl4a3N4eEV6V0otYkxZTU1VVnVuWWZYb2N0SjctUTdobnRQanE0Z3NZZlZ4bl93VmZpNUo3X2dEWHh5cWlvVzFxV3FGQ0VYcUdGM3ZtOG1YLXhoU3o4R0NRNzFxWnNwVENIQlp2T244TEs2QWY4aW1YSXlxWW82SkR6QXVUU3pvREh2YkxtcTI?oc=5": {
+  "title": "Burnham Needs to Avoid Messy UK Budget to Keep Good Vibes Alive - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://www.forbes.com/sites/paultassi/2026/08/24/who-is-the-manhunter-in-lanterns-heres-the-best-theory-so-far": {
+  "title": "Who Is The Manhunter In ‘Lanterns’? Here’s The Best Theory So Far",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://animeanime.jp/article/2026/08/24/102331.html": {
+  "title": "お祭り気分で♪ 東京駅で「にっこりーノ フェスティバル」8月27日までの期間限定開催！ 新商品やゲームが登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1787592886.982761
+ },
+ "https://www.animenewsnetwork.com/news/2026-08-24/taejun-pak-launches-new-inked-comic/.240889": {
+  "title": "Taejun Pak Launches New Inked Comic",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1787592886.982761
  }
 }
