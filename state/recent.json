@@ -1,302 +1,5 @@
 [
  {
-  "url": "https://0115765.com/archives/202843",
-  "title": "【レポート】バンダイ、史上最小“指にはめるたまごっち”を発表！モデル・ゆうちゃみの推しはくちぱっち　たまごっち愛を語る",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Fri, 28 Aug 2026 02:53:08 +0000",
-  "published_ts": 1787885588,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "バンダイがたまごっち新商品（指輪型）を発表・販売する玩具展示会でのイベント記事。たまごっちはIPコンテンツであり、新商品の仕様・機能・色展開・販売企画が記事の中心であるため、コンテンツ＋ビジネスに該当するが、売上実績や契約金額などの経営数字が無く、実質的には新商品告知の域を出ていないため信頼度は中程度。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80TnJ2VEFQajNoTVd4WWR0NndLM24xMGZpR0ZMWHoxaWxwVmViR3BCcXpBU2tjTWxINHVoMnZ4WTdyZi1ORGNRTWZ4MzhxdHBIVnBXbl9QdmxjYWhjejFDaDZ2TXI3Y284SUE?oc=5",
-  "title": "避けるのか、とことん使いこなすのか──明治のCMに生成AIを取り入れた映像監督の本音 - ITmedia",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 28 Aug 2026 03:58:04 GMT",
-  "published_ts": 1787889484,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "明治のCM制作に生成AIが活用された映像制作の事例であり、コンテンツ（映像/CM）とAI技術の両方が関わるが、ビジネス面（契約金額や市場規模）が不明で、また一般的な実写CMの個別案件であることから、対象と判定する確実性は中程度。映像業界のAI活用動向として重要ながら、アニメ・ゲーム・漫画といったコア領域からは外れている。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcVFOMDBHUmxFbUN6TzdBSE1fSVJQTUFObHhuQkNld01lM0c0VndaNXc1aXVBSVlhSnNnWkhUUU5UOE9uV3hZQ2NucTNXb01sUHlKd2ZnRjh6VEpMVjcyYnpDUG1ZbTBOcXNyRlEwU1JvQV9IRXc2cDl2UUJMU00?oc=5",
-  "title": "Google、動画生成・編集AI「Gemini Omni 1.1 Flash」を発表、「映像制作の現場で使える水準」（窓の杜） - Yahoo!ニュース",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Thu, 27 Aug 2026 23:10:00 GMT",
-  "published_ts": 1787872200,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Googleが動画生成・編集AI「Gemini Omni 1.1 Flash」を発表した記事で、映像制作の現場での活用を想定したAI技術の進展を報じており、コンテンツ産業（映像制作）とAI技術の両方が主題であるため対象。ビジネス面の数字や契約は主題ではない。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXJMSE5maXQ1TVBmVHFHVWFQV3gtM0hNY095Y0o3VnVRWmJBMlh4ajNvRVNrQWg5Z2VTZ0hwczlYb2N5Nlo2XzRqY1dwcnNzTEozZTBIaDBzVkhfU0huWERNa19nSncyY21tUkxicEhEQ092WWZZLTZUSC1yVGNYcXlZelVjSWZjX3VVRzgwZDJZb1FmaWxaQWFVYldKUFZvRW04cW9rbW1PZw?oc=5",
-  "title": "Baobab Studios Secures Strategic Investment from Naver Ventures - Animation Magazine",
-  "source": "Google News: anime studio acquisition OR investment",
-  "sources": [
-   "Google News: anime studio acquisition OR investment"
-  ],
-  "published": "Thu, 27 Aug 2026 19:29:01 GMT",
-  "published_ts": 1787858941,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "アニメーション制作企業への戦略的投資であり、VR/3D映像制作技術を手がけるBaobab Studiosへの資金調達はコンテンツ・ビジネスの主要素だが、記事本文が不十分でAI要素の具体的な関連性が確認できないため信頼度は中程度。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCUW5zcmxiZGJ3eHN0TWtRMy1EU2pqTEVqOVJGcFNEeXdXUVljVFg3OU54WEhZUWtYMTcxMGdWOHI0alZQakVEX1lkMA?oc=5",
-  "title": "莉子主演『TOKYO巫女忍者』が国際アワード銅賞 実写×AIの映像制作を評価 - エンタのおはなし",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Fri, 28 Aug 2026 02:36:28 GMT",
-  "published_ts": 1787884588,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "実写映像作品とAIの映像制作技術が主題であり、コンテンツ×AIの組み合わせに該当する。受賞は既成事実の報道であり、ビジネス的な数字や契約は伝わらないため themes にビジネスは含めない。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTg0dDRfRmN2TFNaWFJaeVJ0dktLZUhKcldFejhuREJWVzdwRDkzdTRnOHRvWkxWSTk4d0QxQmJ5ajh6OHJGc2NBbFZIMWVvTUw4TTJnNUNMaGNPeC1FN3kzOWFvNXdXa3JaV0QzcUZnUVBKU0Zpb1FyZEJrTVpQQVJ1aEE1TlhIVDYyNlg2bnpkVTlweEJJd2NrVDU3S3FWM2tUd21YUExwU2VCWWhraQ?oc=5",
-  "title": "Cineverse’s RetroCrush Acquires Anime Streaming Rights to Select VIZ Media Titles - Media Play News",
-  "source": "Google News: anime streaming rights",
-  "sources": [
-   "Google News: anime streaming rights"
-  ],
-  "published": "Thu, 27 Aug 2026 21:49:13 GMT",
-  "published_ts": 1787867353,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ配信プラットフォームがVIZ Mediaの作品に関する配信権を獲得する取引で、コンテンツ（アニメ）とビジネス（ライセンス/配信権契約）の両分野が主題。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92OEI1TVdWaXp5T1FtcW5TNTQyeVdPMHR0bGpZRkVQTzZnY2h5V0tfWkRIVzIzdG8wMTQ0ZDNSUHpMbEViQ19pN3RlcEd6M3NYdVBvbjY2RE5zQVBRWTEwNkpuS0tqeEpUMzY2RlIwQVpmQUo4dWc?oc=5",
-  "title": "Tencent Games Unveils Motus End-to-End AI Animation Pipeline at Gamescom Debut - finance.biggo.com",
-  "source": "Google News: generative AI animation OR anime",
-  "sources": [
-   "Google News: generative AI animation OR anime"
-  ],
-  "published": "Thu, 27 Aug 2026 19:11:00 GMT",
-  "published_ts": 1787857860,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "テンセント・ゲームズが生成AIアニメーション制作パイプライン『Motus』をGamescomで発表した記事。アニメーション（コンテンツ）×AI（生成AI技術）×ビジネス（新製品・サービス発表）の3分野が揃い、映像業界のAI活用の最前線を伝えている。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/tv/news/ellen-pompeo-hulu-show-not-a-sound-1236845646/",
-  "title": "Ellen Pompeo to Play Disgraced ER Nurse in ‘Not a Sound’ Drama in the Works at Hulu",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Thu, 27 Aug 2026 22:56:46 +0000",
-  "published_ts": 1787871406,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "Hulu向けドラマシリーズの制作発表であり、Ellen Pompecoの20th Televisionとの契約・全体取引（overall deal）が主題。ビジネス面では契約・制作体制が述べられているが、出資額・契約金額などの具体的な金額情報は記載されていないため信頼度は中程度。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/08/cbs-shuts-down-big-brother-live-feeds-spoilers-1237061687/",
-  "title": "CBS Shuts Down ‘Big Brother’ Live Feeds To Avoid Spoilers In “Unprecedented Twist”: “Go Outside, Smell The Flowers”",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Fri, 28 Aug 2026 01:56:34 +0000",
-  "published_ts": 1787882194,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "米大型リアリティTVシリーズの1,000エピソード記念企画であり、コンテンツ（配信番組）とビジネス（Paramount+配信・有料サブスクの値打ち減損）が両立するが、AIは関わらず、興行数字も新規ビジネス取引も明記されていないため、ビジネス要素は限定的。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IVnl4b1lDODZJWndMWHZYUG5pSDlvMmRVUWZwMEZQTm9oYm8wR1ZsOGNzaHBfNTAtQVhNajZka1JYUzdqS3kwSEhLTmJPM1UxMXA4SE5fSWRnS0EwT1NLX2kyNXdaNkt2?oc=5",
-  "title": "Google、動画生成・編集AI「Gemini Omni 1.1 Flash」を発表、「映像制作の現場で使える水準」 - 窓の杜",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Thu, 27 Aug 2026 22:50:00 GMT",
-  "published_ts": 1787871000,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Googleが動画生成・編集AI「Gemini Omni 1.1 Flash」を発表し、映像制作の現場での利用を想定した技術発表であり、AIが映像制作業界に与える影響を報じた記事であるため、コンテンツ（映像制作）とAIの両分野が主題である。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FdWhnamFmalM3Wmh4TXZWbmVTZmN5Q1ZwSGxCcWdENmhSRnViczNKUUYwSU1fa0pVd0R5TnpzdnRkdUFHMWc2ZHJrRDlRWXN3eW1LR3VjVEt3VjkzcVcyWHZSdU9oSWRNdjNNTzBIalBPTFpwQUF5Qjkwcw?oc=5",
-  "title": "莉子主演『TOKYO巫女忍者』が国際アワード銅賞 実写×AIの映像制作を評価 - ニコニコニュース",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Fri, 28 Aug 2026 02:54:18 GMT",
-  "published_ts": 1787885658,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画がAIを活用した映像制作で国際賞を受賞したニュースで、映像業界のAI動向が主題。非アニメですが、AIが映像制作に絡む業界の重要な事例として対象です。ビジネスの数字（賞金額など）は記載されていないため themes に含めません。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/202774",
-  "title": "AI技術で人気ゲームキャラと話せるアプリ、開始直後に「規約確認を」運営注意　“卑猥な対話”引き出す投稿拡散、データ抽出行為など牽制",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Thu, 27 Aug 2026 20:50:55 +0000",
-  "published_ts": 1787863855,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "人気ゲームIPのAIチャットアプリ（コンテンツ）が生成AI技術を用いて（AI）提供されており、規約違反対応とともにサブスクリプション・有料機能・トークン配布などの事業モデルが述べられている（ビジネス）。3分野が揃う最優先ニュースで、AI企業による利用規約違反・権利侵害への対応という業界的に重要な事例。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNUFXS0RzbmtWbHNZTzRRcGlNNU43OVY2S0VoRUhWZG4xM1hMSjNtdURrRWNpQTdIV1NvMVlHQWdnNUpjdFRmNGtuRHZlMloxZFFvbllMU19wdEkwUkstNGNiV1MwVlI1TmVENGlvSzRtRzBEVENQSGlPV00xUld5ejBlNnJfMXhfRUk0U3hn?oc=5",
-  "title": "Google、動画生成・編集AI「Gemini Omni 1.1 Flash」を発表、「映像制作の現場で使える水準」 (窓の杜) - Yahoo!ニュース",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Fri, 28 Aug 2026 00:11:32 GMT",
-  "published_ts": 1787875892,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Googleが映像制作向けの生成AIツールを発表した記事であり、映像産業（コンテンツ）にAI技術が直接適用される事例に該当する。AI×映像制作は業界動向として拾うべき対象。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fNFpTa2VvZGpSMDhqYmVHM05QaFN3cmR0ci1VbXNhdUpFQWVjc0ZVdXc4c0EzdS1FMnFiaFFmWlk1MHp2a1c5NVhRMHNHLUJJNzlJ?oc=5",
-  "title": "Google「Gemini Omni 1.1 Flash」発表｜AI動画は“生成”から“演出・編集”へ、最大40秒のシーン延長に対応 - innovaTopia",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 28 Aug 2026 02:47:04 GMT",
-  "published_ts": 1787885224,
-  "themes": [
-   "AI",
-   "コンテンツ"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "AIが映像/動画生成の技術進化を扱い、コンテンツ制作への応用が主題だが、実際の映像コンテンツ企業や制作現場への具体的な導入・ビジネス影響が不明確なため、AI+コンテンツの組み合わせながら「ビジネス」の要素が弱く判定が微妙。",
-  "ts": 1787893230.4345,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/film/news/payal-kapadia-neeraj-churi-subhadra-mahajan-toronto-market-1236846057/",
   "title": "Payal Kapadia, Neeraj Churi, Subhadra Mahajan Among Talent Behind SASO, IFFSA-Backed South Asian Toronto Market Projects (EXCLUSIVE)",
   "source": "Variety",
@@ -356,8 +59,8 @@
   "confidence": "高",
   "reason": "アニメ・ハイブリッド映画『Coyote vs. Acme』『Spider-Man: Brand New Day』『Buddy』など複数作品の週末興行成績（Box office数字）が主題であり、コンテンツ＋ビジネスの2分野が揃う。興行収益の新規実績値報道は非アニメでも対象に該当する。",
   "ts": 1787936441.4274619,
-  "is_new": true,
-  "updated": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/202867",
@@ -402,27 +105,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9qbHRwZzZXZ2xlUktDZXJKel9wbVRxZHd4OV9oVWtvemFKU3hCTkhEWkZGaTZhR21DbnQ5M1NyRGNjc2wx?oc=5",
-  "title": "エディア、アニメ事業の展開加速、IP事業・出版事業の拡大およびクリエイター人材の採用・育成を目的として2027年1月に「新潟オフィス」を開設 - gamebiz【ゲームビズ】",
-  "source": "Googleニュース(gamebiz.jp)",
-  "sources": [
-   "Googleニュース(gamebiz.jp)"
-  ],
-  "published": "Fri, 28 Aug 2026 05:35:00 GMT",
-  "published_ts": 1787895300,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "エディアがアニメ・IP・出版事業の拡大を目的として新潟オフィス開設を発表しており、企業の事業戦略・拠点展開という経営施策がビジネスの主題であり、コンテンツ産業への投資・人材採用の実質的な経営判断が伝わるため。",
-  "ts": 1787936441.4274619,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/08/lord-of-the-rings-producer-new-fantasy-movie-wars-drakons-1237061803/",
   "title": "‘Lord Of The Rings’ Producer Lines Up New “Large-Scale” Fantasy Movie ‘Wars Of The Drakons’",
   "source": "Deadline",
@@ -450,8 +132,8 @@
   "sources": [
    "Googleニュース: AI 映像制作 OR アニメ制作"
   ],
-  "published": "Fri, 28 Aug 2026 02:36:35 GMT",
-  "published_ts": 1787884595,
+  "published": "Sat, 29 Aug 2026 02:35:08 GMT",
+  "published_ts": 1787970908,
   "themes": [
    "コンテンツ",
    "AI"
@@ -461,8 +143,8 @@
   "confidence": "高",
   "reason": "実写映像作品がAI技術を活用して制作され、国際アワードで評価された。映像制作へのAI活用が主題であり、コンテンツとAIの両分野が実質的に含まれるため対象。",
   "ts": 1787936441.4274619,
-  "is_new": false,
-  "updated": false
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "https://deadline.com/2026/08/vanderpump-villa-renewed-season-4-hulu-1237061673/",
@@ -592,27 +274,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FbnAwbTBxZDl2U3c0SUNoQ0FlNEJPaE9KRUFCc0NfTmRYRnRkM1RyLXlMYy1IX201RlFpaS1mWG95aEx5d0dIcGlGX3VTYmxCOUZVdU9NdEtIRzBTSlZkWkJHb3o?oc=5",
-  "title": "Google、動画生成・編集AI「Gemini Omni 1.1 Flash」を発表、「映像制作の現場で使える水準」／コストを1/3にするドラフト生成機能も搭載、動画制作ツール「Flow」でも提供、 - 千葉テレビ放送",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Fri, 28 Aug 2026 00:19:23 GMT",
-  "published_ts": 1787876363,
-  "themes": [
-   "AI",
-   "コンテンツ"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "Googleが映像制作向けの生成AIツールを発表しており、AI×コンテンツ（映像制作）の組み合わせだが、記事がビジネス面（コスト削減は技術説明、具体的な導入企業や契約・売上がない）を欠くため、対象判定の根拠が薄い可能性があり、確認が必要。",
-  "ts": 1787936441.4274619,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qNkQxbEgtMTd5cWJQTzl3VTJqMVNjVmhQWkwyYkktYm81dEtyVFZTYVNCZU5pdmZxUUx2UzgwOURzSEQ5eXB2SXFwQTVkY3ZvaTEwb2xCUm83QQ?oc=5",
   "title": "『VIVANT』第2シーズンでAIを活用──TBSが挑むドラマづくりの未来 - Forbes JAPAN",
   "source": "Googleニュース(forbesjapan.com)",
@@ -692,27 +353,6 @@
   "label": "対象",
   "confidence": "中",
   "reason": "音楽アーティストTame Impalaの楽曲がSpider-Man映画への楽曲使用によりBillboardチャート上位にランクインした興行・チャート成績の速報であり、映像作品（Spider-Man）との連動による商業的成功を報じているため、コンテンツ＋ビジネスに該当するが、非アニメの映像であり、AIは含まれず、チャート順位のみで契約金額や大型M&Aなどの構造的ビジネスニュースではないため中程度の信頼度。",
-  "ts": 1787936441.4274619,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NbnZubnl1UldqdDlaMC1DY3g5dm1McXhxZTFVT1ZYaHZGUUt1d2l4X09LdTRWRWJwc29abmpoQWdURTgxcTdnalNuamhXenVzRGVneTUtN0c0ci12d2EyQUZRSTVsZE02WDlLSERB?oc=5",
-  "title": "莉子主演『TOKYO巫女忍者』が国際アワード銅賞 実写×AIの映像制作を評価 - ニコニコニュース",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Fri, 28 Aug 2026 02:54:18 GMT",
-  "published_ts": 1787885658,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "実写映像作品がAIを活用した映像制作手法により国際アワード受賞した事例報道であり、映像業界のAI活用動向として該当するが、ビジネス的な数字（制作費・契約金額・売上）が不明確なため3分野には至らない。",
   "ts": 1787936441.4274619,
   "is_new": false,
   "updated": false
@@ -1199,7 +839,8 @@
   "confidence": "高",
   "reason": "実写映画の大型企画（Tom Cruise主演の『Days of Thunder』続編）のキャスティング発表と公開日決定であり、主要スタジオParamountの重要なIP活用・スケジュール戦略が中心。ただし、キャスティング発表自体は通常対象外だが、本記事は製作費規模が大きい大型映画の公開日設定・IMAX/Dolby Cinema/4DX対応など企業の映画化戦略とビジネス判断が焦点であり、業界ニュースの性質が強いため対象とした。",
   "ts": 1788024593.1908932,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/08/anne-hathaway-tom-cruise-days-of-thunder-2-1237062516/",
@@ -1219,14 +860,16 @@
   "confidence": "高",
   "reason": "実写映画の続編制作発表であり、キャスティング発表が主体だが、大手スタジオ（Paramount）の大型プロジェクト（トップスター2名の起用、製作総指揮者、監督確定、公開日確定、撮影フォーマット決定）であり、スタジオの経営判断・投資規模を示す記事のため、コンテンツ+ビジネスに分類。",
   "ts": 1788024593.1908932,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/paultassi/2026/08/29/a-new-robert-de-niro-serial-killer-movie-is-no-1-on-netflixs-top-10-list/",
   "title": "A New Robert De Niro Serial Killer Movie Is No. 1 On Netflix’s Top 10 List",
   "source": "Forbes(Hollywood)",
   "sources": [
-   "Forbes(Hollywood)"
+   "Forbes(Hollywood)",
+   "Googleニュース(forbes.com)"
   ],
   "published": "Sat, 29 Aug 2026 11:04:26 -0400",
   "published_ts": 1788015866,
@@ -1239,7 +882,8 @@
   "confidence": "中",
   "reason": "実写映画のNetflix配信作品がランキング1位という視聴実績の数字ニュースであり、非アニメ映像だがBox officeやランキング数字は拾う対象に該当。ただしランキング順位だけで詳細な数字（視聴数・時間）の記載が不明な点で信頼度は中程度。",
   "ts": 1788024593.1908932,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/box-office-the-dog-stars-spider-man-brand-new-day-1236846559/",
@@ -1259,7 +903,8 @@
   "confidence": "高",
   "reason": "Box Officeの週末興行成績（実績値）が主題。実写映画ですが、興行収入という実績数字が報道の中心であり、業界ニュースとして拾う条件を満たすため対象です。",
   "ts": 1788024593.1908932,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVaG8wZGUtclE0Y2ZQcE1CQ3lPNldWMUlXa1h2a2pvNE1uR3JZV3ZhdktJNncyWEc3TXBMeTI5NDllWGZjQ3ZwRXFqUG94RzA4RXNpZEg3cUk?oc=5",
@@ -1279,7 +924,8 @@
   "confidence": "高",
   "reason": "アニメ映画『ちいかわ』と『コナン』の興行成績・客足の違いを分析・比較する記事であり、コンテンツ（アニメ映画）とビジネス（興行動向の分析）が主題であるため対象。",
   "ts": 1788024593.1908932,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/box-office-report/coyote-vs-acme-opening-weekend-projections-266107.html",
@@ -1299,7 +945,8 @@
   "confidence": "高",
   "reason": "アニメーション映画『Coyote vs. Acme』の初週末興行収入予測（$12-14M）という新規の数字ニュースが主題であり、コンテンツ（映像作品）とビジネス（Box office）の両分野が揃っているため。",
   "ts": 1788024593.1908932,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/anime/pokemon-disney-plus-aardman-sirfetchd-pichu-266103.html",
@@ -1319,7 +966,8 @@
   "confidence": "高",
   "reason": "ポケモン（ゲームIPのアニメ化）とディズニー+の配信契約という配信ビジネスの契約発表であり、コンテンツ+ビジネスの2軸が明確に成立している。",
   "ts": 1788024593.1908932,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/202834",
@@ -1339,7 +987,8 @@
   "confidence": "高",
   "reason": "Netflix独占配信中のアニメ映画が劇場公開決定という新たなビジネス展開（配信から劇場への展開、52館規模での興行、来場者特典配布）が主題であり、手塚治虫原案の漫画IP活用、キャラクター商品化を伴うメディアミックスビジネスに該当する。",
   "ts": 1788024593.1908932,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/202945",
@@ -1359,7 +1008,8 @@
   "confidence": "高",
   "reason": "ゲーム企業ガンホーへのソニー傘下による約286億円の大型出資・資本業務提携で、スマートフォン・コンソール・PCゲームの共同開発やIP活用が視野に入る経営統合案件。コンテンツ（ゲーム）+ ビジネス（M&A相当の資本提携・株式取得額・経営異動）の2分野で対象。",
   "ts": 1788024593.1908932,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/paultassi/2026/08/29/a-new-update-on-the-silo-season-4-release-date/",
@@ -1379,27 +1029,8 @@
   "confidence": "高",
   "reason": "Apple TV+の配信ドラマシーズン4の公式リリース日（2027年夏予定）発表であり、コンテンツ（映像作品）と配信ビジネス（プラットフォームのスケジュール戦略・配信予定）の組み合わせで対象。ただしAIは記事に含まれていない。",
   "ts": 1788024593.1908932,
-  "is_new": true
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wU2hHLXF3SU1XYnBBOVlsS09vSGk4UENla0QzeGtMcWx1aDVfalk3bkZSTHZ2WTdCUEQ2anpMSmJvcDNaWmx5Sk1vLThvUzdrYm1XRjB5dXY?oc=5",
-  "title": "莉子主演『TOKYO巫女忍者』が国際アワード銅賞 実写×AIの映像制作を評価 - エンタのおはなし",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Fri, 28 Aug 2026 02:50:51 GMT",
-  "published_ts": 1787885451,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映像作品の制作にAI技術が実質的に活用され、その点が国際賞で評価されたという映像産業のAI動向ニュースであり、コンテンツ×AIの主題が明確に成立しているため。",
-  "ts": 1788024593.1908932,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/08/inside-great-british-bake-off-fight-sky-love-productions-1237062324/",
@@ -1419,7 +1050,8 @@
   "confidence": "高",
   "reason": "イギリスの大型メディア企業Sky（Comcast傘下）がITVを160億ポンド買収する中で、買収企業による制作会社の支配と番組戦略をめぐる内部紛争・訴訟を詳細に報道。メディア企業の経営統合に伴う業界地図の変化と、制作会社の経営判断・人事・契約金額をめぐる実質的なビジネス紛争が主題で、業界の構造的課題を掘り下げた記事。",
   "ts": 1788024593.1908932,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51U0NWTGRVNFZ1WDlxU2lsZlJmUXozWkxyeUdaVTV4dGFoZjhtdkU4S3pqZV9VcEVxejdhQnFNY09GbWRDQmw5dXRjTV9TXy1SUGlvcW5aMFQ4ZjlNWV9HSmRJMjhyR0c2di1pY2VBOHFjZWFzU194dkxFTQ?oc=5",
@@ -1439,27 +1071,8 @@
   "confidence": "高",
   "reason": "中国アニメ映画の興行ヒットという新規の興行成績ニュースであり、コンテンツ（アニメ映画）とビジネス（興行成績）の2分野を満たす。",
   "ts": 1788024593.1908932,
-  "is_new": true
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsc0V3MTF3S3l6aWMwdWgwMFFZVjJxWjBrN3pjM2F1b01yNDg0R2tNc3BsSXM1NVF6MElodF81TDVoS2d1V3dRWGdLRXZaZC1JSzR1aGNiTkhBdkVHal9n?oc=5",
-  "title": "Google、動画生成・編集AI「Gemini Omni 1.1 Flash」を発表、「映像制作の現場で使える水準」／コストを1/3にするドラフト生成機能も搭載、動画制作ツール「Flow」でも提供、 - 千葉テレビ放送",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Fri, 28 Aug 2026 00:19:23 GMT",
-  "published_ts": 1787876363,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Googleが動画生成・編集AI「Gemini Omni 1.1 Flash」を発表し、映像制作の現場での活用を標榜しており、映像制作ツール「Flow」での提供も含まれることから、コンテンツ産業へのAI技術の本格的な影響を示す記事。ビジネス数字（コスト削減1/3など）は付随的であり、記事の主題はAI技術そのものにあるため、themes=コンテンツ,AIとする。",
-  "ts": 1788024593.1908932,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWNGOEVfQmJDY3hoSXY2eElmRTZMXzlaMEFHclk2ZTBzbkI2eFdNRm5neXl4M0VuU3V5eW0tbWU2dWozQmNIVjRpeEQtZmx4TEtSVHFEdkJKTUFyaVd0TWN0d0ZuNnlqYVZNOW4xT3Z2ZEU1cE8zajZfcnRtRlFkc1dBbEx5eFczNy0xODhrYzJRUTgwWWtqOWV2WXY?oc=5",
@@ -1479,7 +1092,8 @@
   "confidence": "高",
   "reason": "ポケモン（コア領域のゲームIP）の新作アニメーション作品について、Disney+への配信契約という取引・配信ビジネスが主題であり、コンテンツ×ビジネスの2分野を満たすため対象。",
   "ts": 1788024593.1908932,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeVpwNlNsLXBpeDB4cnlVenM4U1ItSk1ZOHowczlkNTVzRjNVdURBNWdsSVVZQm1tcDBpOG1XOEUtQTd3ZTNBcW1KM2FXMGg2YXdtZmdsWVlCamNvS1lkTHEyMFYxWVRrRkNfUTEwUGJsMmZrbzUzVDFkY20xQ0lORjF4UE1xdVVvT01XN2JIQk5QUDVHYjdrQnpuekUtRld5ZWxtbUhQQU0yQQ?oc=5",
@@ -1499,6 +1113,89 @@
   "confidence": "中",
   "reason": "GTA6はゲームIPで主軸のコンテンツであり、オンラインサービスの展開戦略・事業計画についての考察記事のため、ビジネスの分析要素を含むが、AIは関わらず、新たな数字や取引の発表ではなく意見/推測の色が強いため信度は中程度。",
   "ts": 1788024593.1908932,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWXNsWW9TcktqaXgwTFVVNjhhLXVBNE5JTUdxU0w3bHJPUjdmandmQW43cExBYzZmdzFNczlCbXdrVjVYZWtXajY4OWFlUUFTNFM5bC1SWHh5aDRneUpNWDlmN2FNQWZJNF93U19jYlV5UEV6Ynl6TG43UzB1cGxVaFVXMWludnRZOFAzbjFVMmFIZElfbUhsZWlnQUNkdUN1ZFBjSzJCOFB2Q1cxN2ZTZFN1M05zX1RIc0xLV29CdWZZTnVFMDUzX0dSVlRxYWNk0gHWAUFVX3lxTE9RS1hlckRVcGtJLU5JY3hLN1IxcnpneGtkRVJ3anVvQVItLW5HS2lnUmVuSnRuT1B2RWcwQ0dpQ1hXRExfUE9ydjBVTlRrRUkwdXFWZi1NTnlpQmFCWUQxenc2NllGTnhhZkZxdzh2aXRzZmp5OEt4bTdNeUdnUDFwdHhYem5vbW9PaHBRWURGQ3ZzdUdpcGR5b0VzX0w5S2U1cWt0OGp1NmVkVkVoYVk0dG5VeEMzR2NMVTV0MmlfUlRPWjhKWU9wdm1RcmlkOF9YSWNGTVE?oc=5",
+  "title": "How Investors Are Reacting To Tencent Holdings (SEHK:700) Weaving Generative AI Deeper Into Games And Tools - simplywall.st",
+  "source": "Google News: generative AI animation OR anime",
+  "sources": [
+   "Google News: generative AI animation OR anime"
+  ],
+  "published": "Sun, 30 Aug 2026 02:45:41 GMT",
+  "published_ts": 1788057941,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "テンセントがゲームツールに生成AIを統合し、投資家の反応を分析する記事。ゲーム（コンテンツ）×生成AI×企業戦略（ビジネス）の3分野が揃い、単なる速報でなく投資家向け分析記事であるため。",
+  "ts": 1788066972.973409,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/203034",
+  "title": "小学生の夏休みの宿題、過半数が「AI使わない」多くが“考える力弱くなりそう”と不安…家庭での禁止は少なく",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Sun, 30 Aug 2026 03:11:10 +0000",
+  "published_ts": 1788059470,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "小学館の『月刊コロコロコミック』読者を対象とした生成AI利用実態調査の結果報道。コンテンツ企業（出版社）による調査データの公表であり、AIの利用実態と影響が主題で、子ども向けコンテンツ産業とAIの関係を扱うため3分野該当。",
+  "ts": 1788066972.973409,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/lists/2026-emmys-predictions/",
+  "title": "Final Emmy Predictions in 116 Categories: HBO Max Poised to Dominate With ‘The Pitt’ as ‘Widow’s Bay’ and ‘Hacks’ Chase Opposite All-Time Records",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sat, 29 Aug 2026 20:55:00 +0000",
+  "published_ts": 1788036900,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "米国の主要テレビ賞（Emmy Awards）の受賞予測記事で、複数の映像作品（ドラマ・コメディ・リミテッドシリーズなど）の受賞数や記録更新が主題。放送業界全体の業績競争（ネットワーク別の受賞数ランキング）と作品の成績データが中心であり、コンテンツ×ビジネス（興行/実績数字）に該当。",
+  "ts": 1788066972.973409,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/08/ali-g-who-iz-i-trailer-theater-boycott-racist-caricature-1237062699/",
+  "title": "‘Ali G: Who Iz I?’ Sparks Calls For Theater Boycott, Trailer Slammed Over Racist Stereotypes",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sat, 29 Aug 2026 21:45:48 +0000",
+  "published_ts": 1788039948,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Sacha Baron Cohen の映画『Ali G: Who Iz I?』の予告編公開に伴う映画館のボイコット運動と上映拒否という、映像コンテンツの興行ビジネスに直接影響する動きを報道しており、コンテンツ（映画）とビジネス（劇場上映の中止決定）が主題である。",
+  "ts": 1788066972.973409,
   "is_new": true
  }
 ]
