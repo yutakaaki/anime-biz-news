@@ -1,241 +1,5 @@
 [
  {
-  "url": "https://deadline.com/2026/09/box-office-spider-man-brand-new-day-by-any-means-labor-day-1237068549/",
-  "title": "‘Spider-Man: Brand New Day’ Pushes Summer To Record $4.76B; Universal Wins Season With $1.23B – Monday Box Office Update",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)",
-   "Deadline"
-  ],
-  "published": "Mon, 07 Sep 2026 17:56:00 +0000",
-  "published_ts": 1788803760,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画の興行成績（Box office）に関する数字ニュースであり、複数の映画の週末興行収入・累計興収・ランキングが主題。非アニメだが、業界全体の興行動向を扱う新規の実績値報道のため対象に該当する。",
-  "ts": 1788584440.6296802,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpTjROVUpWd014czRTUGJVbGNtV2ctX0J4ajlyNy1mRW1DMXJZcjZqazR5U25iWjE1U2lmT0dCYklQcnZCQTJhVFY5MjJtbm44cVh3X0dlOHBjLWZ0UW53QUkyM1dHSk52MXc?oc=5",
-  "title": "スムージースタジオ、映像制作公開実績30本を突破。生成AIを活用した制作領域を広告・イベント・ドラマへ拡大 - PR TIMES",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Tue, 08 Sep 2026 01:10:02 GMT",
-  "published_ts": 1788829802,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "生成AIを活用した映像制作企業の実績成長という、コンテンツ＋AI＋ビジネス（数字＝30本突破）の3分野が揃っており、映像業界のAI活用動向を伝えるため対象とした。ただしPR TIMESの自社宣伝記事である可能性が高く、独立したジャーナリズム的価値は限定的のため信頼度は中程度。",
-  "ts": 1788843631.297266,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWFY2TkdWQ3JINk1oWWs2cmxBejRrdVRHUFNkelNNSWtQbG1YZ1k1VzE0WWZhMDVhdWFSY1NRaWdhLWRqU3FHYkRlV0RBelcxYUtjZ01fU08zSm1UOUV2M2xkbXJIbXRDcWxna2plVWpmcXFqUHlkc2dCM1JRcVlZTTZCUS1kSVh6S2FfM3MyajdNWkNzWnZmUGdzUUFwazJZaFVtOUMtZElwYklYRzhEQl9QcE83OFpFZy0yNGx5d2pjMjk1b3FNNnRBX1VxcXhwVVJ0aXVR?oc=5",
-  "title": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Reclaims Top Spot in 7th Weekend - Crunchyroll",
-  "source": "Google News: anime box office",
-  "sources": [
-   "Google News: anime box office"
-  ],
-  "published": "Tue, 08 Sep 2026 00:50:00 GMT",
-  "published_ts": 1788828600,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "日本の映画興行成績（Box office）に関する新たに判明した数字ニュース。アニメ映画の週末興行ランキングが主題であり、コンテンツ（アニメ映画）とビジネス（興行成績の実績数字）が揃っている。",
-  "ts": 1788843631.297266,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZDNMbk5kSm0wZWMtWlF1QnU2WFZpSWUzbUxqSWJxckZabGM4U0pwZDJ5MWJtZ3hZLVRrLWJhTE9rdkpCQVdCQUo4NldxeTdsRmdjcWs0YlJGb1lYVUFyeldPRTRvOHFSeDQyLWdqWFZtaWdhajhkNTdVQXE3M09CY09XS0lhc0RqRzFxU0Q5aGl4dU5tUnJWalQ4UWs0dw?oc=5",
-  "title": "Amazon Prime Cancels 5 shows: Full List and Ratings - Newsweek",
-  "source": "Googleニュース(newsweek.com)",
-  "sources": [
-   "Googleニュース(newsweek.com)"
-  ],
-  "published": "Mon, 07 Sep 2026 17:45:00 GMT",
-  "published_ts": 1788803100,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "Amazonのプライム・ビデオが5つのコンテンツ作品をキャンセルするという配信プラットフォームの戦略転換ニュースであり、コンテンツと配信ビジネスの決定が主題だが、アニメ・漫画・ゲームIPか実写大型作品かが本文から不明なため信頼度は中",
-  "ts": 1788843631.297266,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-300-million-1236854390/",
-  "title": "China Box Office: ‘Once Upon a Time in the Middle East’ Crosses $300 Million",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Tue, 08 Sep 2026 04:36:19 +0000",
-  "published_ts": 1788842179,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "中国の映画興行成績（複数作品の週末興収と累計興収の新規数字）を報じる記事であり、コンテンツ（映画）とビジネス（Box office数字・市場規模）の2分野が揃い、実写映画でも興行成績は対象に該当するため。",
-  "ts": 1788843631.297266,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE83SXFfRnZfeVRORTZnVENGWGhlZURndUNKTUE5TFpzTjBiRnJZNkRXWElvLTFURVY0MVIybXpNS1NidXB4?oc=5",
-  "title": "KADOKAWA、アニメスタジオ5社を統合し310人体制の「Studio One Base」設立 管理部門統合もクリエイティブの多様性は維持 - gamebiz【ゲームビズ】",
-  "source": "Googleニュース(gamebiz.jp)",
-  "sources": [
-   "Googleニュース(gamebiz.jp)"
-  ],
-  "published": "Tue, 08 Sep 2026 04:01:00 GMT",
-  "published_ts": 1788840060,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "KADOKAWAのアニメスタジオ5社統合という経営統合・組織再編は、アニメ制作体制の構造転換であり、コンテンツ産業のビジネス面での重要な決定・実績であるため対象。",
-  "ts": 1788843631.297266,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/global/french-president-emmanuel-macron-youtube-finance-content-1236854274/",
-  "title": "French President Emmanuel Macron Calls on YouTube to Finance Content and Warns of Growing Threat to Cultural Model (EXCLUSIVE)",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Mon, 07 Sep 2026 23:07:56 +0000",
-  "published_ts": 1788822476,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "マクロン仏大統領による映像/コンテンツ業界の戦略的インタビューで、YouTubeなどプラットフォームによる市場支配（ビジネス）、AI透明性と知財保護（AI）、Paramount-Warner Bros.のM&A（ビジネス）、フランスのコンテンツ投資・税制優遇（ビジネス）が複合的に論じられており、3分野すべてが主題的に含まれる。",
-  "ts": 1788843631.297266,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/timlammers/2026/09/07/jason-stathams-mutiny-seeks-new-audience-on-streaming-this-week-after-stalling-at-box-office/",
-  "title": "Jason Statham’s ‘Mutiny’ Seeks New Audience On Streaming This Week After Stalling At Box Office",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)",
-   "Googleニュース(forbes.com)"
-  ],
-  "published": "Mon, 07 Sep 2026 15:30:30 -0400",
-  "published_ts": 1788809430,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "実写映画の興行成績とその後の配信展開という映像ビジネスの実績に関わる記事であり、Box officeから配信への移行という業界動向を伝えているため。アニメではないが映像産業の興行・配信ビジネスの話であり、映像ビジネスニュースとして対象。ただし大型M&Aや市場規模ほどの大ニュースではなく信頼度は中程度。",
-  "ts": 1788843631.297266,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/09/mpa-signs-declarations-lumiere-summit-1237070415/",
-  "title": "MPA Signs Two Declarations At Lumière Summit, Attends Roundtables With Macron & Lee Jae Myung",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Mon, 07 Sep 2026 20:52:15 +0000",
-  "published_ts": 1788814335,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映像産業（映画・オーディオビジュアル）の国際的な協力と投資、知的財産保護、海賊版対策をめぐる政府間・業界間の協定署名・パートナーシップが主題であり、コンテンツ産業のビジネス（国際協力、投資、市場戦略）に該当する。",
-  "ts": 1788843631.297266,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/09/whalefall-production-california-producers-interview-1236528267/",
-  "title": "20th Century’s ‘Whalefall’ Producers Reflect On Shooting In California: “The Best Creative Teams Are Here”",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Mon, 07 Sep 2026 20:30:00 +0000",
-  "published_ts": 1788813000,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画『Whalefall』のカリフォルニア州での撮影決定について、制作費・税額控除・上下線コスト比較・産業政策など、ビジネス的な経営判断と財務インセンティブを中心に掘り下げた記事。映像制作の地理的選択と州の税控除プログラムの影響を詳細に分析している。",
-  "ts": 1788843631.297266,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://animeanime.jp/article/2026/09/08/102752.html",
-  "title": "実写「ブルーロック」4DXは“ボールになれる”!? 潔、凪、國神たちと寮生活も体験!?これは映画じゃなくてアトラクションだ…【レポ】",
-  "source": "アニメ！アニメ！",
-  "sources": [
-   "アニメ！アニメ！"
-  ],
-  "published": "2026-09-08T02:00:03Z",
-  "published_ts": 1788832803,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "原作が漫画『ブルーロック』（コンテンツ）であり、実写映画の具体的な興行成績（公開19日間で10億円、31日間で12億円）が主題の記事であるため、コンテンツ×ビジネスに該当する。",
-  "ts": 1788843631.297266,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/film/news/south-korean-president-lee-jae-myung-speech-lumiere-summit-1236854896/",
   "title": "South Korean President Lee Jae Myung Calls for Human-Centric AI and Backs Independent Cinema at Lumiere Summit",
   "source": "Variety",
@@ -253,27 +17,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "韓国大統領が映画産業への5億ユーロ投資を発表（ビジネス）し、AI技術が人間中心的であるべきとの方針を表明（AI）、独立系映画とコンテンツ産業の振興を掲げた政策声明であり、3分野すべてが揃う最優先対象。",
-  "ts": 1788886838.6654348,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/box-office/summer-box-office-breaks-all-time-record-1236854175/",
-  "title": "Summer Box Office Breaks All-Time Record With $4.67 Billion",
-  "source": "Variety(Box Office)",
-  "sources": [
-   "Variety(Box Office)"
-  ],
-  "published": "Mon, 07 Sep 2026 18:10:59 +0000",
-  "published_ts": 1788804659,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "2024年夏のBox Office歴代記録を報じた記事で、北米映画興行収入(4.76億ドル)が2013年の過去最高を更新した新たな数字が主題であり、コンテンツ(映画業界)とビジネス(興行成績の実績値)の2分野が該当するため。",
   "ts": 1788886838.6654348,
   "is_new": false,
   "updated": false
@@ -337,27 +80,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "国民的ゲームIP『桃鉄』のパチンコ化という新たなメディアミックス展開であり、コナミグループの自社IP活用戦略とライセンスビジネスの拡大（複数パチンコホール企業との共同開発・商品化）が主題のため、コンテンツ＋ビジネスで対象。",
-  "ts": 1788886838.6654348,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FTWlwZ2hlVV9Vc2xTYVA1WWplRDVYYUp1bUVUUUx4NUo2Qnd3alJhb0ZGbzBMejlqSG9OVmZ3VlJ3MnN6WGdOWHdnVHZ2WDVnU253M0Q4OURkaW4wSDhSSWk5c2Z0LXdQamFROU9wc01QVHd3SXp2N2hFVQ?oc=5",
-  "title": "コンテンツビジネスラボ 「リーチ力・支出喚起力ランキング」～「コンテンツファン消費行動調査2026」より - sankei.com",
-  "source": "Googleニュース(sankei.com)",
-  "sources": [
-   "Googleニュース(sankei.com)"
-  ],
-  "published": "Tue, 08 Sep 2026 04:00:00 GMT",
-  "published_ts": 1788840000,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "コンテンツファン消費行動調査のデータに基づく「リーチ力・支出喚起力ランキング」は、業界の市場規模・消費動向・ビジネス実績に関わるデータ記事であり、コンテンツ×ビジネスの主題として拾うべき内容と判断される。",
   "ts": 1788886838.6654348,
   "is_new": false,
   "updated": false
@@ -485,27 +207,6 @@
   "confidence": "高",
   "reason": "英国公共放送Channel 4の大規模人員削減（約300人、全体の25%）の発表は、映像配信業界の経営構造を揺るがす重大なビジネスニュースであり、コンテンツ制作企業の経営危機と組織再編を扱っているため対象。",
   "ts": 1788886838.6654348,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-the-intern-1236854398/",
-  "title": "Korea Box Office: ‘The Odyssey’ Overwhelms ‘Spider-Man: Brand New Day’ as Admissions Top 10 Million",
-  "source": "Variety(Box Office)",
-  "sources": [
-   "Variety(Box Office)"
-  ],
-  "published": "Tue, 08 Sep 2026 05:01:48 +0000",
-  "published_ts": 1788843708,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "韓国の週末興行ランキングと各作品の興行収入実績値が主題であり、複数作品の初週末興収・累計興収・動員数などBox officeの数字ニュースは非アニメ実写でも対象。アニメ作品（Detective Conan、Teenieping）も含まれているが、記事全体が興行成績データの報道であるため。",
-  "ts": 1788930036.4229178,
   "is_new": false,
   "updated": false
  },
@@ -971,7 +672,8 @@
   "confidence": "高",
   "reason": "フランスのアニメーション産業の2025年輸出売上が前年比30.3%減少し€32.2百万に落ち込んだという市場統計データが主題であり、ビジネス（業界の市場規模・売上実績）とコンテンツ（アニメーション産業）の両分野が明確に該当するため。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.animenomics.com/p/n-lite-uplifts-african-lore-in-original-anime-ips",
@@ -991,7 +693,8 @@
   "confidence": "高",
   "reason": "アニメスタジオN LITEの独自IPビジネス戦略（オリジナル作品の企画・出版社とのパートナーシップ・マーチャンダイズ展開・国際展開）が主題であり、コンテンツ（アニメ・漫画）とビジネス（パートナーシップ戦略・ライセンシング・マーチャンダイズ）が両立している。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU3BQS2E3Y01BbV9YN2pLaXVXYTIyMjhlbzNjeEJLNVNLUTRadEpYaFhlb1lMTFFkeWFlQnFVZFJqQWlBMHFDSlJfeDhGWGpINkNHXzBXbE5DZk9SOTMwUF9yREdyZk9iVUFJcFhpTmhpb1ZyemFpYm1lYjliRWRlbkZWLTlKSVpobHdYc1dtODJIdnM?oc=5",
@@ -1011,7 +714,8 @@
   "confidence": "中",
   "reason": "宮崎駿という著名なアニメクリエイターと生成AIが直接関連し、業界の重要人物のAIに対する姿勢を扱っているが、記事の具体的な内容や分析の深さが不明であり、単なるインタビュー発言の報道か掘り下げた考察か判断しづらい。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/digital/news/imdb-digital-creator-profiles-1236855930/",
@@ -1031,7 +735,8 @@
   "confidence": "中",
   "reason": "IMDbが動画クリエイターを新たに認識する専門カテゴリーを追加し、IMDbProで有料向けに提供するサービス拡張のビジネス発表。コンテンツ制作者（デジタルクリエイター）の産業インフラ整備がテーマだが、AIは主要素ではなく、ビジネス側面（新カテゴリー導入による発見性向上と就職支援インフラ）が中心。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/legalentertainment/2026/09/09/the-next-primetime-emmy-awards-broadcast-deal-must-reckon-with-the-clip-economy/",
@@ -1051,7 +756,8 @@
   "confidence": "中",
   "reason": "Primetime Emmy Awardsの放映権取引（ビジネス）とメディア戦略をめぐる分析記事。テレビ業界全体の視聴習慣の変化（SNS時代への対応）が主題で、業界の構造変化に関わるため対象とした。ただしアニメ業界直結ではなく、一般的な映像業界の話として「中」の確度。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/festivals/tiffcom-tokyo-film-festival-banquet-for-hungry-ghosts-266373.html",
@@ -1071,7 +777,8 @@
   "confidence": "高",
   "reason": "アニメーション製作プロジェクト5件がTIFFCOM傘下の東京ギャップ・ファイナンシング・マーケット(TGFM)に選定されたというビジネスニュースで、制作スタジオ、出資、国際共同制作の取引が主題となっているため。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/204541",
@@ -1091,7 +798,8 @@
   "confidence": "高",
   "reason": "ゲームIPの特別版ハードウェアが予約開始当日に販売各社で完売となった販売実績ニュースであり、コンテンツ（ゲーム）とビジネス（販売数・在庫・取扱状況）の両分野が主題のため対象。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/204534",
@@ -1111,7 +819,8 @@
   "confidence": "高",
   "reason": "人気ゲームIP「パルワールド」の公式カードゲーム関連商品について、発売後1か月余で累計440万パック出荷という新たな実績数字が主題であり、コンテンツ＋ビジネスの2分野が該当するため対象。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/thunder-road-films-lit-entertainment-group-trak-media-company-1236855319/",
@@ -1131,7 +840,8 @@
   "confidence": "高",
   "reason": "映像制作企業2社の合併による新メディア企業立ち上げで、経営戦略・事業統合が主題。映画・TV制作のIPポートフォリオと興行実績（44億ドル超）が記載されており、コンテンツ×ビジネスの関係が明確。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/09/keanu-reeves-kill-current-movie-1237072325/",
@@ -1151,7 +861,8 @@
   "confidence": "高",
   "reason": "Keanu Reevesが新たに立ち上げたプロダクション企業Two Dragonfliesで初の映画化プロジェクトが決定し、The ArenaやZandoなど複数企業による共同製作・出資が発表されたビジネスニュース。映像制作の企画・提携・出資が主題であり、コンテンツ＋ビジネスに該当する。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/204520",
@@ -1171,7 +882,8 @@
   "confidence": "高",
   "reason": "ANYCOLORの四半期決算発表で、増収減益の経営数字、事業領域別の売上、棚卸損、人員採用による原価増、営業利益率の低下、通期予想の据え置き、自己株式取得、中期経営計画といったビジネス実績と経営戦略が主題であり、VTuberというコンテンツIPの企業決算情報として対象。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjQTlHYlZmMk9BcllsSXVUaWViZi1STXk5WHl1S29GeUk0dGV1QU41TjNhOHlNM25BS2NGTU83Wk0yUWoyaURxWE1hbUpGaWFubmZ1eA?oc=5",
@@ -1192,7 +904,8 @@
   "confidence": "高",
   "reason": "生成AIを用いたアニメーション制作の新モデル確立が主題であり、コンテンツ（アニメーション制作）とAI（生成AI フル活用）、およびビジネス（企業向けサービス・制作モデルの確立）の3分野が揃っている。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/09/sumerian-buys-chili-finger-judy-greer-bryan-cranston-1237072393/",
@@ -1212,7 +925,8 @@
   "confidence": "中",
   "reason": "実写映画の配給権取得という流通ビジネスの交渉・契約が主題だが、非アニメ・非業界地図変動・非Box officeのため対象の周辺に位置する。Deathlineが報じた配給契約は取引ニュースに該当し、映像産業のビジネスとして拾う水準だが、金額が明記されていないため中信度。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/paultassi/2026/09/09/what-the-gentlemen-season-2s-viewership-crash-means-for-season-3/",
@@ -1232,7 +946,8 @@
   "confidence": "中",
   "reason": "Netflix配信ドラマの視聴数急減という映像産業のビジネス成績ニュースであり、実写非アニメながら配信プラットフォーム戦略に関わる数字実績が主題のため、コンテンツ+ビジネスで対象とします。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qSkxiNEdEZDZIckg2bXN6T0ZoX1B0d1pQQ3RkQk11aGFmejVDZEk1TGN2b3g5VE13T01BeDc3MHNoYUQ5VVd6QnQzTi1sLTZsLUdsRXBFaHg?oc=5",
@@ -1252,7 +967,8 @@
   "confidence": "高",
   "reason": "アドビのPremiere ProとAfter Effectsという映像制作ツールへのAI機能統合（タイムライン上での映像・音声生成）は、映像制作業界全体に影響する重要なAI技術導入であり、コンテンツ制作とAIが中心主題のため対象。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/09/paul-feig-the-italian-job-sequel-movie-1237072097/",
@@ -1272,7 +988,8 @@
   "confidence": "高",
   "reason": "実写映画『The Italian Job』の続編をめぐるParamountとPaul Fiegの契約交渉が主題で、コンテンツ（映画制作）とビジネス（スタジオの企画・監督契約）が絡む。業界大手のParamountが関わる映像制作プロジェクトの動向は対象。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/global/call-my-agent-movie-premiere-paris-ted-sarandos-netflix-1236855665/",
@@ -1292,7 +1009,8 @@
   "confidence": "高",
   "reason": "Netflixの映像コンテンツ『Call My Agent! The Movie』のパリプレミアを軸に、Netflixのフランス投資額（2億5000万ドル、うち5000万ドルはフランス映画向け）と規制当局との取引・上映窓期をめぐる訴訟が主題である。配信企業の投資と政策/規制による経営課題が中心で、コンテンツ＋ビジネスが明確に該当する。",
   "ts": 1788973248.692013,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/09/upscale-launches-microdrama-producer-1237072180/",
@@ -1313,6 +1031,408 @@
   "confidence": "高",
   "reason": "映像制作（マイクロドラマ・縦型動画）というコンテンツ事業を中核に、AI補助制作ワークフローの採用（AI）と、新会社立ち上げ・ビジネスモデル構築・ハートビートとのパートナーシップ（ビジネス）が主題であり、3分野すべてが揃うため対象。",
   "ts": 1788973248.692013,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/practical-magic-2-box-office-opening-weekend-projection-spiderman-brand-new-day-1236855513/",
+  "title": "Box Office: ‘Practical Magic 2’ Aims to Dethrone ‘Spider-Man: Brand New Day’ With $40 Million Debut",
+  "source": "Variety(Box Office)",
+  "sources": [
+   "Variety(Box Office)"
+  ],
+  "published": "Wed, 09 Sep 2026 14:21:58 +0000",
+  "published_ts": 1788963718,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画『Practical Magic 2』の初週末興行収入予測（$30-40M）と『Spider-Man: Brand New Day』との興行成績の競合を伝える、Box officeの数字ニュースであり、業界全体を揺るがす大型映像ビジネスの動向として対象。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/imax-q3-box-office-booming-the-odyssey-1237072841/",
+  "title": "Imax Tops $600M In Q3 Box Office So Far On ‘The Odyssey’; CEO Shrugs Off Industry M&A – “Our Primary Relationships Are With Filmmakers”",
+  "source": "Deadline(Box Office)",
+  "sources": [
+   "Deadline(Box Office)"
+  ],
+  "published": "Wed, 09 Sep 2026 22:20:39 +0000",
+  "published_ts": 1788992439,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "IMAXのQ3興行収益が$600M超という新規の数字ニュースが主題であり、複数映画作品の興行実績・配信戦略・業界M&Aへの経営対応などビジネス実績が中心となっているため、コンテンツ+ビジネスで対象。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/shrimad-bhagavatam-part-i-sagar-pictures-entertainment-1236856887/",
+  "title": "‘Shrimad Bhagavatam Part I’ Unveiled by India’s Sagar Pictures Entertainment (EXCLUSIVE)",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Thu, 10 Sep 2026 04:30:00 +0000",
+  "published_ts": 1789014600,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "インド映画スタジオによる7部構成の劇場版フランチャイズ企画の発表であり、2027年公開予定・制作進行中という新規事業展開がビジネスの主題だが、記事の大半は制作コンセプト・ビジョンの詳細説明であり、契約金額や出資額などの数字が無く、また非アニメの実写映画であって業界全体を揺るがす大型M&Aでもないため、ビジネスとしては中程度の重みである。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-death-of-robin-hood-uk-ireland-box-office-1236855466/",
+  "title": "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Continue U.K., Ireland Box Office Battle",
+  "source": "Variety(Box Office)",
+  "sources": [
+   "Variety(Box Office)"
+  ],
+  "published": "Wed, 09 Sep 2026 07:05:07 +0000",
+  "published_ts": 1788937507,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画の興行成績（Box office）に関する新規の数字ニュースであり、複数の映画の週末興収、累計興収、ランキングが主題となっているため、コンテンツ＋ビジネスで対象。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/avengers-doomsday-ticket-pre-sales-50-million-3-months-out-1237072759/",
+  "title": "‘Avengers: Doomsday’ Ticket Pre-Sales Cross $50M Domestically Three Months Out",
+  "source": "Deadline(Box Office)",
+  "sources": [
+   "Deadline(Box Office)"
+  ],
+  "published": "Wed, 09 Sep 2026 20:23:44 +0000",
+  "published_ts": 1788985424,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画の前売り券売上($50M)という新たに判明した興行ビジネス数字が主題であり、コンテンツ(映画)とビジネス(興行収入実績)の2分野に該当し、業界全体を揺るがす大型企業(Disney/Marvel/Sony)の動きも含まれるため対象。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://animeanime.jp/article/2026/09/10/102799.html",
+  "title": "ハリウッド実写映画「ストリートファイター」リュウやケン、春麗らを捉えた場面写真お披露目！【10月16日公開】",
+  "source": "アニメ！アニメ！",
+  "sources": [
+   "アニメ！アニメ！"
+  ],
+  "published": "2026-09-10T02:00:03Z",
+  "published_ts": 1789005603,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲームIPの実写映画化であり、カプコンを含む複数社の製作・配給契約が主題。ただし記事の中心は公開日・キャスト・ストーリー紹介など制作発表そのものであり、契約金額や投資額などの経営数字が明記されていないため、ビジネスは「映画化という取引」の範囲に限定される。コンテンツ（ゲームIP由来の映画化）＋ビジネス（複数企業による製作・配給）として対象。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/204628",
+  "title": "『ゼルダの伝説』実写映画、原作名がそのままタイトルに　来年公開、製作費の半割超は任天堂が出資",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Thu, 10 Sep 2026 02:20:30 +0000",
+  "published_ts": 1789006830,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲームIP『ゼルダの伝説』の実写映画化であり、製作費の50%以上を任天堂が出資、ソニー・ピクチャーズが配給・共同出資する具体的な取引・投資構成が主題のため、コンテンツ＋ビジネスに該当する。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iOUIwRFpQOFZNZUtKekk2VTdRMGxaSnpkdHlKaFhGME42dVlBeUpuRHVPckx2RTR2ZGJFb2ZiY1gzVXRhUFlMM0xrUQ?oc=5",
+  "title": "★AIで映像制作★①【JAI検】非常口ピクトグラム・エクストリーム運動会を映像化せよ②【プロンプト対決】VSアナウンサー軍団！ - TVer",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Wed, 09 Sep 2026 17:18:16 GMT",
+  "published_ts": 1788974296,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "AIを用いた映像制作企画番組であり、コンテンツとAIの両分野に該当するが、番組内容は「映像化チャレンジ」や「プロンプト対決」といった娯楽企画であり、AIの映像業界への実際の影響・応用・ビジネス展開が主題ではなく、エンタメ・番組企画としての側面が強いため確実性は中程度。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/josephine-ah-girl-rec-rush-hishow-china-1237072032/",
+  "title": "Chinese Distributor Hishow Adds ‘Josephine’, ‘Ah Girl’ & ‘Rec’ Franchise To We Love Cinema Release Slate",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Thu, 10 Sep 2026 01:29:33 +0000",
+  "published_ts": 1789003773,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "映画配給企業Hishowが複数の映画作品（Josephine、Ah Girl、Recフランチャイズ、Rush等）の配信・配給権を取得し、We Love Cinemaブランドを拡大するという配信/配給ビジネスの取引内容が主題であり、コンテンツ×ビジネスが該当するが、日本・アニメ業界との直接的関連性は薄く、アニメ・漫画・ゲームのIPではないため中程度の信頼度。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/box-office-practical-magic-2-1237072094/",
+  "title": "‘Practical Magic 2’ Hopes To Weave Spell & Keep Box Office Alive; Global Outlook $58M-$63M – Box Office Preview",
+  "source": "Deadline(Box Office)",
+  "sources": [
+   "Deadline(Box Office)"
+  ],
+  "published": "Wed, 09 Sep 2026 18:17:50 +0000",
+  "published_ts": 1788977870,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画『Practical Magic 2』の初週末興行成績予測（国内約4000万ドル、海外約1800～2300万ドル、グローバル5800～6300万ドル）を主題とした速報であり、実写映画の興行数字ニュースは該当分野全体を揺るがす大型ニュースに相当するため対象。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-09-09/prinny-party-going-overboard-game-launches-on-november-11/.241589",
+  "title": "Prinny Party: Going Overboard! Game Launches on November 11",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Wed, 09 Sep 2026 20:10:55 -0400",
+  "published_ts": 1788999055,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ゲームIP（Prinny）の西洋発売が決定し、発売日・プラットフォーム・価格情報などビジネス的な詳細が主題となっているため、コンテンツ×ビジネスに該当する。ただし契約金額や売上見通しといった経営数字が薄いため信頼度は中程度。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/gaming/news/hideo-kojima-physint-game-xbox-playstation-1236855372/",
+  "title": "Hideo Kojima’s ‘Physint’ Moves From PlayStation to Xbox as ‘Death Stranding’ Creator Plots TV and Film Projects With New Publishing Partner",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Thu, 10 Sep 2026 02:34:39 +0000",
+  "published_ts": 1789007679,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム(コンテンツ)のパブリッシャー変更とXbox・小島プロダクションの経営提携(ビジネス)、および映画・TV展開の取組が主題。ゲームIPは核領域であり、出版契約・プラットフォーム移行・メディア展開戦略が経営の実質的な取引なので対象。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-09-09/dragon-quest-heroes-torneko-mystery-dungeon-game-hd-version-announced-for-same-day-release/.241564",
+  "title": "Dragon Quest Heroes: Torneko's Mystery Dungeon Game's HD Version Announced for Same Day Release",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Wed, 09 Sep 2026 16:36:28 -0400",
+  "published_ts": 1788986188,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲームIP（Dragon Quest）の新作・HD版が複数のプラットフォームで同時発売される発表であり、コンテンツ（ゲーム）とビジネス（新作発表・マルチプラットフォーム展開・西洋市場進出）の両分野が主題。AI要素は無し。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52OEIwMTJqVTRFVDF6X2ZxcjVTeDFBRXdWQzY0MjBWWmJkQXR4blo2R0ZENmJkZy1KX0NCY0RWR2FyZC1zR3hRUFRCVDd2blRZbVBhOXV0VWtPX2Z5T05NMWJSeW4?oc=5",
+  "title": "「昔むかしあるところに…」ＡＩ市原悦子さんらが語る「まんが日本昔ばなし」、多言語で発信へ - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "sources": [
+   "Googleニュース(yomiuri.co.jp)"
+  ],
+  "published": "Wed, 09 Sep 2026 23:15:00 GMT",
+  "published_ts": 1788995700,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "アニメ『まんが日本昔ばなし』という日本の象徴的コンテンツを、AI音声技術（故市原悦子さんのAI復元）と多言語配信（ビジネス展開）で国際展開する取り組みで、3分野すべてが揃うが、記事の詳細内容が明確でないため確度は中程度。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/timlammers/2026/09/09/spider-man-brand-new-day-on-verge-of-breaking-all-time-domestic-box-office-record/",
+  "title": "‘Spider-Man: Brand New Day’ On Verge Of Breaking All-Time Domestic Box Office Record",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Wed, 09 Sep 2026 15:43:44 -0400",
+  "published_ts": 1788983024,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画の興行成績（Box office）の数字ニュースであり、非アニメであっても業界全体を揺るがす大型の構造ニュースまたは新たに判明した興行実績値として、コンテンツ×ビジネスで対象。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeDJ2UDJ2UzFTTEJHWF93QWtDbS14eVBwRU9nSlRxNlN2TlVXVUZTOG5DUnpCaFBkeWN2by1zRXNWejVrOXJtY183R2hLZ3lhLXlNSmliTkl2R3BkR1hLdTR4aVN4Vk5VOWVZNnhGX0ZXekRxTGF5T3RYRUx6SkxIb0dhR204Q1Y2dnZnYmcwcVZfb2ZIa3ZOVHVqa2Y5VFExM2YzV1NNSVpISkE?oc=5",
+  "title": "A Hollywood Creators Group Is Trying to Assess What AI Is Doing to the Industry (Exclusive) - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "sources": [
+   "Googleニュース(hollywoodreporter.com)"
+  ],
+  "published": "Wed, 09 Sep 2026 23:32:07 GMT",
+  "published_ts": 1788996727,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映像制作業界（ハリウッド）がAIの影響を評価・調査する動きを扱う記事で、コンテンツ業界とAI技術が主題。業界全体への影響を掘り下げた分析記事と判断される。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/oscars-2027-israel-tell-me-everything-1237072910/",
+  "title": "Israel’s ‘Tell Me Everything’ Tops Ophir Awards, Becomes Country’s Oscar Submission",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Wed, 09 Sep 2026 23:33:00 +0000",
+  "published_ts": 1788996780,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "イスラエル実写映画がオスカー国別代表に選出された賞レース/業績ニュースだが、非アニメ映像でありAIが絡まないため、業界規模で判定するとコンテンツ+ビジネス（興行/賞レース実績）に該当。ただし「業界全体を揺るがす大型ニュース」の基準（メジャースタジオM&A等）には達していないため信頼度は中程度。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/veronicavillafane/2026/09/09/as-drawn-together-premieres-mercedes-ron-shares-road-to-global-success/",
+  "title": "As ‘Drawn Together’ Premieres, Mercedes Ron Shares Road To Global Success",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Wed, 09 Sep 2026 14:46:13 -0400",
+  "published_ts": 1788979573,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "原著者Mercedes Ronによる「Culpables」フランチャイズ（スペイン語圏の人気小説IP）が映画化されPrime Videoで配信開始される際に、著者への独占インタビューで彼女のグローバル展開の軌跡を掘り下げた記事。コンテンツ（小説IP・映画化・配信）とビジネス（グローバル現象化・フランチャイズ成功）が主題だが、AIの要素は無い。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/fox-corp-roku-merger-doj-review-1237072899/",
+  "title": "Fox Corp. COO John Nallen Says Roku Deal On Track To Close Despite “Entirely Expected” DOJ Scrutiny",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Wed, 09 Sep 2026 23:02:10 +0000",
+  "published_ts": 1788994930,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Fox CorporationによるRoku買収（22億ドル）の規制当局審査状況と取引の進捗、財務見通しが主題であり、メディア・ストリーミング配信企業のM&Aと経営数字が中心のビジネスニュースであるため。",
+  "ts": 1789016441.6688519,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX0N6MWJybDJyZVZ2dnpwRnU3d3Vrei1UTXQzZERzTG1FeGtuOWNGcVlMOWlfRjNhRDE1TWRRMlJNLVBiNFZPdjg4QUhaRVF2R1dTeHhhSF9NYlBGamZnZlRLRXg3VDNLQTEzMnQ2TmZGVE10cGw5LVpCZWVTbHhhTDJOWVN4WktxYkpQOFdINmcxbllhZHcyQ1k0RXlaMTJObGNFNkd4NHY5WHF2eWxFN1VpOE0xeUZ6MExTTzhBVDdRY3M?oc=5",
+  "title": "The Investor Who’s Convinced That Pokémon Cards Will Be Currency After an Apocalypse - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "sources": [
+   "Googleニュース(hollywoodreporter.com)"
+  ],
+  "published": "Wed, 09 Sep 2026 14:25:31 GMT",
+  "published_ts": 1788963931,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "ポケモンカードIPへの投資動向を扱う記事だが、主題が個人投資家の信念・見解であり、金額や取引の実績が記事本体に明示されていないため、ビジネスの実質性が薄い可能性があるため。",
+  "ts": 1789016441.6688519,
   "is_new": true
  }
 ]
