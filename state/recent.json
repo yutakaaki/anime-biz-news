@@ -17,367 +17,6 @@
   "confidence": "高",
   "reason": "ゲームIPの実写映画化作品『Resident Evil』の初週末興行成績（プレビュー$8.8M、予想$40-50M）と批評スコア（RT91%）を報道する記事。映像作品のBox officeニュースとして、非アニメでもコンテンツ×ビジネスの分野に該当。",
   "ts": 1789750840.2240698,
-  "is_new": true,
-  "updated": true
- },
- {
-  "url": "https://deadline.com/2026/09/indie-films-opening-the-weight-history-of-concrete-aardman-1237108082/",
-  "title": "John Wilson Lays Down ‘The History of Concrete’ With ‘The Weight’, ‘Shaun The Sheep’ In Packed Indie Weekend – Specialty Preview",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Fri, 18 Sep 2026 23:15:00 +0000",
-  "published_ts": 1789773300,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "『Shaun the Sheep: The Beast of Mossy Bottom』を含む週末興行成績や各作品の公開スクリーン数・興行予測をまとめた記事。アニメーション作品（Shaun the Sheep）の新規興行データが主題であり、コンテンツ×ビジネス（Box office数字）に該当する。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53NFVyM2c1bDNKQWZHMWF3bExPeXo0dEp2dG92LWlydkNqM201LW9pX1dBclAtNERtS3hzSXpBVWNTbE93dWJNbmJLamVyOFVyX3YyNzROZERFaVA3TUI4TE1sQ3Fsb2Z1QmhrSThpZjFwVXUwcWpoZGZLV2ZBRjA?oc=5",
-  "title": "映画名探偵プリキュア！＞公開初日に興収1億円突破 シリーズ初の快挙 最高のスタート（MANTANWEB） - Yahoo!ニュース",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Sat, 19 Sep 2026 02:43:00 GMT",
-  "published_ts": 1789785780,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "プリキュアの劇場版アニメ映画が公開初日に興収1億円を突破したという新規の興行成績数字が主題であり、アニメ・コンテンツと興行ビジネスの両分野に該当する。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DT1gxcTBBZHpzenNDRHE3aXI1bzRiZEZ0TjRBS3RtRjBKQzNPNmdPOW1FWEptQXVySlQwdTFURWh2WUtVdngyS0x4aHhsaEhGcFJGZDZUYVhnUGUyazUzYUN1RVpRT3hYYXc?oc=5",
-  "title": "生成AIで、アニメ制作を効率化。プエンテ「AI Anime Factory」、企画から映像化まで最短1週間・従来コストの1/3〜1/2以下で提供開始 - PR TIMES",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 18 Sep 2026 17:57:06 GMT",
-  "published_ts": 1789754226,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ制作に生成AIを導入して制作時間・コストを削減するサービス開始で、コンテンツ×AI×ビジネス（費用・効率化の数字）の3分野が揃う。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/09/patricia-glaser-nina-west-honored-1237107005/",
-  "title": "Deadline’s L.A. Law Summit: Nina Shaw & Patricia Glaser Honored On Day Of Big Ideas, Big Insights; Watch The Video Presentations",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sat, 19 Sep 2026 02:17:31 +0000",
-  "published_ts": 1789784251,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "ハリウッド法律サミットの開催報告で、IP・M&A・クリエイター経済・AIなどのパネルテーマが複数あり、AIへの言及も含まれるが、記事の実質的な主題は業界人士の表彰式・イベント開催報告そのものであり、AI分析や具体的なビジネス数字・施策が薄く、またコンテンツとの結びつきも背景的。イベント報告として対象外に該当する可能性があるが、業界全体を扱う規模の会合であり、判定に確信がないためグレー。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/artificial-intelligence/disney-karandeep-anand-chief-technology-officer-266827.html",
-  "title": "Disney Appoints AI Evangelist Karandeep Anand As Its First Chief Technology Officer",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 18 Sep 2026 17:55:52 +0000",
-  "published_ts": 1789754152,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Disneyが生成AI企業Character.AIの幹部をAI専任の最高技術責任者に任命する人事ニュース。メジャーコンテンツ企業の経営層によるAI戦略の重要な動きであり、コンテンツ×AI×ビジネス（経営体制）の3分野が揃う。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1TVkVQcUFuYzBnTE1wYWZuaV9vOHAxa040NktxNzVSdW8xdENzU1dSOHZtT1BIT0dLYW9oUHVFd0FuenJRSVE?oc=5",
-  "title": "生成AIでアニメ制作が激変！最短1週間・低コストで映像化 - Koubo",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 18 Sep 2026 18:07:26 GMT",
-  "published_ts": 1789754846,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ制作（コンテンツ）における生成AI活用（AI）による制作効率化・コスト削減（ビジネス）が主題で、3分野すべてが揃う最優先対象。タイトルから生成AIによる制作プロセス変革の具体的なインパクト（制作期間短縮・低コスト化）が記事の中心と判断される。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/09/heart-eyes-2-crawl-2-release-dates-1237107823/",
-  "title": "Paramount’s ‘Crawl 2’ Sets Summer 2027 Release, ‘Heart Eyes 2’ Going A Week Earlier In 2028",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Fri, 18 Sep 2026 19:00:00 +0000",
-  "published_ts": 1789758000,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Paramountの実写映画『Crawl 2』と『Heart Eyes 2』の公開日変更・確定がビジネスニュースとして報道されており、興行スケジュールの戦略的な配置（競合作品との関係性を含む）が主題。ただし非アニメの実写映画であり、コンテンツ×ビジネスのみの該当で、AIは無関係のため。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/timlammers/2026/09/18/why-the-resident-evil-streaming-release-will-follow-sony-pictures-pvod-strategy/",
-  "title": "Why The ‘Resident Evil’ Streaming Release Will Follow Sony Pictures’ PVOD Strategy",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)"
-  ],
-  "published": "Fri, 18 Sep 2026 20:46:15 -0400",
-  "published_ts": 1789778775,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "ゲームIPの映画化作品（コンテンツ）について、ソニー・ピクチャーズのPVOD戦略に基づくストリーミング配信のタイミング（ビジネス）を扱う記事。配信戦略は映画会社の経営判断に該当するため対象だが、具体的な配信時期や契約金額などの新たな数字が本文に示されているかは確認が必要。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MbXZMYnY4NzhnVXl4TnpaUlREN3dKS2xvNHFHcGhuVmdCWEVaNXNoeS1fWDRvQ29BUGlLZ1FJbERkanfSAUhBVV95cUxNYTVRVFM1X2dseGN1aXR5TFYtTWtZMXE5dVI3NWJHaFhLazNSaENZNjlOXzh3OGhxUmdZY0wzbk5Fay1lOG1HYXM?oc=5",
-  "title": "生成AIで、アニメ制作を効率化。プエンテ「AI Anime Factory」、企画から映像化まで最短1週 - エンタメラッシュ",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Fri, 18 Sep 2026 18:30:46 GMT",
-  "published_ts": 1789756246,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ制作にAI技術を活用して効率化・高速化する新サービス「AI Anime Factory」の発表で、コンテンツ（アニメ制作）、AI（生成AI活用）、ビジネス（新サービス/新規ソリューション展開）の3分野が揃う最優先案件。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/paramount-california-ag-bonta-advanced-talks-settle-antitrust-suit-1236867326/",
-  "title": "Paramount and California AG Bonta Reportedly in ‘Advanced Talks’ to Settle Antitrust Suit",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 18 Sep 2026 22:43:27 +0000",
-  "published_ts": 1789771407,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ParamountとWarner Bros.の大型M&Aをめぐる独禁訴訟の和解交渉の続報。業界地図が変わる規模のメジャースタジオ統合事件であり、実写中心でもコンテンツ産業の経営・取引が主題のため対象。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/09/visionquest-creator-no-gen-ai-was-used-making-show-1237108242/",
-  "title": "‘VisionQuest’ Creator Terry Matalas Says No GenAI Was Used In Making Of Show: “There Hasn’t Really Been A Need”",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sat, 19 Sep 2026 00:40:52 +0000",
-  "published_ts": 1789778452,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "Marvel配信シリーズ『VisionQuest』の制作におけるGenAI未使用の確認は、映像コンテンツ×AIの交点だが、記事の主要素は制作発表（GenAIを使わなかったという否定的な事実確認）であり、ビジネスの実質（契約金額・決算・市場影響）が薄く、AI技術の活用や権利問題を掘り下げるものでもないため、対象判定に確度が低い。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/205745",
-  "title": "ゲームショウに異変、中国ゲーム企業が大幅減少…大型ブースほぼ見かけず　日中関係悪化や会期など影響か",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Fri, 18 Sep 2026 21:05:46 +0000",
-  "published_ts": 1789765546,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゲーム業界の大型イベント（東京ゲームショウ）における中国企業の出展戦略の大幅な変化と、その背景にある日中関係・市場動向を報道する記事。ゲーム産業（コアなコンテンツ分野）の国際ビジネス動向が主題であり、出展企業数の減少・ブース規模の縮小といった具体的な経営判断が報じられているため、コンテンツ＋ビジネスで対象。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/09/paramount-antitrust-lawsuit-negotiations-1237108152/",
-  "title": "Paramount And State AGs Begin Preliminary Talks Ahead Of October Settlement Meetings",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Fri, 18 Sep 2026 23:44:12 +0000",
-  "published_ts": 1789775052,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ParamountとWarner Bros. Discoveryの大型M&A合併をめぐる独占禁止訴訟の続報であり、メジャースタジオ統合の和解交渉動向という業界地図を左右する構造ニュースため、実写中心でもコンテンツ×ビジネス2分野で対象に該当する。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Cd1IxX3NrQ0hPUGoyMEh1ZHJJVGVQUVhOM1JXRmFOakFlM0JkMGZrdTVGWW9LTHV1X3dqTzdEaWtmZjNRTTlBcWNvTUpjSUNNRGNseTVRLWk3Z05xVzhoTnJ1Q0JmQmRfU3Mw?oc=5",
-  "title": "映画名探偵プリキュア！：初日興収1億円突破のロケットスタート 鬼頭明里「全人類におすすめできる」 - Mantan Web",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Sat, 19 Sep 2026 03:44:20 GMT",
-  "published_ts": 1789789460,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "プリキュアという人気アニメIPの劇場版が初日に1億円を突破した新規興行数字が主題であり、コンテンツとビジネスの両要素を備えている。声優コメントは付随的。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.newsweekjapan.jp/articles/-/334191",
-  "title": "映画前売り券の「プレミア化」が止まらない…それでも映画業界は「転売」対策の意欲なし？ ナディラ・ゴフ（スレート誌カルチャー担当）",
-  "source": "Newsweek日本版",
-  "sources": [
-   "Newsweek日本版"
-  ],
-  "published": "2026-09-19T13:10:00+09:00",
-  "published_ts": 1789791000.0,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "映画チケットの転売・プレミア化という映画業界のビジネス問題を掘り下げており、『デューン』『オデュッセイア』などコンテンツの興行に関わる実態を分析した記事。興行成績の数字そのものではなく業界の構造的課題を論じているため「深掘り」で、コンテンツ×ビジネスの両立で「対象」。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/tv/news/sweet-magnolias-canceled-netflix-ladies-of-the-house-1236867314/",
-  "title": "‘Sweet Magnolias’ Canceled at Netflix as Sheryl J. Anderson and JoAnna Garcia Swisher Set New Series ‘Ladies of the House’",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 18 Sep 2026 22:18:31 +0000",
-  "published_ts": 1789769911,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Netflixでのドラマシリーズのキャンセルと新規制作発注は配信プラットフォームの番組構成戦略とコンテンツ投資の実質的な変化を示すビジネスニュースであり、配信ビジネスの取引・戦略転換が主題であるため。",
-  "ts": 1789795096.1442041,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/feature/book-to-movie-adaptations-1236035322/",
-  "title": "Book-To-Movie Adaptations Coming Out In 2026",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Fri, 18 Sep 2026 22:54:39 +0000",
-  "published_ts": 1789772079,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "複数の映画化作品の2026年公開スケジュール一覧であり、映画化・配信・興行に関する情報が主題。ただしBox office実績数字や契約金額などの経営数字は無く、ビジネス要素は公開予定日・配信先（Netflix、Prime Video等）の告知に限定されるため、同等の「映像作品の配信配給スケジュール情報」として対象に分類。",
-  "ts": 1789795096.1442041,
   "is_new": false,
   "updated": false
  },
@@ -613,27 +252,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lT0xCRlRjZHJhbjk3eVQwaDNnRG12TENWLUw3RWdBS3pBSER0cmk3a2lmQ2hJY0lPeVVrT0tiMjJwNENhaUxFUnAzelB0ZXc4MFRaTXJodDlncXpYd2gzMlRGLXZEaWVRQ1pr?oc=5",
-  "title": "映画名探偵プリキュア！：公開初日に興収1億円突破 シリーズ初の快挙 最高のスタート - Mantan Web",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Sat, 19 Sep 2026 02:44:19 GMT",
-  "published_ts": 1789785859,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "プリキュアシリーズの劇場版が公開初日に興収1億円を突破したという新たに判明した興行成績の数字ニュースであり、コンテンツ(アニメ映画)とビジネス(Box office実績)の両分野が主題であるため対象。",
-  "ts": 1789837238.523108,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/film/news/mark-ruffalo-rob-bonta-dont-settle-lawsuit-paramount-1236869774/",
   "title": "Mark Ruffalo Tells Rob Bonta ‘Don’t You Dare’ Settle the Antitrust Lawsuit Against Paramount: ‘Do Not Cave’",
   "source": "Variety",
@@ -840,7 +458,8 @@
   "confidence": "中",
   "reason": "スペインの配信プラットフォーム Movistar Plus が2027年のコンテンツスレートを発表し、複数のドラマシリーズ・映画製作を予定するというビジネス戦略発表であり、映像コンテンツ企業の経営施策として該当する。ただし AI は主題に含まれず、興行数字も無いため中程度の確度である。",
   "ts": 1789923643.512836,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/09/box-office-global-resident-evil-1237108765/",
@@ -860,7 +479,8 @@
   "confidence": "高",
   "reason": "実写映画『Resident Evil』の初週末興行成績$108.3M(世界規模)を報じており、Box officeの新規数字が主題。非アニメ実写映画だが、興行成績の報道は対象に該当。",
   "ts": 1789923643.512836,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/global/movistar-plus-fernando-leon-j-a-bayona-paco-leon-1236870282/",
@@ -880,7 +500,8 @@
   "confidence": "高",
   "reason": "スペインのストリーミングプラットフォームMovistar Plusが新体制下で発表した映画・TV制作スレート（複数プロジェクト、投資・制作戦略、年間制作数の増加計画）が主題であり、コンテンツ（映像制作）とビジネス（企業戦略・制作投資）の2分野に該当する。AIは関与していない。",
   "ts": 1789923643.512836,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/205942",
@@ -900,7 +521,8 @@
   "confidence": "高",
   "reason": "東京ゲームショウはゲーム業界の主要イベントであり、出展社数・来場者数などの産業規模データが主題となっているため、コンテンツ＋ビジネスに該当。台風による会期短縮という実績変化と来場者数の集計が記事の中心。",
   "ts": 1789923643.512836,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/carolinereid/2026/09/20/harry-potter-lands-in-abu-dhabi-will-make-visitors-part-of-the-story/",
@@ -920,27 +542,387 @@
   "confidence": "高",
   "reason": "Harry Potter IPの大型テーマパーク進出（Abu Dhabi）は、コンテンツビジネスの重要な展開であり、ライセンスビジネス・市場進出戦略として対象。ただし、記事が施設内容の紹介に留まり具体的な契約金額や投資額の数字が明記されていない可能性があるため、ビジネスの実質性は中程度。",
   "ts": 1789923643.512836,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hNVFUUzVfZ2x4Y3VpdHlMVi1Na1kxcTl1Ujc1YkdoWEtrM1JoQ1k2OU5fOHc4aHFSZ1ljTDNuTkVrLWU4bUdhc9IBSEFVX3lxTE1hNVFUUzVfZ2x4Y3VpdHlMVi1Na1kxcTl1Ujc1YkdoWEtrM1JoQ1k2OU5fOHc4aHFSZ1ljTDNuTkVrLWU4bUdhcw?oc=5",
-  "title": "生成AIで、アニメ制作を効率化。プエンテ「AI Anime Factory」、企画から映像化まで最短1週 - エンタメラッシュ",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "url": "https://variety.com/2026/film/box-office/resident-evil-box-office-zach-cregger-reboot-opening-weekend-record-breaking-1236867659/",
+  "title": "Box Office: ‘Resident Evil’ Breaks Franchise Records With $60 Million Opening Weekend",
+  "source": "Variety(Box Office)",
   "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
+   "Variety(Box Office)"
   ],
-  "published": "Fri, 18 Sep 2026 18:50:08 GMT",
-  "published_ts": 1789757408,
+  "published": "Sun, 20 Sep 2026 14:42:27 +0000",
+  "published_ts": 1789915347,
   "themes": [
    "コンテンツ",
-   "AI",
    "ビジネス"
   ],
   "type": "速報",
   "label": "対象",
   "confidence": "高",
-  "reason": "生成AIを使ったアニメ制作の効率化・高速化という、コンテンツ（アニメ）とAI技術が両立し、企画から映像化までの時間短縮はビジネス効率性に関わるため、3分野が揃う最優先対象。",
-  "ts": 1789923643.512836,
+  "reason": "ゲームIPを題材にした実写映画『Resident Evil』の初週末興行成績（6000万ドル）が新規に判明した実績値であり、業界の興行ニュースとして対象。コンテンツ（映画）とビジネス（Box Office数字）の2分野が主題である。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/indie-film-box-office-john-wilson-the-history-of-concrete-1237108942/",
+  "title": "‘History Of Concrete’ Rocks IFC Center As ‘Daniel And The Fiery Furnace’ Brings Biblical Heat To Top 10 — Specialty Box Office",
+  "source": "Deadline(Box Office)",
+  "sources": [
+   "Deadline(Box Office)"
+  ],
+  "published": "Sun, 20 Sep 2026 21:00:00 +0000",
+  "published_ts": 1789938000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ドキュメンタリー映画の初週末興行収入（90k）と複数の映画の興行成績数字が主題。映像作品の興行ランキング・Box office実績の報道であり、コンテンツ+ビジネス（数字）が明確に該当する。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ya2VpbDF0RjBqV1hKZ1N2YS0yYlhXNDR2Y0dFeWhVVTdJTmRZZ2J1a0s1ZWRjTE85R0V0Y21SRXV0aUpUOXI4bWVhelU1a3c?oc=5",
+  "title": "映画『名探偵プリキュア！』シリーズ歴代最高のスタート 3日間で興収4.4億円＆動員35.7万人 - オリコンニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Mon, 21 Sep 2026 01:59:00 GMT",
+  "published_ts": 1789955940,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画の新作初週末興行成績（3日間4.4億円）という新規実績数字が主題であり、コンテンツ＋ビジネスの要件を満たす。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/korea-box-office-the-intern-odyssey-1236870836/",
+  "title": "Korea Box Office: Local Comedy Remake ‘The Intern’ Leads Weekend Admissions as ‘The Odyssey’ Retains Revenue Crown",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 21 Sep 2026 04:45:56 +0000",
+  "published_ts": 1789965956,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "韓国の週末興行ランキングと複数作品の興行収入・動員数の実績値を報道する速報記事。アニメ作品（Chiikawa、The Girl Who Leapt Through Time、Digimon Adventure）を含む興行成績の数字が主題であり、コンテンツ×ビジネスの組み合わせで対象。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/paramount-settlement-latest-opposition-bonta-1237109024/",
+  "title": "Paramount Settlement Talks Prospects Dim For Now As Gang Of Four AGs Resist Quick Ellison Deal",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 21 Sep 2026 02:43:07 +0000",
+  "published_ts": 1789958587,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ParamountとWarner Bros. Discoveryの大型M&A（111億ドル）に関わる独占禁止訴訟の和解交渉の最新動向を報じており、メジャースタジオ統合をめぐる規制当局との交渉・裁判が業界全体を揺るがす大型構造ニュースであるため、実写中心であってもコンテンツ+ビジネスとして対象。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/backrooms-box-office-milestone-400-million-1236870141/",
+  "title": "‘Backrooms’ Surpasses $400 Million at Global Box Office",
+  "source": "Variety(Box Office)",
+  "sources": [
+   "Variety(Box Office)"
+  ],
+  "published": "Sun, 20 Sep 2026 14:20:44 +0000",
+  "published_ts": 1789914044,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画『Backrooms』が世界興行収入4億ドルを超えたというBox office実績値の報道であり、低予算インディー作品の成功事例としての業界インパクト（A24がメジャースタジオを凌ぎ、若き才能の台頭を示す）が主題。コンテンツ＋ビジネスの組み合わせで対象。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/205998",
+  "title": "映画『聲の形』10周年に再上映　口コミ伸長で当時の興行収入23億円、Dolby Cinemaで初上映へ",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Mon, 21 Sep 2026 03:23:03 +0000",
+  "published_ts": 1789960983,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画『聲の形』の再上映は、当時の興行収入23億円という実績値が新たに記事で言及されており、また映画館での再公開というコンテンツの施策とそれに伴う興行ビジネス（チケット販売等）が主題であるため、コンテンツ＋ビジネスで対象とした。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZYm5mZy1DYVk1ZW0wTm00d003UkxEVlZTZXc5YkNIRGZsSE4zbzF6YlE0LXV2YXdIczNxbENjM0hIUWpaejdlWWN2eS1hd29qVUliNGdjaTd0aENZNlJIN1FaSldLUnJkRWRiZUJ2endsLUdVYmhXNHJaaHdSVmM?oc=5",
+  "title": "映画名探偵プリキュア！＞シリーズ史上最高のロケットスタート 公開3日で興収4.4億円突破 35.7万人動員 「オールスターズF」超え（MANTANWEB） - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Mon, 21 Sep 2026 02:44:00 GMT",
+  "published_ts": 1789958640,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画（プリキュア）の新規公開3日間の興行成績（興収4.4億円、動員35.7万人）が主題であり、シリーズ比較の数字ニュースとしてコンテンツ＋ビジネスが両立する。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-09-20/japan-video-game-rankings-september-7-13/.241937",
+  "title": "Japan's Video Game Rankings, September 7-13",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Sun, 20 Sep 2026 14:15:00 -0400",
+  "published_ts": 1789928100,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ゲーム（IPとしてのコンテンツ）の売上ランキングという週次の販売実績数字であり、ビジネス面の市場データに該当。ただし記事本体が見出しのみで本文が不明なため、具体的な売上数字や分析の有無で確信度は中とした。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/205993",
+  "title": "コジマプロダクション、プレステとの関係は「引き続き強固」新作開発の“SIEから突然キャンセル”めぐる憶測に声明",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Sun, 20 Sep 2026 21:00:33 +0000",
+  "published_ts": 1789938033,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム開発企業の資金調達・パブリッシング契約変更（SIEからXboxへ）という経営・取引の大きな変化が主題であり、またゲーム（コンテンツ）のビジネス側面（予算・商業性・契約）が核となっているため、コンテンツ+ビジネスで対象。AI要素は無い。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TaVlTMEFzbko0Qmtsd1lNWTgtdTlwdGY3ZlBWV2lYNjZwdjVSV283eDg1Yms2VmN0a2dHN0tVMGZfSlVkYXk4eHhNRWdwRkFibHBZdXNkaFQ3Mzd6YmstY2EtQQ?oc=5",
+  "title": "【アニメ制作にAI導入の波】人手不足の救世主？人間を淘汰？『1枚30分』→『200枚を10～20分』歴46年のアニメーターは「私の仕事がなくなっても全て許容しなければ」 | MBSニュース | 関西の最新ニュースを分かりやすく。 (6ページ) - TBS NEWS DIG",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Sat, 19 Sep 2026 18:29:38 GMT",
+  "published_ts": 1789842578,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ制作へのAI導入の実態と影響を、ベテランアニメーターの証言を交えて掘り下げた記事。コンテンツ（アニメ制作）とAI（生成AI・自動化技術）の両分野が主題であり、業界の構造的な変化を論じているため対象。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/tv/news/john-oliver-david-ellison-larry-ellison-last-week-tonight-1236870834/",
+  "title": "John Oliver Takes Swipe at David Ellison and His ‘Business Daddy’ Larry Ellison on ‘Last Week Tonight’",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 21 Sep 2026 03:42:56 +0000",
+  "published_ts": 1789962176,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "SkydanceによるWarner Bros. Discovery買収という業界を揺るがす大型M&Aがテレビ番組内で取り上げられた報道。コンテンツ(HBO・Last Week Tonight)とビジネス(1100億ドル超の買収案件)が実質的に主題で、最優先の対象案件に関する続報である。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53UDR1M1FSWEdXdjNuazJlSTVGN19aY2IyRkR5U2drNlhZaDRNSmRqQjQtZEt4MnU5M2stZDVRQndfckNvWUlqajB5ZUF1RlFwNWp6ZUI5OGtqZVVocUdqYVJ1ZGdnYlZWa2Rz?oc=5",
+  "title": "『映画名探偵プリキュア！』公開3日間で興収4.4億円、上北ふたご描き下ろしイラスト到着 - アニメイトタイムズ",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Mon, 21 Sep 2026 03:40:00 GMT",
+  "published_ts": 1789962000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "プリキュア劇場版の公開3日間の興行収入4.4億円は新規に判明した実績値であり、非アニメではない漫画/IPベースの劇場版興収データは対象。描き下ろしイラストは添え物で主題は興行成績。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://www.newsweekjapan.jp/articles/-/334294",
+  "title": "大人も子供も夢中になる「ちいかわ」…大ヒットの秘密は「ファン」にあった？ 数土直志",
+  "source": "Newsweek日本版",
+  "sources": [
+   "Newsweek日本版"
+  ],
+  "published": "2026-09-21T11:55:00+09:00",
+  "published_ts": 1789959300.0,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画『ちいかわ』の興行成績（110億円）が主題で、ビジネス的な数字（興行収入、キャラクター大賞、グッズ成功）と作品のメディアミックス展開が中心。ファン心理の分析を交えた深掘り記事であり、新規に判明した実績値の解説がビジネス軸。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-all-wishes-come-true-1236870720/",
+  "title": "China Box Office: ‘Once Upon a Time in the Middle East’ Secures Sixth Weekend at No. 1 in Sluggish Frame",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 21 Sep 2026 02:38:58 +0000",
+  "published_ts": 1789958338,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "中国の週末興行成績とBOX OFFICEの具体的な数字（各作品の週末興収・累計興収）が報道の中心であり、実写映画の興行成績ニュースとして対象に該当する。アニメ作品『All Wishes Come True!』も含まれており、コンテンツ×ビジネスの軸を満たしている。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/",
+  "title": "Jessica Chastain Thriller ‘The Savant’ Getting 2027 Release On Apple TV After Year On Hold",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 20 Sep 2026 19:00:39 +0000",
+  "published_ts": 1789930839,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Apple TVの配信作品（コンテンツ）の放映延期から1年後の公開日決定（ビジネス：配信プラットフォームの戦略決定）であり、コンテンツ+ビジネスを満たすため対象。AIは関連しない。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/paramount-states-settlement-talks-pause-ags-push-stronger-concessions-1236870608/",
+  "title": "Paramount Settlement Talks With Stares Progress but Some AGs Push for Tougher Terms",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 21 Sep 2026 01:38:08 +0000",
+  "published_ts": 1789954688,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "メジャースタジオ（Paramount・Warner Bros. Discovery）の大型M&Aをめぐる独禁訴訟の和解交渉の最新動向であり、業界の地図が変わる継続的な構造ニュースで、実写中心でもアニメ語が無くても対象。米12州との訴訟・和解条件の交渉進捗を報道する速報性の高い記事。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/scene/news/charlize-theron-the-odyssey-box-office-fast-forever-ctaop-block-party-1236870422/",
+  "title": "Charlize Theron on ‘The Odyssey’ Becoming Universal’s Highest-Grossing Movie and Raising Millions to Fight Femicide in Africa With CTAOP",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 21 Sep 2026 01:09:52 +0000",
+  "published_ts": 1789952992,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "『The Odyssey』がUniversal Picturesの歴史最高興行収入（16.8億ドル）を達成した実績値が記事の主題であり、映像コンテンツ＋ビジネス（Box office数字）の組み合わせで対象。Charlize Theronへのインタビューや慈善団体の話は付随的。",
+  "ts": 1789966842.397572,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWd0RjJSLW5iXy03RkNCMDd2RXJmZEFIS3N6TGlpZThyRlZsLUFaNTN4TFpYVUk1UVNaSjhWc0lpWlZsbm03VXRmZ01SWmtwLUNLb3pwb21LMVFWTXZiaTd0MlItM1lLallCbGtzbGNObDhZV1k5Nlg4ZzZQZU9nTUpsc3VmR25lNTdqMHl1NHlKM09zVlY2Q2JUZklVMW1PYVpjXzctZ291c2xuZXVGWg?oc=5",
+  "title": "‘Practical Magic 2’ Is a Gamble on the Power of Cult Movies - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com/opinion)",
+  "sources": [
+   "Googleニュース(bloomberg.com/opinion)"
+  ],
+  "published": "Sat, 19 Sep 2026 12:00:24 GMT",
+  "published_ts": 1789819224,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "実写映画『Practical Magic 2』の制作・興行について分析する記事で、カルト映画の商業的価値や映画ビジネスの戦略が主題。実写映画でもBox office・興行ビジネスの実質が扱われており、また映像業界全体の構造（続編企画の経営判断）に関わるため対象。ただし本文が短く、具体的な数字や契約内容が不明な点で信頼度は中程度。",
+  "ts": 1789966842.397572,
   "is_new": true
  }
 ]
