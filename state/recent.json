@@ -21,216 +21,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwUXRHMGF6X2ktSWktcGE4Q1ZVVThIZ0NrUWtMd0ROUUdtSHYtLVFQU0ZXRWxKa0M4REN0WDgtakZwdTBCdnZybWRJZ3ZFdw?oc=5",
-  "title": "【映画たんプリ】シリーズ初の興収20億円を見込む“はなまるビッグ”なスタートに！ 『映画名探偵プリキュア！』キャスト陣がお気に入りのセリフを披露した公開記念舞台挨拶レポート到着 - PASH! PLUS",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Sat, 19 Sep 2026 18:54:39 GMT",
-  "published_ts": 1789844079,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ映画の新作興行成績（興収20億円見込み）が主題の数字ニュースであり、舞台挨拶はそれに付随する情報であるため、コンテンツ+ビジネスで対象。",
-  "ts": 1789837238.523108,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/mark-ruffalo-rob-bonta-dont-settle-lawsuit-paramount-1236869774/",
-  "title": "Mark Ruffalo Tells Rob Bonta ‘Don’t You Dare’ Settle the Antitrust Lawsuit Against Paramount: ‘Do Not Cave’",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sun, 20 Sep 2026 01:24:48 +0000",
-  "published_ts": 1789867488,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "大手メディア企業（Paramount Skydance とWarner Bros. Discovery）の買収をめぐる独禁訴訟の続報であり、州検事総長との和解交渉という業界の地図が変わる大型M&Aの進展ニュースため、非アニメの映像であってもコンテンツ+ビジネスで対象。",
-  "ts": 1789886804.725139,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/paultassi/2026/09/19/ride-or-die-cancelled-by-amazon-despite-being-a-critical-and-ratings-hit/",
-  "title": "The Mystery Of Why ‘Ride Or Die’ Was Cancelled Despite Being A Ratings Hit",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)"
-  ],
-  "published": "Sat, 19 Sep 2026 21:27:28 -0400",
-  "published_ts": 1789867648,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写作品だが、Amazonの配信戦略の転換（キャンセル決定）という業界全体に関わるビジネス動向で、配信プラットフォームの経営判断が主題であり、映像産業の重要なニュースのため対象。",
-  "ts": 1789886804.725139,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NWGZjSFU3RWp2WjVRd3dHMkxUQlFGdWxoQUNxRmNOb2NVaHhvQXY4d1R4V0xkaUltdGJQR2JvMkpyY0h4djFtR0c0U2VGNy1zU25YdTcyVjRTVVpfaS04?oc=5",
-  "title": "“魔女狩り” に遭ったレベルファイブ、生成AIで “焼かれない” ためには AIならではの “魔法” を見せた、コロプラや東京シティ競馬の共通点 - AdverTimes.（アドタイ） by 宣伝会議",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Sun, 20 Sep 2026 00:01:44 GMT",
-  "published_ts": 1789862504,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "レベルファイブはゲームIPを主力とするコンテンツ企業であり、生成AIへの対応姿勢が記事の主題。コンテンツ企業がAI時代にどう対応するかの戦略・考察が中心で、深掘り記事と判断。ビジネスの具体的な数字・取引は記事タイトルには見当たらないため、themes はコンテンツ+AI に留める。",
-  "ts": 1789886804.725139,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/09/mark-ruffalo-urges-ag-bonta-do-not-cave-paramount-deal-1237108548/",
-  "title": "Mark Ruffalo Urges AG Bonta “Do Not Cave” On Paramount Deal, Suggests Protest Outside Oakland Office: “The People Don’t Want It!”",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sun, 20 Sep 2026 00:46:27 +0000",
-  "published_ts": 1789865187,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "メジャースタジオ（Paramount、Warner Bros. Discovery）のM&Aをめぐる独禁規制の続報であり、業界の地図が変わる大型案件。実写中心だがコンテンツ業界全体を揺るがすニュースのため対象。AIは記事の主題に含まれていない。",
-  "ts": 1789886804.725139,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhUHd3RUtzMG1CTDF3RGIxY19Xd2pmZVd1SlA5bDVSZ3R3NzNqS090X1F3R2xVS1MzcDE3WGZ3dUl1TU1sVWFzUW1ERnFOS1lwY2t2RVZkblg3UHFu?oc=5",
-  "title": "初日興行収入1億円超え!『名探偵プリキュア!』公開記念舞台挨拶レポート - マイナビニュース",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Sat, 19 Sep 2026 22:10:00 GMT",
-  "published_ts": 1789855800,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "プリキュア劇場版の初日興行収入1億円超という新規に判明した実績数字が主題であり、アニメ映画の興行成績ニュースはコンテンツ＋ビジネスに該当するため対象。舞台挨拶レポートは付随要素。",
-  "ts": 1789886804.725139,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/09/sweet-magnolias-creator-bids-farewell-after-show-ends-1237108545/",
-  "title": "‘Sweet Magnolias’ Creator Bids Farewell To Serenity, S.C. After Netflix Show Ends: “Keep Pouring It Out!”",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sun, 20 Sep 2026 00:09:21 +0000",
-  "published_ts": 1789862961,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写ドラマNetflix作品の打ち切り決定と新作グリーンライトの発表で、配信プラットフォームの戦略転換・プロデューサーとスター女優の新プロジェクト契約といった業界の経営動きが主題のため、コンテンツ+ビジネスに該当。",
-  "ts": 1789886804.725139,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/tv/news/sweet-magnolias-netflix-cancellation-1236869711/",
-  "title": "‘Sweet Magnolias’ Creator Reacts to Netflix Cancellation: ‘I Hope Serenity Will Always Have a Place in Your Heart’",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sat, 19 Sep 2026 21:19:27 +0000",
-  "published_ts": 1789852767,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "Netflixの配信ドラマ『Sweet Magnolias』の打ち切り決定とクリエイター反応、及び新作ドラマ『Ladies of the House』の企画発表という配信プラットフォームの番組戦略・契約に関わるビジネスニュースであり、コンテンツ＋ビジネスに該当するが、数字や契約金額の記載がなく実質的な経営情報が限定的なため確信度は中程度。",
-  "ts": 1789886804.725139,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/09/paramount-settlement-opposition-1237108466/",
-  "title": "Block The Merger & Elizabeth Warren Call Out AGs For Betrayal In Deal Talks With Paramount: “A Win Only For David Ellison”",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sat, 19 Sep 2026 19:22:26 +0000",
-  "published_ts": 1789845746,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ParamountとWarner Bros. Discoveryの大型合併をめぐる独占禁止訴訟の続報で、州司法長官との和解交渉の進捗状況を報じており、業界全体を揺るがすメジャースタジオ統合の経営・法的動向が主題であるため。",
-  "ts": 1789886804.725139,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://animeanime.jp/article/2026/09/20/103091.html",
-  "title": "フリーレンがフェルメールの「真珠の耳飾りの少女」に！100アイテム以上の原画アート商品が集結する「小学館原画アート祭」開催【9月20日より】",
-  "source": "アニメ！アニメ！",
-  "sources": [
-   "アニメ！アニメ！"
-  ],
-  "published": "2026-09-20T00:30:03Z",
-  "published_ts": 1789864203,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "漫画IP（葬送のフリーレン、BANANA FISH）の原画商品販売イベントとして、コンテンツが主軸であり、ポップアップショップ開催、越境EC展開、商品販売という版権ビジネス（ライセンス商品の販売チャネル拡大）が主題。ただし記事の焦点は事実上「イベント告知・商品販売告知」であり、売上実績や企業の業績数字が無いため信頼度は中程度。",
-  "ts": 1789886804.725139,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/09/movistar-plus-2027-slate-ja-bayona-san-sebastian-1237108799/",
   "title": "Movistar Plus Announces 2027 Slate, Including JA Bayona & Fernando León Projects, At San Sebastián",
   "source": "Deadline",
@@ -253,13 +43,13 @@
  },
  {
   "url": "https://deadline.com/2026/09/box-office-global-resident-evil-1237108765/",
-  "title": "‘Resident Evil’ Breaks Franchise Opening Records & Even Some Cumes With $108.3M WW; Also Zach Cregger’s Highest – Global Box Office",
+  "title": "‘Resident Evil’ $108.3M WW Opening A Record For Franchise & Zach Cregger, ‘Coyote Vs. Acme’ Nears $100M WW – Global Box Office Update",
   "source": "Deadline(Box Office)",
   "sources": [
    "Deadline(Box Office)"
   ],
-  "published": "Sun, 20 Sep 2026 16:45:40 +0000",
-  "published_ts": 1789922740,
+  "published": "Tue, 22 Sep 2026 03:00:00 +0000",
+  "published_ts": 1790046000,
   "themes": [
    "コンテンツ",
    "ビジネス"
@@ -269,8 +59,8 @@
   "confidence": "高",
   "reason": "実写映画『Resident Evil』の初週末興行成績$108.3M(世界規模)を報じており、Box officeの新規数字が主題。非アニメ実写映画だが、興行成績の報道は対象に該当。",
   "ts": 1789923643.512836,
-  "is_new": false,
-  "updated": false
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "https://variety.com/2026/film/global/movistar-plus-fernando-leon-j-a-bayona-paco-leon-1236870282/",
@@ -546,27 +336,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TaVlTMEFzbko0Qmtsd1lNWTgtdTlwdGY3ZlBWV2lYNjZwdjVSV283eDg1Yms2VmN0a2dHN0tVMGZfSlVkYXk4eHhNRWdwRkFibHBZdXNkaFQ3Mzd6YmstY2EtQQ?oc=5",
-  "title": "【アニメ制作にAI導入の波】人手不足の救世主？人間を淘汰？『1枚30分』→『200枚を10～20分』歴46年のアニメーターは「私の仕事がなくなっても全て許容しなければ」 | MBSニュース | 関西の最新ニュースを分かりやすく。 (6ページ) - TBS NEWS DIG",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Sat, 19 Sep 2026 18:29:38 GMT",
-  "published_ts": 1789842578,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ制作へのAI導入の実態と影響を、ベテランアニメーターの証言を交えて掘り下げた記事。コンテンツ（アニメ制作）とAI（生成AI・自動化技術）の両分野が主題であり、業界の構造的な変化を論じているため対象。",
-  "ts": 1789966842.397572,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/tv/news/john-oliver-david-ellison-larry-ellison-last-week-tonight-1236870834/",
   "title": "John Oliver Takes Swipe at David Ellison and His ‘Business Daddy’ Larry Ellison on ‘Last Week Tonight’",
   "source": "Variety",
@@ -732,7 +501,8 @@
   "confidence": "高",
   "reason": "アニメ映画の新たな興行収入実績値150億円突破が主題であり、コンテンツ（映画/アニメ）とビジネス（興行成績の数字）の両分野に該当する。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUjBwWVN5MlBPTGFuTlVFdXhsdVQzbkNXRWxyT3l2NF8zUDJvRFV1R3lTNnhycm9pbVJKenRVWklXcE8wRUxFbjVua1JZdEdMNXpiN3dxbXN5MGx6OGFhczZZa3N2UVFSMERuaEtLS1RrRG9KZ0hPUGtiZWZlbmZhLUZlQ3Zmc3k0eXJJUWF5bk9ab2FDSXk5dHhTVWJjdkRNQWIwczY2dS1OVXRKM3JBajBZZFJRQVc2dmxXcGd4bUR6Nkd3cWVyM1J0eEI3RlFfM25n?oc=5",
@@ -752,7 +522,8 @@
   "confidence": "高",
   "reason": "実写映画の初週末興行成績（US$60 Million）が主題で、Box officeの新たに判明した数字ニュースであり、ビジネス（興行収入）に該当する。ゲームIPのコンテンツ化であり、非アニメでも興行数字は拾う対象。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-09-21/1st-2-lufia-snes-rpgs-get-collection-in-2027/.242046",
@@ -772,7 +543,8 @@
   "confidence": "高",
   "reason": "ゲームIP（Lufia）の旧作2タイトルがマルチプラットフォームで2027年に発売される経営・事業の発表であり、コンテンツ＋ビジネスが明確に該当する。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUnVUQ19GbHVZS1d1QkZDSl9JYmVheVR0VFh3V21qUURDMFJRT2JUbzZiNU05dUxUbWQ2MFdUc194VV9hd2U0U2F2VGQxSlgya0xfLW1obEx0WDJC?oc=5",
@@ -792,7 +564,8 @@
   "confidence": "高",
   "reason": "アニメ映画『ちいかわ』の興行収入158.4億円は新たに判明した実績値であり、2026年公開作1位という具体的な数字ニュースとしてビジネス（興行ビジネス）に該当するため、コンテンツ＋ビジネスで対象。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/09/rob-bonta-ca-ag-news-conference-livestream-paramount-1237109271/",
@@ -812,7 +585,8 @@
   "confidence": "高",
   "reason": "ParamountとWarner Bros. Discoveryの$111億ドル合併をめぐる州司法長官の和解発表であり、メジャースタジオ統合の独禁訴訟続報として業界全体を揺るがす大型構造ニュースに該当する。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/box-office-report/transformers-coyote-vs-acme-shaun-the-sheep-266859.html",
@@ -832,7 +606,8 @@
   "confidence": "高",
   "reason": "アニメーション映画（Coyote vs. Acme、Shaun the Sheep、Transformers）の興行成績（Box office）の実績値が主題であり、コンテンツ＋ビジネスの2分野が揃う。新規に判明した複数作品の週末興行数字の報道は拾う対象。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/206079",
@@ -852,7 +627,8 @@
   "confidence": "中",
   "reason": "アニメ完結の事実報道(コンテンツ)と監督の企画秘話が中心だが、続編判断が「制作委員会の収益」「Blu-ray・グッズ・コラボ商品の購入」に左右される旨の言及がビジネス要素として薄く、記事主体は放送終了の告知に近い。続編実現見通しの言及はあるが、決定・数字・経営判断の詳細は不明で、ビジネスの実質的な主題性が微妙。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/rickellis/2026/09/21/report-paramount-state-ags-have-agreed-to-settlement-in-merger-lawsuit/",
@@ -872,7 +648,8 @@
   "confidence": "高",
   "reason": "ParamountとSkydanceの合併に関わる州のAG訴訟が和解したという大型M&Aの続報。メジャースタジオ統合をめぐる独禁訴訟の解決であり、映像業界の地図が変わる構造的ニュースのため対象。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/festivals/tokyo-tiffcom-panels-anime-co-production-overseas-sales-266873.html",
@@ -892,7 +669,8 @@
   "confidence": "高",
   "reason": "アニメ産業の海外売上データと国際共同制作戦略がTIFFCOMで発表される業界会議の告知であり、アニメ産業の市場規模・海外展開戦略・国際パートナーシップなどのビジネス動向が主題となっており、コンテンツ×ビジネスの該当条件を満たす。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-09-21/new-resident-evil-reboot-film-opens-at-no.1-at-u.s-box-office-with-usd60-million/.242039",
@@ -912,7 +690,8 @@
   "confidence": "高",
   "reason": "実写映画（ゲームIPの映画化）の初週末興行収入$60百万ドルという新規の数字ニュースが主題であり、コンテンツ×ビジネスの組み合わせで対象。非アニメ実写映画だが、Box officeの興行数字ニュースは拾う条件を満たす。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/09/afm-amc-theatrical-screenings-sales-companies-producers-1237109009/",
@@ -932,7 +711,8 @@
   "confidence": "中",
   "reason": "映画業界の国際映画市場（AFM）とAMC劇場チェーンのパートナーシップ発表で、映画配給・上映のビジネス取引が主題。ただしAIは関係なく、実写映画の配給スケジュール・パートナーシップは非アニメ映像のため、業界全体を揺るがす大型ニュースかどうかが判定の分れ目だが、AFMは国際映画市場として映像業界の重要な取引の場であり、主要な上映機会の拡大は業界全体に関わる構造的なニュース。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.newsweekjapan.jp/articles/-/333747",
@@ -952,7 +732,8 @@
   "confidence": "高",
   "reason": "ディズニーの経営戦略とビジネスモデル（IP・映画・配信・グッズの多角事業と相乗効果）を、日本法人トップへのインタビューを通じて掘り下げた記事であり、映画興行収入などの数字も示されているため、コンテンツ＋ビジネスで対象。AIは主題に含まれない。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0FOQWdJQlpSSDNkS3RJZUt2YUdWbkJsZmNNVGxiMlZuRmlVb2E0RDF4WGVvTzFJd2l6eUxCbGIxbGllZHV6cktDM1dsNldEWHBFcWJtT1haMFdtX3NYc0V4clEwNUNuNE1qVkc5SnlBMFgyUkZYdDQtMmZUam5DZDBFNlRhSjl5aVhLM3NLZGZqYkxDNWc?oc=5",
@@ -972,7 +753,8 @@
   "confidence": "高",
   "reason": "アニメ映画『ちいかわ』の新規興行収入159億円突破は、コンテンツ（アニメ映画）とビジネス（Box office数字が主題）の2分野に該当し、非アニメでも興行成績の数字ニュースは必ず拾う条件に合致する。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/tv/news/david-oyelowo-mansa-studios-macro-vertical-series-1236871197/",
@@ -992,7 +774,8 @@
   "confidence": "高",
   "reason": "米国の映像制作企業2社（Mansa Studios と Macro Television Studios）による垂直型シリーズの共同開発・制作・IP共有パートナーシップ発表であり、コンテンツ制作と企業の経営取引（提携・IP所有構造）が主題のため、コンテンツ＋ビジネスで対象。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/09/paramount-settles-antitrust-suit-to-seal-warner-bros-deal-1237109223/",
@@ -1012,7 +795,8 @@
   "confidence": "高",
   "reason": "Paramount とWarner Bros. Discovery の大型M&Aをめぐる独占禁止訴訟の和解という業界全体を揺るがす構造ニュースであり、メジャースタジオ統合の重要な続報。実写中心だがコンテンツ＋ビジネスで対象。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3VEhERWYzUDJOY1NyVEFWa2VFTGZEbjJuZGpmUlBzZ21MU3VBRmZQVG1tejRvYmRDTU00cnNxVlhiWVNtRmZYcE5yYms1dw?oc=5",
@@ -1021,8 +805,8 @@
   "sources": [
    "Googleニュース: アニメ 興行収入"
   ],
-  "published": "Mon, 21 Sep 2026 12:15:14 GMT",
-  "published_ts": 1789992914,
+  "published": "Mon, 21 Sep 2026 23:51:09 GMT",
+  "published_ts": 1790034669,
   "themes": [
    "コンテンツ",
    "ビジネス"
@@ -1032,7 +816,8 @@
   "confidence": "高",
   "reason": "アニメ映画の興行収入158.4億円と観客動員1085.7万人という新たに判明した実績数字が主題であり、コンテンツとビジネスの両分野に該当するため。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORUhCSHRwOG5WTFdZRkpWenhZRnV1cm1JcjRYNWFoT293eUd0aXVoSDZfWE8wd1VpVWZLYkJ1Tl9nNEsybV9Kd2hvUmdicnYtaXExSkc4VXpYdWlDc1g2bWd6azZPWTNNeXBKZERMVUpfVTNrdERUUEZNMHM1Q2YzMHQ5d3l1dHlGZTZ3Q3dGMHM1dnp1YlRPTWI2ZFpfU2p5OWVqeTdza2dla25QSVVuRGk0eXVENG5E?oc=5",
@@ -1052,7 +837,8 @@
   "confidence": "中",
   "reason": "ゲームIP『Destiny』の今後の開発・配信方針（コンテンツ）と、過去削除コンテンツの復活・新作予定（ビジネス戦略）が主題であり、コンテンツ＋ビジネスが揃っているが、具体的な投資額・契約金額・興行数字を含まないため信頼度は中程度。",
   "ts": 1790010037.001334,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/09/descendants-of-the-sun-reza-dian-parasite-barunson-ea-1237109068/",
@@ -1072,6 +858,428 @@
   "confidence": "高",
   "reason": "韓国IPの海外適応版（インドネシア版映画化）の国際販売開始というライセンスビジネスが主題であり、制作・配給の国際展開を伝える記事。コンテンツ（映像作品のIP）とビジネス（国際販売・配信権の取引）が該当。",
   "ts": 1790010037.001334,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://variety.com/2026/film/markets-festivals/taiwan-creative-content-fest-spotlight-screenings-1236871631/",
+  "title": "Taiwan Creative Content Fest Adds Spotlight Screenings to Court International Buyers",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Tue, 22 Sep 2026 04:54:56 +0000",
+  "published_ts": 1790052896,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "台湾クリエイティブコンテンツフェスティバルの映画・TV・IPビジネスイベント拡大と、国際的な権利取引・ライセンスビジネスを扱った記事。コンテンツ産業の国際的なビジネスプラットフォーム構築が主題であり、AI要素はないがコンテンツ×ビジネスで対象。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUI4S21ZaWNsOGlHSzVGWVFDQ3VtX1pRUXJsd1N5bTA4VmhHMXpJV1AzTkhyRUY5cDNUNUtwUHlhVzlkdEpoMEh1cml4SWQzQXM0T1Y1YnAwNmh4NGlGdnFVSU02U0VsQmFBS0tFQjB1T3kwVll3Qi1yVkswSUUydkhSdnZXWmx2cHhyQzN5N0d5NGh0aW9GZXY1TjliY2tPVjd4dktrMEFaQ3BnZUlPX3JkTFl2Zw?oc=5",
+  "title": "DreamWorks’ ‘Forgotten Island’ Is Its Best Rated Film Ever - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "sources": [
+   "Googleニュース(forbes.com)"
+  ],
+  "published": "Mon, 21 Sep 2026 07:34:41 GMT",
+  "published_ts": 1789976081,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "DreamWorksのアニメーション映画の高評価は報道され得る話題だが、本文全文が提供されず見出しのみでは、評価スコア自体が主題か（対象外）、それとも興行成績や市場インパクトが主題か（対象）の区別がつかず、グレーとして確認が必要。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/trump-tv-promo-clips-simpsons-seinfeld-friends-1237109786/",
+  "title": "‘Trump TV’ Promo Uses Clips From ‘The Simpsons,’ ‘Seinfeld,’ ‘Friends,’ ‘The Dark Knight’ & Many More",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 22 Sep 2026 03:46:44 +0000",
+  "published_ts": 1790048804,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "Trump TVのプロモーション動画がコンテンツ各社のIP（Friends、The Simpsons等）を著作権許可なく使用した事実が報じられており、コンテンツとビジネス（サービス開始）に該当するが、AI技術の記述は背景言及に留まり、記事の主題はあくまで無許可使用による著作権問題と政治的プロモーション動画の実例報道であり、本判定基準での「AI」の主要性が不明確なため。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/paramount-deal-36-film-movie-slate-1237109549/",
+  "title": "Post-Merger Paramount May Overdeliver On Settlement Terms With 36-Film 2027 Slate Amid Speculation About Duplication & WB Leadership",
+  "source": "Deadline(Box Office)",
+  "sources": [
+   "Deadline(Box Office)"
+  ],
+  "published": "Tue, 22 Sep 2026 02:17:49 +0000",
+  "published_ts": 1790043469,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ParamountとWarner Bros. Discoveryの大型M&Aに関わる規制承認後の経営・運営構造、劇場公開スケジュール戦略、市場シェアなど、メジャースタジオ統合による業界地図の変化を詳細に分析した記事。業界全体を揺るがす構造ニュースの続報であり、実写中心だがコンテンツ＋ビジネスに該当する。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/206137",
+  "title": "映画『プリキュア』最新作、シリーズ市場最大オープニング記録！20周年記念に歴代キャラ登場、3日間興収4.4億円",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Tue, 22 Sep 2026 03:10:04 +0000",
+  "published_ts": 1790046604,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "プリキュア映画の初週末興行成績（4.4億円）が新たに判明し、シリーズ歴代最高オープニング記録を達成したという事実ベースのBox office速報であり、コンテンツ（アニメ映画）とビジネス（興行収入の数字）が主題のため対象。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11ekEtRTJhOHJSZTAzNUJNOWo1WVlYV0cya2Q5TGZNcUs5LTZsSENHOGs0RzBWbFBGUVNaaVRKSC1Fc0d3dlIyME1fSW1VMGI1NXRodk5SSHV2OXIteWdNNHk2TTBJcXVpOXpGYkVqdnV4R2hiVmkza2FCWXhsVW8?oc=5",
+  "title": "映画『ちいかわ』が2026年の興行収入1位に 「名探偵コナン」「トイ・ストーリー」最新作を抜き（KAI-YOU） - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Mon, 21 Sep 2026 08:50:00 GMT",
+  "published_ts": 1789980600,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画『ちいかわ』の2026年興行収入ランキングにおける1位達成という新規の興行数字が主題であり、コンテンツ+ビジネスの2分野が満たされる。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BTjJLYklHRDlnSGgtTjNVWHJLWUZVSEd2ZlducnBEN1FnR21IdmdYSGRqYllDaUtaZi1qTjJUREFBZmhLNTY2MGVzNA?oc=5",
+  "title": "AI時代を生き抜くクリエイターの「属人性」戦略！撮影の“体験ライブ化”と生成AIが9割の映像制作術 - みんかぶ（マガジン）",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Tue, 22 Sep 2026 03:00:00 GMT",
+  "published_ts": 1790046000,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "映像制作におけるAI活用（生成AIが9割）と、クリエイターの戦略が主題で、コンテンツ×AI分野の記事と判断。ただしビジネスの数字（売上・契約金額など）は明示されていないため、themes はコンテンツ＋AI にとどまる。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/markets-festivals/generative-ai-microdramas-busan-market-1236871628/",
+  "title": "Generative AI, Microdramas to Take Center Stage at Busan Market",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Tue, 22 Sep 2026 02:07:03 +0000",
+  "published_ts": 1790042823,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "釜山国際映画祭の公式マーケットが2026年に生成AIとマイクロドラマを中心テーマとする大幅な改編を発表。AI関連セッションの充実化、過去大会の取引実績数字($71.1M)の言及、映像制作市場の国際的な資金・流通戦略が主題であり、コンテンツ×AI×ビジネスの3分野が揃う。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/dbloom/2026/09/21/ag-settlement-clears-way-for-par-warner-bros-hollywood-transformation/",
+  "title": "AG Settlement Clears Way For Paramount To Transform Hollywood With Warner Merger",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Mon, 21 Sep 2026 16:09:04 -0400",
+  "published_ts": 1790021344,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Paramount と Warner Bros. Discovery の大型合併に関わる州による独占禁止訴訟の和解という、メジャースタジオ統合をめぐる業界地図が変わる重要なビジネスニュースであり、映像産業全体に影響する構造的なニュースのため対象。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/205989",
+  "title": "ホロライブ、今後は「〇期生」命名で新人デビューしない。谷郷氏か明かす背景に“新規視聴者”の存在、2年ぶり新ユニットに向け",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Mon, 21 Sep 2026 21:26:11 +0000",
+  "published_ts": 1790025971,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Vtuberプロダクション（デジタルコンテンツ/IP）の経営戦略転換が主題で、新人デビュー方針の変更、ユニット統合、地域戦略の再編など経営判断とビジネス構造の説明が中心。AI要素は無いが、コンテンツ企業の事業方針・戦略転換はビジネスに該当する。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKV2gwV1gtLW9aZEtPNDNiT2RSNlNXNWtYd0d5cVpuaXFrbEx2WTFmdThRSWxJckoyR09BLU9XV2VLaERQeWVVZ3ZQZ2FNa0M1WlNXRnZoUjFNcGxoUzlwNjV3?oc=5",
+  "title": "「映画ちいかわ 人魚の島のひみつ」興収158.4億円を突破！今年の公開興行ランキングNo.1作品に - アニメ！アニメ！",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Tue, 22 Sep 2026 02:45:03 GMT",
+  "published_ts": 1790045103,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画の新規興行収入実績（158.4億円）と年間ランキング1位という数字ニュースが主題であり、コンテンツ＋ビジネスが明確に該当します。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/tv/news/netflix-partners-with-british-library-sets-talks-series-1236871540/",
+  "title": "Netflix Partners With British Library, Sets Talks Series With Florence Pugh, Zoe Kazan and More",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 21 Sep 2026 23:01:00 +0000",
+  "published_ts": 1790031660,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "Netflixが英国図書館との提携を発表し、適応作品の寄贈や文化イベント開催を通じた文学アーカイブ保存への資金提供を行うもので、コンテンツ（書籍の映像化作品）とビジネス（企業パートナーシップ・文化投資）が主題である。ただしAIは言及なく、実写作品が中心で業界全体を揺るがす大型ニュースではないため、themes確度は中程度。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/global/tom-cruise-ai-movies-people-want-real-things-1236871464/",
+  "title": "Tom Cruise Says AI Is ‘Coming and It’s Going to Happen,’ but ‘People Want to See Real Things’: ‘Keep Creating’",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 21 Sep 2026 21:38:10 +0000",
+  "published_ts": 1790026690,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "映画業界のAI影響についてのTom Cruiseのインタビュー発言であり、コンテンツ（映画産業）とAIは明確に含まれるが、記事の主題がインタビューの発言・意見であり、具体的なビジネス数字や業界への実質的な影響の詳細分析に欠けるため。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/paramount-settlement-pluto-tv-bet-comedy-central-divesture-1237109340/",
+  "title": "Paramount Settlement Protects Pluto TV, Sets BET & Comedy Central As Potential Divesture Targets While Omitting Premium Channels & TV Studios",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 22 Sep 2026 00:27:15 +0000",
+  "published_ts": 1790036835,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ParamountとWarner Bros.の大型M&A統合をめぐる反トラスト訴訟の和解合意が主題であり、業界の地図が変わる規模の構造ニュース。実写中心だが映像業界全体に波及する監督当局による規制判断であり、メジャースタジオ統合の続報として必ず拾う対象。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://animeanime.jp/article/2026/09/22/103143.html",
+  "title": "「映画ちいかわ 人魚の島のひみつ」興収158.4億円を突破！今年の公開興行ランキングNo.1作品に",
+  "source": "アニメ！アニメ！",
+  "sources": [
+   "アニメ！アニメ！"
+  ],
+  "published": "2026-09-22T02:45:03Z",
+  "published_ts": 1790045103,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画『ちいかわ』の興行収入158.4億円突破と2026年公開作品No.1達成という新規の興行成績数字が主題であり、コンテンツ（アニメ・漫画IP）とビジネス（Box office数字）の両分野に該当する。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/tv/news/daredevil-born-again-ending-season-3-marvel-disney-1236871454/",
+  "title": "‘Daredevil: Born Again’ Ending With Season 3",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 21 Sep 2026 20:51:46 +0000",
+  "published_ts": 1790023906,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Daredevilシリーズはマーベル/ディズニー配信コンテンツの制作・放映戦略に関わり、シーズン3で終了するという経営判断（打ち切り＝ビジネス決定）が主題であり、コンテンツ＋ビジネスに該当する。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/youtubers-inc-sidemen-rep-launch-creator-voices-uk-1237107549/",
+  "title": "Top UK YouTubers Launch Alliance Pushing For Better Conditions For Content Creators",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 21 Sep 2026 23:01:00 +0000",
+  "published_ts": 1790031660,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "YouTubeクリエイターの業界団体立ち上げと、UK創作経済の経済貢献額（£2.8B）が主題で、コンテンツ産業とビジネス（経済規模・雇用・業界認識）が該当するが、AIは関与していない。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/rob-bonta-defends-paramount-settlement-1236871365/",
+  "title": "Rob Bonta, Facing Skeptics, Defends ‘Very Strong’ Paramount Deal",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 21 Sep 2026 19:37:46 +0000",
+  "published_ts": 1790019466,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ParamountとWarner Bros.の大型M&Aをめぐる独禁訴訟の和解が主題であり、メジャースタジオの統合に関わる業界全体を揺るがす構造的ニュースのため、実写中心でもコンテンツ＋ビジネスで対象。映像産業の地図が変わる規模の続報として該当。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/paramount-warner-bros-settlement-response-guilds-stars-1236871358/",
+  "title": "Paramount-Warner Bros. Settlement: What the Guilds, AGs and Activists Are Saying",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 21 Sep 2026 19:06:02 +0000",
+  "published_ts": 1790017562,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ParamountとWarner Bros. Discoveryの大型M&Aに関する独占禁止当局との和解という業界全体を揺るがす構造ニュースであり、和解内容の発表は速報的な事実報道。メジャースタジオ統合をめぐる規制当局の判断は映像業界の地図を変える実質的なビジネスニュースであるため対象。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/john-oliver-business-daddy-david-ellison-stephen-colbert-1237109634/",
+  "title": "John Oliver Calls Out “Soon-To-Be Business Daddy” David Ellison & Throws Stephen Colbert Under The Bus",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 21 Sep 2026 22:15:57 +0000",
+  "published_ts": 1790028957,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ParamountとWarner Bros.のメジャースタジオ統合（Skydance買収）が背景にあり、業界の地図が変わる大型M&Aニュースの関連続報として、コンテンツ（テレビ放送業界）とビジネス（Paramount-WBD合併、The Late Showの終了）が主題であるため対象。ただしJohn Oliverの冗談が記事の重心であり、M&A自体の深い分析ではないため速報に分類。",
+  "ts": 1790053249.023423,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/paramount-headquarters-los-angeles-post-merger-1237109625/",
+  "title": "Paramount To Keep Headquarters In Los Angeles Post-Merger: “We Aren’t Going Anywhere”",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 21 Sep 2026 22:03:58 +0000",
+  "published_ts": 1790028238,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Paramount と Warner Bros. Discovery の大型M&A に関わる独占禁止訴訟の和解と、その結果としてのParamount本社のロサンゼルス留置が主題であり、メジャースタジオの経営統合をめぐる業界全体を揺るがす大型ニュースであるため。",
+  "ts": 1790053249.023423,
   "is_new": true
  }
 ]
