@@ -1,14 +1,14 @@
 [
  {
   "url": "https://deadline.com/2026/09/box-office-avengers-endgame-primetime-heart-of-the-beast-1237111302/",
-  "title": "‘Avengers Endgame: Encore’ Assembles $24M-$26M At No. 1 In Second-Best Late September Weekend Ever For Marketplace – Box Office Update",
+  "title": "‘Avengers Endgame: Encore’ Assembles $26M At No. 1 In Second-Best Late September Weekend Ever For Marketplace – Box Office Update",
   "source": "Deadline",
   "sources": [
    "Deadline",
    "Deadline(Box Office)"
   ],
-  "published": "Sat, 26 Sep 2026 15:20:00 +0000",
-  "published_ts": 1790436000,
+  "published": "Sun, 27 Sep 2026 15:25:00 +0000",
+  "published_ts": 1790522700,
   "themes": [
    "コンテンツ",
    "ビジネス"
@@ -18,260 +18,8 @@
   "confidence": "高",
   "reason": "複数の映画（Marvel、A24、Paramount、DreamWorks Animation）の週末興行成績と興行予測について、具体的な数字（$3M、$12M-$16M、$17M-$20M等）を報じた速報記事。実写を含むが、アニメ作品（Forgotten Island）も含まれ、主題は新規の興行成績見通しという実績/数字ニュースであるため対象。",
   "ts": 1790312433.5638778,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13REp6MHVMSjlLbnRZZ3VMUFdJNlBoT0YtTW4wTkY2QlozaWJUeXNlVTFYUXRqaXp0RHB4VHdqTXFYY3Q2Q3R3OGpNUkhGdVpOSnpFaWNKRUpQYVlxMEMyZTJtcUo2RDY2QzU3R19ERnp0cTlRMjhRdDdTWlhDTVk?oc=5",
-  "title": "中国で「AI俳優」が急成長 中国ドラマ制作の最前線とは 「実写ドラマ」に影響も（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 25 Sep 2026 14:35:00 GMT",
-  "published_ts": 1790346900,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "中国の実写ドラマ制作現場でのAI俳優の導入と活用が主題であり、映像業界のAI動向（生成AIでの制作への影響）に該当するため、非アニメ映像でもAI絡みとして対象。ビジネス（数字や契約）は記事タイトルに見当たらない。",
-  "ts": 1790312433.5638778,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/global/begin-again-films-paula-hortencia-the-last-chance-1236875707/",
-  "title": "Spain’s Begin Again Films Boards Brazilian Basketball Biopic ‘Paula & Hortência – The Last Chance’ (EXCLUSIVE)",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 25 Sep 2026 16:33:48 +0000",
-  "published_ts": 1790354028,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ブラジルの実写映画バイオピックの国際配給契約（Begin Again Films が配給を獲得）という映像制作のビジネス取引が主題であり、コンテンツ×ビジネスに該当する。非アニメ映像だが、国際配給などの契約に関わる業界ニュースとして対象。",
-  "ts": 1790355638.694568,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/newsletter/merger-gets-ag-greenlight-forgotten-island-bts-knights-of-guinevere-returns-267083.html",
-  "title": "Merger Gets AG Greenlight, ‘Forgotten Island’ BTS, ‘Knights Of Guinevere’ Returns",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 25 Sep 2026 16:58:44 +0000",
-  "published_ts": 1790355524,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ParamountとWarner Bros.の合併をめぐり州司法長官による差止め訴訟が取り下げられた業界の地図が変わる大型M&Aの続報であり、映像/アニメーション業界全体に影響を与える構造的ニュースのため、実写中心でもコンテンツ+ビジネスで対象。",
-  "ts": 1790355638.694568,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/business/federal-film-tax-credit-animation-us-work-requirement-267079.html",
-  "title": "A New 20% Federal Tax Credit Would Require Most Animation Work To Stay In The U.S. To Qualify",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 25 Sep 2026 16:12:45 +0000",
-  "published_ts": 1790352765,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメーション制作を対象とした連邦税制優遇措置の新法案報道であり、米国内でのアニメ制作雇用を促進する政策がコンテンツ産業の経営・投資環境に直結するビジネスニュースである。",
-  "ts": 1790355638.694568,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://animeanime.jp/article/2026/09/25/103237.html",
-  "title": "「名探偵コナン30号殺人事件」Netflixで独占配信スタート！渋谷ヒカリエにアニバーサリーケーキ登場＆キャラごとのエピソードをまとめた「特別セレクション」も配信中",
-  "source": "アニメ！アニメ！",
-  "sources": [
-   "アニメ！アニメ！"
-  ],
-  "published": "2026-09-25T13:55:02Z",
-  "published_ts": 1790344502,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ『名探偵コナン』（漫画原作のコアIPで必須軸）の新作がNetflix独占配信される配信契約・配信ビジネスが主題であり、30周年記念キャンペーン・セレクション配信などの戦略が報じられているため、コンテンツ+ビジネスで対象。",
-  "ts": 1790355638.694568,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/evil-dead-burn-hbo-max-release-date-streaming-1236839235/",
-  "title": "‘Evil Dead Burn’ Sets HBO Max Release Date in Time for Halloween",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 25 Sep 2026 16:04:38 +0000",
-  "published_ts": 1790352278,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ホラー映画『Evil Dead Burn』のHBO Max配信開始日の発表であり、配信権取得・配信戦略に関わるビジネスニュース。映画はコンテンツ（ハリウッド映画）であり、配信プラットフォームとの取引・配信展開が主題のため対象。AIは関わらない。",
-  "ts": 1790355638.694568,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/09/mary-higgins-clark-estate-signs-iag-literate-curtis-brown-1237113870/",
-  "title": "Mary Higgins Clark Literary Estate Signs With IAG, Literate Management & Curtis Brown",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Fri, 25 Sep 2026 16:23:40 +0000",
-  "published_ts": 1790353420,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "故メアリ・ヒギンズ・クラークの文学遺産が複数の管理エージェンシーと契約し、映画・テレビ・出版など多媒体での作品化機会を展開するビジネス提携の発表。コンテンツ（著作権管理・ライセンス供給）とビジネス（エージェンシー契約・版権事業）が主題。",
-  "ts": 1790355638.694568,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.animenewsnetwork.com/news/2026-09-25/monochrome-good-smile-unveil-ignisphere-mixed-media-project-along-with-project-dawngazer-action-rpg/.242176",
-  "title": "Monochrome, Good Smile Unveil Ignisphere Mixed Media Project, Along With Project's Dawngazer Action RPG",
-  "source": "Anime News Network",
-  "sources": [
-   "Anime News Network"
-  ],
-  "published": "Fri, 25 Sep 2026 09:15:00 -0400",
-  "published_ts": 1790342100,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "新規IP『Ignisphere』の制作発表であり、ゲーム・ライトノベル・グッズ展開など複数メディアミックスプロジェクトが主題。Good Smile Companyによる出版・流通・グッズ化の事業展開が記載されており、コンテンツ+ビジネスの組み合わせが該当する。ただしAIは含まれない。",
-  "ts": 1790355638.694568,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/business/disney-layoffs-legal-department-267052.html",
-  "title": "Disney Plans More Layoffs While Spending Billions On Share Buybacks",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 25 Sep 2026 11:07:46 +0000",
-  "published_ts": 1790334466,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Disneyの大規模レイオフとPixarなどアニメーション部門への影響、経営方針（株主還元優先）との矛盾を分析した記事。コンテンツ企業（特にアニメーション）の経営判断と人員削減が主題であり、コンテンツ＋ビジネスに該当する。",
-  "ts": 1790355638.694568,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15cEUteTBfU1FjYzZVdXZDRDlnNG9kUXNpUnVCVEllcHBnTm9GWTB0aHQtVVg2YnFnbHFDSjZUdm5xR0I5OTMxbDJ1QWpZV3pDUjQxRW1fSlE2eU5aOG9FY2FVN2xXd3JNT0p3?oc=5",
-  "title": "映画興行成績：「映画ちいかわ」1位キープ 「踊る大捜査線」は2位発進 新作に「映画名探偵プリキュア！」「八つ墓村」も - Mantan Web",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Fri, 25 Sep 2026 11:32:15 GMT",
-  "published_ts": 1790335935,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ映画『映画ちいかわ』『映画名探偵プリキュア！』の興行成績（実績値）と興行ランキングが主題であり、新たに判明した数字ニュースのため対象。コンテンツ（アニメIPの劇場版）とビジネス（興行成績の数字）が揃う。",
-  "ts": 1790355638.694568,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/paultassi/2026/09/25/here-are-the-four-new-doomsday-scenes-in-avengers-endgame-encore/",
-  "title": "Here Are The Four New ‘Doomsday’ Scenes In ‘Avengers Endgame: Encore’",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)"
-  ],
-  "published": "Fri, 25 Sep 2026 09:50:45 -0400",
-  "published_ts": 1790344245,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "映画『アベンジャーズ』シリーズの新規劇場上映('Encore')に新シーンが追加される企画であり、メジャースタジオ(Marvel/Disney)の大型映画ビジネスの動きであるため、コンテンツ×ビジネスに該当するが、具体的な興行成績や契約金額などの数字は記事に示されていないため信頼度は中程度。",
-  "ts": 1790355638.694568,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCSFI5ZWVXR2xzTjZVamwzVm5jM2hEQlgxdUZDVU5xSFMyT1dDMV9IVWNHRUJSeEo4ZGxfOG5KMWNvV3g0aExnRGxraTM?oc=5",
-  "title": "全米興行成績135億を突破したミュージカル・アニメーション映画『ダビデ ～王になった少年～』場面写真一挙公開 - 映画チャンネル",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Fri, 25 Sep 2026 05:53:41 GMT",
-  "published_ts": 1790315621,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメーション映画の北米興行収入135億円という新たな実績数字が主題であり、コンテンツ（アニメーション映画）とビジネス（Box office）の2分野が該当する。",
-  "ts": 1790355638.694568,
-  "is_new": false,
-  "updated": false
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "https://variety.com/2026/film/news/hanuman-ansh-indian-sleeper-hit-hombale-films-strategy-1236876199/",
@@ -396,27 +144,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "実写映画の全世界興行収入が50億ドルを突破した新たな数字ニュースであり、メジャースタジオの年間興行成績の実績値が主題のため、コンテンツ×ビジネスに該当。",
-  "ts": 1790399723.443915,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Majc4b1RFZFZBX29RNVpWN3VpVWNaNEQ4eXdqOXVROFhXQ1MyWENreE9BZ0FpZkdYYVc4MFEtUjB5WFI5ajQ2eFNLZFZzbm92SDZr?oc=5",
-  "title": "映画『5秒で完全犯罪を生成する方法』重岡大毅＆原菜乃華が兄妹に、生成AI題材の完全犯罪サスペンス - fashion-press.net",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 25 Sep 2026 08:12:40 GMT",
-  "published_ts": 1790323960,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "その他",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "実写映画が生成AI題材のサスペンスで、AIが主題に関わり、かつ制作発表の記事。ただしタイトルのみで本文の詳細が不明なため、制作発表段階か、契約金額・出資などビジネス情報が含まれているかが不確定。映像業界のAI動向として一定の重要性があるが、キャスティング・制作発表が主体なら対象外の可能性が高い。",
   "ts": 1790399723.443915,
   "is_new": false,
   "updated": false
@@ -675,13 +402,13 @@
  },
  {
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1dEeWpMdzJfZ3h2bTVKaF9GZ0tTMnhYWnJRNlVhd3J1QjlCWUpzS0F6aDJLMFNpYlhIQk1fNE9UYnpJWXdFX3Y0Ynlob2w0V2Z4LXRlNjhtdHVSUnA3ZjhIMmxoaDlfVjRSZFpjNVVvZFQ4cDZjNnI2a0wzSkwwbXg1YnNGVzhtSlBPUnBEZWs1anhyaURsOXNrc2VkSU1Lbks2RFI4QzVweU5PMnRzV0Y5bVpkTElCNlJ2bg?oc=5",
-  "title": "‘Avengers: Endgame’ Snapping Up $26M at Box Office Amid Crowded Weekend - The Hollywood Reporter",
+  "title": "‘Avengers: Endgame’ Powers $26M Return at Crowded Box Office - The Hollywood Reporter",
   "source": "Googleニュース(hollywoodreporter.com)",
   "sources": [
    "Googleニュース(hollywoodreporter.com)"
   ],
-  "published": "Sat, 26 Sep 2026 16:01:56 GMT",
-  "published_ts": 1790438516,
+  "published": "Sun, 27 Sep 2026 02:55:45 GMT",
+  "published_ts": 1790477745,
   "themes": [
    "コンテンツ",
    "ビジネス"
@@ -691,8 +418,8 @@
   "confidence": "高",
   "reason": "実写映画の週末興行成績（Box office）の数字報道であり、新たに判明した興行収入データが主題のため、非アニメでもビジネスに該当し対象となる。",
   "ts": 1790442036.894391,
-  "is_new": false,
-  "updated": false
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "https://variety.com/2026/film/global/obsession-backrooms-easy-rider-sony-pictures-classics-1236876312/",
@@ -759,48 +486,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUC0wVTVEeWlDQkY4SG9xTXdvY2dkZURXS29PdzRTcnowVTVlM3dneUJXc1pDT2M0TEw1azY1LUh3ZFFwZHpLcnVaRzhHaUhzRHI3elNsNUp1RHM1OVZSUTlXSkZWcFBvMWhIQ3BTTWk1RlB6S2ItM0lJSnNwbTVuUElaUXhZVmNoUE9IaUV1RklDMGRoVTFraHI5WENCQTA3MnlqOC1pY0x6cWFPc3FVY0g3YTJiQlhtLW5iVVp1d0Q?oc=5",
-  "title": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - The Hollywood Reporter",
-  "source": "Googleニュース(hollywoodreporter.com)",
-  "sources": [
-   "Googleニュース(hollywoodreporter.com)"
-  ],
-  "published": "Fri, 25 Sep 2026 16:09:10 GMT",
-  "published_ts": 1790352550,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "『Avengers: Endgame』の再公開による興行成績（$3.8Mのプレビュー収入）が主題の記事であり、新たに判明したBox office数字であるため、コンテンツ＋ビジネスで対象。Brad PittやRobert Pattinsonの言及は出演情報にすぎず、興行数字が主題なので判定に影響しない。",
-  "ts": 1790442036.894391,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xeXdRekRPb2g2dHM1cTFjM0o2TjdJVG5CVURmTG9XTlhoakpUZ0FhaHF2MHdUSjNVcmZMb0hUQk13WFRP?oc=5",
-  "title": "アニプレックス、『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』が興行収入21億円を突破！前作「[新編]叛逆の物語」を超える記録に - gamebiz【ゲームビズ】",
-  "source": "Googleニュース(gamebiz.jp)",
-  "sources": [
-   "Googleニュース(gamebiz.jp)"
-  ],
-  "published": "Fri, 25 Sep 2026 06:09:54 GMT",
-  "published_ts": 1790316594,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ劇場版の新規興行成績（21億円超え）が主題で、前作比較の数字ニュースであり、コンテンツ×ビジネスの必須条件を満たす。",
-  "ts": 1790442036.894391,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOWE5anFTb0ZvQXc5V2JOS081V3VRWFN4VXRORzFMaDdpSElQcGVyQWFZQnpWYkcyeUpiYnd5VGJuRW1mcmZ5c1ZSWUFmQXBVbkVOYkNmZUVLaVJPZkhUanJMcmpIcWJwb0lHWHliNzlXZGNRY2VpWHFRdHBER1JJSXdoc05UeGN4cFJqUFo2cE1RVmJPVWNraHBzX0YzdzBCMFIwc1NCcHRvdw?oc=5",
   "title": "‘Transformers No. 1’ Getting 15th Printing as Skybound’s Energon Universe Comics Sell Over 7.6 Million Units (Exclusive) - The Hollywood Reporter",
   "source": "Googleニュース(hollywoodreporter.com)",
@@ -826,7 +511,8 @@
   "title": "生成AIオリジナルアニメ「花魁転生 -Oiran Reincarnation-」主要キャラクター9名を解禁 ── 10月2日（金）21:00、第1話をYouTubeでプレミア公開 - PR TIMES",
   "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
   "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+   "Googleニュース(sankei.com)"
   ],
   "published": "Sun, 27 Sep 2026 02:16:22 GMT",
   "published_ts": 1790475382,
@@ -839,7 +525,8 @@
   "confidence": "中",
   "reason": "生成AIを用いたアニメ制作という新しい試みであり、コンテンツ（アニメ）とAI（生成AI）が組み合わさっているが、記事の主体がキャラクター解禁と配信開始の告知であり、AI技術の活用方法や市場的なビジネス面が詳述されていないため、主軸の明確さが中程度。",
   "ts": 1790485239.317857,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-09-26/overgeared-anime-gets-same-day-english-dub-on-september-27/.242208",
@@ -859,7 +546,8 @@
   "confidence": "高",
   "reason": "韓国webtoonを原作とするアニメ作品が、Crunchyrollによる同日英語版ダブ配信という配信ビジネスの取引内容が主題であり、コンテンツ（漫画/webtoon→アニメ化）とビジネス（配信権/配信戦略）の2分野が該当する。",
   "ts": 1790485239.317857,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoZzNlYklJejV5a09pVWtTbklxelJKU0g2WXB2elZiOGtOdjh4VldTNkthTW9GT0xqRE1hV3VjUnVicXF1MHc?oc=5",
@@ -879,7 +567,8 @@
   "confidence": "中",
   "reason": "生成AIで制作されたアニメ/映像作品「花魁転生」のキャラクター発表がAIコンテンツの作品メタ情報だが、ビジネス面（制作費・出資・配信契約・興行数字など）が記事に見当たらず、キャラ紹介の告知にとどまる可能性が高いため。確認が必要。",
   "ts": 1790485239.317857,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/206703",
@@ -899,14 +588,16 @@
   "confidence": "高",
   "reason": "VTuber関連IP（ホロライブ）を運営するカバーが、スマートフォンゲーム「hololive Dreams」のヒットに伴う業績の上方修正を発表しており、コンテンツ（IP・ゲーム）とビジネス（決算予想・営業利益・収益実績）の両分野が主題である。",
   "ts": 1790485239.317857,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/jon-watts-to-direct-star-wars-1236876714/",
   "title": "Jon Watts to Direct Next ‘Star Wars’ Movie",
   "source": "Variety",
   "sources": [
-   "Variety"
+   "Variety",
+   "Googleニュース(hollywoodreporter.com)"
   ],
   "published": "Sun, 27 Sep 2026 02:04:00 +0000",
   "published_ts": 1790474640,
@@ -919,7 +610,8 @@
   "confidence": "高",
   "reason": "映像大作『スター・ウォーズ』の新作映画制作発表で、監督起用とディズニーとの契約が絡む業界ビジネスニュースであり、コンテンツとビジネスの両軸が主題である。",
   "ts": 1790485239.317857,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/09/star-wars-continuing-skywalker-saga-director-jon-watts-1237114584/",
@@ -939,14 +631,16 @@
   "confidence": "高",
   "reason": "実写映画『スター・ウォーズ』の新作三部作制作発表であり、監督起用と脚本家の発表が主題だが、ディズニー傘下ルーカスフィルムの製作決定・キャスティング・製作体制の構成というビジネス的な映像製作の契約・人事が中心であり、コンテンツ+ビジネスで対象。",
   "ts": 1790485239.317857,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/hughmcintyre/2026/09/26/stray-kids-return-to-no-1-as-the-bands-album-defies-the-usual-drop/",
   "title": "Stray Kids Return To No. 1 As The Band’s Album Defies The Usual Drop",
   "source": "Forbes(Hollywood)",
   "sources": [
-   "Forbes(Hollywood)"
+   "Forbes(Hollywood)",
+   "Googleニュース(forbes.com)"
   ],
   "published": "Sat, 26 Sep 2026 17:28:55 -0400",
   "published_ts": 1790458135,
@@ -959,7 +653,8 @@
   "confidence": "中",
   "reason": "K-popアイドルグループの音声アルバムの週間売上数字（22,200枚）と順位情報という音楽ビジネスの実績数字を報道しており、コンテンツ（音楽）とビジネス（売上実績）の組み合わせだが、アニメ・ゲーム・映画など映像IP（記事ガイドの中心軸）に比べ音楽単体の位置づけは付随的であり確実性は中程度。",
   "ts": 1790485239.317857,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/laurasirikul/2026/09/26/inside-the-lego-pokmon-smart-play-experience-in-los-angeles/",
@@ -979,7 +674,8 @@
   "confidence": "中",
   "reason": "LEGOとポケモンのコラボ体験施設の展開・SMART Play技術に関する記事だが、主題が新体験施設の告知・レビューか、ビジネスモデル・市場展開の実質的な分析かが明確でない。グレーとして要確認に回す。",
   "ts": 1790485239.317857,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HQjJONnY4ejdIbGp4Z3RndjgzV19mbUFfZUhHa3paWEhiM040bmQ1ZWRqTzIyb2syVXUyVmI4djRaR0FBczlleF9oY0p3Y1k?oc=5",
@@ -988,8 +684,8 @@
   "sources": [
    "Googleニュース: アニメ 興行収入"
   ],
-  "published": "Sun, 27 Sep 2026 04:10:00 GMT",
-  "published_ts": 1790482200,
+  "published": "Sun, 27 Sep 2026 04:15:43 GMT",
+  "published_ts": 1790482543,
   "themes": [
    "コンテンツ",
    "ビジネス"
@@ -999,7 +695,8 @@
   "confidence": "高",
   "reason": "プリキュアはアニメIPの中核的作品であり、公開9日間での興収8億4000万円という新規に判明した実績数字が主題であるため、コンテンツ＋ビジネスの2分野を満たし対象。",
   "ts": 1790485239.317857,
-  "is_new": true
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "https://variety.com/2026/film/news/robert-pattinson-batman-superman-james-gunn-1236876674/",
@@ -1019,7 +716,8 @@
   "confidence": "中",
   "reason": "実写映画（バットマン）というコンテンツが主題で、俳優インタビューを通じてDCU内でのキャラクター配置・映画化戦略という業界の構想・スケジュール（2028年公開予定）に言及しており、映像業界のポートフォリオ/統合戦略というビジネス的側面を含むため。ただし金額や取引の数字がなく、インタビューの発言主体であることから中程度の信頼度。",
   "ts": 1790485239.317857,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/09/evil-dead-burn-hbo-max-date-1237114538/",
@@ -1039,7 +737,8 @@
   "confidence": "中",
   "reason": "実写映画の配信独占契約とその契約金額は明記されていませんが、HBO Maxとの配信プレミア日の発表は映像業界の配信ビジネスの取引に当たります。ただし、業界全体を揺るがす大型ニュースとは言い難く、単一作品の配信先決定という点で「中」の確信度です。",
   "ts": 1790485239.317857,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://forbesjapan.com/articles/detail/105358",
@@ -1059,6 +758,207 @@
   "confidence": "中",
   "reason": "アートフェスティバルの展覧会紹介が主体で、布施琳太郎による実写映像のAI加工が一つのパフォーマンス要素として言及されているが、AI技術自体の詳細な分析や権利問題の議論がなく、また来場者数の目標値（6万人）など経営数字が含まれていても、記事全体の主題はイベント開催告知・プログラム紹介であるため、コンテンツ＋AIの組み合わせは存在するものの、ビジネス面での実質的な取引や経営インパクトについては触れられていないため判定が微妙。",
   "ts": 1790485239.317857,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://deadline.com/2026/09/kevin-mayer-paramount-warner-bros-merger-zurich-summit-1237114740/",
+  "title": "Kevin Mayer Shares Thoughts On Paramount-Warner Bros Merger – Zurich Summit",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 27 Sep 2026 16:57:47 +0000",
+  "published_ts": 1790528267,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ParamountとWarner Bros.の合併についてメディア業界の経営戦略と業界構造を分析・解説する記事であり、大型M&Aの業界影響が主題。コンテンツ産業の経営・統合戦略・シナジー（コスト削減）が中心なため、コンテンツ+ビジネスで対象。",
+  "ts": 1790528432.656419,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM3hNbHZib0NmWmxEYnZEY3BZLUI3SWRnb3Fva09RR3E4V1A2cHlPQlJrajBUb2pMbnNzYVZaQ1c3aVpvVUJQamcweDBoNlh4QjJVX080VVpMR0FCR2pteHE2bXpxdGN4RFpwVVRCTi1BTzlKa3pyaDRCdmRTV0E1LVV4U0lFWWdmR3Br?oc=5",
+  "title": "“アニメ”経済圏とは？ グローバル展開の新たな道を開いた日本アニメの実像に迫る - xtrend.nikkei.com",
+  "source": "Googleニュース(nikkei.com)",
+  "sources": [
+   "Googleニュース(nikkei.com)"
+  ],
+  "published": "Sun, 27 Sep 2026 15:00:00 GMT",
+  "published_ts": 1790521200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "日本アニメのグローバル展開と経済圏に関する分析記事であり、アニメ産業のビジネス規模・市場戦略が主題と考えられるため、コンテンツ＋ビジネスの組み合わせで対象。ただし本文の詳細が不十分なため確信度は中。",
+  "ts": 1790528432.656419,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-rerelease-huge-86-million-globally-1236876861/",
+  "title": "‘Avengers: Endgame Encore’ Scores Massive $86 Million Globally",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sun, 27 Sep 2026 16:16:45 +0000",
+  "published_ts": 1790525805,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画の再上映による新たな興行成績（$86M）を報道しており、Box officeの数字ニュースは非アニメでも対象。MCUの業界規模($35.07B)や次作への関連戦略も記事の中心。",
+  "ts": 1790528432.656419,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/207147",
+  "title": "日本ゲーム大賞で『モンハンワイルズ』超大型拡張コンテンツがフューチャー部門受賞　投資家にも周知",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Sun, 27 Sep 2026 10:20:20 +0000",
+  "published_ts": 1790504420,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲームIP（モンハン）の大型拡張コンテンツが業界賞を受賞したニュースをIR発表で投資家に周知した事例であり、コンテンツ×ビジネス（投資家向け情報開示）が主題。受賞自体は告知だが、企業がIRニュースとして経営的に重要視している点でビジネス判定。",
+  "ts": 1790528432.656419,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/musk-producer-atwater-magnific-ai-zurich-summit-1237114419/",
+  "title": "‘Musk’ Producer, Atwater-Magnific Exec & ‘Gods Don’t Give Gifts’ Director Talk AI: “It’s Important To Get In The Driver’s Seat” – Zurich Summit",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 27 Sep 2026 15:48:01 +0000",
+  "published_ts": 1790524081,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画制作・ドキュメンタリー制作におけるAI活用が主題であり、映像業界のAI動向（生成AIでの制作・吹替自動化、著作権問題）について複数の業界人がパネルで掘り下げた記事。コンテンツ+AIが両立し対象。",
+  "ts": 1790528432.656419,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-win-primetime-scores-big-opening-weekend-1236876819/",
+  "title": "Box Office: ‘Avengers: Endgame Encore’ Returns to No. 1 With $26 Million, ‘Primetime’ Scores Impressive $19 Million Debut",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sun, 27 Sep 2026 15:35:35 +0000",
+  "published_ts": 1790523335,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画（実写を含む）の週末興行成績を報じた速報記事であり、複数の新作と再上映作品の数字（開封成績・累計興収）が主題。業界全体の興行動向（国内興行額、パンデミック以降の市場規模）も扱っているため、コンテンツ＋ビジネスの対象となる。",
+  "ts": 1790528432.656419,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/godzilla-minus-zero-best-picture-nomination-oscars-nyff-1236876769/",
+  "title": "‘Godzilla Minus Zero’ Sets Sights on Best Picture Oscar Nomination: ‘If the Possibility Is Not Zero, It’s Hard Not to Have a Little Bit of Hope’",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sun, 27 Sep 2026 15:12:34 +0000",
+  "published_ts": 1790521954,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "『ゴジラ マイナスワン』続編がアカデミー賞主要部門ノミネート候補として論じられており、映画制作（コンテンツ）と前作VFX受賞・興行実績（ビジネス）が主題だが、ビジネスは実績数字ではなく監督コメント・予測にとどまるため確度は中程度。",
+  "ts": 1790528432.656419,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/filmnation-ceo-glen-basner-sales-honor-talk-zurich-summit-1237114682/",
+  "title": "FilmNation CEO Glen Basner Talks Art Of Film Sales & Financing: “It’s Really Just About Sitting & Listening To The Filmmaking Team” – Zurich Summit",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 27 Sep 2026 13:59:44 +0000",
+  "published_ts": 1790517584,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画制作・販売・融資を扱う国際インディペンデント企業FilmNationのCEOへのインタビュー記事で、映画ビジネス（国際販売、前売り契約、融資戦略）が主題であり、コンテンツ産業の経営・ビジネス関連の深掘り記事として対象。AIは含まれていない。",
+  "ts": 1790528432.656419,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/09/federal-film-tax-incentives-impact-timeline-price-rises-1237114676/",
+  "title": "Film Execs Ponder Federal Film Tax Credit Impact, Timeline & Potential Price Rises — Zurich Summit",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 27 Sep 2026 11:43:46 +0000",
+  "published_ts": 1790509426,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画制作業界のビジネス環境に関する政策（連邦映画税額控除）の影響を業界エグゼクティブが分析する記事。制作コスト・雇用・海外製作との競争などの経営・市場に関わる実質的な議論が主題であり、コンテンツ産業のビジネスニュースとして対象。",
+  "ts": 1790528432.656419,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90ZUozSzc3QkpBNnRmaU0yMkgzMXdUeUFyd3h4NnlPeWZ0R3o4V2h0ZXZQdjJjUmpvdW5tNUNpR0pNajBjX2J5LUF1ekhqZmk3Q3hFVDRDMHhfa1FCUmhZd2Qwa21jd0VORGFaNUh0c0RHVF9PS2tsQm5xVHp2ek0?oc=5",
+  "title": "＜アニメ1週間＞「まどか☆マギカ」前作超えの興収21億円突破 “中秋の名月”に「ガンダムX」30周年記念ビジュアル公開 - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Sun, 27 Sep 2026 10:05:00 GMT",
+  "published_ts": 1790503500,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ劇場作品『まどか☆マギカ』の新たに判明した興行収入21億円が主題であり、これは実績値の数字ニュースのため、コンテンツ+ビジネスで対象です。",
+  "ts": 1790528432.656419,
   "is_new": true
  }
 ]
