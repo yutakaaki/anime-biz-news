@@ -1,194 +1,5 @@
 [
  {
-  "url": "https://deadline.com/2026/10/reacher-spinoff-neagley-renewed-season-2-amazon-1237144499/",
-  "title": "‘Reacher’ Spinoff ‘Neagley’ Renewed For Season 2 At Amazon",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Thu, 01 Oct 2026 17:30:00 +0000",
-  "published_ts": 1790875800,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "配信プラットフォーム（Amazon）による米国ドラマシリーズの視聴数実績（4000万人）と更新決定という、配信ビジネスの具体的な数字とコンテンツの話題を主題としており、コンテンツ×ビジネスの組み合わせに該当する。",
-  "ts": 1790876668.154134,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.animenewsnetwork.com/news/2026-10-01/tasokare-hotel-tsubomi-smartphone-game-ends-service/.242385",
-  "title": "Tasokare Hotel -Tsubomi- Smartphone Game Ends Service",
-  "source": "Anime News Network",
-  "sources": [
-   "Anime News Network"
-  ],
-  "published": "Thu, 01 Oct 2026 13:30:00 -0400",
-  "published_ts": 1790875800,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゲームIPのスマートフォンゲーム（新作）のサービス終了という事業上の決定が主題であり、コンテンツ（ゲーム・アニメ化）とビジネス（サービス終了・売上停止）の両分野が該当する。",
-  "ts": 1790876668.154134,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93YllPckREUTlqek9qV0l5WHhzWWNNV3pRSXgtbnJfMGxvN0FLcVlEY0w3WV91aEp0WlFhazh1MlkyeDltdnYxd1RpNzBPTU81NU5HaUg1S2hidl9kN3lrZVJSLVRVb3hOTDVvRW9KWGRqS1N0eWc?oc=5",
-  "title": "【レビュー】映画『バックルームズ』と生成AI、そして幻覚、崩壊について（文：岸裕真） - Tokyo Art Beat",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Thu, 01 Oct 2026 08:25:12 GMT",
-  "published_ts": 1790843112,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "実写映画『バックルームズ』のレビューが主体だが、生成AIと幻覚・崩壊についての考察が記事の中心であり、映像作品とAIを結びつけた分析記事と判断される。ただし本文全文が提供されていないため、AIが記事の実質的な主題（50%以上）であるかは完全には確認できず、confidence は「中」とした。",
-  "ts": 1790876668.154134,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TbTY2RktUY0h0R3lndldUU3FmeVlzdG1BdXFUaWRQRUQ3UVU0b2FRd0s5THgxSmR2NllWeThWVUFuS2NhZC1zdUdtUWZRQzVBbzhxVWxoVHpiT1JESGhjMFNKSUQ0VUZVdWIzRg?oc=5",
-  "title": "アニメグッズのTCP、石川で立体シール生産 デジタル印刷活用 - 日本経済新聞",
-  "source": "Googleニュース(nikkei.com)",
-  "sources": [
-   "Googleニュース(nikkei.com)"
-  ],
-  "published": "Thu, 01 Oct 2026 10:50:00 GMT",
-  "published_ts": 1790851800,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "アニメグッズ企業の生産拠点・生産技術に関する記事で、コンテンツ産業と関わるが、具体的な売上実績・契約金額・市場規模などの経営数字が記事に含まれているかが不明であり、単なる企業の生産施設移管・技術導入の告知に該当する可能性があるため。",
-  "ts": 1790876668.154134,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/tv/news/reacher-spinoff-neagley-renewed-season-2-amazon-1236894905/",
-  "title": "‘Reacher’ Spinoff ‘Neagley’ Renewed for Season 2 at Amazon",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Thu, 01 Oct 2026 17:30:00 +0000",
-  "published_ts": 1790875800,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "配信プラットフォーム（Amazon Prime Video）におけるスピンオフドラマシリーズの更新決定と視聴数実績（4000万ビュー、歴代4位）が主題であり、コンテンツ＋ビジネス（視聴成績・配信戦略）に該当する。非アニメ映像だが業界の配信ビジネス・視聴実績は対象範囲内。",
-  "ts": 1790876668.154134,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/artist-rights/apple-studios-vfx-workers-union-iatse-267325.html",
-  "title": "Apple Said No, But Its VFX Workers Said Yes, Voting 12-0 To Unionize With IATSE",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Thu, 01 Oct 2026 16:36:57 +0000",
-  "published_ts": 1790872617,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映像制作業界（VFX労働者の組合化）という実質的なビジネス動向を扱う記事であり、アニメではない実写関連ですが、映像産業全体を揺るがす労働組織化の重要なニュース（Apple Studios VFX労働者がIATSEと初の団体協約を獲得）であるため、コンテンツ×ビジネスで対象。",
-  "ts": 1790876668.154134,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/distribution/kpop-demon-hunters-sequel-theatrical-release-267319.html",
-  "title": "Netflix Promises ‘Very Broad Theatrical Release’ For ‘KPop Demon Hunters’ Sequel",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Thu, 01 Oct 2026 13:17:53 +0000",
-  "published_ts": 1790860673,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Netflixの経営幹部がアニメ作品『KPop Demon Hunters』続編の劇場公開戦略を発表しており、配信企業の映画公開戦略転換（ビジネス面でのポリシー変更）とアニメ作品が主題である。劇場興行数字（前作の$19M）も引き合いに出されており、配信とシアターの取引戦略がコンテンツ事業の中心を占めている。",
-  "ts": 1790876668.154134,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00T0RQXzdiemZ1OHIxNmcycnV3UFZ3cmV4VTRtR1FtbnZ3ZUFlZlRKanpJeDZjOVBsT1ZYM25CYmFWSTExYW1lSmRQT2N5SUtOTGwwZmh3?oc=5",
-  "title": "「SSFF & ASIA」2026秋、『スピーディ！』など50作品超を上映 生成AI×ショートフィルムの特別企画も - オリコンニュース",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Thu, 01 Oct 2026 11:12:00 GMT",
-  "published_ts": 1790853120,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "ショートフィルム映画祭での生成AI×ショートフィルムの特別企画という、映像コンテンツとAIの接点がある企画が示唆されているが、本文内容が不明確なため、実質的なAIの役割（技術活用、規制議論、投資など）が明確でなく、また興行規模や契約金額などのビジネス数字も見当たらないため、確度が中程度。",
-  "ts": 1790876668.154134,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/ishowspeed-atlas-culture-genesis-charles-roven-shaun-newsum-1236894533/",
-  "title": "Atlas Entertainment and Culture Genesis Strike Creator Content Development Pact for TV, Film and Short Form",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Thu, 01 Oct 2026 17:00:00 +0000",
-  "published_ts": 1790874000,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "大手映像制作企業Atlas EntertainmentとクリエイターエージェンシーCulture Genesisの提携契約により、YouTubeクリエイターコンテンツを映画・TV・短編向けに共同開発する取引が主題。映像制作（コンテンツ）と企業の提携・パッケージング戦略（ビジネス）の両軸が明確。",
-  "ts": 1790876668.154134,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/10/oscars-pakistan-mo-naqvis-hanging-by-a-wire-1237145140/",
   "title": "Oscars: Pakistan Picks Mo Naqvi’s Doc Thriller ‘Hanging By A Wire’ As Best International Feature Entry",
   "source": "Deadline",
@@ -210,27 +21,6 @@
   "updated": false
  },
  {
-  "url": "https://deadline.com/2026/10/box-office-digger-tom-cruise-verity-1237144416/",
-  "title": "‘Verity’ To Seduce $55M+ Worldwide Opening As Box Office Braces For ‘Digger’ Impact – Global Preview",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Thu, 01 Oct 2026 18:30:36 +0000",
-  "published_ts": 1790879436,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画『Verity』と『Digger』の週末興行予想を報じるBox office速報。北米$30M+、国際$20M-$25M、世界$50M-$55Mなど新たに判明した興行見通しが記事の中心であり、大型スタジオ製作の映画ビジネスニュースとして該当。",
-  "ts": 1790917254.781125,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://www.forbes.com/sites/timlammers/2026/10/01/young-washington-arrives-on-prime-video-as-angel-studios-broadens-vod-strategy-but-with-a-catch/",
   "title": "‘Young Washington’ Arrives On Prime Video As Angel Studios Broadens VOD Strategy (But With A Catch)",
   "source": "Forbes(Hollywood)",
@@ -247,27 +37,6 @@
   "label": "対象",
   "confidence": "中",
   "reason": "非アニメの実写映像だが、配信プラットフォーム戦略（VOD戦略の拡大）がビジネスの主題であり、映像配信の取引に関わるため対象。ただし業界全体を揺るがす大型ニュースではなく、単一スタジオの配信展開であるため confidence は中。",
-  "ts": 1790917254.781125,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/animators/paramount-skydance-warner-bros-discovery-merger-267343.html",
-  "title": "Judge Clears Final Hurdle For Paramount-WBD Merger, And Hollywood Gets A Little Smaller",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Thu, 01 Oct 2026 18:32:48 +0000",
-  "published_ts": 1790879568,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "メジャースタジオ（Paramount・Warner Bros. Discovery）の大型M&A統合に関する独占禁止訴訟の最終判断であり、業界の地図が変わる規模のニュースのため、実写中心・アニメ語が本文に無くても必ず対象。",
   "ts": 1790917254.781125,
   "is_new": false,
   "updated": false
@@ -505,13 +274,13 @@
  },
  {
   "url": "https://deadline.com/2026/10/box-office-verity-digger-1237145435/",
-  "title": "‘Verity’ Thrills $4.5M Previews, ‘Digger’ Shovels $1M+ – Box Office Update",
+  "title": "‘Verity’ Solid $33M+ Start; ‘Digger’ At $8M Is Tom Cruise’s Lowest Opening In 19 Years; Both Pics Get C+ CinemaScores – Box Office Update",
   "source": "Deadline(Box Office)",
   "sources": [
    "Deadline(Box Office)"
   ],
-  "published": "Fri, 02 Oct 2026 15:32:37 +0000",
-  "published_ts": 1790955157,
+  "published": "Sat, 03 Oct 2026 15:16:00 +0000",
+  "published_ts": 1791040560,
   "themes": [
    "コンテンツ",
    "ビジネス"
@@ -521,15 +290,16 @@
   "confidence": "高",
   "reason": "複数の映画の初日プレビュー興収数字と週末開場予想、既知作品との比較分析を報道したBox office速報。『Verity』と『Digger』の新規興行実績数字が主題で、実写映画でも興行成績の数字ニュースは該当規定により対象。",
   "ts": 1790963232.7563908,
-  "is_new": false,
-  "updated": false
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "https://www.cartoonbrew.com/opinion/skydance-paramount-warner-bros-david-ellison-267397.html",
   "title": "Paramount-Warner Bros. Parent Company Will Be Named Skydance",
   "source": "Cartoon Brew",
   "sources": [
-   "Cartoon Brew"
+   "Cartoon Brew",
+   "Googleニュース(reuters.com)"
   ],
   "published": "Fri, 02 Oct 2026 15:47:03 +0000",
   "published_ts": 1790956023,
@@ -694,48 +464,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hcFBfWmdRVmRUNFlhMWtzNHI1MkZ1el9BcXYxak84Z2NsMXFFM3FkcnVGbUVNaXVHb0ZQdXRqY0toaEhPOGxJLTAxV0RFQjhka2U3bkpEVVR2eGVCbVZNV2pTWmZnMGNXM3JSVVhrX3VnS3NMbFRCd0k2RXItekk?oc=5",
-  "title": "「SSFF & ASIA」2026秋、『スピーディ！』など50作品超を上映 生成AI×ショートフィルムの特別企画も（オリコン） - Yahoo!ニュース",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Thu, 01 Oct 2026 11:12:32 GMT",
-  "published_ts": 1790853152,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "ショートフィルム映画祭の2026年秋の開催発表で、生成AI×ショートフィルムの特別企画が予定されており、コンテンツとAIが主題だが、ビジネス（出資・契約金額など）が不明確で、また上映作品のラインアップ紹介が中心である可能性があるため確認が必要。",
-  "ts": 1790963232.7563908,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QNDAyYmJhM1BrV2pmUEU0WENsd19sNVRCTFowRGp1SHVma2ctbm1qWTNOR2Ntb2pRM3FrUlJacjg3Skt4d0F4SGtDQ0NYMlFNUXhpeGZIZW4yMlA1LUpGXzQydw?oc=5",
-  "title": "TGS2026でAI画像生成アプリのPixAIを体験してきた！4周年記念の「アニメ調最強」画像生成AIとは？（PR） - IGN Japan",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Thu, 01 Oct 2026 10:03:00 GMT",
-  "published_ts": 1790848980,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "その他",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "PixAIはアニメ調画像生成に特化したAIツールであり、コンテンツ×AI要素は明確だが、記事がPRベースでツール紹介・体験レポが主体であり、AIの権利問題・規制・投資・ビジネスの実質的な進展や数字が不明確なため、ビジネス要素の判定が困難。TGS出展という業界動向の情報価値はあるが、取材型PR記事のため確度をやや落とす。",
-  "ts": 1790963232.7563908,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/10/indie-films-opening-naza-venice-prize-winning-documentary-1237145719/",
   "title": "Venice Prize-Winner ‘NAZA’ Brings Explosive Gaza Exposé to U.S. Theaters – Specialty Preview",
   "source": "Deadline(Box Office)",
@@ -753,7 +481,8 @@
   "confidence": "高",
   "reason": "ドキュメンタリー映画『NAZA』の米国公開成績（初週末$70k超、60劇場以上への拡大公開予定）と国際配給実績（56市場での配給契約、イタリアで€181万の興行収入）が主題であり、映像作品のBox office数字と配信ビジネス実績を扱う記事のため、コンテンツ+ビジネスで対象。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/timlammers/2026/10/02/digger-tom-cruise-film-eyes-dismal-10-million-opening-weekend-at-box-office/",
@@ -773,7 +502,8 @@
   "confidence": "高",
   "reason": "実写映画の初週末興行収入という新たに判明した数字ニュース。非アニメだが、Box officeの数字報道は業界全体の動向として必ず拾う対象。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/newsletter/skydances-identity-crisis-canadas-kids-media-crossroads-adventure-times-in-house-animation-267419.html",
@@ -793,7 +523,8 @@
   "confidence": "高",
   "reason": "Paramount-Skydance-Warner Bros. Discovery統合の最終承認・クロージング予定日確定が主要ニュースであり、業界全体を揺るがす大型M&Aのため、実写中心でもメジャースタジオ統合ニュースとしてコンテンツ+ビジネスで対象。加えてアニメ製作のアウトソーシング vs. インハウス化の議論、カナダのキッズメディア危機報告など映像産業全体の構造的ビジネス課題を複数扱っている。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/207953",
@@ -813,7 +544,8 @@
   "confidence": "中",
   "reason": "YouTubeのショート動画レコメンドアルゴリズム更新であり、AIによる独創性判定が中心だが、動画コンテンツの露出制御という映像配信プラットフォームの重要なポリシー変更であるため対象。ただしビジネスの数字や契約が無く、また一般的なプラットフォーム規約変更で映像/IPビジネスへの直接的な影響が明示的でないため、確信度は中程度。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAySko5MXcwcGVjamE5NjVWVVhCeWJsdDBQRGpQSFhoUVp4TE9YTmd6R0NXdjB6Yy1UZ1VpU3FiX09LTGJhYmc?oc=5",
@@ -833,7 +565,8 @@
   "confidence": "中",
   "reason": "生成AIを用いたアニメ制作の技術・工程解説がセミナーで提供される記事で、AI×アニメコンテンツの交点は明確だが、セミナー告知・PR的な性質が強く、実際の制作事例の具体的なビジネス成果や企業の経営数字が記事本文で示されているか不明であるため、詳細確認が必要。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/tv/news/george-cheeks-tv-role-skydance-paramount-warner-bros-merger-1236897948/",
@@ -853,7 +586,8 @@
   "confidence": "高",
   "reason": "Paramount-Warner Bros.合併後のSkydanceにおける経営体制の再編（George Cheeks、Channing Dungeyら幹部の職務配置）が主題で、テレビネットワーク・スタジオの統合構造をめぐる大型M&A続報であり、映像業界の構造ニュースに該当するため。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqblJvSW41RGN2aGZIeGFSd05hLWlid2dPc0FKNy1fY0E5QXhCNEU4UVNCUFBwbWtRT2lTY1F4V3V3LUZmVmZld1Q5RDdFc2hXbjlxajVQZ3pwdjJfVG5jRXBzUHVKaUM0SDhKVGREM2daUQ?oc=5",
@@ -873,7 +607,8 @@
   "confidence": "中",
   "reason": "生成AIを使ったアニメ制作という「コンテンツ×AI」の組み合わせは該当するが、記事の主題は有料セミナーの開催告知（イベント・PR）であり、実際の制作プロジェクト・投資・ビジネス成果の報道ではないため、ビジネスの「実質」に欠ける。AI技術の活用を含むため対象の可能性もあり、要確認段階。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/opinion/digger-twist-tom-cruise-movie-climate-crisis-1236897583/",
@@ -893,7 +628,8 @@
   "confidence": "中",
   "reason": "実写映画『Digger』の興行不振（box office disaster）とWarner Bros.の経営危機（新オーナーEllison、最後の作品の可能性）を背景に、作品の内容を深掘り分析したオピニオン記事であり、映像産業の大型ニュース（メジャースタジオの経営転換）に関連するため。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OeVh1bTd0SkFWVkhNXzlpbTRHaGV1VkJpeV9EbHhweXAxcHdsbXJDdUdaR1NNM2l6VXdSSGR4blFSbl84b285dERrWEo3c0JnQjl5V1Jzb1BXaFd3M1IwVA?oc=5",
@@ -913,7 +649,8 @@
   "confidence": "高",
   "reason": "実写映画の再映画化をめぐる生成AIの活用がニュースの中心であり、映像産業のAI動向として該当。アニメではないが、生成AIが映像制作に絡む重要事例のため拾う。ビジネス（予算・契約金額）の具体的言及が本文に見当たらないため、themes はコンテンツとAIに限定。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710/",
@@ -933,7 +670,8 @@
   "confidence": "高",
   "reason": "ParamountとWarner Bros. DiscoveryのSkydance統合買収という業界地図を変える大型M&Aについて、業界関係者の反対意見を報じたニュース。メジャースタジオ統合のビジネス・規制問題が主題であり、実写中心でもコンテンツ業界全体を揺るがす構造ニュースとして対象。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/10/skydance-hbo-max-paramount-streaming-bundle-1237145362/",
@@ -953,7 +691,8 @@
   "confidence": "高",
   "reason": "SkydanceによるParamount-Warner Bros. Discovery合併後の配信戦略（HBO Max と Paramount+ の統合方針）に関する発表で、メジャーメディア企業の経営統合に伴う事業戦略が主題であり、業界の地図を変える大型M&Aの続報として対象。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/david-ellison-skydance-name-mike-pam-barbie-2-1236897929/",
@@ -973,7 +712,8 @@
   "confidence": "高",
   "reason": "Skydance によるWarner Bros. Discovery買収の正式クロージング直前のレポート。企業再編に伴う経営幹部の人事異動、ブランド戦略、および『バービー2』の製作進行など、メジャースタジオの大型M&Aをめぐる業界地図を変える構造的ニュースであり、映像産業の経営・ビジネス動向を中心に報道している。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdHNjbEMxQjZaRlFfUTRNU25sbmpNLU1NT2xVNzBEbG9hUjIxN2MydWxBbFU5Umptb3dHY1FQa1FLVVFvTEJZbzduNnFSb1pXb3g5dFYtX1FMWTRwb1BrY201T2xQWnVtZFExV29SdlAwRXdzeGlNR29aYl81RDdPMUxkanhheTB1VVlzSW9Ea1NIc21VVm1RM1laUUxvTGlVaFFoWWxha3k0QzBkUlFlRS1lMERzSDZ2cEQxeA?oc=5",
@@ -993,7 +733,8 @@
   "confidence": "中",
   "reason": "実写映画『Digger』の初週末プレビュー興行成績（$1.2M）を報じた記事で、Box officeの数字が主題であり、併せてWarner Bros.の経営トップ交代といった業界規模のビジネスニュースに触れているため、コンテンツ＋ビジネスに該当する。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/10/warner-bros-michael-de-luca-pam-abdy-whats-next-1237145671/",
@@ -1013,7 +754,8 @@
   "confidence": "高",
   "reason": "Warner Bros.とParamountの合併によるSkydanceでの経営人事（De LucaとAbdyの退職）と、それに伴う契約解約・今後の去就をめぐる大型メディア企業のM&A続報。映像業界の地図が変わる構造ニュースであり、メジャースタジオの経営統合に関わるビジネス記事として対象。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/europe-leaders-optimistic-paramount-warner-bros-takeover-1236897580/",
@@ -1033,7 +775,8 @@
   "confidence": "高",
   "reason": "Paramount・SkydanceによるWarner Bros. Discovery買収（$111億規模の大型M&A）が大手メディア企業統合であり業界地図を変える重要ニュースで、欧州の業界指導者らの見解を掘り下げた記事。題材は実写メディア企業の統合だがハリウッド映像業界全体に関わる構造的な経営ニュースであり、映像産業（コンテンツ）とビジネス（M&A・債務・製作投資承諾）の両軸が主題である。",
   "ts": 1791003641.533996,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/skydance-los-angeles-threat-leave-headquarters-1236897717/",
@@ -1053,6 +796,148 @@
   "confidence": "高",
   "reason": "Skydance（Paramount買収完了後）のロサンゼルス本社維持と州政府との協議を巡る経営・政策の実質的な分析であり、映像業界の地図を変える大型M&A後の構造問題として、コンテンツ産業とビジネス（本社設置・規制・インセンティブ）が主題である。",
   "ts": 1791003641.533996,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/box-office-digger-verity-resident-evil-primetime-1236895074/",
+  "title": "Box Office: ‘Digger’ Nosediving With $3.4 Million on Opening Day, ‘Verity’ Lands at No. 1 With $15.1 Million on Friday",
+  "source": "Variety(Box Office)",
+  "sources": [
+   "Variety(Box Office)"
+  ],
+  "published": "Sat, 03 Oct 2026 15:46:12 +0000",
+  "published_ts": 1791042372,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画の週末北米興行成績（Box office）の最新数字を報道する記事。複数作品の初週末興収・累計興収など興行ビジネスの実績値が主題であり、非アニメ実写でも興行数字ニュースとして対象。",
+  "ts": 1791047616.848238,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMWRJbDlrVnh6bnkyTW1WSjQ3VGtFUmdwLXZsWEd3cDFDaTdjUmVBLUltc1RvaTI0V1JwYV8tRWJBQjdIekZHWFktRDBoRHpGWERsbXZUd09aM18xSmNjTDhzSzd5UTI3d0RrSmZJeC0wN0x4ODlHVC1MVEVkVG1GWkJxUGV0MWxWYnI1cXVXN1g2WHpEQUh1T004VktrSHdfQWZZcWNueFp3dTd1NUxjazJsNGwzVWU0Z043V2ZHbThmMVRmMFVyOGR0a1VnZkJ4RUQ2SENGbGZ4dFg3ZHJYbEJlZXdZYUtma004a2I0NER2U0RpTFZ30gH8AUFVX3lxTE42N0RMeGJ0cFMwSDVhQzNDZWI5RDBqMlZZQ182V1IxZjBaaUUxcWZ4bm1OQkVZRFVYSVNvU1NHX1JzUlNOTlJLakdITllwaHNpOUp4czY4U2JmeHBzZmduUzZoSEs4azFZN2w4SGxvRjZoTHE0c202M29kQUtmS1JoMGx3c1FwNnNlSFZPdG9GVHFLRUVmQlRsY1N2dFZCVWU4VnJCaTdzX21nR1U3OENHUjdoTHB0LXdzeFptSkN1Y2c5UjBveXdRVjVxMmRSVkdJOFQ3N0RVWTYwZC1VZmQ3ZlE1TjFValRQNzM1Sjd0TXdqLVBhajZ3VmhBaw?oc=5",
+  "title": "Doraemon Castle of the Undersea Devil Box Office Collections: Anime film shines with Rs 2.9 crore on Day 1 - Pinkvilla",
+  "source": "Google News: anime box office",
+  "sources": [
+   "Google News: anime box office"
+  ],
+  "published": "Sat, 03 Oct 2026 08:49:51 GMT",
+  "published_ts": 1791017391,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画（ドラえもん）の初日興行成績（インド市場でRs 2.9 crore）を報じた数字ニュースであり、コンテンツ＋ビジネス（新規興行実績値）が主題のため対象。",
+  "ts": 1791047616.848238,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/208003",
+  "title": "PS5、ProじゃなくてもAI高画質化を体験できる新技術　5.5万円〜のハードでも繊細さと安定性両立",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Sat, 03 Oct 2026 07:45:43 +0000",
+  "published_ts": 1791013543,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム機PS5のAI高画質化技術（QSSR）の実装発表で、コンテンツ（ゲーム）・AI技術・ビジネス（ハード機能の展開）の3分野が揃う。新機能の発表と対応タイトルの公開という速報性が高い。",
+  "ts": 1791047616.848238,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/global/projeto-paradiso-olga-rabinovich-encounters-award-sao-paulo-1236898090/",
+  "title": "Projeto Paradiso Founder Olga Rabinovich to Receive Inaugural Encounters Award at the São Paulo Film Festival (EXCLUSIVE)",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sat, 03 Oct 2026 13:01:33 +0000",
+  "published_ts": 1791032493,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ブラジル映画人材の国際的発展を支援するProjetoParadisoの財団助成活動と、映画祭でのアワード受賞を中心とした記事。映像産業の資金調達・助成金・人材育成ネットワーク構築というビジネス的な実績（278人のタレントネットワーク、250以上のパートナー機関、ScreenBrasil等の新イニシアティブ）が主題であり、コンテンツ（映画制作支援）とビジネス（投資・助成・パートナーシップ）の両軸を満たす。",
+  "ts": 1791047616.848238,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaC1xTDBYMWhUMWluUzR5aUVWSGJIMWVya2pBRUFyMTRwb3FMZ1FQQ2FqNm52d2lodGNoRGFmRjdOLTBaaG9YS2pXY1RVZTdBbk1rMEMtYUdIV3hIYWdWMnA5SkFEUlIwam1OX1ppeFVVck8zdHVFcGJGU2luYW9hNmJ0al9OcU0?oc=5",
+  "title": "Doraemon: Castle of the Undersea Devil Scores Big in India, Earns Rs 2.9 Cr on Opening Day - Pragativadi",
+  "source": "Google News: anime box office",
+  "sources": [
+   "Google News: anime box office"
+  ],
+  "published": "Sat, 03 Oct 2026 12:00:00 GMT",
+  "published_ts": 1791028800,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ドラえもん映画の新作がインド市場で初日興収2.9クローレという具体的な興行成績数字を報じており、コンテンツ（映画/IP）とビジネス（Box office）の両軸を満たすため対象。",
+  "ts": 1791047616.848238,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/skydance-david-ellison-paramount-warner-bros-merger-debt-1236898108/",
+  "title": "Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly?",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sat, 03 Oct 2026 13:00:00 +0000",
+  "published_ts": 1791032400,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "メジャースタジオParamountとWarner Bros. Discoveryの大型M&A統合の完結と、新体制下での経営課題・統合戦略を詳細に分析した特集。業界地図が変わる構造ニュースの深掘り記事であり、規制当局承認・訴訟和解など重要な続報も含まれている。",
+  "ts": 1791047616.848238,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/timlammers/2026/10/03/spider-man-brand-new-day-swings-to-streaming-this-week-as-extended-cut-reportedly-in-the-works/",
+  "title": "‘Spider-Man: Brand New Day’ Swings To Streaming This Week As Extended Cut Reportedly In The Works",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Sat, 03 Oct 2026 05:00:00 -0400",
+  "published_ts": 1791018000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "実写映画の配信開始と劇場版の再上映計画（拡張版）に関するニュース。配信権・劇場再公開はコンテンツのビジネス面に該当するが、メジャースタジオの大型統合や買収ではなく、個別作品の配信・再上映の告知に留まるため、判断の確度は中程度。",
+  "ts": 1791047616.848238,
   "is_new": true
  }
 ]
