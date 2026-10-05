@@ -18,153 +18,6 @@
   "confidence": "高",
   "reason": "複数の映画の初日プレビュー興収数字と週末開場予想、既知作品との比較分析を報道したBox office速報。『Verity』と『Digger』の新規興行実績数字が主題で、実写映画でも興行成績の数字ニュースは該当規定により対象。",
   "ts": 1790963232.7563908,
-  "is_new": true,
-  "updated": true
- },
- {
-  "url": "https://deadline.com/2026/10/jennifer-lawrence-gene-stupnitsky-one-month-mark-movie-1237145376/",
-  "title": "Jennifer Lawrence Reunites With ‘No Hard Feelings’ Director Gene Stupnitsky On Rom-Com ‘One Month Mark’ From Apple, Chernin And Sophie Fleur De Bruijn",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Fri, 02 Oct 2026 17:15:00 +0000",
-  "published_ts": 1790961300,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画の制作発表であり、主要な配給・製作企業（Apple、Chernin Entertainment）の出資・企画、監督決定、俳優キャスティングなど映像産業のビジネス面が主題。非アニメだが、業界の大手ストリーマー/制作企業による映像作品化の取引が報道されているため対象。",
-  "ts": 1790963232.7563908,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/10/indie-films-opening-naza-venice-prize-winning-documentary-1237145719/",
-  "title": "Venice Prize-Winner ‘NAZA’ Brings Explosive Gaza Exposé to U.S. Theaters – Specialty Preview",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Fri, 02 Oct 2026 23:15:00 +0000",
-  "published_ts": 1790982900,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ドキュメンタリー映画『NAZA』の米国公開成績（初週末$70k超、60劇場以上への拡大公開予定）と国際配給実績（56市場での配給契約、イタリアで€181万の興行収入）が主題であり、映像作品のBox office数字と配信ビジネス実績を扱う記事のため、コンテンツ+ビジネスで対象。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/timlammers/2026/10/02/digger-tom-cruise-film-eyes-dismal-10-million-opening-weekend-at-box-office/",
-  "title": "‘Digger’: Tom Cruise Film Eyes Dismal $10 Million Opening Weekend At Box Office",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)"
-  ],
-  "published": "Fri, 02 Oct 2026 22:43:46 -0400",
-  "published_ts": 1790995426,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画の初週末興行収入という新たに判明した数字ニュース。非アニメだが、Box officeの数字報道は業界全体の動向として必ず拾う対象。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/newsletter/skydances-identity-crisis-canadas-kids-media-crossroads-adventure-times-in-house-animation-267419.html",
-  "title": "Skydance’s Identity Crisis; Canada’s Kids Media Crossroads; ‘Adventure Time’s’ In-House Animation",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 02 Oct 2026 19:57:54 +0000",
-  "published_ts": 1790971074,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Paramount-Skydance-Warner Bros. Discovery統合の最終承認・クロージング予定日確定が主要ニュースであり、業界全体を揺るがす大型M&Aのため、実写中心でもメジャースタジオ統合ニュースとしてコンテンツ+ビジネスで対象。加えてアニメ製作のアウトソーシング vs. インハウス化の議論、カナダのキッズメディア危機報告など映像産業全体の構造的ビジネス課題を複数扱っている。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/207953",
-  "title": "YouTube、ショート動画の「転載系」に視聴数減少を予告　独創性ない場合は露出を減すアルゴリズム更新",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sat, 03 Oct 2026 04:14:38 +0000",
-  "published_ts": 1791000878,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "YouTubeのショート動画レコメンドアルゴリズム更新であり、AIによる独創性判定が中心だが、動画コンテンツの露出制御という映像配信プラットフォームの重要なポリシー変更であるため対象。ただしビジネスの数字や契約が無く、また一般的なプラットフォーム規約変更で映像/IPビジネスへの直接的な影響が明示的でないため、確信度は中程度。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAySko5MXcwcGVjamE5NjVWVVhCeWJsdDBQRGpQSFhoUVp4TE9YTmd6R0NXdjB6Yy1UZ1VpU3FiX09LTGJhYmc?oc=5",
-  "title": "生成AIアニメ制作の裏側15工程を解説｜限定30名セミナー - Koubo",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Fri, 02 Oct 2026 18:04:37 GMT",
-  "published_ts": 1790964277,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "その他",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "生成AIを用いたアニメ制作の技術・工程解説がセミナーで提供される記事で、AI×アニメコンテンツの交点は明確だが、セミナー告知・PR的な性質が強く、実際の制作事例の具体的なビジネス成果や企業の経営数字が記事本文で示されているか不明であるため、詳細確認が必要。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/tv/news/george-cheeks-tv-role-skydance-paramount-warner-bros-merger-1236897948/",
-  "title": "George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 02 Oct 2026 23:40:19 +0000",
-  "published_ts": 1790984419,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Paramount-Warner Bros.合併後のSkydanceにおける経営体制の再編（George Cheeks、Channing Dungeyら幹部の職務配置）が主題で、テレビネットワーク・スタジオの統合構造をめぐる大型M&A続報であり、映像業界の構造ニュースに該当するため。",
-  "ts": 1791003641.533996,
   "is_new": false,
   "updated": false
  },
@@ -175,8 +28,8 @@
   "sources": [
    "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
   ],
-  "published": "Sat, 03 Oct 2026 00:45:23 GMT",
-  "published_ts": 1790988323,
+  "published": "Sat, 03 Oct 2026 06:40:00 GMT",
+  "published_ts": 1791009600,
   "themes": [
    "コンテンツ",
    "AI"
@@ -186,198 +39,8 @@
   "confidence": "中",
   "reason": "生成AIを使ったアニメ制作という「コンテンツ×AI」の組み合わせは該当するが、記事の主題は有料セミナーの開催告知（イベント・PR）であり、実際の制作プロジェクト・投資・ビジネス成果の報道ではないため、ビジネスの「実質」に欠ける。AI技術の活用を含むため対象の可能性もあり、要確認段階。",
   "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/opinion/digger-twist-tom-cruise-movie-climate-crisis-1236897583/",
-  "title": "‘Digger’: How Its Big Twist Saves the Movie From Being a Complete Disaster (Opinion)",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 02 Oct 2026 23:15:00 +0000",
-  "published_ts": 1790982900,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "実写映画『Digger』の興行不振（box office disaster）とWarner Bros.の経営危機（新オーナーEllison、最後の作品の可能性）を背景に、作品の内容を深掘り分析したオピニオン記事であり、映像産業の大型ニュース（メジャースタジオの経営転換）に関連するため。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OeVh1bTd0SkFWVkhNXzlpbTRHaGV1VkJpeV9EbHhweXAxcHdsbXJDdUdaR1NNM2l6VXdSSGR4blFSbl84b285dERrWEo3c0JnQjl5V1Jzb1BXaFd3M1IwVA?oc=5",
-  "title": "『ハリー・ポッター』Pが生成AIで『野性の呼び声』を再映画化へ - theriver.jp",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-  "published_ts": 1790985600,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画の再映画化をめぐる生成AIの活用がニュースの中心であり、映像産業のAI動向として該当。アニメではないが、生成AIが映像制作に絡む重要事例のため拾う。ビジネス（予算・契約金額）の具体的言及が本文に見当たらないため、themes はコンテンツとAIに限定。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710/",
-  "title": "John Leguizamo Has a Message for David Ellison: ‘Think of What Americans Need and What the Industry Needs’",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 02 Oct 2026 22:37:41 +0000",
-  "published_ts": 1790980661,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ParamountとWarner Bros. DiscoveryのSkydance統合買収という業界地図を変える大型M&Aについて、業界関係者の反対意見を報じたニュース。メジャースタジオ統合のビジネス・規制問題が主題であり、実写中心でもコンテンツ業界全体を揺るがす構造ニュースとして対象。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/10/skydance-hbo-max-paramount-streaming-bundle-1237145362/",
-  "title": "Post-Merger Skydance Keeping Both HBO Max & Paramount+ Streaming Brands",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sat, 03 Oct 2026 00:33:22 +0000",
-  "published_ts": 1790987602,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "SkydanceによるParamount-Warner Bros. Discovery合併後の配信戦略（HBO Max と Paramount+ の統合方針）に関する発表で、メジャーメディア企業の経営統合に伴う事業戦略が主題であり、業界の地図を変える大型M&Aの続報として対象。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/david-ellison-skydance-name-mike-pam-barbie-2-1236897929/",
-  "title": "Skydance Shuffle: David Ellison Addresses Troops About New Name, Says Adieu to Mike and Pam and Sets Table for ‘Barbie 2’",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 02 Oct 2026 22:17:51 +0000",
-  "published_ts": 1790979471,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Skydance によるWarner Bros. Discovery買収の正式クロージング直前のレポート。企業再編に伴う経営幹部の人事異動、ブランド戦略、および『バービー2』の製作進行など、メジャースタジオの大型M&Aをめぐる業界地図を変える構造的ニュースであり、映像産業の経営・ビジネス動向を中心に報道している。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdHNjbEMxQjZaRlFfUTRNU25sbmpNLU1NT2xVNzBEbG9hUjIxN2MydWxBbFU5Umptb3dHY1FQa1FLVVFvTEJZbzduNnFSb1pXb3g5dFYtX1FMWTRwb1BrY201T2xQWnVtZFExV29SdlAwRXdzeGlNR29aYl81RDdPMUxkanhheTB1VVlzSW9Ea1NIc21VVm1RM1laUUxvTGlVaFFoWWxha3k0QzBkUlFlRS1lMERzSDZ2cEQxeA?oc=5",
-  "title": "‘Digger’ Unearths $1.2M in Box Office Previews Amid Warner Bros.’ Leadership Shake-Up - The Hollywood Reporter",
-  "source": "Googleニュース(hollywoodreporter.com)",
-  "sources": [
-   "Googleニュース(hollywoodreporter.com)"
-  ],
-  "published": "Fri, 02 Oct 2026 17:39:32 GMT",
-  "published_ts": 1790962772,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "実写映画『Digger』の初週末プレビュー興行成績（$1.2M）を報じた記事で、Box officeの数字が主題であり、併せてWarner Bros.の経営トップ交代といった業界規模のビジネスニュースに触れているため、コンテンツ＋ビジネスに該当する。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/10/warner-bros-michael-de-luca-pam-abdy-whats-next-1237145671/",
-  "title": "Michael De Luca & Pamela Abdy: When They Are Leaving Warner Bros & What’s Next For Them",
-  "source": "Deadline",
-  "sources": [
-   "Deadline",
-   "Googleニュース(hollywoodreporter.com)"
-  ],
-  "published": "Fri, 02 Oct 2026 23:39:01 +0000",
-  "published_ts": 1790984341,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Warner Bros.とParamountの合併によるSkydanceでの経営人事（De LucaとAbdyの退職）と、それに伴う契約解約・今後の去就をめぐる大型メディア企業のM&A続報。映像業界の地図が変わる構造ニュースであり、メジャースタジオの経営統合に関わるビジネス記事として対象。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/europe-leaders-optimistic-paramount-warner-bros-takeover-1236897580/",
-  "title": "European Entertainment Leaders Mostly Optimistic About David Ellison’s Takeover of Warner Bros. : ‘I Believe in His Commitment to Cinema’",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 02 Oct 2026 21:10:43 +0000",
-  "published_ts": 1790975443,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Paramount・SkydanceによるWarner Bros. Discovery買収（$111億規模の大型M&A）が大手メディア企業統合であり業界地図を変える重要ニュースで、欧州の業界指導者らの見解を掘り下げた記事。題材は実写メディア企業の統合だがハリウッド映像業界全体に関わる構造的な経営ニュースであり、映像産業（コンテンツ）とビジネス（M&A・債務・製作投資承諾）の両軸が主題である。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/skydance-los-angeles-threat-leave-headquarters-1236897717/",
-  "title": "Skydance Says It’s Committed to L.A., but Threat to Leave Has Proved Potent",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 02 Oct 2026 21:01:48 +0000",
-  "published_ts": 1790974908,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Skydance（Paramount買収完了後）のロサンゼルス本社維持と州政府との協議を巡る経営・政策の実質的な分析であり、映像業界の地図を変える大型M&A後の構造問題として、コンテンツ産業とビジネス（本社設置・規制・インセンティブ）が主題である。",
-  "ts": 1791003641.533996,
-  "is_new": false,
-  "updated": false
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "https://variety.com/2026/film/box-office/box-office-digger-verity-resident-evil-primetime-1236895074/",
@@ -692,7 +355,8 @@
   "confidence": "高",
   "reason": "アニメ映画（ドラえもん）の興行収入を報道する速報記事。新たに判明した興行数字（初日2.60クローレ、週末目標8クローレ）が主題であり、コンテンツ＋ビジネスの2分野に該当する。",
   "ts": 1791133238.428824,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13R21Ga3JxWnE2eEREZVRaMlY3VUdKTVpWSWZIdEdqQUtRWEc3THRYRmhkRjlOYnRQTUtGcm9wY0ZIZF8tSjgtLWdHam5HMkVnRXJXOWdHbGU1b0xWX25SeWxrZ0U1U2NvZzFN?oc=5",
@@ -712,14 +376,16 @@
   "confidence": "高",
   "reason": "ドラえもん劇場版のインド興行成績（Box office）に関する速報で、アニメIP（コンテンツ）の新たな興行数字（ビジネス）が主題である。実績値の報道であり対象に該当する。",
   "ts": 1791133238.428824,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/10/box-office-avengers-endgame-avatar-record-1237146168/",
   "title": "‘Avengers: Endgame’ Overtakes ‘Avatar’ Again As Highest Grossing Movie Ever At Global Box Office",
   "source": "Deadline(Box Office)",
   "sources": [
-   "Deadline(Box Office)"
+   "Deadline(Box Office)",
+   "Variety(Box Office)"
   ],
   "published": "Sun, 04 Oct 2026 15:11:23 +0000",
   "published_ts": 1791126683,
@@ -732,27 +398,8 @@
   "confidence": "高",
   "reason": "実写映画の全世界興行成績（Box office）が新たに判明した数字ニュースであり、映像業界の興行記録更新という業界全体の構造ニュースに該当するため、非アニメでもコンテンツ×ビジネスで対象。",
   "ts": 1791133238.428824,
-  "is_new": true
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZFNPbEhjVE0wNWk2ZFpIaloyQU4xRGYtWnFNODQzeXVjZWtwdzU3LWF4LWdxaWhjS2JSbFUxR1RtVlo3aTJRWmFRZ2NzdE9RVDY4RmVUOGM5My1jSGZGX09NRHNuM2RsdlRFa1J1MnJscF85ZjJIOFd5ZkhWRFB0czFXcmh5NDFENzhxTHVkMkVPaVhtU3g5TWZMYXVHQVBH?oc=5",
-  "title": "Skydance Is a Decent Name, It’s Just Weaker Than Paramount or Warner Bros. - The Hollywood Reporter",
-  "source": "Googleニュース(hollywoodreporter.com)",
-  "sources": [
-   "Googleニュース(hollywoodreporter.com)"
-  ],
-  "published": "Fri, 02 Oct 2026 18:17:03 GMT",
-  "published_ts": 1790965023,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "SkydanceによるParamount買収をめぐる業界再編の分析記事であり、メジャースタジオの統合という映像・コンテンツ業界全体の地図が変わる大型ニュースについて、ブランド戦略や企業名の価値を掘り下げたオピニオン記事と判断される。",
-  "ts": 1791133238.428824,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/rickellis/2026/10/04/canal-tax-fight-puts-french-cinema-financing-at-risk/",
@@ -772,7 +419,8 @@
   "confidence": "高",
   "reason": "フランスの映像産業（映画・テレビコンテンツ制作の資金調達）に直結する税制提案がビジネスに影響を与える構造的ニュースであり、コンテンツ産業とビジネス（政策・税制）の両立点から対象。",
   "ts": 1791133238.428824,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/box-office/digger-box-office-majorly-bombs-verity-scores-1236898521/",
@@ -792,7 +440,8 @@
   "confidence": "高",
   "reason": "実写映画の初週末興行成績（Box Office）に関する速報記事。『Digger』が8百万ドル、『Verity』が32.6百万ドルの興行数字を報道しており、非アニメであっても新規の興行成績の数字ニュースは対象分野に該当する。",
   "ts": 1791133238.428824,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTG1zdTBVeHlaR0JHd255dDJlZVdycGVsQkNIclpZWnl0MVgxbDBJT3BJV1dKSnVscW4taUFFamliTTdxd3lVeUdlMVl3SFYtTUFBOGhkS1c0eEZ1UmxkVk9YYkVtSFFhWW1GYk1MNjRHdllZMVhwbUExbFRUZU9YeHp5TnNiWWVqR2U1M2FsZWRGYWRfQmZYcWQ4YmVlN20yVnc?oc=5",
@@ -812,7 +461,8 @@
   "confidence": "中",
   "reason": "Tom Cruiseの実写映画『Digger』の国別マーケティング戦略と市場反応（興行成績やマーケティング施策の数字）がビジネスニュースだが、非アニメ映像であり、AIは言及なく、業界全体を揺るがす大型M&Aでもなく、新規の具体的な興行数字が見出しから不明確であるため確信度は中程度。",
   "ts": 1791133238.428824,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNUXNULTI2aU1zZFloTmphaXVsa1RYYXZJdUd1bDBQMVJyQXFKRXB1cDZWYkpRdDBzeDhvN1NuZzhNZzhFNWo2VlRUcUYtcURPUGNJOEF6Q1oyNGcxdXJVME80Vk5ZNG9rTGk5RXYyYnpHV1duY0NGMEtURkhla2RQRzEyUHg0cmJQTklyUVZhUUdQWE85ODExeFRCY3pPeWVWdEdPdGZDZnA1bW85ZHV2MDVVUVpZNE1YYkVKVVhwZUt2VmVTcUh1bnJrNlZKcXFRd3NDLURXTy1OWU5qTXlySXdBUjJzM0Y4MExEUWR1YzNsWU40T2RvbVBQU0lWTVhYSnYxejNfRUZacE9qODRjSlNMMkVFQTRXTl9hSDhQNkxsaEFQSGRSQk44RTJLYXJLN0I2LXZIOHBCczhkZ3laSEJTT25DdmhFMFMxSXpPbE1odGtDMUM1dTQ4NzdYcnM?oc=5",
@@ -832,47 +482,8 @@
   "confidence": "低",
   "reason": "AIがアニメーション生成に使われているコンテンツ×AI案件だが、本文が極度に短く、大分トリニータ（サッカークラブ）との関連や具体的なビジネス規模・企業の実績が不明確なため、判定の確信度が低い。実ビジネスとしての主題が曖昧であり、単なるツール紹介・デモ程度の可能性もある。",
   "ts": 1791133238.428824,
-  "is_new": true
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XR0IwR1FSaURTY0VhelVESW02TmxjZ0pCWFpMekJ6VHE3dDZqMXJOLThuOF9QdFVrSWQ0TlZxaU55cjBSLUlwMThWMUJBaVBMZGZXRlF2LVZhVzF4aGlR?oc=5",
-  "title": "Netflixアニメ｢超かぐや姫！｣が映画館でもヒットした舞台裏…ツインエンジンが偶然見つけた\"勝利の方程式\" - 東洋経済オンライン",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Fri, 02 Oct 2026 20:45:00 GMT",
-  "published_ts": 1790973900,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ『超かぐや姫！』の映画館での興行ヒットについて、制作会社ツインエンジンのビジネス戦略・方程式を分析する深掘り記事であり、コンテンツ×ビジネス（興行成績の実績に基づいた経営事例研究）に該当する。",
-  "ts": 1791133238.428824,
-  "is_new": true
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQN0hXUmVwOFZiQ0d5Y000R25jRm1TVENuaUxuOV9ZcUhUeDVNZ2hscXJSNExvQkwwNHJadGZ5OWsyNzF4ZDN4WlhoWGxnbDhaX2tsOGN4YVNHdWJDc3FhVmJsY3ZPRzFUakJtdVdhaWFjSDBqS2RfYWhPRENtbTJYeFlheFFhM01xTkNtRWNHbWxHcXZlWWdlVmY3Vk1pNy1sRUx2eHU1bkI0aFMtd2U3bVhUMy1GQml4aUFNZW00Y2QxckRfdzl4QllNeGxyZ2RTVVVELVVSNUVfM3k2SzR3eUZPWXJ5dlU1SDlqVklyOFBWUEFUQjAyQmk4ekxZOS1GZFVwaXB2VGoxWWIzNHpyN1B4ajQybmNKSkRoaWViSE9PWE5xYWF6QW94TQ?oc=5",
-  "title": "AIアニメ生成 - 無料でAIがアニメーションを生成 - 大分トリニータオフィシャルサイト",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Sat, 03 Oct 2026 05:16:57 GMT",
-  "published_ts": 1791004617,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "その他",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "AI技術を用いたアニメーション生成という点でコンテンツ+AI要件を満たす可能性があるが、本文情報が極めて限定的で、これが実際の製品/サービス発表なのか、単なるツール紹介なのか、あるいは大分トリニータという組織による具体的なビジネス展開なのか判断できないため、確認が必要。",
-  "ts": 1791133238.428824,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4zWm14dEo3VmE1RmJOZWg3TjE5bjFyaF8xME1rS3ZDNS1CZm0zVkxxb2NnT0MxV0o1Q3VVTVhLU1FlNElp?oc=5",
@@ -892,6 +503,328 @@
   "confidence": "中",
   "reason": "キャラクター着ぐるみ産業のビジネス構造を掘り下げた記事であり、IPを活用したビジネスの実態解説が主題であるため、コンテンツ×ビジネスの組み合わせで対象。AIは含まれていない。",
   "ts": 1791133238.428824,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/china-box-office-traces-of-justice-national-day-1236898842/",
+  "title": "China Box Office: Crime Procedural ‘Traces of Justice’ Leads National Day Frame",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 05 Oct 2026 04:49:01 +0000",
+  "published_ts": 1791175741,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "中国での映画興行成績（Box office）に関する数字ニュースであり、複数作品の週末興収・累計興収が主題。コンテンツ＋ビジネス（興行数字）の組み合わせで対象。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/10/digger-tom-cruise-movie-bombs-1237146199/",
+  "title": "Tom Cruise’s ‘Digger’ To Lose Around $150M: Deconstructing The Disaster",
+  "source": "Deadline(Box Office)",
+  "sources": [
+   "Deadline(Box Office)"
+  ],
+  "published": "Sun, 04 Oct 2026 21:35:32 +0000",
+  "published_ts": 1791149732,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画『Digger』の興行成績と推定損失約150M＄という数字が主題で、併せてParamount-Warner Bros.統合後の経営判断・制作投資戦略が掘り下げられており、映像業界のビジネスと興行に関わる深い分析記事である。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/208227",
+  "title": "マツダ、『頭文字D』コラボでモデルカー発売！企画には“イニDキッカケで入社”社員関わり…ロータリーエンジン誕生60周年に",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Mon, 05 Oct 2026 03:32:13 +0000",
+  "published_ts": 1791171133,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "漫画IPとの公式コラボ商品発売で、企業（マツダ）の新規ビジネス展開であり『頭文字D』というコンテンツが主体だが、主題が『商品の発売告知』であることから、本ガイドラインではグレーとして取扱う（企業のコラボ商品発表は通常対象外だが、マツダのロータリーエンジン事業戦略における記念企画という背景と経営的連動を考慮し確認推奨）。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/korea-box-office-the-assassins-admissions-lead-1236898809/",
+  "title": "Korea Box Office: ‘The Assassin(s)’ Holds Admissions Lead as ‘Chiikawa’ Generates Top Weekend Gross",
+  "source": "Variety(Box Office)",
+  "sources": [
+   "Variety(Box Office)"
+  ],
+  "published": "Mon, 05 Oct 2026 01:05:37 +0000",
+  "published_ts": 1791162337,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画『ちいかわ』の週末興行収入（322万ドル、40万5978動員）が主題として報道されており、コンテンツ（アニメ）とビジネス（興行数字）の両分野が該当するため。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/10/indie-film-box-office-history-of-concrete-naza-1237146213/",
+  "title": "‘The History Of Concrete’ Cracks $1 Million, ‘NAZA’ Lifts Off – Specialty Box Office",
+  "source": "Deadline(Box Office)",
+  "sources": [
+   "Deadline(Box Office)"
+  ],
+  "published": "Sun, 04 Oct 2026 20:00:00 +0000",
+  "published_ts": 1791144000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "複数の映画作品の週末興行収入・累計興収などBox Office数字が主題の記事。非アニメ映像だが興行成績の実績値報道は対象。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/208182",
+  "title": "夢グループ×バイオハザード、異色タッグ再び！今度は石田社長たちが「悪夢の一夜」を売り込む？",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Mon, 05 Oct 2026 02:35:46 +0000",
+  "published_ts": 1791167746,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "実写映画『バイオハザード』の前売券販売キャンペーン（1,700円）がビジネスの核で、企業コラボを通じた票価・販売施策が主題だが、映画そのものの紹介・宣伝PRが大部分であり、ビジネスの数字が薄いため信度は中程度。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUWJSaUkwY01UZGVSY2JBRUhiWlc1Xy1GR3NINmlsMjFiRTk0MEY5NkhMbHBhTUktZEVUZnBVaWF4azUxNnM2Y0Z3NDQ5QzR3WEphRjJNajZIR1FFSm4ycS1oa3pzcC00Nm9iaVhqT3dXazlRVXRIWmc2d2pma1RuZVFoSUg4VW40QzdFNy1NQk83b1N4ZW5CZkNoTXEydFBZRm5iTjE5cEd1VkZJR1I4N1E3VGhNYVdWVUh6ZDJn?oc=5",
+  "title": "‘Avengers: Endgame’ Returns to No. 1 on All-Time Global Box Office Chart, Surpassing ‘Avatar’ - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "sources": [
+   "Googleニュース(hollywoodreporter.com)"
+  ],
+  "published": "Mon, 05 Oct 2026 04:17:11 GMT",
+  "published_ts": 1791173831,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "大手メジャースタジオ（Marvel/Disney）の実写映画が過去の興行成績を更新し、世界歴代興収1位に返り咲いたという新たに判明した数字ニュースであり、非アニメの映像でも業界全体の興行ランキング変動に関わる重要な数字報道のため対象。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/10/elijah-canlas-philippines-regal-singapore-mocha-chai-1237146375/",
+  "title": "Philippines’ Regal Teams With Singapore’s Mocha Chai On ‘One For The Road’; Elijah Canlas, Gian Bernardino, Emilio Daez & JM Ibarra Head Cast",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 05 Oct 2026 01:27:37 +0000",
+  "published_ts": 1791163657,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "フィリピンの映画制作企業Regal EntertainmentがシンガポールのMocha Chai Laboratoriesと国際共同制作で新作映画を制作する提携が主題であり、国際的な映画ビジネス（共同製作、資金調達、国家支援基金による選定）の取引が含まれているため、コンテンツ＋ビジネスで対象。ただしアニメではなく実写映画であり、AIや業界の大型ニュースでもないため信頼度は中程度。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/coyote-vs-acme-proves-david-zaslav-wrong-box-office-1236895011/",
+  "title": "What David Zaslav Got Wrong About ‘Coyote vs. Acme’",
+  "source": "Variety(Box Office)",
+  "sources": [
+   "Variety(Box Office)"
+  ],
+  "published": "Sun, 04 Oct 2026 22:20:52 +0000",
+  "published_ts": 1791152452,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメIPのルーニー・テューンズをベースにした映画『Coyote vs. Acme』の興行成績（全世界1億ドル超）と、ワーナー・ブラザーズの経営判断（税務上の売却決定）をめぐる分析記事。映像業界の経営戦略とBox Office実績が主題であり、コンテンツ×ビジネスの深掘り記事として対象。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB1bWNOb3QzLW9kVlVuR3VqbFR2Q3Vld3BEcF9zUjVPUDJNT0M2Y3RPcnRsYUFHNUh0emVPT25USkk4dw?oc=5",
+  "title": "ラルクの新曲ジャケットも、興収100億円のちいかわ映画も――「AIかどうか」を証明させられた1ヶ月【編集部まとめ】 - shiritomo",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Mon, 05 Oct 2026 01:00:00 GMT",
+  "published_ts": 1791162000,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画（ちいかわ100億円興収）、音楽ジャケット、AIの真正性判定をめぐる複合的な事例をまとめた編集記事。コンテンツ×AI×ビジネス（興収数字）が揃い、生成AIをめぐる社会的課題を掘り下げた深掘り記事。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXc0VlNTFPSXhOc2gtQ3Z2VHRyOWlhbGdWWjNpSGFsUnRMNDBVRXFXNEZ2S3VVLVc1cmNLQlotdE82ZTQ4M2NZb09IM0RxRXNkeWJJbnJrazJrMEhIZWM0WVdJdndiSjlqY2s3LQ?oc=5",
+  "title": "AI時代のコマ撮りアニメ、初監督のMozuさん「手作りの良さ際立つ」 - 日本経済新聞",
+  "source": "Googleニュース(nikkei.com)",
+  "sources": [
+   "Googleニュース(nikkei.com)"
+  ],
+  "published": "Sun, 04 Oct 2026 20:00:00 GMT",
+  "published_ts": 1791144000,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "アニメ制作（コマ撮り）とAI時代という文脈で両分野が言及されているが、記事がインタビュー中心で実質的なAI活用の有無、ビジネス的な取引・数字が本文から不明確なため、確認が必要。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/10/channing-dungey-role-skydance-paramount-wbd-cable-networks-1237146154/",
+  "title": "Channing Dungey Poised For Expanded Post-Merger Role Overseeing Paramount & WBD Cable Networks – The Dish",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 05 Oct 2026 01:16:51 +0000",
+  "published_ts": 1791163011,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ParamountとWarner Bros. Discoveryの合併後の経営統合に伴う人事・組織再編の発表であり、業界地図を変える大型M&Aの続報として、メジャースタジオの組織改編はコンテンツ産業のビジネス判断として対象に該当する。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/timlammers/2026/10/04/digger-streaming-release-why-tom-cruise-film-will-likely-follow-warner-bros-pvod-strategy/",
+  "title": "‘Digger’ Streaming Release: Why Tom Cruise Film Will Likely Follow Warner Bros.’ PVOD Strategy",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Sun, 04 Oct 2026 17:52:52 -0400",
+  "published_ts": 1791150772,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "映像作品（Tom Cruise映画）の配信戦略（PVOD）について、Warner Bros.の業界標準との比較を分析した記事。コンテンツ＋ビジネスの配信ビジネス戦略が主題であり対象。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjN2bTBZaXlOMUdaSXFrU09jTE9TQUhsbGI2d0Y2d2NaZjhfZ0xoNWx3QlBqTjctVDE1WURNQm5PWlFpQmdxU3VNTE55a0hQa1NhaWpLY1ZkcnFHSUdTM05OclF6QWZpRjJqUVVJa0o5cVJubG9TV25DM0pGdkZjbWc3clFFOEFIckZXYlNoSk1wSzdqeWRxZmc4S3ZJaFpZakhsSHVaWHlZRmQyMkhaSFVMLTVvQQ?oc=5",
+  "title": "Paramount’s Warner Bros. Deal Creates A New Theme Park Power Player - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "sources": [
+   "Googleニュース(forbes.com)"
+  ],
+  "published": "Sun, 04 Oct 2026 17:53:04 GMT",
+  "published_ts": 1791136384,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ParamountとWarner Bros.の経営統合・買収は、メジャーメディア企業どうしの業界地図を変える大型M&Aであり、実写中心でもコンテンツ×ビジネスの必須対象。テーマパーク事業への影響も言及されており、娯楽産業全体の構造ニュースである。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/carolinereid/2026/10/04/what-paramounts-purchase-of-warner-bros-means-for-theme-parks/",
+  "title": "Paramount’s Warner Bros. Deal Creates A New Theme Park Power Player",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Sun, 04 Oct 2026 13:53:04 -0400",
+  "published_ts": 1791136384,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "大手メディア企業ParamountとWarner Bros. Discoveryの買収完了は業界地図を変える大型M&Aであり、コンテンツ・ビジネス両分野に該当する。実写中心でもメジャースタジオ統合なので必ず対象。",
+  "ts": 1791178400.637581,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/timlammers/2026/10/04/avengers-endgame-reclaims-all-time-box-office-record-from-avatar/",
+  "title": "‘Avengers: Endgame’ Reclaims All-Time Box Office Record From ‘Avatar’",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Sun, 04 Oct 2026 12:55:06 -0400",
+  "published_ts": 1791132906,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画の興行成績（Box office）の新規数字報道であり、業界全体を揺るがす大型ニュース（歴代記録の更新）であるため、非アニメ映像でも『コンテンツ×ビジネス』として対象。AIは関与しない。",
+  "ts": 1791178400.637581,
   "is_new": true
  }
 ]
