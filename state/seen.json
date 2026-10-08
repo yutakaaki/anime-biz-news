@@ -21352,5 +21352,575 @@
   "source": "Googleニュース(sankei.com)",
   "label": "対象外",
   "ts": 1791435669.352681
+ },
+ "https://www.forbes.com/sites/sabrinareed/2026/10/08/anna-pigeons-kim-coates-teases-violent-and-ruthless-season-finale": {
+  "title": "‘Anna Pigeon’s Kim Coates Teases ‘Violent’ And ‘Ruthless’ Season Finale",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://www.animenewsnetwork.com/news/2026-10-08/shallm-perform-opening-theme-song-for-now-that-we-draw-anime/.242638": {
+  "title": "shallm Perform Opening Theme Song for 'Now That We Draw' Anime",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUx4U0FuVzFvSF82M1NoMW5JQ3AwNzVjaVBDRXdoNGxrRmg0NjgtZmZscTE4S1VCMUhoc0hOMHB0WFc2NENraU9iaF9ZUjZwNzNwSVFXWjNKc3NELV8wX2huMVlnV2lVYkdlRFJQQXZiTlBNYXNSSmxSNmhsZ3dqZmN3WGNZb1ZBczJfdktMT0ZyR3RwZGNuOGxXeHQ0WlJ1bU9OTGhXN01SUQ?oc=5": {
+  "title": "Genre-defying Canadian poet Anne Carson wins 2026 Nobel Prize in Literature - Reuters",
+  "source": "Googleニュース(reuters.com/lifestyle)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0xHYTVTRTM2dUhvZ1M1ZDYwM0FRZ2EtX2ljSmVlY0IzbW00a3BaWFM2RWpWYi0xR3d6dUItVDZkWHJlQk5UM2lUNElPY2QtUmNpY2ZrT0tmeWJvU01Kc2NSbnRsY2wzSURyU09xM0lkYU1OMl9EMERuNVZtTEhieXJ3NkVPM1J0LWRfZjlWSjJnZ1dZa0ptWktzdmhjQWp2b3ppOFhfYkZVNkFuUjVMZGQxUXRyQQ?oc=5": {
+  "title": "Ukraine Strikes Major Data Center of Russia’s ‘Google’ in Drone Attack - Newsweek",
+  "source": "Googleニュース(newsweek.com)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://www.economist.com/culture/2026/10/08/fancy-a-tour-through-the-middle-east": {
+  "title": "Fancy a tour through the Middle East?",
+  "source": "Economist(Culture)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://www.cartoonbrew.com/shorts/oscars-short-contenders-scarlet-tamagochi-francisco-visceral-267672.html": {
+  "title": "2027 Oscars Short Film Contenders: ‘The Scarlet Tamagochi’ Director Francisco Visceral",
+  "source": "Cartoon Brew",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://www.animenewsnetwork.com/news/2026-10-08/go-with-the-clouds-north-by-northwest-anime-1st-promo-video-reveals-2027-premiere-on-netflix/.242639": {
+  "title": "'Go with the Clouds, North by Northwest' Anime's 1st Promo Video Reveals 2027 Premiere on Netflix",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tR3lrSXV3TkxGbHJWanZib1M5bTJxVUEtUThlV2VpcjN4bXBmVV9xSUlybzdOZjJNTG5oLWVHS1JjS214dUI5Z3l2UkZzeFNSbFNMTndxU3ZGWVpzbERhRWdUWkE0SElhdFZUd05XckZWM0lFSHc?oc=5": {
+  "title": "『骨ドラゴンのマナ娘』アニメ化で来年放送 PV公開で出演は花澤香菜・井上和彦 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbjNpenFvNWtEbzl4dDFtX1JzOVZ0NmRaNTYyNm44YWJNZWxmNTJKM3BwSUZLR1k3V2pfOTNnZVBwS0JxSVF1NTkzZXBfSDcxbk1SY1J1NjJvakdDb1lfa2tXNmVNX2tGajJwS2otRDl0VTdMN2NhM3hVT09Yc3FxZW82TXVmRG1ac2l5RE1ZOGlELVRCMHBjeURMa0tuakQ3?oc=5": {
+  "title": "Elon Musk’s $40 Billion Cash Grab Tests the AI Debt Boom - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com/opinion)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUE1oUFB5RzAyOTdPMGZlUEphcVlqMk01cnBHQzBTM0swSmFUMWNHVWhXdjgtczZqVndDVXF1YjZ2anlhRmdCVzBIRzJfQkRQUFBtUFdKOXlUdDJHQ09tT0toWUozR2N4dXNUMDB6R1NRWjZqUWdiZkdwdjd6dEN2REVmelczUjAxTWptM1NMZTUyd3dScVFGa2lnaXhmMnI0S3FIdW5YWTdDTWp2YkhRNlY3eEFjelhGajRSNGg1bXN1UFdkSjI5VUk5dDdvZw?oc=5": {
+  "title": "Amazon launches first Android tablets, raising prices and incorporating Alexa - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://deadline.com/2026/10/casey-giltner-spec-this-land-is-our-land-sells-sony-1237149975": {
+  "title": "Sony Pictures Acquires Casey Giltner Thriller Spec ‘This Land Is Our Land’",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://www.forbes.com/sites/paultassi/2026/10/08/coven-academy-sets-a-rotten-tomatoes-score-record-on-disney": {
+  "title": "‘Coven Academy’ Sets A Rotten Tomatoes Score Record On Disney+",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://www.cartoonbrew.com/series/belzebubs-trailer-jp-ahonen-267668.html": {
+  "title": "Black Metal Meets Domestic Chaos In Trailer For Finnish Animated Mockumentary ‘Belzebubs’",
+  "source": "Cartoon Brew",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://variety.com/2026/music/news/katseye-sophia-to-resume-group-activities-in-january-2027-1236905705": {
+  "title": "Katseye’s Sophia to Resume Group Activities in January 2027: ‘I Can’t Wait to Share the Stage With My Sisters Again’",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://www.forbes.com/sites/paultassi/2026/10/08/a-new-list-of-dcu-films-already-in-development-from-batman-to-wonder-woman": {
+  "title": "A New List Of DCU Films Already In Development, From Batman To Wonder Woman",
+  "source": "Forbes(Hollywood)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://www.animenewsnetwork.com/news/2026-10-08/bless-tv-anime-casts-yoshiki-nakajima/.242634": {
+  "title": "Bless TV Anime Casts Yoshiki Nakajima",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://www.cartoonbrew.com/series/runescape-animated-series-moistcr1tikal-lyrical-jagex-267655.html": {
+  "title": "‘RuneScape’ Animated Series In Development With Lyrical Animation, MoistCr1TiKaL, Jagex",
+  "source": "Cartoon Brew",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://www.animenewsnetwork.com/news/2026-10-08/the-vermilion-mask-anime-2nd-part-debuts-in-april-2027/.242631": {
+  "title": "The Vermilion Mask Anime's 2nd Part Debuts in April 2027",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HOWphbWQ1M2NSOF9RdndhdVlGNTI3eTZURjRlb2VRcE5zVERUcXd5eDNIV3JYc1NNRjc5VjVMem9IYzI1cW9LbnBXaUNBazJpbDFIeDVGTUFsdw?oc=5": {
+  "title": "「カプコン」が日経平均に採用…なぜ過去作が売れ続ける？ 世界で稼ぐゲーム大手の実力 - ニューズウィーク日本版",
+  "source": "Googleニュース(newsweekjapan.jp)",
+  "label": "媒体加算",
+  "ts": 1791478843.8944042
+ },
+ "https://deadline.com/2026/10/elizabeth-banks-karen-read-series-ordered-prime-video-1237149876": {
+  "title": "Elizabeth Banks-Led Karen Read Series Ordered At Prime Video",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://www.cartoonbrew.com/anime/sony-crunchyroll-storyworks-adaptations-267637.html": {
+  "title": "Sony Launches Crunchyroll Storyworks To Develop Anime And Live-Action Adaptations",
+  "source": "Cartoon Brew",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://www.animenewsnetwork.com/news/2026-10-08/skull-dragon-precious-daughter-anime-unveils-1st-promo-video-main-cast-2027-debut/.242622": {
+  "title": "Skull Dragon's Precious Daughter Anime Unveils 1st Promo Video, Main Cast, 2027 Debut",
+  "source": "Anime News Network",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3pLYzV6WjVzVDZOcGFXREM3MnRZb2hmNDdUbTdHRW9scDZYRVRkX0h3OUo2ZkF1NTZxUmx6dGd1d0YzRmhSNlJtWUhMNFpMS1FUbG5vN1F5dzZlTklEcExtb0N6RUd5UUFOOWdoVUFnTVNycm9qa1Q5Nk55UEt0ZEpqQ1UtQk5ZaTdHd3U5M3U1QjV6cUk1NUVoNk1nR3FoMkZHRVNReTdJTzBhdm9vVFl1Y00wdkV5d0JGc01wSVZneDQ?oc=5": {
+  "title": "A New List Of DCU Films Already In Development, From Batman To Wonder Woman - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://variety.com/2026/tv/news/tiktok-becca-bloom-podcast-blooms-room-pave-studios-1236905575": {
+  "title": "TikTok Star Becca Bloom to Launch Weekly Video Podcast Series ‘Bloom’s Room’ With PAVE Studios (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://www.newsweekjapan.jp/articles/-/336323": {
+  "title": "燃やすほかなかった紙おむつを資源に...ナガセケムテックス「DENAGREEN」が描く新たな循環 ニューズウィーク日本版サステナビリティ室 ブランドストーリー",
+  "source": "Newsweek日本版",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://variety.com/2026/tv/news/elizabeth-banks-karen-series-amazon-1236905579": {
+  "title": "Elizabeth Banks Officially Set to Play Karen Read in Amazon Series",
+  "source": "Variety",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUd3RGg1QzhpTWwzcUg5ZVZEeDlUaldmd3NyRl83dGtSRTQ1WlJHVVVpYU53WjJEU3lyTnBuT2xsQVVBYkNOQXllQTBWNk85cjFPdjlpTWRFTjB4cUROcW91TzJNZkpCNWpaNlVpUnpaRHdPaGJINW1hcmFSZWkzMWN1X2MyazNzV0Q3ZVZTazhocXo2NVVpdERGY2p0Z1FPbUN0SkJmQ1BKUnhNTGo0UjJZRmFSdw?oc=5": {
+  "title": "Copper Gains with Other Metals as China Returns in Positive Mood - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://deadline.com/2026/10/michael-douglas-book-gordon-gekko-wall-street-oscar-1237149797": {
+  "title": "Michael Douglas Was Third Choice For Gordon Gekko; How He Rode ‘Wall Street’s Slick Villain To Oscar Glory",
+  "source": "Deadline",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd0xFSjRLVS1GNnMwbkNMejQ5LXJ1WnYyU3luU29ObTd3Wi1JSGhTN0ZyaXFaNzk1Q1ZpVENQZU1LVXlMbUJ1ZmtDWWpmWW9hVlZqMGNMTWRRTXk1MHo2WkdoWXdZdDlaLTNtb3o4NlRfSDBmV0Radk01MThyaGI5UVM5N1dTcWhvWVJoMVdZcGF6bG9GRUMzZHVIOA?oc=5": {
+  "title": "What To Watch Before Marvel’s ‘VisionQuest’ - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOV0FBUGhVTDhJajFxdzRYQUlRbzBKSHBIckxnVEVCaUxTeGc4cUY2R2U5Vk0tZzFuT0ZZLUtKTUhaRmFUNXQxUUFScjluYjJYeVlUZ2RqZHJCU2IweVAtWHA2NDctQUw0YXg2VGdtUHNGczJsaU5sQm4tSQ?oc=5": {
+  "title": "アニメ「ハイキュー!!」× and GALLERY コラボカフェが11/3（火・祝）～東京・大阪・名古屋・福岡・仙台にて開催決定！冬の放課後を描いた限定描き下ろしビジュアルも公開！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://animeanime.jp/article/2026/10/08/103617.html": {
+  "title": "「落下の王国」の配信はどこで見れる？U-NEXTレンタルと吹替キャスト",
+  "source": "アニメ！アニメ！",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://animeanime.jp/article/2026/10/08/103616.html": {
+  "title": "映画「教場 Requiem」の配信はどこで見れる？レンタル料金とお得な視聴方法",
+  "source": "アニメ！アニメ！",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUl1OW9zQXl0UkpvZlhlT2VMbGNTejgxUENPNUt5SWdPV3pSaXBta0t1UzJtM0RrUVZLdVUxVnBNVURpRThpa2pyRkFWcEQxaUlfYUJ0eEh2VW51MzVQbUtUd20zejlWTU5HSmdQb01IODVPWVVCUkhHWEM2dFFLdWZfVGdDZWNfcnI2NXlVMkNuc2NWWDVsRUlEREJPVFgyY2c?oc=5": {
+  "title": "Europe’s lame-duck year could hardly come at a worse time - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://animeanime.jp/article/2026/10/08/103615.html": {
+  "title": "映画「死霊館 最後の儀式」の配信はどこで見れる？見放題サービスや吹替声優も紹介",
+  "source": "アニメ！アニメ！",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://animeanime.jp/article/2026/10/08/103614.html": {
+  "title": "「バイオハザード」映画シリーズの配信はどこで見れる？全7作の見放題・レンタルを比較",
+  "source": "アニメ！アニメ！",
+  "label": "重複スキップ",
+  "ts": 1791478843.8944042
+ },
+ "https://variety.com/2026/shopping/fashion/grace-coddington-ai-beauty-standards-anna-wintour-1236905709": {
+  "title": "Grace Coddington on the Future of Media, Anna Wintour, AI and Beauty Standards: ‘Everybody Wants to Look Young and It’s Ridiculous’",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://deadline.com/2026/10/brian-robbins-big-shot-cookie-run-1237150191": {
+  "title": "Big Shot Pictures Lands Film Rights To ‘CookieRun’ Game Franchise; 2029 Theatrical Release Eyed",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://variety.com/2026/film/box-office/social-reckoning-box-office-opening-weekend-projections-other-mommy-1236904401": {
+  "title": "Box Office: ‘The Social Reckoning’ Targets $7 Million Opening Weekend, ‘Other Mommy’ to Scare Up $20 Million-Plus Debut",
+  "source": "Variety(Box Office)",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://www.economist.com/culture/2026/10/08/malcolm-gladwell-and-harel-shapira-are-up-in-arms-about-guns": {
+  "title": "Malcolm Gladwell and Harel Shapira are up in arms about guns",
+  "source": "Economist(Culture)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://www.cartoonbrew.com/law/baobab-namethemachine-pixar-tax-credits-267651.html": {
+  "title": "California Awards Nearly $9M In Tax Credits To Two Indie Animated Features, Pixar Scores Another $40M",
+  "source": "Cartoon Brew",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://animeanime.jp/article/2026/10/08/103628.html": {
+  "title": "「ゴジラ」新作一番くじの全ラインナップ公開！最新作「ゴジラ-0.0」の姿や第2形態、「ガイガン(1972)」など目玉フィギュア多数",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://0115765.com/archives/208826": {
+  "title": "『ToLOVEる』原作者による“着替え中”モモがフィギュア化！シャツからのぞかせる衣装、透明感もリアルに再現",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSkhVLTlVNlNXUmcxNi1JYml3NEkyaklPYU00aUVFLW8yb2ZEakpSYjZmQUw1MWZwNUx1MzJwV1FxcVdLWGM2QW9kVHFSRWFTVGFUUnJpZnF4QXh2aGRCOGxJUUFuc1hORmt2MFU5YkpmeDlESXZxQ3ZyTXpydzVtekpJMER2SU1rNW9nUW04VnNGT3VYZmZUNlhyaTVyVUlWSjVKRFp4RWJPTW5sVEtPeDRWeTRQTng4c3pmeW9qd0lIY2RYbzQ4UXdqMmlVNkxTOThmUDFic3BLdFFvQV9rN3JTQXVwc0pYblNzUnFVV1hYX2duNnFQWG9GMXBxTldTRFgxT0tscnctMVlqR2fSAZMCQVVfeXFMTmUxWmk5UGlDVC1vcUtQNWRrYVNKVHVNMW14T0JxSDFFQWM5aVdNckhIeEViVlpKeUpfTy1Md21sNzl6a09oMWZpZnItVkxsdk9xUVpKR1M2TEtzaGFFZVlVbWZobllHSVViSE9rWlZNQkhnNkxrbllSZjZuMnVoYm80N0VnZDVCdk45dHRyc1lPYWQ0dTA2MG4yV1BSaV85THhGN3Zha0QxZWVtRjZIMGQ0NktyS1E0QndPVDJYQ0RfSUVaeE80NHdhTktCc3FKSjFCSGRwMEJpMkpUNXcxMUJHakZQUGJ1RFJncFpTRUQ0dlBkZUJFa3VHbk9MRzd1QU42TDU0Z2dPRDd3VDRkYXZ1RE0?oc=5": {
+  "title": "Doraemon Castle of the Undersea Devil Box Office Collections: Anime film fetches Rs 1.25 crore on Day 6, grosses Rs 12 crore - Pinkvilla",
+  "source": "Google News: anime box office",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdkdmemM0bndwcWZCaHJrc2VBMjc1dllDZWZmQ1ZtR3QtQ1VTa3lRVG5RMk56R2g5cXlRdjF3bDZkalBfUVdoZWQwQ0UySlVEaDBlSWN6WlhQdFNwdzdIeDNPblFZVC1nQlJ0YldZUGhabFljY2JOOUs3YmpTOGl0eXdvNHFhLTJyOWd2ZVBRaGxqc1hPZ1Y2SFdZZnlycXZIdFUxVU9GNDk2RXI0MktqLUxsWVNqUnFibU9QbU90bHFyZjJCSzE4UQ?oc=5": {
+  "title": "The AI Giants Are Facing a Severe Case of Financial Indigestion - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com/opinion)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://variety.com/2026/tv/news/kevin-maclellan-leaving-skydance-1236905716": {
+  "title": "Kevin MacLellan, Paramount’s Head of Global Content Distribution and International, Is Leaving Skydance Post-Merger",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://deadline.com/2026/10/paul-walter-hauser-to-star-garden-city-magenta-light-1237150041": {
+  "title": "Paul Walter Hauser Set For Crime Drama ‘Garden City’ From John Curran, Magenta Light Studios",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://www.forbes.com/sites/paultassi/2026/10/08/netflixs-best-new-show-has-josh-hartnett-fighting-a-sea-creature": {
+  "title": "Netflix’s Best New Show Has Josh Hartnett Fighting A Sea Creature",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://animeanime.jp/article/2026/10/08/103627.html": {
+  "title": "「ちいかわ」PUKU CHURUシール第3弾が10月9日プライズ展開！ハロウィン衣装や、うさぎの髪がファサ…な「毛量シリーズ」など全７種",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://0115765.com/archives/208816": {
+  "title": "またも“早朝”で日本ファンに試練！ガンダムSEED、最新映画の新情報を9日4時に発表　北米時間準拠で解禁",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiREFVX3lxTE5iR1pOZVVJcGhpVV9OMkxIRllsdHVxS25RUjRNLXE3ZVBoYXV2Y0lpazA1V2xqVXVCR2t4NzlyU1FXT3RZ?oc=5": {
+  "title": "日本BS放送、アニメ事業を「放送」から「商品化」へ拡張 全国の視聴接点を生かし収益機会を開拓 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://variety.com/2026/tv/news/the-land-premiere-super-bowl-dan-fogelman-nfl-1236904616": {
+  "title": "‘The Land’ Scores Post-Super Bowl Premiere Date: First Look at Dan Fogelman’s NFL Hulu Drama (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://www.economist.com/culture/2026/10/08/why-your-favourite-bakery-and-coffee-shop-now-sell-tote-bags": {
+  "title": "Why your favourite bakery and coffee shop now sell tote bags",
+  "source": "Economist(Culture)",
+  "label": "グレー",
+  "ts": 1791478843.8944042
+ },
+ "https://animeanime.jp/article/2026/10/08/103626.html": {
+  "title": "「ワンピース」Pウォーランド王国の呪いの王子・ロキが立体化！ 巨大ハンマー鉄雷（ラグニル）の重量感がたまらない！",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://0115765.com/archives/208802": {
+  "title": "夏アニメ『正反対な君と僕』卒業式で見せた「東×平」の一幕に視聴者胸キュン…！コメント最多ランキングTOP3",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://www.animenewsnetwork.com/news/2026-10-08/crunchyroll-acquires-the-apothecary-diaries-anime-film/.242637": {
+  "title": "Crunchyroll Acquires The Apothecary Diaries Anime Film",
+  "source": "Anime News Network",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CS0NUdlRCdzR0c3lIeFJwS1JoSUtNRlZWSUhiYWJRU0FHLWtmX3FNYjZUNU1jbXE1Z0JrV24tX1d3Vms5bndRaVZNNHdpaUdxM205QjFHcmFKUWF0UjhzSkQ5VjE4LVRMYlZfbThvN19kdEhsa3Y0Vmo2dw?oc=5": {
+  "title": "100studioがアニメーション制作を担当するTVアニメ『朱色の仮面』、10月10日（土）夕方5時30分から放送の第1話あらすじ＆先行カットをお届け！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFQtd0hWalNMLWtFdG9GQkNXTEFuNE9nY3NXeTZ3NFFETFlIY1dDYjdEUUMwNkRJcEpRMldONXRwNE12VmUtaVlBMDJwenZjU181Sy1sWVlEbW5JLWx5bUJuZlhzV2xIUlJNNHFxWWdVMEpJX1ZEVkprVlJadjJPQU5xeC1WODdDYldnaWs1Z3dPZ2FEM2o0US1FeElKWDREUnA0dVZoSXZUcnV4b291TDBxYWc1b0l2bzY2ajZvSWI?oc=5": {
+  "title": "Nathan Fielder’s Elizabeth Holmes Doc Sets U.K. Release Date - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNGt3REM5N1k4VFVWa3g4OUF3OVV4b2FhUm84ME5PNHQxUFZhTTQwYTBIY1Z2cWZXZDdsYWNqT0Frai1oYjB6dS1sV0xncFVYdzB1bTRULWM4NktGam0xNHV0bzRBV3BCdGVQMFV5c2gtMFpnM1RDRUFPYzg4SnN4cVFFZm84cXVxcUt2MFloRGRYWkt4Zm1QaW5NYzBNLWFrMWhXdWtGUGVKbWdQdVV5REJWanE4V0FNb010Mg?oc=5": {
+  "title": "COMMENTARY: A framework for governing employees' existing use of generative AI - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://www.newsweekjapan.jp/articles/-/336192": {
+  "title": "ジェジュンが語った世界攻略法…Kポップの中小事務所がグローバルに成功するには？ 桑畑優香（ライター、翻訳家）",
+  "source": "Newsweek日本版",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://deadline.com/2026/10/scott-bakula-detective-drama-development-cbs-dean-devlin-1237149665": {
+  "title": "Scott Bakula To Headline Detective Drama In Works At CBS From Dean Devlin’s Electric Entertainment",
+  "source": "Deadline",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://www.economist.com/culture/2026/10/08/superstar-podcasts-are-silicon-valleys-way-of-talking-to-itself": {
+  "title": "Superstar podcasts are Silicon Valley’s way of talking to itself",
+  "source": "Economist(Culture)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://www.cartoonbrew.com/artist-rights/skydance-warner-bros-paramount-layoffs-267639.html": {
+  "title": "Skydance’s New Era Begins With Highly Controversial Board Appointments And Imminent Layoffs Warning",
+  "source": "Cartoon Brew",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://animeanime.jp/article/2026/10/08/103625.html": {
+  "title": "映画「どこよりも遠い場所にいる君へ」へちまが描く青春の表情の秘密とは？和希の線画撮影もお披露目",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://0115765.com/archives/208766": {
+  "title": "14周年迎える『ガルパン』アニメ、スピンオフが地上波放送！最終章「第5話」劇場版も10月9日上映【先行カット】",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE02X0N2em9wUko4V21BMXphVUo5MHUtREFGc1JVdXg0eW5XZFhUWUU0UEgtaGs4SUtOSmMyVzlEcmxUeFM0WVphR0RxeVRjR2NEbk1QM0VWVWxYV2RsN05HVk9tUXYtWGdqaDRvSFFjSUdlRDUzNzBfbE5hbw?oc=5": {
+  "title": "TVアニメ『家庭教師ヒットマンREBORN!』一撃コレクション75mm缶バッジの発売が決定！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNXRkQU1lNXBHTWthdUhJSWJjM0hhcmdJMjdzcHN0R3NqUzUyU0VNcVB3b1A1VWhMYTlUNDNrckRlQ1FBWFcxMUtZRnNoaTEzeFk1cnVURFVxY29iSE9jeU9oZ1BSeVU1UjFqX2tTSG83VkNEUkd4U20yLUd1UHZHZXpjYmJ6aXZF?oc=5": {
+  "title": "Doraemon: Castle of the Undersea Devil Crosses Rs. 12.25 Cr Gross in India After a Steady Day 6 - Pragativadi",
+  "source": "Google News: anime box office",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNFpGWmlyS0pGWjVPX2dzdDVLWlI2b0hNTUtMRVdGQlhLbGp6eTBSWVFpRFJtT1VuOFdpRmt1UkdNOTJCRDY3bmRHTnh4WkZYdlNsV1ZCaGhqeVJCeEFoT1JnVks3blB6aW1yMzc4b2FfYXlQR3pYckV6VFkwS1FodFBwRVowZkhRY2t1OTR4aWdUcWZSWkhZNHd5ZFFnNTdsV3NEUDdMUE1CaENVaVkzQUdEaWJIYWVZQlZyYXYweFRzZw?oc=5": {
+  "title": "Horror Movies and Politics Are Killing Film Festivals - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMickFVX3lxTE03VVMtdVpFXzZKMlRlRl84UF9DM194VjdnMWk5WDFONEs4ZGRoY2loZjZEUjZpRl9zRVIyMFVPUk9vTGlKUkUyYVdJVmhGV1lmSXdlcVFocUZodjRQUGFPZEQ0R041TmlkekNjWEFOcVhzQQ?oc=5": {
+  "title": "The Agentic 20: AI Agents Doing Real Stuff - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTg3enVNeFlpZmJZV2dvY05xSy1FVXI3NGhCOVRrRlZhRXJRblBFRm8xbDBuQ3hYX2p0RkJUMks2LUZEQ2pjaWxPU0FvWkpFNHlnV0ktUW1KTTdQZE1UWl80S0Vyb1JQVFNWLXVDN2RsNzlLWHVCNURsbEhLVTNjTExnTHhGN3pUdFVRMUVzdGlSaVZNZ3ZDOHg3SEt6X0RvM1h5RUd3SDhMa2k4T2c?oc=5": {
+  "title": "TSMC’s Quarterly Revenue Jumps 51% After AI Demand Holds Up - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://variety.com/2026/film/reviews/matchbox-the-movie-review-john-cena-1236899979": {
+  "title": "‘Matchbox: The Movie’ Review: John Cena Can’t Make This Toy-Car Spinoff Feel Grownup",
+  "source": "Variety",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://deadline.com/2026/10/love-language-trailer-chloe-grace-moretz-rom-com-1237149639": {
+  "title": "‘Love Language’ Trailer: Chloë Grace Moretz Finds Work Writing Vows & Love Triangle With Manny Jacinto, Anthony Ramos In Rom-Com",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://www.forbes.com/sites/hughmcintyre/2026/10/08/pink-floyd-could-lose-a-historic-chart-race-that-once-seemed-certain": {
+  "title": "Pink Floyd Could Lose A Historic Chart Race That Once Seemed Certain",
+  "source": "Forbes(Hollywood)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://animeanime.jp/article/2026/10/08/103624.html": {
+  "title": "ちいかわたちとクリスマスを満喫♪フォトスポットやフード、限定グッズ盛りだくさんの「ちいかわクリスマスマーケット」開催☆",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://0115765.com/archives/208747": {
+  "title": "VTuber業界に“トレカ”の波、にじさんじ×タカラトミー協業で新規TCGを年内発売　ホロライブに続きファン層に浸透図る",
+  "source": "アニメ業界ニュース(0115765)",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT044RmNYQkJob01OM0h4UU1iMmN0RWdOTmpVbUotRnZGOEJpYk5CdmZQd3Q1X2xFb1hUZUtBaHpjN2R4dGdDUGhTVDF2TXF3YVJRTzRxdVBMMjJMT0diZU1FZlJMbTBmZmF3VlpzWWZnaDg3X2tzRXhWSGFydzVva2NnakNIcVl6Ty1Db18ycmJKUW1wd294VGljWk9yaXlIeFE5djN4bUhubEhlWFY3cXFZZURvX1U?oc=5": {
+  "title": "Healthcare’s Risk to the Economy Is Now Too Big to Ignore - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com/opinion)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ2d2R20zZEU0eHhZQlluUEFBeGY1czRPOGgyWjhZQTF1UEd1YWM2Vk1FdDI5U2k0UU1IU3VBUXRoVjRFeFV2THVyMVdnVWxzLWZrX3FsZEJhaGEzNF9OMmRkNXBqLV9semZrbkZScDV6TlJpRjJybjZPV2tmeUREZ0gxVkFHdFY2QW9mb1BBT2ZzdmdERy1yNXhnNHg0Ry1RXy10NEVjVlpvWW1oZ1k0bkxzSQ?oc=5": {
+  "title": "Young Bankers to Manage AI Agents From Start, Goldman Exec Says - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://www.newsweekjapan.jp/articles/-/336356": {
+  "title": "「クローン犬」は、天国に行った愛犬の代わりになる？「性格は真逆」「罪悪感も…」飼い主の本音 アリエラ・イオリオ（死んだ愛犬の思い出を本にする事業「ソウルドッグ・ストーリーズ」の創始者）",
+  "source": "Newsweek日本版",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://variety.com/2026/film/columns/matchbox-jessica-biel-john-cena-american-red-cross-people-affected-by-disasters-1236904339": {
+  "title": "‘Matchbox’ Stars Jessica Biel and John Cena Lead New American Red Cross Pledge Drive (EXCLUSIVE)",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://www.forbes.com/sites/carolinereid/2026/10/08/universal-uk-set-to-take-visitors-from-disneyland-paris-says-government": {
+  "title": "Universal U.K. Set To Take Visitors From Disneyland Paris Says Government",
+  "source": "Forbes(Hollywood)",
+  "label": "対象",
+  "ts": 1791478843.8944042
+ },
+ "https://animeanime.jp/article/2026/10/08/103623.html": {
+  "title": "「呪術廻戦」乙骨憂太、物憂げな表情で刀を抜く！「死滅回游」OPシーンをイメージしたフィギュア登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sSVprcGxkeFJmZjBpbVFNVnM2SlZHRTZxcVd2bmdoWERUdTFwRlFzb01XM0VWMnZObFFzdzlqY3BEOVR0d0VxQXZQNnZWOVVxX1RMMnp3WkF3bFhPa3dwa1VNakVIMzYyVDZXdi01bm9KbU5SM0M5LTI3aw?oc=5": {
+  "title": "TVアニメ『ゆるキャン△ SEASON3』より「Blu-ray BOX 」をホビーECサイト『FURYU HOBBY MALL』にて本日10月8日より予約開始 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2wtZHlqX0FmMXZ2UTB0Z0xDWXpobTdrYy1yM2haSFhNZl9KVEVaekctbk1ORmdPWmF3STI1dTVTeWVENUNDcEw4UFNMa08yTFd5R1J3a2k2TTFSQ2tsU0l0QnR6WHJSV2Rab19uVjJfNEdTeFRSTFliaWFNV1d6cGlhbG43TU00ZnhabUpWUzFsZkJpNTJJY0s4cEtKbzZQOWpEaHNkWkQtMGZ6MXAzcHFXQ2R3cjJo?oc=5": {
+  "title": "Elizabeth Holmes and Husband Billy Haven't Seen You Can See Everything - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVXlrTXdzNFgzY2hWcnVqNU10Y0tVQWNhSmI5bFRLa3lOdjhVSXdqeGFBcWkzMVU1cEc0VS1TWlhEM3dHUHN5Wnlod3Q2S1lHXzFYU0RWNmFLOUVzTTJPMXp0MzFHZmh4OGJwa05jRlVsTTdWM2Yyb211QXluY1ZncGlabEVYblRtemhORUpLT2lzNXZtVDNxZC1RM0NBbFhqMnducEJPOTRobDJTclczVXJYWQ?oc=5": {
+  "title": "Trump Heralds 70 Million Trump Accounts After Auto Enrollments - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://www.newsweekjapan.jp/articles/-/336354": {
+  "title": "高タンパクの食事は子供の肥満対策になる？ WHOとケネディJr.の勧告に食い違い ジェニ・フィンク",
+  "source": "Newsweek日本版",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://deadline.com/2026/10/marcus-d-wiley-signs-caa-1237149924": {
+  "title": "CAA Signs Comedian Marcus D. Wiley",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://animeanime.jp/article/2026/10/08/103622.html": {
+  "title": "「魔法騎士レイアース」光・海・風の和洋中衣装が可愛すぎる♡新規描き下ろしイラストグッズが新登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://www.animenewsnetwork.com/news/2026-10-08/horror-collector-anime-adds-3-cast-members/.242612": {
+  "title": "Horror Collector Anime Adds 3 Cast Members",
+  "source": "Anime News Network",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZHRIbGhsWFFBa1lrT3F0ZVhaRlNRNTNteHdfcnhkQWxxVGtxSmQ2YU0tNFVCdzhHZGFWOFI4bjRVWDlYOHVBd2hqTHA5czdDblNjTHJLcFFkNW1IeUhkZjgweUdzYlpuRGlCdU1sUzhPLVlrajdOUWxVQ1h1c0JONTNqR0hqLTA1anfSAY8BQVVfeXFMUDhfWVU5R1VkN2pOYkRNWDlmQW0tbVFUYjVvcEpjbWlXR05NdlNrSWl4amVqMFFzS3EtQWtVdlZvTkd0RkJ3VkhPUFl0cC1KdjVBZWJxUktPai1vSE51c3ZaRGRuUExfR005VC1ra09qMDBrU05GZ0E1OEw1RkZvbll0OGE1MTZPSEpOMTVqTkk?oc=5": {
+  "title": "尾崎紀世彦さん、AI生成の歌声で「新曲」披露に「本人が歌ってないのに」SNSで疑問の声 - ｄメニューニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aNDFsU09BV3AzVUdyUTdsN01jaG5GNDA3eG96Sno5NzBxY2FWV1VzNHU5UmZjbTFWamt6VEloRG9lRzI2Tk1Ya1NIbU4tM3RZZXZLNnB0b3ZpWW81b3lKWTRTZTlJN2dvLUpnRFRTS0J3YVBEelpnY2lVTQ?oc=5": {
+  "title": "TVアニメ「らんま1/2」第3期 第26話「爆砕点穴」のあらすじ、先行場面カット、スタッフ、予告映像を公開！ - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOGtuWDhETzgwLUI4QlB0cnVKQWtuZjIybG1ROF9HVHVpRGR2S0Z6Q1dGeUFENnZDa0l3SzNGaUNpX05nOUNaQTV0NGUwMGdyQ01fSEw2ZzQ5eGhPWVZuOUpRTlVfSHM0WlluMDZRc0tBR2hDcXFIMVJCcUg4MnE2bDdORmxiV1ItVDBCNkN3UU5RZktvcTh0eVdadExMTUdIRDZ5dGg1U0t0Z3VBTXhMZzc4b3RKa3pqZElMNmJEM0pyQQ?oc=5": {
+  "title": "Moroccan-Israeli defense firm MMI targets turret deliveries in March 2027 - Reuters",
+  "source": "Googleニュース(reuters.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWnhKSmNYUFpNRmlEeTM0dmRodENSS0lEY0txYjUtbTFHbHlrZVY0YXVJZlBGOWJXQWdTOE9FenRtVzZjOXVNaGQ3QzZpdW51TkFKVXotaHlzOXg1cTlPY0lvcTJQVFhHNUk4R3ZRcDZwbWowSWFxWUxZZmpSdkJSWm40WGx6eUhHTEhEbV9pa09HbkdFM3UwdTNXbVc3a0d3WHgyTFZCSWZZWmRLYzdCNg?oc=5": {
+  "title": "China’s Weak Holiday Spending Casts Shadow as Markets Reopen - Bloomberg.com",
+  "source": "Googleニュース(bloomberg.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://deadline.com/2026/10/congo-rumba-royale-oscars-fally-ipupa-1237150042": {
+  "title": "Oscars: Democratic Republic Of Congo Selects ‘Rumba Royale’ For Best International Feature Film Race; The Fally Ipupa Starrer Is Country’s Second Ever Submission",
+  "source": "Deadline",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://animeanime.jp/article/2026/10/08/103621.html": {
+  "title": "“開始めいッッ”「刃牙道」範馬刃牙と宮本武蔵の決戦前がTシャツに！ 印象的なシーンをデザインしたグッズコレクションが新登場",
+  "source": "アニメ！アニメ！",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVEJzalRrQkJXejZSS01tTllzT0NvZzRBUW8wdmlyN3VBVGJwalJfNi1PZWVmM3BKTlhTeTdLOGg1Z3J6ZXNPeUc5VkZuTTBwWHZTbWptb1BJNDBIekJsUTdxRHpWYzYzZFpzcUNCT2RrMTBZMmI0QllENDJrT1ZBYTJrS2puUVRKREZ3a29QbmdLLXN3elBMS2I4U3czZTcydEhNeUk0Zl9DZw?oc=5": {
+  "title": "Julio Peña Joins Josh Heuston, Nicole Wallace in Amazon MGM’s ‘Throttled’ - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
+ },
+ "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2xzRWFOWlVNZUVPbUpKeVAwV1JPQVBLLTU5RFg2SWs0dXB1UlFkN05zZFlQR1hOUEJBQ1VZcUVmWVZPbkxvLU1WNElnb2VzN0FxcGlpb0Q0QzNuQUo2TVlKa1llRVNZbkV5enFlS2JOY1lLdjl3OGV1NURWWTVGZ1RXbXFLWnVIU3h4b0xsS2lTZ0daTEhidDUzajlzU2c?oc=5": {
+  "title": "Why your snacks are chunkier and chewier than before - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "label": "対象外",
+  "ts": 1791478843.8944042
  }
 }
