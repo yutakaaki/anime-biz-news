@@ -38,6 +38,11 @@ DIRECT_FEEDS = [
     # アニメ・業界特化の深掘り/ニュース媒体（低ノイズ）
     ("https://www.animenewsnetwork.com/news/rss.xml", "Anime News Network"),
     ("https://news.animenomics.com/feed", "Animenomics"),
+    # 企業リリースを取り上げる日本の報道側を直接RSSで取る。
+    # 実測で直接RSSは中央値3.8時間・94%が12時間以内、Googleニュース経由は9.2時間。
+    # 個別企業のリリースを個々に追うのではなく、報じる側を速く拾う方針。
+    ("https://rss.itmedia.co.jp/rss/2.0/aiplus.xml", "ITmedia AI+"),
+    ("https://news.denfaminicogamer.jp/feed", "電ファミニコゲーマー"),
 ]
 
 # Google ニュース検索クエリ（メインテーマ: コンテンツ × AI × ビジネス）

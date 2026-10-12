@@ -184,9 +184,6 @@ def _normalize(s: str) -> str:
 HTML_LISTINGS = [
     ("Forbes JAPAN", "https://forbesjapan.com/", r"^/articles/detail/\d+", "https://forbesjapan.com"),
     ("Newsweek日本版", "https://www.newsweekjapan.jp/", r"^/articles/-/\d+", "https://www.newsweekjapan.jp"),
-    # 電子書籍ストアの自社調査リリース（累計配信数や読書傾向のデータが出る）。
-    # 企業PRだが独自データを伴うものはルーブリックで対象になりうる。
-    ("BookLive", "https://www.booklive.co.jp/topics/", r"^/topics/\d+", "https://www.booklive.co.jp"),
 ]
 
 # 一覧ページは時系列順に並んでいないことが多く（特集や記事広告が上位に居座る）、
