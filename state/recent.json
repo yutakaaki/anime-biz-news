@@ -17,8 +17,8 @@
   "confidence": "高",
   "reason": "実写映画の週末興行成績（Box office）の初日プレビュー数字と予想興収が主題であり、非アニメ映像でも興行成績の数字ニュースとして判定基準に該当するため。",
   "ts": 1791565240.082263,
-  "is_new": true,
-  "updated": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324/",
@@ -37,48 +37,6 @@
   "label": "対象",
   "confidence": "中",
   "reason": "ベトナム実写映画の国際配給契約とアジア映画市場での販売という映像産業のビジネス取引が主題だが、アニメ・漫画・ゲームIP等のコア領域外かつAIが関わらないため、業界全体規模のニュースかどうか判定が中程度となる。ただしアジア映像産業の取引ニュースなので取りこぼしを避けて対象とする。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/10/something-is-killing-the-children-movie-craig-zobel-blumhouse-1237153820/",
-  "title": "Craig Zobel & Blumhouse Teaming On ‘Something Is Killing The Children’",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sat, 10 Oct 2026 01:05:22 +0000",
-  "published_ts": 1791594322,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "コミック原作（Something Is Killing the Children）の映画化企画で、Blumhouseとの製作契約・出資構成が主題であり、コンテンツ＋ビジネスの2軸が揃う。監督決定やプロジェクト発表が中心だが、製作委員会・提携企業の名前が記載されており実質的にビジネス要素を含む。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrRXhFLWJZZGlZdDdPQUE3Y2pfdGdHTTVKeFIySHIwX01aSi1sTlZESEdES09OVG92LTA0czQ2aWlpdmkwNEhSdTVkYXB3R1lwT0I3YXpmaw?oc=5",
-  "title": "ドキュメンタリー映画なのに全編を生成AIで制作～ベネチア国際映画祭でAI作品が初の公式上映～【調査情報デジタル】 - TBS NEWS DIG",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 09 Oct 2026 23:30:00 GMT",
-  "published_ts": 1791588600,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映像制作がAI技術によって全面的に行われた事例であり、映像業界のAI動向を示す重要なニュースであるため、コンテンツ+AIの組み合わせで対象とする。ビジネス的な数字や取引の詳細が記事に記載されていないため、ビジネスは含めない。",
   "ts": 1791616877.260482,
   "is_new": false,
   "updated": false
@@ -105,132 +63,6 @@
   "updated": false
  },
  {
-  "url": "https://deadline.com/2026/10/indie-films-opening-elon-musk-documentary-misty-green-fjord-1237151256/",
-  "title": "Indies Flex As ‘Musk’ Doc, Chris Rock’s ‘Misty Green’ & Cannes Winner ‘Fjord’ Ignite Theatrical Runs — Specialty Preview",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Fri, 09 Oct 2026 20:00:00 +0000",
-  "published_ts": 1791576000,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "複数の映画作品の劇場公開ニュースであり、Box Officeの興行成績・公開規模（スクリーン数）といった数字が主題となっており、コンテンツ×ビジネスが揃っている。ただしAIの実質的な主題ではないため2分野に限定。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/anime/anime-fandom-study-2026-teen-viewing-habits-267734.html",
-  "title": "Anime Accounts For At Least Half Of Viewing For 82% Of Teen Fans, And Other Findings From New Study",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 09 Oct 2026 17:31:55 +0000",
-  "published_ts": 1791567115,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Crunchyrollが委託した調査研究で、アニメファンの視聴実態と市場データ（世代別視聴傾向、グローバル市場5,000人サンプル）が主題であり、コンテンツ＋ビジネス（市場分析）に該当する。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOURLbWNuZjBRcU4tenBKa2J1VUM5V0ZXY1VvNnRhMjhLYURHcm5HTjducGYzWlZ0TlVod2p1ajdCc3hsMHp4dExkT01DRHRnMmc0R2dEQzUydXdSZFRLUlZja01veTN6aE03bHp0ZGo3ZDItVXo3MXc1NFBibW5McWhSZFVUSmNt?oc=5",
-  "title": "ドキュメンタリー映画なのに全編を生成AIで制作〜ベネチア国際映画祭でAI作品が初の公式上映〜【調査情報デジタル】 - Yahoo!ニュース",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 09 Oct 2026 23:30:35 GMT",
-  "published_ts": 1791588635,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ドキュメンタリー映画という映像作品（コンテンツ）の制作に生成AIが中心的に活用された事例であり、映像業界のAI動向を伝える記事のため、コンテンツとAIの両分野が主題として成立します。非アニメ実写ですがAIが絡む映像業界ニュースとして対象です。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aOV9GU3huU0VlUWZ4VDVwaFA4bWlaZEgwTmJQejR5R0w2Qy1FMlVKbU53OVM4V1h0MmJSOFRnZTFyTVJnMGpYaGIxZGtsTnVxYzB1RjJFQ0tQRThELWtxV0Rkdw?oc=5",
-  "title": "日本アニメ 海外展開強化 ソニー傘下配信大手 実写化部門新設 企画・制作も - 読売新聞",
-  "source": "Googleニュース(yomiuri.co.jp)",
-  "sources": [
-   "Googleニュース(yomiuri.co.jp)"
-  ],
-  "published": "Fri, 09 Oct 2026 20:00:00 GMT",
-  "published_ts": 1791576000,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ソニー傘下の配信大手が日本アニメの海外展開強化のため実写化部門を新設するという企業の経営戦略・事業展開であり、コンテンツ（アニメ）とビジネス（企画・制作への投資・部門拡大）が主題である。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/laurasirikul/2026/10/09/how-adele-lim-is-the-heart-of-crazy-rich-asians-and-its-return/",
-  "title": "How Adele Lim Is The Heart Of 'Crazy Rich Asians' And Its Return",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)"
-  ],
-  "published": "Fri, 09 Oct 2026 19:12:58 -0400",
-  "published_ts": 1791587578,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "その他",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "実写ドラマ『クレイジー・リッチ・アジアンズ』のHBO Max化という制作発表で、主題は新シリーズの制作体制（ショーランナー・製作総指揮・脚本担当）の発表であり、コンテンツ（映像化）とビジネス（配信プラットフォームのプロジェクト企画）が絡むが、契約金額・配信戦略の実質的な数字がなく、基本的には『メディアミックスの制作発表』に分類される。AI要素は無く、記事の深掘りも薄いため、厳密には対象外寄りだが、メジャー配信プラットフォーム（HBO Max/Warner Bros. Discovery傘下）への大型制作化として業界ニュース性があり『グレー』との判断もあり得るため『中』の信度で『対象』と判定する。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Wa3JFX1c2M0hRNHpiYVZwZFFKaDJSTnpDLS1OZXp1SDc2YnZ6MGNjWm9pQUxILUhNRGRGanMwVkkyZUNPbE9JMnM4RlIwUU1fcTJ2QjhfS1JIMk9IQVA0cWxWNDdBS25qcUw5QWY1X095VVFfaklXWV9ocGdPd9IBfkFVX3lxTE9Wa3JFX1c2M0hRNHpiYVZwZFFKaDJSTnpDLS1OZXp1SDc2YnZ6MGNjWm9pQUxILUhNRGRGanMwVkkyZUNPbE9JMnM4RlIwUU1fcTJ2QjhfS1JIMk9IQVA0cWxWNDdBS25qcUw5QWY1X095VVFfaklXWV9ocGdPdw?oc=5",
-  "title": "ドキュメンタリー映画なのに全編を生成AIで制作〜ベネチア国際映画祭でAI作品が初の公式上映〜【調査情報デジタル】 - ｄメニューニュース",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 09 Oct 2026 23:30:00 GMT",
-  "published_ts": 1791588600,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映像制作全般にAI（生成AI）が関わり、国際映画祭での公式上映という業界の動向ニュースであり、コンテンツ（映画/映像）とAIの両分野が主題となるため対象。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/tv/markets-festivals/spain-tv-series-licensing-coproductions-1236893852/",
   "title": "Spain’s TV Powerhouses Forge New Partnerships as Series Biz Evolves",
   "source": "Variety",
@@ -247,69 +79,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "スペインのテレビ業界における配信プラットフォームとの提携戦略、ライセンス取引、共同制作、国際配信の数字（2025年Netflix関連で2,829時間、RTVE/Atresmediaから700時間など）が主題であり、映像産業のビジネス構造転換を深く分析した記事。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/10/matthew-matpat-patrick-adapting-amanda-the-adventurer-blumhouse-1237153794/",
-  "title": "Matthew “MatPat” Patrick Adapting ‘Amanda the Adventurer’ Video Game For Blumhouse",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sat, 10 Oct 2026 00:16:08 +0000",
-  "published_ts": 1791591368,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ビデオゲーム（コンテンツ）の映画化企画とBlumhouse/Epic Picturesによる制作契約（ビジネス）が主題であり、コンテンツ×ビジネスの構成で対象。非アニメ映像だが、ビデオゲーム改編の映画化は業界全体に関わる重要なトレンドであり拾う。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.animenewsnetwork.com/news/2026-10-09/ize-press-announces-print-editions-of-regas-eat-before-you-go-webtoons/.242614",
-  "title": "Ize Press Announces Print Editions of Regas, Eat Before You Go Webtoons",
-  "source": "Anime News Network",
-  "sources": [
-   "Anime News Network"
-  ],
-  "published": "Fri, 09 Oct 2026 14:45:00 -0400",
-  "published_ts": 1791571500,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "韓国webtoonの出版権取得・印刷版化の発表であり、コンテンツ（漫画/webtoon）とビジネス（出版社による版権取得・出版契約）が明確に該当する。webtoonはコア領域に含まれ、Ize Pressによる出版事業の拡張として経営戦略に該当する。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQcVlpS1J4Yk9tTTZOcEtKRmNkd0xHRmh2b0VLUl9OME5MWFdyZHgtRXNvR2w3RWlBTndWeFZkZktNbngtclY0bHh1OFRxNmNHMWZkTUFLQjFLakc0RU82Z05aTUZFQXhMc2pEcl9Lay03Rnc5S3pLZ2Y1N3E0cjRFa3oxSVYxWnRtR1dfX3NjVGpEcDRuZ0toQ1RZcG9BOV9OWnA0SXdxUjdIeURlb1NJOER6N0xCZU1Zb3V0QVVTdlJVUENlVUxzVjVLeWVsOTNTOVNVRllDRU1rYVFfSUVCdDNtT0hzUktENU1ZRWp0YTBXTlRQWXlwWVpvZVpXWlRVQ0JRQ1l0ZmF1UjZUbDRhZklfUHJQV2JBUER6QkNIWF9RMDlTUVVkbFk2SVA5ckkxY2paM3JtUlBBbnEzYTMydkt2VS1Bd0kxVG1tZ01pUW04b3pLSXY1cnVlcXh1RWhzZlZMSWQyR3pObHBUTzhoZjJqWlk0TllEVU5wNjRlcw?oc=5",
-  "title": "AIアニメ生成 - 無料でAIがアニメーションを生成 ai - Узнай Москву",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 09 Oct 2026 20:09:34 GMT",
-  "published_ts": 1791576574,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "その他",
-  "label": "グレー",
-  "confidence": "低",
-  "reason": "AIアニメーション生成ツール/サービスの紹介であり、コンテンツ×AIの組み合わせだが、具体的なビジネス数字や企業/投資動向、業界への実質的な影響が記事から明確でなく、ツール紹介に留まる可能性が高いため、確実性を欠く。",
   "ts": 1791616877.260482,
   "is_new": false,
   "updated": false
@@ -357,28 +126,6 @@
   "updated": false
  },
  {
-  "url": "https://deadline.com/2026/10/busan-acfm-ellen-yd-kim-ai-korea-thailand-japan-1237150757/",
-  "title": "ACFM Chief Ellen YD Kim Talks AI Development; Korean Recovery; Market Spotlights On Thailand & Japan",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Fri, 09 Oct 2026 23:00:00 +0000",
-  "published_ts": 1791586800,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アジア映画市場のAI制作ツール・AI生成映画プロジェクトの動向（InnoAsia）、参加企業の資金調達・契約数字、市場成長・地域別展示社数の実績データが主題で、コンテンツ・AI・ビジネスの3分野が揃う。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://animeanime.jp/article/2026/10/10/103674.html",
   "title": "「たまごっち」3000周年!? 原宿・渋谷で「超たまごっち祭」開催！新デバイス「Neon Planets」も登場",
   "source": "アニメ！アニメ！",
@@ -400,27 +147,6 @@
   "updated": false
  },
  {
-  "url": "https://deadline.com/2026/10/9-1-1-stunt-accidents-oliver-stark-injured-1237151109/",
-  "title": "‘9-1-1’ Stunt Problems Back In Spotlight After Oliver Stark & 3 Other Performers Injured On Set",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Fri, 09 Oct 2026 22:30:00 +0000",
-  "published_ts": 1791585000,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "実写TV制作における安全管理問題を深掘りしており、放送業界のコンテンツ制作プロセスとコスト・スケジュール制約に関わる構造的な課題を論じているが、AI要素は無く、ビジネスの数字や経営判断が明確な主題ではないため対象と確定しにくい。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/tv/markets-festivals/wwii-spy-series-operation-doolittle-busan-market-1236907242/",
   "title": "Edward Zhang, Casper Van Dien, Jeff Fahey Star in China-U.S. WWII Spy Series ‘Operation Doolittle,’ Heading to Busan Market (EXCLUSIVE)",
   "source": "Variety",
@@ -437,27 +163,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "中米合作ドラマシリーズが釜山映画祭の市場で販売代理人を通じて国際バイヤーに向けてピッチされる動きであり、映像作品（コンテンツ）の国際販売・配信契約獲得に向けた取引（ビジネス）が主題。",
-  "ts": 1791616877.260482,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/10/stargate-series-amazon-wandavision-jac-schaeffer-1237153109/",
-  "title": "‘Stargate’ Series From ‘WandaVision’ Creator Jac Schaeffer In Works At Amazon",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Fri, 09 Oct 2026 22:18:48 +0000",
-  "published_ts": 1791584328,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Amazonの大型IP（Stargate）の新シリーズ開発という、メジャースタジオのコンテンツ制作戦略に関わるビジネスニュース。Amazon MGM Studiosの2022年の$8.5B買収以来のIP活用の一環であり、コンテンツ＋ビジネスの2軸が満たされる。",
   "ts": 1791616877.260482,
   "is_new": false,
   "updated": false
@@ -590,27 +295,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41NmR6dUFOZjJlM3VfNGZpb0RNZ1hGWWEtWWxJQ05kZTBlQnVDRUt4VVBxaU5HUFFVVlFRbXROajN6Vl9Kb3VBRmNtWWN5YTI5MTRtYlI5QkNkejdZdmJyWkIzMU9DRjlkNTJ2TmR1cm9lMTBuUVJEUFVLZHZ6UEE?oc=5",
-  "title": "ドキュメンタリー映画なのに全編を生成AIで制作〜ベネチア国際映画祭でAI作品が初の公式上映〜【調査情報デジタル】 - Yahoo!ニュース",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 09 Oct 2026 23:30:35 GMT",
-  "published_ts": 1791588635,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "映像産業におけるAI活用の動向を扱う記事で、生成AIでドキュメンタリー映画を全編制作し国際映画祭で公式上映される事例は、映像業界のAI技術導入の重要なマイルストーンであり、コンテンツ×AI の条件を満たす。ビジネス（興行数字・契約金額等）の記載が薄い点で2分野止まりだが、業界全体の動向として対象に該当する。",
-  "ts": 1791654010.829462,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/10/ray-gunn-review-brad-bird-sam-rockwell-scarlett-johansson-1237152314/",
   "title": "‘Ray Gunn’ Review: Sam Rockwell And Scarlett Johansson Channel Bogie And Bacall In Brad Bird’s Nifty Sci-Fi/Film Noir Mashup – London Film Festival",
   "source": "Deadline",
@@ -695,27 +379,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWnlPZENQNnZhYXlVUWw4RF9hVUFYbWY5OFplSktxa2JKNWpiUHRWMmFhSklrdndhU1pPUFA5VDlSdkstSDAxdlZQNEtNVTR3ZzN5c2dMa216SkJqSzJuRzlSQy0wcWt0QlM3MURGSGxDcW11Qk40M2VoeEVUSmFwblJXVFdGNU96NFlrSmVn?oc=5",
-  "title": "ドキュメンタリー映画なのに全編を生成AIで制作〜ベネチア国際映画祭でAI作品が初の公式上映〜【調査情報デジタル】 - Yahoo!ニュース",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 09 Oct 2026 23:30:35 GMT",
-  "published_ts": 1791588635,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "映像作品（ドキュメンタリー映画）の全編を生成AIで制作した事例で、AI技術が映像制作に活用されている主題だが、ビジネス面（製作資金・配給・興行成績など）の記載が明確でなく、また業界全体を揺るがす大型ニュースか限定的な試作品か判定が困難なため。",
-  "ts": 1791654010.829462,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://www.animenewsnetwork.com/news/2026-10-11/marvel-kadokawa-launch-5-new-manga-as-part-of-partnership/.242704",
   "title": "Marvel, Kadokawa Launch 5 New Manga as Part of Partnership",
   "source": "Anime News Network",
@@ -754,8 +417,8 @@
   "confidence": "高",
   "reason": "アニメの興行収入の新規数字（33億円突破）が記事の主題であり、コンテンツ＋ビジネスの組み合わせで対象。興行成績の実績値報道は実施基準を満たす。",
   "ts": 1791694847.134808,
-  "is_new": true,
-  "updated": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN0ljb0t5YzJjcEpidHNrSTh0NVJFTThvN0lIeWs4RHBkNVMyenJvbm5tSnFzQ1ZvSUQ2YVBQZGZpX1hrQnFwMGFQc3FpbkhGZlpiTnV1X0FVVHo3TlJ5X0t1ZF8yblpZdFR6dVdPZ0FDZTBjSk9ZaGVqU2FXb1BCS0hnenlVeHdqQldoZTNTMGVxT2JtNDFBZ1hoNW9oZGVhWmYyZGxocjI5SkVpSTV0NDVIQk9pUQ?oc=5",
@@ -1090,7 +753,8 @@
   "confidence": "高",
   "reason": "スペインのドラマ・フォーマット作品群がMipcom 2026で展示される業界イベント発表。制作会社、配信プラットフォーム、国際販売代理店が明記され、BBC Studiosによる国際化権取得やNetflixのテリトリー契約など実質的なビジネス取引（配信権・販売）が記事の主題であり、コンテンツ×ビジネスの軸が明確。",
   "ts": 1791738034.2842062,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcVlYTlZkblI0MXJQTk80Y0ZadENabXdDd3BlYWRPOHc3WGl1TFpodk5DV3BveV92Wmc0UGkyM1B3cnRwcTljNTQwWnRzbXN4Um1UWS10MlNnQk1ZN0x0azFHSHRfel9jYVlMN01BNTF1THlRMTZDblpkNm1KUndiMjlzVC1BRjRFTERKRHRYaHNhVV8wamZqUDI1cHRCRk9hZzZaeHkxNm0ySF9jbFY1TWZfajFsUjVNZnlZelM2cDczLXpScWVJMm5ib2ZBYnl6UXVNNm5EaVdvNW00ZUdnaGFSX2xEWGMtRVJtZUhoU0xOQl8xblE?oc=5",
@@ -1110,7 +774,8 @@
   "confidence": "高",
   "reason": "映像制作業界のAI活用が主題であり、生成AIで全編制作されたドキュメンタリー映画がベネチア国際映画祭で公式上映されるという業界動向のニュースであるため、コンテンツ×AIの要件を満たす。",
   "ts": 1791738034.2842062,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/box-office/social-reckoning-flops-other-mommy-leads-box-office-1236908161/",
@@ -1130,7 +795,8 @@
   "confidence": "高",
   "reason": "Box office（興行成績）の数字ニュースであり、複数の実写映画の初週末興収・累計興収・ランキングが主題。コンテンツ＋ビジネスに該当し、新たに判明した興行実績値の報道のため対象。",
   "ts": 1791738034.2842062,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zVnRpclBvcF9jWVd0NWltaXlGR3pXMjVLaWZqTThlbEgwd3paZGszaFVzV09lZTFMaTZtazJDeENaYUxUVnhhaURCbDFlYkpObFdNWTZkQkRvZnJYOWp6aENhNHQweFZ2ZzZKQ1pVaFloNkcwb0tDM29FdndRUQ?oc=5",
@@ -1150,7 +816,8 @@
   "confidence": "中",
   "reason": "AI技術を使用した映画・ショートフォーム作品の公募展・アワード授賞という、AIと映像コンテンツが主題であり、コンテンツ軸とAI軸が揃っているため対象。ビジネス面の詳細（賞金・投資・市場規模など）は本文から判断できないため、テーマズはコンテンツ＋AIのみとした。",
   "ts": 1791738034.2842062,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/10/ai-filmmaking-kling-ai-kim-sung-soo-mbc-busan-1237154243/",
@@ -1170,7 +837,8 @@
   "confidence": "高",
   "reason": "映像制作（短編映画・アニメーション制作）にKling AIなどのAI技術を活用する事例と、映像業界のAI制作トレンドを扱う記事。映像業界のAI動向に関する監督・制作者のインタビュー・パネル討論が主題であり、コンテンツ×AIが明確に該当し、考察・解説が豊富なため対象。",
   "ts": 1791738034.2842062,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/markets-festivals/ai-native-studios-create-original-ip-vfx-veteran-busan-1236908092/",
@@ -1190,7 +858,8 @@
   "confidence": "高",
   "reason": "映像制作（VFX・アニメーション・映画）におけるAI活用の現状と将来展望を、業界の専門家らの見解として掘り下げた記事。AIが制作ワークフローの一部として統合される動きを具体的に解説しており、コンテンツ×AI の主題が明確である。ビジネスの数字や経営的な取引は主題でないため themes に含めない。",
   "ts": 1791738034.2842062,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/markets-festivals/12-12-the-day-director-kim-sung-soo-ai-craft-1236908089/",
@@ -1210,7 +879,8 @@
   "confidence": "高",
   "reason": "AIを映像制作に活用する韓国・中国の映画監督の実践例と技術的課題を扱う記事で、コンテンツ（映画・短編・ドラマシリーズ）とAI（生成AI・VFX・制作プロセス）が主題だが、商業化・売上・投資といった金銭的なビジネスの数字や取引は明記されていないため。",
   "ts": 1791738034.2842062,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWmF5TGg3Y0ExYTZfREE3bFlURGN3cF9NcTNRZ3ZQUmZnQ1ctNm56U0VMUl9KVEVBMUtqRUVvdG9jd3FxLUNwVFFBdEpmSzQ1TDUzZkY5djR5YmJneWNGS0R2R195Q08ycE5zVWdvZmVubVpBY0FJWTdYQjYtUjdSaDRDazBZRlUySEN2SHVHTm9DNDIzVEJScDVzcVJnY2dPanZMaTJvMzRZc3QzU21SVQ?oc=5",
@@ -1230,6 +900,207 @@
   "confidence": "中",
   "reason": "実写TV番組『True Detective』とAI権利放棄契約の拒否が主題だが、Cageの発言・今後の意向に基づくもので、実績としてのビジネス数字や取引の具体化がなく、AI関連の権利問題としては重要だが記事本体が確認できないため判定が完全には確定しない。",
   "ts": 1791738034.2842062,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://variety.com/2026/film/markets-festivals/chinese-women-directors-parallax-films-slate-busan-market-1236908619/",
+  "title": "Box Office Boom for China’s Women Directors Feeds New Parallax Films Pickups From Shao Yihui, Yin Lichuan and Yang Lina (EXCLUSIVE)",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 12 Oct 2026 01:21:54 +0000",
+  "published_ts": 1791768114,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "中国の女性監督による映画作品群を映画代理店Parallax Filmsが買付・販売する取引と、複数作品の興行成績（8.45億人民元）が主題であり、コンテンツ（映画制作・流通）とビジネス（販売契約・興行数字）の両分野に該当する。",
+  "ts": 1791768571.860419,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/10/sacha-baron-cohen-quentin-tarantino-popinjay-cavalier-london-1237073438/",
+  "title": "Sacha Baron Cohen Confirmed To Star In Quentin Tarantino’s ‘The Popinjay Cavalier’ West End Stage Play With Dates & On Sale Window Announced",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 12 Oct 2026 00:28:31 +0000",
+  "published_ts": 1791764911,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "舞台作品（コンテンツ）の制作・キャスティング発表で、Sony Pictures EntertainmentとSonia Friedman Productionsによる制作（ビジネス）、上演日程と チケット販売情報（ビジネス）が主題だが、制作発表が中心で契約金額などの取引数字が明示されていないため、確信度は中程度。",
+  "ts": 1791768571.860419,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/10/indie-film-box-office-fjord-naza-misty-green-musk-1237154375/",
+  "title": "Palme d’Or Prestige: ‘Fjord’ Tops Indie Openers, ‘Naza’ Eyes $500k Surge – Specialty Box Office",
+  "source": "Deadline(Box Office)",
+  "sources": [
+   "Deadline(Box Office)"
+  ],
+  "published": "Sun, 11 Oct 2026 18:15:00 +0000",
+  "published_ts": 1791742500,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画の興行成績（Box office）に関する速報記事。複数の映画作品の初週末興収・累計興収などの数字が主題であり、実写映画中心だが興行実績の報道として対象。コンテンツ＋ビジネスで基準を満たす。",
+  "ts": 1791768571.860419,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/10/box-office-domestic-8-billion-milestone-1237154358/",
+  "title": "Theatrical Is Alive: YTD Domestic B.O. Surges Past $8 Billion, Two Months Sooner Than 2025",
+  "source": "Deadline(Box Office)",
+  "sources": [
+   "Deadline(Box Office)"
+  ],
+  "published": "Sun, 11 Oct 2026 17:42:13 +0000",
+  "published_ts": 1791740533,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "米国・カナダ映画興行収入が82億ドルを突破したというBox office実績値が主題であり、コンテンツ+ビジネスの条件を満たす。非アニメ映像だが興行成績の数字ニュースは拾う対象である。",
+  "ts": 1791768571.860419,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/timlammers/2026/10/11/tom-cruise-dud-digger-drops-60-in-second-weekend-at-box-office/",
+  "title": "Tom Cruise Dud ‘Digger’ Drops 60% At Second Weekend At Box Office",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Sun, 11 Oct 2026 13:56:57 -0400",
+  "published_ts": 1791741417,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画の週末興行収入が60%下落という新規の数字ニュース（Box office）であり、映像作品とビジネス（興行成績）の両分野が該当する。アニメではない実写映画だが、興行成績の数字ニュースは必ず対象。",
+  "ts": 1791768571.860419,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/festivals/andrew-garfield-reacts-artificial-oscar-buzz-london-premiere-1236907596/",
+  "title": "Andrew Garfield Reacts to Oscar Buzz as ‘Artificial’ Gets Resounding London Reception: ‘So Flattered That Anyone Is Going to See This Film in the First Place’",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 12 Oct 2026 00:36:39 +0000",
+  "published_ts": 1791765399,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画『Artificial』がOpenAI CEO Sam Altmanを題材にした作品であり、AI技術と権力をめぐるストーリーが映像コンテンツの中心であるため、コンテンツ＋AIが揃い対象。ビジネスの観点は映画配給の歴史（Amazon MGM→Neon）に触れるが、記事の主題は映画祭でのプレミア反応とキャスト/監督コメントであり、経営数字や取引は主題ではない。",
+  "ts": 1791768571.860419,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/markets-festivals/reza-rahadians-exile-drama-casparina-busan-asian-project-market-1236908582/",
+  "title": "Reza Rahadian Turns His Grandmother’s Decades in Exile Into Busan Asian Project Market Drama ‘Casparina’",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 12 Oct 2026 00:25:23 +0000",
+  "published_ts": 1791764723,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "映画制作プロジェクト『Casparina』がアジア映画市場での資金調達・共同制作パートナー探しを主題としており、コンテンツ（映画制作）とビジネス（資金調達・製作委員会構成）が該当するが、AIは関わらず、また非アニメ映像で業界全体規模のニュースではなく、制作発表段階のため確実性は中程度。",
+  "ts": 1791768571.860419,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/digital/global/dhar-mann-hollywood-studios-creator-city-1236908547/",
+  "title": "Creator Dhar Mann on Partnering With Hollywood Studios and His Vision for Creator City in Los Angeles",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 12 Oct 2026 00:20:13 +0000",
+  "published_ts": 1791764413,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "クリエイター企業Dhar Mann Studiosの経営戦略・事業拡大（4エーカースタジオ「Creator City」の建設、月1本の新シリーズ配信、Disney+・Samsung・Foxとのパートナーシップ）が主題であり、コンテンツ制作とビジネス展開の実態を詳しく論じており、AIは含まれない。",
+  "ts": 1791768571.860419,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/shopping/news/kpop-demon-hunters-tech-collection-target-shop-online-1236907019/",
+  "title": "‘KPop Demon Hunters’ Gets New Tech Collection at Target, Including Ramen-Themed Chargers, Soda Can Speaker, Pat Pat Light and More",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 12 Oct 2026 00:08:29 +0000",
+  "published_ts": 1791763709,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "Netflixのアニメ映画『KPop Demon Hunters』のキャラクターを題材とした商品コレクションの発売開始であり、一見するとグッズ告知に見えるが、記事全体が『ライセンシング事業の拡大』『Mattel/Hasbro/LEGO等との版権パートナーシップ』『600百万ビュー達成・グラミー賞受賞・映画化ビジネスの成功』という経営・ライセンス戦略が主題であり、単なる商品告知ではなく映像IPの版権ビジネス規模を報じているため。",
+  "ts": 1791768571.860419,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEtzRmxsYWY3SndJSmt5UGkzYmFndHgtUmJOQ0VpU01Sc1oyVVVfUzNPcmx5ZXZ0Rm81Y1MyQ1VreXZnekpvYjdMWnp0aGZVMVVYVGxBOEZjRzJ1V18wcXF5LVlOTHoxOXFQZFA2eHRvZjZnMVRtMl9wMFpMZll5MjB5SU9mNko0NEctcjZsWHFrZnA4R2V0NGZTMFBaZnhMSzBhNHNIaEprWU1VWlNmY2NTQ1F3SEE?oc=5",
+  "title": "Are Gears Of War: E-Day’s Reportedly Poor Sales As Bad As They Look? - Forbes",
+  "source": "Googleニュース(forbes.com)",
+  "sources": [
+   "Googleニュース(forbes.com)"
+  ],
+  "published": "Sat, 10 Oct 2026 14:39:47 GMT",
+  "published_ts": 1791643187,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ゲームIP（Gears of War）の新作の販売実績（セールス）が記事の主題であり、コンテンツ＋ビジネスの条件を満たす。ただし「reportedly」とあり、公式発表ではなく報道の真偽を検証する分析記事の可能性があるため、confidence は中。",
+  "ts": 1791768571.860419,
   "is_new": true
  }
 ]
