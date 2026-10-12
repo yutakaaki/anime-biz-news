@@ -21742,5 +21742,137 @@
   "source": "Newsweek日本版",
   "label": "対象外",
   "ts": 1791768571.860419
+ },
+ "https://www.newsweekjapan.jp/articles/-/336600": {
+  "title": "サウジ首都空港に再び攻撃、1人死亡　フーシ派「作戦区域」と主張",
+  "source": "Newsweek日本版",
+  "label": "重複スキップ",
+  "ts": 1791769511.919868
+ },
+ "https://variety.com/2026/film/festivals/busan-selvi-turns-nurse-working-hours-endurance-test-1236908624": {
+  "title": "How Busan Title ‘Selvi’ Turns a Nurse’s Working Hours Into an Endurance Test",
+  "source": "Variety",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://variety.com/2026/film/box-office/digger-losing-millions-warner-bros-box-office-1236908217": {
+  "title": "Tom Cruise’s ‘Digger’ Now Stands to Lose $245 Million After Dropping 60% in Second Weekend",
+  "source": "Variety(Box Office)",
+  "label": "対象",
+  "ts": 1791769511.919868
+ },
+ "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194": {
+  "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
+  "source": "ITmedia AI+",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261012c": {
+  "title": "映画『バイオハザード』全世界興行収入が「3億2020万ドル」を突破。“シリーズ史上最高”のヒット作に",
+  "source": "電ファミニコゲーマー",
+  "label": "対象",
+  "ts": 1791769511.919868
+ },
+ "https://www.itmedia.co.jp/news/article/2610/12/2000002192": {
+  "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供　米政権は「通知と是正は義務」と警告",
+  "source": "ITmedia AI+",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261012d": {
+  "title": "【100円】『NINKU-忍空-』Kindleにて「100円」で購入できるセールが開催中！全巻を「1800円」で揃えられる。ジャンプを代表するもう一つの忍者絵巻",
+  "source": "電ファミニコゲーマー",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261011n": {
+  "title": "『ポートピア連続殺人事件』堀井雄二氏がAIを用いて制作した推理ゲーム『取調室の小宮』が無料公開。制作にかかった時間は“ほんの30分ほど”",
+  "source": "電ファミニコゲーマー",
+  "label": "対象",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261011m": {
+  "title": "『鉄拳8』コラボ参戦キャラ「範馬勇次郎」の新映像が公開ッ！あまりにも再現度が高すぎるモデルがお披露目",
+  "source": "電ファミニコゲーマー",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261011l": {
+  "title": "秘密を抱えた“人形職人”が主人公のホラーノベルゲーム『The Doll Shop』がSteamで明日10月12日発売。フランスのマンガ家コンビ、アトリエ・セントーによる手描きのグラフィックは雰囲気バツグン",
+  "source": "電ファミニコゲーマー",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261011k": {
+  "title": "自分だけの工房で木工品を手作りするゲーム『Made by Hand』が面白そう。切断、加工、成形などの工程を経て、1枚の板を1つの作品へと仕上げていく",
+  "source": "電ファミニコゲーマー",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa19jalgzczV6cldhaE1SbERFenJxNGpvbTFjaTExTlZNd01IRG1oMjFPMWROS1l4VGRBdkVxOGk3dEpuZkF3VFh5V3R1TGRQMTN0Q3ZuYzhhemRiczZRZTJSdDFKdkhGZi1SaFJvVkdsVnIzWllhZDlKZkR5OEFFWmZ2X0VDdWZHd1I5R0FuNXRLd0YyR1RncS1QQVl3TDd0aDYxUmMycFNHLVV2WHNxNmExLVZuVkRKQ0NPYjQwVQ?oc=5": {
+  "title": "世界のハイコンテンツ・ライブセルアナライザー市場：規模、動向、2035年までの予測 - IndexBox",
+  "source": "Googleニュース: コンテンツ 海外売上 OR 市場規模",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261011j": {
+  "title": "【4180円→1045円】死と老化を繰り返して強くなるカンフーアクションゲーム『Sifu』を75%オフで購入できるセールが開催中。無数に襲い来る敵を次々と相手にするカンフー映画さながらの戦闘を楽しめる",
+  "source": "電ファミニコゲーマー",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261011i": {
+  "title": "【30人マルチ対応】最大“100万の部屋”で構成される迷路からゴールを見つけだすゲーム『ミリオンキューブ』Steamストアページが公開。10月末ごろのリリースを予定",
+  "source": "電ファミニコゲーマー",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261011h": {
+  "title": "【10月12日終了】マンガ『だがしかし』Kindle版の50%ポイント還元セールが開催中。全11巻購入で5863円→2932ポイントが還元",
+  "source": "電ファミニコゲーマー",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261011g": {
+  "title": "声優アイドルユニット「i☆Ris」結成15周年を迎える2027年末をもって活動終了へ。声優とアイドルの活動を両立するハイブリッドユニットとして2012年に結成",
+  "source": "電ファミニコゲーマー",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261011f": {
+  "title": "『東方紅魔郷』キャラ設定などを原作者のZUN氏が振り返る動画が公開中。当時の「おまけテキスト」を元に、24年も前の“オリジナル”に立ち返る貴重な内容",
+  "source": "電ファミニコゲーマー",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/2610113i": {
+  "title": "『映画名探偵プリキュア！』入場者プレゼント第5弾は「プリクラ風ステッカー」に決定。『キミプリ』『わんぷり』も混合のランダム3種、チョベリグで貴重な“共演”",
+  "source": "電ファミニコゲーマー",
+  "label": "対象",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261011e": {
+  "title": "『NARUTO』「PROJECT RASENGAN」が発表。マンガ、アニメ、ゲーム、カードゲーム、すべてを巻き込む新プロジェクト",
+  "source": "電ファミニコゲーマー",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261011d": {
+  "title": "『NARUTO』の新作描きおろしマンガ『NARUTO-ナルト- SHADOW RISING』が発表。ジャンプフェスタ2027『NARUTO-ナルト-』ジャンプスーパーステージにて詳細が発表予定",
+  "source": "電ファミニコゲーマー",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://news.denfaminicogamer.jp/news/261011c": {
+  "title": "『NARUTO』の新作モバイルゲームが発表。ナルトたちの物語を追体験しながら、アニメさながらの忍術や奥義演出、スピード感あふれるバトルを楽しめる、対戦アクションゲーム",
+  "source": "電ファミニコゲーマー",
+  "label": "対象外",
+  "ts": 1791769511.919868
+ },
+ "https://www.newsweekjapan.jp/articles/-/336611": {
+  "title": "パキスタン、カーン氏政党率いる州政府の機能停止　非常事態を宣言",
+  "source": "Newsweek日本版",
+  "label": "対象外",
+  "ts": 1791769511.919868
  }
 }
