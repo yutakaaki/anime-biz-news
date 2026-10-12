@@ -10,6 +10,7 @@ script/style 等を除いたテキストを使う。ペイウォール記事（�
 from __future__ import annotations
 
 import calendar
+import os
 import re
 import urllib.parse
 from dataclasses import dataclass, field
@@ -183,7 +184,15 @@ def _normalize(s: str) -> str:
 HTML_LISTINGS = [
     ("Forbes JAPAN", "https://forbesjapan.com/", r"^/articles/detail/\d+", "https://forbesjapan.com"),
     ("Newsweek日本版", "https://www.newsweekjapan.jp/", r"^/articles/-/\d+", "https://www.newsweekjapan.jp"),
+    # 電子書籍ストアの自社調査リリース（累計配信数や読書傾向のデータが出る）。
+    # 企業PRだが独自データを伴うものはルーブリックで対象になりうる。
+    ("BookLive", "https://www.booklive.co.jp/topics/", r"^/topics/\d+", "https://www.booklive.co.jp"),
 ]
+
+# 一覧ページは時系列順に並んでいないことが多く（特集や記事広告が上位に居座る）、
+# 少数だけ見ると新着を取りこぼす。Forbes JAPANのトップは記事リンクが65本あり、
+# 15本で打ち切ると当日の記事が入らず半日以上遅れていた。多めに拾う。
+LISTING_LIMIT = int(os.environ.get("LISTING_LIMIT", "60"))
 
 
 def fetch_listing(list_url: str, pattern: str, base: str, source: str,

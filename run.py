@@ -35,8 +35,8 @@ def _fmt_jst(ts, fallback: str = "") -> str:
 import dedup
 import store
 from classifier import MODEL, classify
-from fetcher import (HTML_LISTINGS, Article, fetch_article_text, fetch_feed,
-                     fetch_listing)
+from fetcher import (HTML_LISTINGS, LISTING_LIMIT, Article, fetch_article_text,
+                     fetch_feed, fetch_listing)
 from sources import all_feeds
 
 OUT_DIR = os.path.join(os.path.dirname(__file__), "outputs")
@@ -72,6 +72,14 @@ def normalize_url(url: str) -> str:
     return urllib.parse.urlunsplit((p.scheme, p.netloc.lower(), path, query, ""))
 
 
+def _fill_published(art: Article) -> None:
+    """一覧から拾った記事の公開日時だけを先に埋める（本文は判定時に取る）。"""
+    try:
+        fetch_article_text(art)
+    except Exception:  # noqa: BLE001
+        pass
+
+
 def collect() -> list[Article]:
     """各フィードを取得し、ラウンドロビンで均等に混ぜて返す（URL完全重複は除去）。"""
     per_feed: list[list[Article]] = []
@@ -87,12 +95,19 @@ def collect() -> list[Article]:
     # RSSを廃止した媒体は一覧ページのHTMLから収集（本文が取れるので判定精度が上がる）
     for source, list_url, pattern, base in HTML_LISTINGS:
         try:
-            entries = fetch_listing(list_url, pattern, base, source, limit=PER_FEED_LIMIT)
+            entries = fetch_listing(list_url, pattern, base, source, limit=LISTING_LIMIT)
         except Exception as e:  # noqa: BLE001
             print(f"  [一覧失敗] {source}: {e}")
             continue
-        per_feed.append([a for a in entries if a.url])
-        print(f"  {source}(一覧): {len(entries)} 件")
+        entries = [a for a in entries if a.url]
+        # 一覧にはRSSのような公開日時が無い。先に並列で日時だけ埋めておくと、
+        # 古い記事を年齢フィルタで落とせて判定（API）を無駄に使わない。
+        if entries:
+            with ThreadPoolExecutor(max_workers=8) as ex:
+                list(ex.map(_fill_published, entries))
+        per_feed.append(entries)
+        fresh = sum(1 for a in entries if a.published_ts)
+        print(f"  {source}(一覧): {len(entries)} 件（日時取得 {fresh}）")
 
     seen_urls: set[str] = set()
     articles: list[Article] = []
