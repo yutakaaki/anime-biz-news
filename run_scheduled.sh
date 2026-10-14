@@ -83,14 +83,30 @@ if [ -f "$DIR/outputs/digest.html" ]; then
   fi
 fi
 
-# 次のウェイクを予約（朝2:00の実行後→今日の13:58 / 午後14:00の実行後→翌朝01:58）。
+# 次のウェイクを予約。実行時刻が曜日によって変わるので、スケジュール表から
+# 「次の便」を計算して、その2分前に起こす。plist の StartCalendarInterval と
+# 同じ内容を持たせること（毎日2:00と14:00、月曜18:00、火曜21:00）。
 # pmset schedule は要root。sudoers で pmset を NOPASSWD 許可している前提。
-HOUR=$(date +%H)
-if [ "$HOUR" -lt 12 ]; then
-  NEXT=$(date -v13H -v58M -v00S '+%m/%d/%Y %H:%M:%S')
-else
-  NEXT=$(date -v+1d -v01H -v58M -v00S '+%m/%d/%Y %H:%M:%S')
-fi
+NEXT=$(/usr/bin/python3 - <<'PYWAKE'
+from datetime import datetime, timedelta
+# (曜日, 時) 曜日は月=0..日=6、None は毎日
+SCHEDULE = [(None, 2), (None, 14), (0, 18), (1, 21)]
+now = datetime.now()
+best = None
+for day_ahead in range(8):
+    d = now + timedelta(days=day_ahead)
+    for wd, hour in SCHEDULE:
+        if wd is not None and d.weekday() != wd:
+            continue
+        run = d.replace(hour=hour, minute=0, second=0, microsecond=0)
+        wake = run - timedelta(minutes=2)
+        if wake > now and (best is None or wake < best):
+            best = wake
+    if best:
+        break
+print(best.strftime('%m/%d/%Y %H:%M:%S'))
+PYWAKE
+)
 /usr/bin/sudo /usr/bin/pmset schedule wake "$NEXT" >> "$LOG" 2>&1 \
   && echo "次回ウェイク予約: $NEXT" >> "$LOG" \
   || echo "ウェイク予約失敗（sudoers未設定の可能性）" >> "$LOG"

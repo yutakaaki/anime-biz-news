@@ -21,6 +21,20 @@
       <key>Hour</key><integer>14</integer>
       <key>Minute</key><integer>0</integer>
     </dict>
+    <!-- 国内興行の速報だけを狙った追加便。アーカイブ243本の集計で、
+         月曜15〜18時に25本、火曜18〜21時に24本（曜日×時間帯で最大のセル）が
+         集中していた。週末アニメ映画ランキングは火曜19時台が定番。
+         Weekday: 1=月曜, 2=火曜 -->
+    <dict>
+      <key>Weekday</key><integer>1</integer>
+      <key>Hour</key><integer>18</integer>
+      <key>Minute</key><integer>0</integer>
+    </dict>
+    <dict>
+      <key>Weekday</key><integer>2</integer>
+      <key>Hour</key><integer>21</integer>
+      <key>Minute</key><integer>0</integer>
+    </dict>
   </array>
   <key>StandardOutPath</key>
   <string>/Users/akitayutaka/anime-biz-news/state/launchd.out.log</string>
