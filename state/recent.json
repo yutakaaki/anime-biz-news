@@ -42,27 +42,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wclB5WVlrakQzc2tydjlKYzcyR1ZUVU5wX1FLek9BdUczQVBZbDBGQlFHLTVXdk1CTURuVGZvaDFycC1QbFNvY1k2YmNOX1ItNC1JNWxSbHJGeWx0R2cwTENwUnFXZw?oc=5",
-  "title": "ゲームやアニメなど支援の「司令塔」法人、補助金を一元化・重点国絞り海外展開…概要案が判明 - 読売新聞",
-  "source": "Googleニュース(yomiuri.co.jp)",
-  "sources": [
-   "Googleニュース(yomiuri.co.jp)"
-  ],
-  "published": "Sat, 17 Oct 2026 06:00:00 GMT",
-  "published_ts": 1792216800,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "ゲーム・アニメのIP産業支援に関する政策・補助金による海外展開戦略が主題で、コンテンツとビジネス（政策・資金）が関わるが、具体的な数字や企業の業績といった実質的なビジネスの内容が本文から不明な点で確信度は中程度。",
-  "ts": 1792256444.697885,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbWREM0VkMVJ4Z0RBdVA2RDZrRFdWaGgyR2NHSGQ3dFAxTDJYUlpyUXRsN3VHUFItUzJmMEhNV1RMVm5XcmNjNmRDWG16UzlzNDhKUUhsbHdLeGJFQ3FacDg4YWdmWHRwbVhzaWE5b01jNHdKUUxMRE05SjlQVWIxY195WlUwdWViaHdGVW9jUlRwN1E0QWxULXlyWHZYbGQzdFBCNWh1SzFZOVBGM3llMk93WGdWWGg2ak1FdFZ5WjlZRVdGZlpmaUJ0Zzg1SWZtTm1vM3JhV2M4b1hiODVLN0s2Z0puaE9waG5NTExjMTAyOWVVZWtGYTFxa2QyeDkyNU4wUGh6dVBETVRiU2xKcw?oc=5",
   "title": "AI Hentai: A Practical Guide to Generative Anime Art, Safety - Universidad de Córdoba (UCO)",
   "source": "Google News: generative AI animation OR anime",
@@ -100,90 +79,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "実写映画の初週末北米興行成績（Box office）の数字報道であり、ゲームIP「ストリートファイター」の劇場版を含む複数新作の興収データが主題。コンテンツ＋ビジネスで対象。",
-  "ts": 1792256444.697885,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SbkJVbDFtQmxjUjhPaWs4dGsxUGlSSkc1dVdhcmF2dnBJZEUya3ZnaFozWjdUc1R6THBLNHp2aW9ReXQ1QU5mYi14ZmJrWnp6R0lZcXRodUNHQ0k1?oc=5",
-  "title": "【海外の反応】「馬鹿にしてるのか？」Amazon primeで『BANANA FISH』の英語AI吹き替えが追加！ヤバすぎるクオリティに、海外ファンやメディア、声優までもがブチギレた！？ - YouTube",
-  "source": "Googleニュース: AI 吹き替え OR 翻訳 アニメ OR 映画",
-  "sources": [
-   "Googleニュース: AI 吹き替え OR 翻訳 アニメ OR 映画"
-  ],
-  "published": "Sat, 17 Oct 2026 09:00:22 GMT",
-  "published_ts": 1792227622,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ作品『BANANA FISH』にAI吹き替えが導入されたというコンテンツ×AI の事例であり、映像業界のAI技術活用と品質問題に関わるニュースであるため対象。ただしビジネス面の具体的な数字や取引内容が主題ではないため themes に「ビジネス」は含めない。",
-  "ts": 1792256444.697885,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/209408",
-  "title": "【コラム】新連載で沸くNARUTO、背景にある“海外人気”　なせ流行り、どこで稼ぎ、どう伸ばしているのか",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sat, 17 Oct 2026 08:00:29 +0000",
-  "published_ts": 1792224029,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "NARUTOの海外人気の背景分析と、テレビ東京やバンダイナムコの決算データ・海外収益比率など、ビジネス視点での収益構造（ゲーム・商品化・ライセンス料）が記事の中心。コンテンツ＋ビジネスの2分野で、かつ具体的な売上数字と経営戦略が主題のため対象。",
-  "ts": 1792256444.697885,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VTGt5NG90TzRVdG5KeTdNdU1GWXZHSld4LTdNSmdkWWRiNjhFSG1vNkpLREN6UWdhdl9UdDFjMkp5WEF0NUZwamdGM3R0bWJWRDdsNXdpcEhwaTZWYmw5Rk0zSTg1NzN5N25N?oc=5",
-  "title": "魔法少女まどか☆マギカ：13年ぶり新作「ワルプルギスの廻天」 公開50日で動員151万人突破 興収25.3億円 興収、動員ともに前作超えのヒット - MANTANWEB",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Sat, 17 Oct 2026 07:00:35 GMT",
-  "published_ts": 1792220435,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ劇場版の新規興行成績（動員151万人・興収25.3億円）が記事の主題であり、前作超えのヒットという新たに判明した実績数字を伝えるニュースのため。",
-  "ts": 1792256444.697885,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/210227",
-  "title": "ポケポケ、拡張パックの投入頻度を4週間→6週間に下げる方針　理由に「カードが増えてコレクションが難しい」意見",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sat, 17 Oct 2026 07:36:52 +0000",
-  "published_ts": 1792222612,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ポケモンカードゲームアプリの運営方針変更（拡張パックのサイクル4週→6週延長）をめぐるゲーム企画・プレイヤー施策の発表であり、ゲーム（コンテンツ）のビジネス運営上の戦略決定が主題。ユーザーのコレクション体験改善を理由とした配信頻度削減は、ゲーム事業の収益化戦略に関わる経営判断である。",
   "ts": 1792256444.697885,
   "is_new": false,
   "updated": false
@@ -415,27 +310,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "人気アニメIPのダイナー開業プロモーションとしての電車ジャック企画は、30周年記念のマーケティング施策であり、コンテンツの商業展開・ビジネス戦略が主題である。グッズ販売とは異なり、企業のIPビジネス施策（渋谷ストリームへのダイナー出店とその広告宣伝）が実質を構成しており対象に該当する。",
-  "ts": 1792300459.7470798,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oVkJMSloyYzRWb2pVVkNZSHBVaGtXT0hwVGdqdzhKU3JIdVZ5Z0Z1Qk9RbFN1enM1a0ctbHJsRk9BcFVyNG05UnVaTDVxYjJlUnh5aS1UbVBKb2h0WURUY0RiRGZDY0Z6eGdnZzBmbnN5TVQteXhCMERlUUg?oc=5",
-  "title": "The town that Disney built - The Economist",
-  "source": "Googleニュース(economist.com)",
-  "sources": [
-   "Googleニュース(economist.com)"
-  ],
-  "published": "Sat, 17 Oct 2026 07:52:46 GMT",
-  "published_ts": 1792223566,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "ディズニーが建設・経営する町（テーマパークとその周辺開発）に関する経営・ビジネス的側面の分析記事と考えられ、エンターテインメント企業の都市開発戦略が主題であるため、コンテンツ（映像・テーマパーク事業）とビジネス（都市開発・不動産・経営戦略）の両軸で対象。ただし記事本文が抜粋のため、実際にはAI要素がないことを前提とした。",
   "ts": 1792300459.7470798,
   "is_new": false,
   "updated": false
@@ -689,7 +563,8 @@
   "confidence": "高",
   "reason": "A24が制作したドキュメンタリー映画『You Can See Everything』の初週末興行収入1,500万ドルの数字ニュースが主題であり、映像/コンテンツ産業の興行ビジネス（Box office実績値）を扱うため対象。",
   "ts": 1792386054.725353,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-10-19/new-live-action-street-fighter-film-opens-at-no.1-in-the-u.s-earns-usd51-million-globally/.242960",
@@ -709,7 +584,8 @@
   "confidence": "高",
   "reason": "ゲームIP（Street Fighter）を原作とした実写映画の初週末興行成績（US$51.1M）を報じており、コンテンツ×ビジネス（Box office実績値）に該当します。ゲームはコア領域、興行数字が主題なので対象です。",
   "ts": 1792386054.725353,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DMXNBU3hBX2sxZ2xaLXJ1Rnh4UTdWdEozZ09oYWwxbWxhZ2ZwSDNqZUwxMTRUMHpxN2VFOTVpUWpDSUhXX19Ka1c4UF8zcVowc3dnay1qQzdRdkpqbHg4R1RIR204YjlheHg5ekU3SVNzVDBGZnQ1NGNuREJJYjg?oc=5",
@@ -729,7 +605,8 @@
   "confidence": "高",
   "reason": "アニメ映画「たんプリ」の歴代興収No.1という新たに判明した興行実績が記事の主題であり、コンテンツ×ビジネス（Box office）に該当するため。キャストコメントは枕で、中心は興行成績の数字ニュース。",
   "ts": 1792386054.725353,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU0hEcGFGS2dBZUQ0ZGZPcjFrRGdrcEVkdDhoV1IydmVuWU9fZXdMbk9IV0xKNGxkRHNhSFlHODUyY0x0ajQwNmtlWm1yTllNajJKWEpXdkstNmVIbld3QzZNVUh4Q1ZkUVlMWTZMVXNxYjdkUWRNYjhsazVGZGFUbk91Qm9WUQ?oc=5",
@@ -749,7 +626,8 @@
   "confidence": "高",
   "reason": "漫画・アニメ画像生成に量子コンピュータとAIを活用した実証であり、コンテンツ（漫画・アニメ）とAI技術が主題だが、ビジネスの実績数字や事業化の具体的取引は本文から不明なため。",
   "ts": 1792386054.725353,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1TeWdYeDBnYVBnODJvV1ZRSWE4bTdndWh5WjJXQ2ZrR0c2X3FSZWJUb1lLVS14dklUSk5QS0tfWU1LZWkx?oc=5",
@@ -769,7 +647,8 @@
   "confidence": "高",
   "reason": "東宝のIP・アニメ事業の海外展開強化という成長戦略が主題であり、企業の経営・海外事業展開という実質的なビジネスの動きがコンテンツと結合しているため。",
   "ts": 1792386054.725353,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/10/ted-lasso-seasons-5-6-jason-sudeikis-comments-1237167324/",
@@ -789,7 +668,8 @@
   "confidence": "中",
   "reason": "米国ドラマ『Ted Lasso』の続編可能性についての俳優インタビュー記事。コンテンツ（映像作品）は該当するが、ビジネス面では契約交渉や更新決定の具体的な数字・事実ではなく、出演者の個人的な発言・意思表示に過ぎず、実質的な経営取引や決算数字がない。非アニメでAIも絡まないため、判定に迷いがあり グレー とする。",
   "ts": 1792386054.725353,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QWkI1MUFtZGk1YTJ0bjZ2ekN2NjIyVjJSYkJINmljM3gzZUIzOVJHMnBtTkdsSmw2WElmbDhWLUdoZGxZTTN3bXZTeE90ellvUnNXbw?oc=5",
@@ -809,7 +689,8 @@
   "confidence": "高",
   "reason": "プリキュア映画（アニメIPの劇場作品）の公開1ヶ月での興収12.4億円という新たに判明した実績数字が主題であり、コンテンツ＋ビジネスに該当するため対象。挿入歌PVやキャストコメント解禁は付随情報。",
   "ts": 1792386054.725353,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/210260",
@@ -829,7 +710,8 @@
   "confidence": "高",
   "reason": "映画『ゴジラ-0.0』の海外配給戦略、興行規模の拡大（北米上映館数増加・上映国80カ国）、東宝による配給会社買収（GKIDS全株式取得）と配給体制の組織化が主題であり、映像コンテンツの経営・取引・マーケティング戦略に関わるビジネスニュースとして対象。",
   "ts": 1792386054.725353,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/261019p",
@@ -849,7 +731,8 @@
   "confidence": "高",
   "reason": "電子書籍配信プラットフォーム（漫画/コミック配信=コア領域のコンテンツ）が不正アクセスで停止、サービス再開日程も未定の経営的インシデントであり、コンテンツ＋ビジネス（サービス停止による事業影響）に該当。AIは絡まない。",
   "ts": 1792386054.725353,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/10/trauma-code-heroes-on-call-netflix-seasons-2-3-confirmed-1237165650/",
@@ -869,7 +752,8 @@
   "confidence": "中",
   "reason": "韓国Netflix配信ドラマのシーズン2・3制作発表で、配信プラットフォームの戦略（継続投資）とコンテンツ制作が主題。ただし記事は制作発表が中心で契約金額などの取引詳細は記載されておらず、ビジネス面は限定的であるが、Season 1の世界的ヒット（63ヶ国Top10、18ヶ国1位）という実績数字が付記されており、配信戦略上の重要な判断として判定する。",
   "ts": 1792386054.725353,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/10/jesse-eisenberg-tv-series-peter-rice-a24-1237167146/",
@@ -889,6 +773,388 @@
   "confidence": "高",
   "reason": "A24とNetflixが関わる映像制作の提携・開発案件であり、実写テレビシリーズの企画段階の発表だが、Peter Riceという業界幹部のNetflix就任に伴う配信戦略・制作体制の人事と結合した経営ニュース。コンテンツ（TV制作）＋ビジネス（配信契約・人事・経営層の異動）に該当する。",
   "ts": 1792386054.725353,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/rajinikanth-jailer-2-no-2-global-box-office-1236916220/",
+  "title": "Rajinikanth’s ‘Jailer 2’ Ranks No. 2 at Global Box Office as ‘Street Fighter’ Leads",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 19 Oct 2026 08:41:49 +0000",
+  "published_ts": 1792399309,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "インド映画『Jailer 2』の全世界興行成績（週末$31.2M、インド国内初日$23.5M）を報道する速報記事であり、コンテンツ（映画）とビジネス（興行数字）が主題。非アニメ実写だが、Box officeの新規数字が報道されているため対象に該当する。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/210516",
+  "title": "アニメイト、フィリピン初進出　首都圏マカティに新店舗「マニラ店」東南アジア強化",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Mon, 19 Oct 2026 07:00:21 +0000",
+  "published_ts": 1792393221,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ・マンガ関連小売企業のフィリピン新規出店は海外事業展開（ビジネス）であり、コンテンツ産業の流通戦略に関わる主題。グッズ販売の立地情報や店舗告知が中心だが、経営の海外進出戦略が主題であるため対象。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://news.denfaminicogamer.jp/news/2610192e",
+  "title": "【非常に好評】TRPG風カードゲーム『アリスと彼岸』が、Steamにて好評率“99%”の好調な滑り出し。かわいい絵柄に反して“結構重い”物語に驚く声も",
+  "source": "電ファミニコゲーマー",
+  "sources": [
+   "電ファミニコゲーマー"
+  ],
+  "published": "Mon, 19 Oct 2026 08:13:42 +0000",
+  "published_ts": 1792397622,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム作品の新作がSteamで販売され、好評率99%という新たに判明した実績値（ユーザーレビューの数字）が主題であり、コンテンツ＋ビジネス（興行/売上実績）に該当する。作品紹介や発売告知ではなく、発売後の市場反応を報じた速報。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFRlRTNFWFJEMmQ1ZU4xVTdhTFdJUmZSYzU1R2tyVGJ4T3pJNzBsZTg5TjVaV0EyNlRXTXFfR09XQjlQM2ZmT0Z3MDBvdlI4YnlrSjRmenJrTE53ZnBOVGxnVDhOZlpGOVliQUw5Wmp3elFPa1ZDUlRpNW9PSVlVTlVBVmFpVTlfblBDUGtna244bTVrX3VUR040ZzJNU3YtVlYzSmx2T21STnN1YVdQM1Y2V01tVDdfeTlJ?oc=5",
+  "title": "Korea Box Office: Anime Sensation ‘Chiikawa’ Dominates Weekend - Variety",
+  "source": "Google News: anime box office",
+  "sources": [
+   "Google News: anime box office"
+  ],
+  "published": "Mon, 19 Oct 2026 06:45:00 GMT",
+  "published_ts": 1792392300,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ作品『ちいかわ』の韓国での週末興行成績（Box office）が主題であり、新たに判明した興行実績の数字ニュースに該当するため。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRUVUUXlvSFpTd3NFdExiZm5QMGRfX0h4SHp0MEcwMTJtY25tQVpfQjVvVXlzdUlXTVE2dGVhZ1JyS1JKR1VvcV96MDdiSEhlMzRXMXdldmY4aTRsa191Z3I1LVMyc2JjNGFRcjZUbjlwcVcyOThXWGxtdUt6TWlEeGpRMTlUdzN2MDB0ZmJEY2w4bHhocFJBLU82c3gyN2NhdENUOFQwc1hCb2pxRTd6enZvU0I4LUtxX3ZVNmtaLWFqSHBleGZfSmU3Rk4?oc=5",
+  "title": "Anime Studio Felix Film Edits Job Listing That Encouraged Generative AI - Anime News Network",
+  "source": "Google News: generative AI animation OR anime",
+  "sources": [
+   "Google News: generative AI animation OR anime"
+  ],
+  "published": "Mon, 19 Oct 2026 03:59:00 GMT",
+  "published_ts": 1792382340,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメスタジオ（Felix Film）が生成AIに関する採用告知を編集・撤回した事実は、アニメ制作業界とAIの関係についての重要な報道であり、コンテンツ×AI分野の速報として対象。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/tv/global/barry-loser-animated-series-italian-partners-mia-1236915571/",
+  "title": "‘Barry Loser’ Animated Series, Based on Bestselling U.K. Children’s Books, Finds Italian Partners Ahead of Rome’s MIA Market (EXCLUSIVE)",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 19 Oct 2026 08:30:00 +0000",
+  "published_ts": 1792398600,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "児童向けベストセラー書籍のアニメ化企画であり、イタリアとの国際共同制作、税制優遇を活用した資金調達戦略、MIAマーケットでのピッチなど、映像化ビジネスと制作パートナーシップが主題のため、コンテンツ×ビジネスに該当する。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/210503",
+  "title": "『ウマ娘』初の米国公演、開催数日前に「出演者のビザが下りない」事態　運営は「半年以上前から準備」開催の可否あす最終判断",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Mon, 19 Oct 2026 05:42:48 +0000",
+  "published_ts": 1792388568,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメIPの大型イベント（ウマ娘ワールドツアー）の海外公演がビザ問題で中止の危機に直面し、チケット販売・配信契約など多くのビジネス取引が影響を受ける状況の速報であり、コンテンツ＋ビジネスに該当する。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56NkY3c0F4MmxqZVF4LUJkdGR2TmV2bTB2Tm1yT2t0cGx6VXN4U0NHNHY4cE9aQmpzSjdqa3FPYk83a3NvejBIRkZuT2ZuMHNWekwyajAtMDMzQzlRRnVqdjg2WFZRTHo4M1NN?oc=5",
+  "title": "映画ちいかわ 人魚の島のひみつ：公開87日で興収181億円 入場者特典第7弾はナガノ描き下ろしクリアカード 映画では見られない“あの日の思い出” - MANTANWEB",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Mon, 19 Oct 2026 05:02:11 GMT",
+  "published_ts": 1792386131,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画『ちいかわ』の新たに判明した興行収入181億円という実績値が主題であり、コンテンツ＋ビジネス（興行数字）に該当するため対象。入場者特典の案内は付随情報。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qdEV6VDdCZXI4SmFDRlFTTVdWaEkwYm5yN2JaQkZTeUxUdUlHVVFKajdzRjZnOWRzNDlSUEtLWXBSOVc3WkZhQlJQc1ZvaExjekhDRV9INXlkcEpudUhnRm9lQ3lhS1pXaXc?oc=5",
+  "title": "Korea Box Office: Anime Sensation ‘Chiikawa’ Dominates Weekend - IMDb",
+  "source": "Google News: anime box office",
+  "sources": [
+   "Google News: anime box office"
+  ],
+  "published": "Mon, 19 Oct 2026 08:05:52 GMT",
+  "published_ts": 1792397152,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ作品『ちいかわ』の週末興行成績報道であり、コンテンツ（アニメ）＋ビジネス（興行数字）の2分野が揃っており、非アニメの映像も含めBox officeの数字ニュースは必ず拾う対象に該当する。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/yeon-sang-ho-paradise-lost-sold-118-countries-hawaii-1236916204/",
+  "title": "‘Train to Busan’ Director Yeon Sang-ho’s ‘Paradise Lost’ Clinches 118-Country Sales Ahead of Hawai‘i Festival U.S. Bow",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 19 Oct 2026 07:20:07 +0000",
+  "published_ts": 1792394407,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "韓国映画『Paradise Lost』の118カ国への版権売却と海外売上が製作予算を上回ったという国際配給ビジネスの実績が主題であり、映画作品のコンテンツと国際販売・ライセンス収入のビジネスが明確に該当する。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByUm8wcUQ5b01qRGpBcjB5S2tEeFpXWURZb19nc2ZvZ1BtcW9vNlNtSS1xemgxZHRoaVFUdXNsUUZqZzlKWURINEVfUXRubEhnYmpwLTRTQnc4M3lkTFJzRV9FcC1YNkNo?oc=5",
+  "title": "朋栄、Inter BEE 2026に出展。ソフトウェアデファインドとAI技術で次世代の映像制作ワークフローを提案 [InterBEE2026] - ニコニコニュース",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Mon, 19 Oct 2026 05:24:19 GMT",
+  "published_ts": 1792387459,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "映像制作業界のAI技術動向としてコンテンツ×AI要素があるが、本文が極めて短く、具体的な技術内容や実装事例が不明確であり、ビジネス的な数字や契約規模の記述も見当たらないため、確度の判定が困難",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/busan-winner-ria-arvin-belarmino-punk-debut-lights-on-1236916195/",
+  "title": "Busan Winner ‘Ria,’ Arvin Belarmino’s Folk-Punk Debut, Boards Lights On (EXCLUSIVE)",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 19 Oct 2026 07:02:36 +0000",
+  "published_ts": 1792393356,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "フィリピンの映画監督による国際共同制作映画が映画祭で受賞後、国際配給会社に買収されたという版権/配給契約のビジネスニュースであり、コンテンツ（映画作品）とビジネス（配給権の獲得・取引）が該当するが、AI要素は無く、非アニメ映像である実写映画で業界全体を揺るがす大型ニュースでもないため。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/korea-box-office-anime-sensation-chiikawa-whalefall-street-fighter-1236916187/",
+  "title": "Korea Box Office: Anime Sensation ‘Chiikawa’ Dominates Weekend",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 19 Oct 2026 06:45:48 +0000",
+  "published_ts": 1792392348,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画『ちいかわ』の韓国Box Office成績（$2.8M、42.7%市場シェア）および累計興収$14Mなど新たに判明した興行数字が主題であり、コンテンツ×ビジネスの条件を満たす。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/china-box-office-resident-evil-quiet-post-holiday-frame-1236916180/",
+  "title": "China Box Office: ‘Resident Evil’ Retains Top Spot Over Quiet Post-Holiday Frame as Local Titles Wind Down",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 19 Oct 2026 06:01:17 +0000",
+  "published_ts": 1792389677,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "中国本土の興行ランキング及び週末興行収入の実績数字（複数映画の興収額と累計額）を報道する記事であり、コンテンツ（映画）とビジネス（Box office数字）の両分野が主題。非アニメだが興行成績の数字ニュースは対象。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/tiger-shroff-shooting-1236916181/",
+  "title": "Tiger Shroff Shooting: Three Suspects Held as Film Bodies Say Gangsters Want to ‘Terrorize’ Bollywood",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 19 Oct 2026 05:48:55 +0000",
+  "published_ts": 1792388935,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "ボリウッド映画業界の治安/暴力事件であり、コンテンツ産業に関わる実質的な脅威として報道されている。しかし記事の主題は犯罪事件そのもので、業界のビジネス構造や経営への直接的な影響は不明確。暴力団による恐喝・テロの脅威は業界全体に関わる重大事だが、具体的な経営影響・出資・契約・市場数字は記載されていないため、コンテンツ＋ビジネスの確実性が中程度。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/10/tiktok-restores-musk-doc-account-after-error-1237167167/",
+  "title": "TikTok Restores ‘Musk’ Doc Account “After An Error” Resulted In Suspension",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 18 Oct 2026 20:04:51 +0000",
+  "published_ts": 1792353891,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "ドキュメンタリー映画『Musk』のTikTok公式アカウント停止・復旧というコンテンツ関連ニュースで、映画配給・宣伝戦略（ビジネス）の側面も含むが、アカウント停止の技術的エラーが主軸であり、AI要素が無く、実質的な経営ビジネス（契約・投資・数字等）も薄いため確度が中程度。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://animeanime.jp/article/2026/10/19/103969.html",
+  "title": "「映画ちいかわ」入プレ第7弾はナガノ描き下ろし♪ あの日の思い出描いたクリアカード【10月24日～】",
+  "source": "アニメ！アニメ！",
+  "sources": [
+   "アニメ！アニメ！"
+  ],
+  "published": "2026-10-19T08:15:03Z",
+  "published_ts": 1792397703,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画『ちいかわ』の入場者特典配布発表で、実績として興行収入181億円・動員数1242万人の数字が記事の重要部分を占めており、これはビジネス情報（興行実績）にあたるため。コンテンツ+ビジネスで対象。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://news.denfaminicogamer.jp/news/2610192a",
+  "title": "『モンスターハンターパズル アイルーランド』2027年1月14日をもってサービス終了を発表。買い切りとなる『いつまでも版』を11月12日に発売へ",
+  "source": "電ファミニコゲーマー",
+  "sources": [
+   "電ファミニコゲーマー"
+  ],
+  "published": "Mon, 19 Oct 2026 06:30:27 +0000",
+  "published_ts": 1792391427,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "モンスターハンターのIPに関わるゲームのサービス終了と買い切り版への移行という事業上の重要な決定であり、モンスターハンターというゲームIPの配信ビジネスの転換を伝える記事であるためコンテンツ+ビジネスで対象。",
+  "ts": 1792400460.68208,
+  "is_new": true
+ },
+ {
+  "url": "https://forbesjapan.com/articles/detail/106459",
+  "title": "ネトフリが927億円で買収──俳優ベン・アフレックが明かす、AIを恐れる人々への売り込み方",
+  "source": "Forbes JAPAN",
+  "sources": [
+   "Forbes JAPAN"
+  ],
+  "published": "2026-10-18T16:00:00+09:00",
+  "published_ts": 1792306800.0,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ネットフリックスがAI企業InterPositiveを約927億円で買収した事案であり、映像制作向けAI技術の買収額が明記された大型M&Aニュースで、コンテンツ（映像制作）×AI×ビジネス（買収金額・取引）の3分野が揃う最優先案件。",
+  "ts": 1792400460.68208,
   "is_new": true
  }
 ]
