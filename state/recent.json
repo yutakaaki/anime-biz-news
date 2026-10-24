@@ -1,261 +1,5 @@
 [
  {
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DcnZIdU5VbWlhbElrcTNrdWo5QzFuSmoyMzZpX1dxeTd2RHRpaVFwclZwbmdSbzR6MHdQaDBJLWg0TEZPcjRZUG9xQ1Nrd0V3UjFNYk8xTzRFS0JkX1d6MURtc3N6WVZQa0E?oc=5",
-  "title": "史上初の2時間尺\"フル生成AIアニメ\"映画『星の唄が聞こえる』をYouTubeで無料公開 - PR TIMES",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Thu, 22 Oct 2026 01:23:12 GMT",
-  "published_ts": 1792632192,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ映画の制作にAIが中心的に使用された事例であり、映像/コンテンツとAI技術の融合が記事の主題。ビジネス数字（興行収入や配信契約金額など）は不明だが、コンテンツ+AIで対象基準を満たす。",
-  "ts": 1792645267.975827,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeDBDZzNhQU5rSkxzUlhIQTkyX0FnTmNscFVYdGY0VExRcW5ZUUNHMjR0QWs5RE9oLU5pTHc5Sl91dVlNaGtPN2lQRUVJQy00aE1JQ1hYS0xWWVNaakpzcnhLdkkxdU9vOHZHd1FoUnFBRGcxV0pJTDBBY0M1TTdEcU5xaHFtYmN3a1lPLTIzODZfREt2STNucTQzNzZPX0NXb3F6dkxzbDBXb1FTY3BqbFRSZ2pldHJpYUt5YzdwZmJaRUhOOUlneEIxcHpvaG1UTTJHT0hNb1FsYVZaTVBQU1J2d2NEb0hLYy13?oc=5",
-  "title": "TriCoast Advanced Technology Studios Launches Global AI Feature Film Production Company with Captive Distribution - EIN News",
-  "source": "Google News: AI film production OR video generation studio",
-  "sources": [
-   "Google News: AI film production OR video generation studio"
-  ],
-  "published": "Wed, 21 Oct 2026 18:30:00 GMT",
-  "published_ts": 1792607400,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "AI技術を用いた映像制作企業の立ち上げと配信機能の統合であり、映像産業（コンテンツ）とAI技術、ビジネス（企業設立・事業展開）の3分野すべてが揃う最優先対象。",
-  "ts": 1792645267.975827,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/10/ea-cuts-400-jobs-shuts-down-bioware-1237170402/",
-  "title": "EA Cuts Around 400 Jobs, Shuts Down BioWare",
-  "source": "Deadline",
-  "sources": [
-   "Deadline",
-   "Googleニュース(forbes.com)"
-  ],
-  "published": "Thu, 22 Oct 2026 03:23:05 +0000",
-  "published_ts": 1792639385,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゲーム開発大手EAが大型M&A後にスタジオを閉鎖し人員削減する経営決定であり、有名IPの開発中止を伴うため、コンテンツ（ゲーム/IP）とビジネス（経営・人員削減・投資後の戦略転換）が主題となるニュース。",
-  "ts": 1792645267.975827,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOWHFiRjRqWmFnb1NSalVrSFgxRHRGT1hNaTI5YWhkZnJINnNuS0Q2VVE1dGNNSFlNMHQtT2xTa0I0NHJPVTBYUkYtQy16X3FQNEJNSFk0UGRzUnRPQlJrWDEwdjhtZmsyODVyZU9GS2l6VExPQkF6WFJMdjVyZVU5djVHX0JQMUwyR1BoMDJNeVJhMjVrME9TbW9meE9iMFljaElydDZMNFNybnR4Mnpkd3lwZlJWZzdCdjgzYkd2ZlhzajRva2k5RmZ4ckNjMjZ1bHZVaDRPbTNtRWpGLUFOSXljLVBCeE9HV2pBNEF6ZGV1NnpfZHZrT05qQmR1aHMtNUd3TGdWRVZydFRYQlFkZG9pMFppNVhTY1djUmNsVHRmNXFqQklfdlFuMzJqcEJIS093RVpHWQ?oc=5",
-  "title": "Character.AI 成人向けAI アニメキャラをカスタマイズできるプライバシー対応のヘンタイAIアート生成 - 北陸地方整備局",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Thu, 22 Oct 2026 00:13:14 GMT",
-  "published_ts": 1792627994,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "アニメキャラクターをテーマにした生成AI関連の記事で、コンテンツとAIは明確だが、ビジネス（経営・取引・投資の実質）が記事本文から判断できず、また記事内容の詳細が不十分でグレーとしました。",
-  "ts": 1792645267.975827,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUX2xhUVJ3VnNSUzRmOXp3cmhYdkR1cFZVUi03SktCdTlOc09mQ2lPNDV3Zlptb1I4MXA1R1FfWXFhaFZFZ1dkUDM5X05BcGY1ZEhrZGpLazd5dw?oc=5",
-  "title": "「ひとり勝ち」では続かない 登録者280万人ドズル社がゲーム実況文化を次の世代へ - Forbes JAPAN",
-  "source": "Googleニュース(forbesjapan.com)",
-  "sources": [
-   "Googleニュース(forbesjapan.com)",
-   "Forbes JAPAN"
-  ],
-  "published": "Thu, 22 Oct 2026 03:30:00 GMT",
-  "published_ts": 1792639800,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゲーム実況プラットフォーム企業（ドズル社）の経営戦略・事業展開が主題であり、ゲーム関連のコンテンツビジネスに関わる記事。登録者数などの実績値や企業戦略が論じられているため、コンテンツとビジネスの両分野に該当する。",
-  "ts": 1792645267.975827,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/210880",
-  "title": "AIでマンガのキャラと会話したり二次創作を作ったり。LINEマンガが新機能、韓国では1,400万件の利用実績",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Thu, 22 Oct 2026 02:08:03 +0000",
-  "published_ts": 1792634883,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "漫画（コンテンツ）のIP活用でAI技術（AIストーリーチャット）を導入し、韓国での利用実績1,400万件・原作閲覧数67%増など具体的なビジネス成果が報告されており、3分野が揃う最優先事案。",
-  "ts": 1792645267.975827,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.denfaminicogamer.jp/news/261022p",
-  "title": "Xbox クラウドゲーミング、Game Pass未加入者向けに「プレイ時間購入」の新方式がテスト開始。10時間3.99ドルから購入可能",
-  "source": "電ファミニコゲーマー",
-  "sources": [
-   "電ファミニコゲーマー"
-  ],
-  "published": "Thu, 22 Oct 2026 04:09:19 +0000",
-  "published_ts": 1792642159,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゲーム（コア領域のIP）のクラウド配信サービスに関わる新たな料金プラン・ビジネスモデルの発表であり、コンテンツ×ビジネスが主題。マイクロソフトのサービス戦略転換と価格体系の詳細が新規情報として報じられている。",
-  "ts": 1792645267.975827,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/ranbir-kapoor-yash-ramayana-jiohotstar-pay-per-view-release-1236919377/",
-  "title": "Ranbir Kapoor, Yash Epic ‘Ramayana: Part One’ Sets Pay-Per-View Release on JioHotstar After Theatrical Run",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Thu, 22 Oct 2026 01:05:09 +0000",
-  "published_ts": 1792631109,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "インド映画『Ramayana: Part One』の劇場公開後のPPV配信化が決定した事実報道。配信プラットフォームJioHotstarとの配信権契約がビジネス主題であり、コンテンツ（映画製作・配信）とビジネス（配信契約）が両立する。",
-  "ts": 1792645267.975827,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/209268",
-  "title": "無職転生、海外の人気が“トップティア”になっていた。『フリーレン』と僅差…海外アニメ配信サイトで40万クラブ入り",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Wed, 21 Oct 2026 21:13:43 +0000",
-  "published_ts": 1792617223,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "海外配信プラットフォーム上での作品の評価数（40万件突破）という新たに判明した数字が主題であり、ユーザー人気の実績値をビジネス指標として報じているため、コンテンツ+ビジネスに該当する。",
-  "ts": 1792645267.975827,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002364/",
-  "title": "AIで“ゴジラになって”街破壊　富士通が体験型展示　「体操の採点システム」活用",
-  "source": "ITmedia AI+",
-  "sources": [
-   "ITmedia AI+"
-  ],
-  "published": "Thu, 22 Oct 2026 08:00:00 +0900",
-  "published_ts": 1792623600,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "富士通の骨格認識AIを使ったゴジラIPの体験型展示が主題で、AI技術とコンテンツ（ゴジラという大型IP）が明確に絡んでいるが、ビジネス面（売上・契約金額・市場規模など）の実質的な数字や経営的な動きが記事に含まれていないため、コンテンツ＋AIの2分野に該当するグレー判定。AIの新応用事例として有意義だが、事業化や収益化の話は記載されていない。",
-  "ts": 1792645267.975827,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/vietnamese-whodunit-karaoke-murder-four-continent-release-1236919373/",
-  "title": "Vietnamese Whodunit ‘Karaoke Murder’ Sets Record With Same-Weekend Opening on Four Continents (EXCLUSIVE)",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Thu, 22 Oct 2026 00:49:00 +0000",
-  "published_ts": 1792630140,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ベトナム映画の4大陸同時公開という国際配給戦略とBox office展開を扱う記事。映像コンテンツ（映画）とビジネス（国際配給権、興行戦略、過去の興行実績$23million）が主題であり、themes=コンテンツ,ビジネスで対象。",
-  "ts": 1792645267.975827,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/10/netflix-town-hall-executives-layoffs-peter-rice-1237170147/",
-  "title": "Netflix Co-CEOs Address Executive Shakeup & Layoffs In Town Hall, Talk Up New CCO Peter Rice’s Experience Across Platforms — Including Streaming",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Thu, 22 Oct 2026 00:46:41 +0000",
-  "published_ts": 1792630001,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Netflix幹部人事と大規模レイオフ、コンテンツ責任者交代という経営・人事変更が主題で、映像ストリーミング業界のビジネス構造に直結する。Netflixの経営戦略と組織再編が中心であり、コンテンツ＋ビジネスで対象。",
-  "ts": 1792645267.975827,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/music/global/amy-winehouse-west-end-musical-development-1236919564/",
   "title": "Amy Winehouse West End Musical in Development (EXCLUSIVE)",
   "source": "Variety",
@@ -272,27 +16,6 @@
   "label": "対象",
   "confidence": "中",
   "reason": "舞台ミュージカル（コンテンツ）の制作開発が進行中という発表で、著名プロデューサーの参加と制作資金・事業化が主題であるためビジネスに該当。ただし契約金額や投資額の具体的数字が無く、実装段階の詳細も未決定のため信頼度は中程度。",
-  "ts": 1792688458.241418,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/box-office/you-can-see-everything-could-beat-clayface-box-office-1236917465/",
-  "title": "Will ‘You Can See Everything’ Beat DC’s ‘Clayface’ at the Box Office?",
-  "source": "Variety(Box Office)",
-  "sources": [
-   "Variety(Box Office)"
-  ],
-  "published": "Wed, 21 Oct 2026 18:54:08 +0000",
-  "published_ts": 1792608848,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "複数の映画（DC's 'Clayface'、'You Can See Everything'、'Wildwood'など）の初週末興行収入と予想数字が主題であり、Box officeの数字ニュースとしてコンテンツ+ビジネスに該当。実写中心だがアニメ作品(Wildwood)も含まれており、興行成績の報道は非アニメでも対象となるため。",
   "ts": 1792688458.241418,
   "is_new": false,
   "updated": false
@@ -335,27 +58,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アニメ・ゲーム（コンテンツ）の海外展開を支援する政府の新法人設立という経営・政策施策（ビジネス）が主題であり、コンテンツ＋ビジネスの2分野を満たすため対象。",
-  "ts": 1792688458.241418,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORU45MEl3ZGJ2WnFDSkxpQjdwVkFGUkVxMFBQRjJiMTMwdzNlV1lPNndqOVl1d0FCVGpDdkktLTlnbGtMVld4SFBrQmVQeEkzWmZtOTFiTWRDYkkxNVNHTWRGc3AtWEVDNUQ5M2wxbFp6bEs1b3IybU1DdnFGT0h2TWliRDNYajBhRTBMLURXNDZoZlBoYTRCaS01MElKOTJMR05YNzBIWDUtamZqRE1vMDZUUG5MT0QxQWx2SGxyR29xWFlzWTJ1NWZqb1hLNXI2emNfOFR5eU1nQ0FNMjBtMmJtSl9MSkRn?oc=5",
-  "title": "Anime studio behind MF Ghost, Nekopara says it hasn’t adopted generative AI after animator job listing sparks backlash - AUTOMATON",
-  "source": "Google News: generative AI animation OR anime",
-  "sources": [
-   "Google News: generative AI animation OR anime"
-  ],
-  "published": "Thu, 22 Oct 2026 05:06:00 GMT",
-  "published_ts": 1792645560,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメスタジオが生成AIの採用疑惑について公式声明を出した速報。MF GhostとNekoparaという実在のアニメIPを制作する企業が、求人募集に基づくAI導入疑惑に対して反論しており、コンテンツ（アニメ制作）とAI技術・規制の両方が主題となっているため、themes=コンテンツ+AIで対象。",
   "ts": 1792688458.241418,
   "is_new": false,
   "updated": false
@@ -573,14 +275,14 @@
  },
  {
   "url": "https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/",
-  "title": "‘Clayface’ Cashes In $3.5M Previews; ‘You Can See Everything’ Ends Week With $25M+ – Box Office Update",
+  "title": "‘Clayface’ Takes Shape As No. 1 With $23M-$25M; ‘You Can See Everything’s Wild Ride Continues With $19M – Box Office Update",
   "source": "Deadline",
   "sources": [
    "Deadline",
    "Deadline(Box Office)"
   ],
-  "published": "Fri, 23 Oct 2026 15:21:00 +0000",
-  "published_ts": 1792768860,
+  "published": "Fri, 23 Oct 2026 23:31:00 +0000",
+  "published_ts": 1792798260,
   "themes": [
    "コンテンツ",
    "ビジネス"
@@ -800,7 +502,8 @@
   "confidence": "高",
   "reason": "Skydanceによるparamount買収後の経営統合に伴う人事異動と組織再編が主題であり、メジャーメディア企業の大型M&A続報として業界の構造変化を示すコンテンツ×ビジネスニュースである。",
   "ts": 1792774873.5825741,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPNGREX1pUUEV4eGdjRWhNeExFQVFCSE13NmdsWTNLUDBqT1I4NmgzVHBGeG1seE9qR0o3UkoxOFlFZ3EyT1JvNllpbTh2dGQ4ODRRSG9NTUprNVdzbXpFMzRaQzIzMWJidEtFQWdsMEhYYUd6cmVRdDN4QXBEY2pWM3kzTFU0TEJqNkdoTnBzNEFMMjQ4QmdCZVpjSndQdFpQSXBITDRXSkFFMWRjQ29WM3ZnbEpTaHZyU2ZNc2czaHppRGpiem1UWmVTZXRwZUR2QUtVa0N3NVNPNk05YlFtVmRMWVVOMlJfUjVnek1SMjNjT3RBSVBWWndVNGRaNTNJYjdaam1EcFhCVHB0NU9pRzJMdjlrclllc3JKdTBR0gGjAkFVX3lxTE5kRV9hNTFWSVdtRGgzY1NzNy1OUzd6a1otb0JRd2lwbU02djV2THVhWEdYQkZJMEdlU0NpV2VOY0JEWXRLekRTYnpXVERKOEFtTmYzY2xRZG1YYkZuUl9ZbnpZZ1dnZ3pYVDh2Ry1UWnl4MmhrRVdzWEFGeEVud1pKMFZQbmVXeXRNb193V0otMnVCSnZJc1NRNHNobXJSLVl5d1NMYkdVXzNyYjVRREpJY0llTURhOHpMcEluUGxUcjBQQ3psQk13VzNCaUNILWpsZkVBTWRhclNjS3E1NDZJb185anlwc1JWZ3lYZG9WdTFFR1RYNms5V1FLbkNMUkJVN1FCMmtTbk5CZVM4V2VZckwyRExlRUtVOS1kZVR4RUtuMA?oc=5",
@@ -820,7 +523,8 @@
   "confidence": "高",
   "reason": "ドラえもんのアニメ映画の興行成績（3週目で2.50億ルピー、21日間で27億ルピー）を報じた数字ニュースであり、アニメコンテンツの実績値が主題のため対象。",
   "ts": 1792774873.5825741,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/211062",
@@ -840,7 +544,8 @@
   "confidence": "高",
   "reason": "『ちいかわぽけっと』はゲームIPのスマホゲーム作品で、アプリボットが運営するタイトル。記事の主題は広告廃止によるゲーム内の収益モデルの大幅変更（広告視聴型から月額課金パスポート特典の拡充・報酬調整へのシフト）であり、ゲーム事業のビジネスモデルの転換を伝える内容。コンテンツ+ビジネスで対象。",
   "ts": 1792774873.5825741,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VcDk1LWg4TU5YdEktb0thVGRibWJENHFKRktMU1BOM3dwSkFrOFF0YTc4SUtaV0lHV2V5SkVXZFJRM3pwNlFPaXVUclJnNkk?oc=5",
@@ -860,7 +565,8 @@
   "confidence": "中",
   "reason": "生成AIツール（Veo 1）の技術と表現を論じており、AI分野と映像制作への活用が中心だが、ビジネス的な数字や取引・市場規模がなく、また具体的な映像作品・プロジェクト・制作案件への言及が記事本文に見当たらないため、コンテンツとの結びつきが薄い。アート・表現の考察として一定の意義があるが、業界ニュース基準では判定困難。",
   "ts": 1792774873.5825741,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/210915",
@@ -880,7 +586,8 @@
   "confidence": "高",
   "reason": "ソニーグループ傘下のアニメ制作会社A-1 PicturesとCloverWorksが、アニメーター育成を目的とした新スタジオ「FLINT BASE」を立ち上げた経営戦略と人材育成の取り組みについて、経営層への詳細なインタビューを通じて掘り下げた記事。コンテンツ制作企業の組織戦略・人材投資・育成体制がビジネスの主題であり、分析と一次情報が濃い深掘り記事。",
   "ts": 1792774873.5825741,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/box-office-clayface-previews-1236919973/",
@@ -900,7 +607,8 @@
   "confidence": "高",
   "reason": "DCコミックス原作の実写映画『Clayface』の初週末興行成績（プレビュー340万ドル、予想25～35百万ドル）と製作費・海外興行見通しが報道されており、映像コンテンツのBox office数字ニュースはアニメでなくても業界ニュースとして対象。",
   "ts": 1792774873.5825741,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/anime/sony-crunchyroll-aniplex-cloverworks-hayate-268302.html",
@@ -920,7 +628,8 @@
   "confidence": "高",
   "reason": "ソニーのアニメ関連事業（Aniplex、Crunchyroll、複数スタジオ）の経営構造と戦略を分析した記事で、アニメIPのグローバル展開、クロスメディア戦略、企業統合による事業シナジーといったビジネス実質を詳しく解説しており、コンテンツ＋ビジネスの要件を満たす。",
   "ts": 1792774873.5825741,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/global/cinepolis-mexico-distribution-latam-rights-5-more-minutes-1236921706/",
@@ -940,7 +649,8 @@
   "confidence": "高",
   "reason": "メキシコの大手映画館チェーン・Cinépolisが新作映画の配給権を獲得し、メキシコ映画の市場シェア回復戦略と劇場数の拡張計画、および2025年の動員数実績（256.4百万人）など、映像産業の経営・興行実績が主題であるため。非アニメ実写映画だが、業界の構造ニュース（パンデミック後の回復、観客行動の変化、スクリーン数と動員数の統計）を報じており、業界全体を揺るがす規模の戦略情報を含む。",
   "ts": 1792774873.5825741,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/10/comedy-central-chloe-radcliffe-special-eyes-down-here-1237171742/",
@@ -960,7 +670,8 @@
   "confidence": "中",
   "reason": "Comedy Centralが数年ぶりに長編スペシャルを制作・配信する動向は映像コンテンツのビジネス動向であり、Skydanceの買収とその規制リスク（州との合併契約違反時の事業売却リスク）が絡む業界構造の話。ただし記事の中心は個別番組の発表に近く、業界全体への影響度が完全には明確でないため信頼度は中。",
   "ts": 1792774873.5825741,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTdHUnE0WWlFNExOdXpVbklwMmcwWDhaTExTX1lud2Fub0V2VDdxekZQeS1tM1VZbHM1M3ZFcTczaVNBNkhnYThYbHRIM1F3SGhsNi1HNWlUcGVnMUtvV1ZfQkxfaDVPbXBaNm40V01jWWNsN29OSFB1OXY3cjUyUHdsd3BxM2V1NnJ2LXNOZ1VaNGVlZWI4eHVucWxEQ0FMLUxXMWZJTEpKOTFKc0VGdTB3dGpTaTVPWWxV?oc=5",
@@ -980,7 +691,8 @@
   "confidence": "高",
   "reason": "ハリウッドの映像制作業界幹部がAIの将来について語る分析・インタビュー記事で、コンテンツ産業の中核企業がAI技術の影響と対応を深掘りしているため、コンテンツ＋AIが揃う対象記事。",
   "ts": 1792774873.5825741,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/markets-festivals/morethan-films-salen-las-lobas-sales-valladolid-1236917768/",
@@ -1000,6 +712,307 @@
   "confidence": "中",
   "reason": "実写映画の国際版権販売（MoreThan Filmsが販売権を取得）と映画祭での初上映が主題であり、映像産業のビジネス取引が該当するが、AI要素は関連ニュースの言及に過ぎず主題ではない。",
   "ts": 1792774873.5825741,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://www.forbes.com/sites/timlammers/2026/10/23/you-can-see-everything-eyes-19-million-in-second-weekend-as-film-expands-to-wide-release/",
+  "title": "‘You Can See Everything’ Eyes $19 Million In Second Weekend As Film Expands To Wide Release",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Fri, 23 Oct 2026 21:42:11 -0400",
+  "published_ts": 1792806131,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ドキュメンタリー映画の初週末興行成績（$19 million）の報道であり、Box officeの新規数字が主題のため、コンテンツ＋ビジネスに該当し対象。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-10-23/lovelyz-ye-in-jeong-joins-the-trauma-code-heroes-on-call-seasons-2-3/.243125",
+  "title": "LOVELYZ's Ye-in Jeong Joins The Trauma Code: Heroes on Call Seasons 2-3",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Fri, 23 Oct 2026 18:00:00 -0400",
+  "published_ts": 1792792800,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Netflix独占配信のドラマシリーズ（配信プラットフォームの戦略・配信契約）と、原作がウェブトゥーン/ウェブ小説というコンテンツIPの映像化・配信ビジネスが主題。キャスト発表は付随情報で、配信開始・シーズン制作の発表が中心。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNNTlEME5RVGNtdklTaVhGRFFiMDl1MFh3V1h2MHR5alBCMEZDNE1NNldidXBiemYzZll4dVNwN3Iyc2VwX1BXalcwUFcwOTJVTWotY3UwNm4yMDl2blZBbTkwajZHNm9DLWNLOS1YdnZIeGtEY0l6aHptNVVoOFNaOW1LZGFWLUI2NzhzNW9UVi1lRkpHTjFUenJnNXZmc3VET2dwdkRPa0c2MTlBVHFoeTR4VHVOdXl3bHF1SnNjLXdzalR2VE1iQl9IeGwwakQ3NzBlQUE4YngyX3R0bkJqUzFpTDNHTDNyRGRSQXpYSkx2REp2SnNhVk1iSmlEeVFpTTdMR2huNFBndEdvd2N1WXp0RFY5RlN0SDctZldWUzE2bWhIQXVkSQ?oc=5",
+  "title": "AIアニメ生成 - 無料でAIがアニメーションを生成 - 小豆島町",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Sat, 24 Oct 2026 04:02:24 GMT",
+  "published_ts": 1792814544,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "低",
+  "reason": "AIがアニメーション生成する技術の紹介であり、コンテンツ（アニメーション）とAIが含まれるが、記事本文が極めて限定的で、実際のビジネス動向・サービス内容・実績が不明確であるため確実な判定が困難であり、取りこぼしを避けてグレーとした。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPcjFqcWRJZ19LaEFudkQxV3lUS2E3VXc0S0Q4MUt4M0duOHhiQ0prbllaMXl6T3JCSEx3NXRpa01iajhkSURvVjVMSWR5NjFneFluMGZZWV84WHFsZnloNjMtTkx5Q3ByUTg1UmVFZTJoMkQ0ZmhpeTFQZ1dzZzZNRF9hTTJOUzdyWkZEUC1DdEpNUUw4SU1WLUlsUW1ZNnlrM1htU1ZWSHVrNzVnelpta3VYZW1YbDdFMHFaWHFKenZ0dDhHRTJfYkc0RjlsQ0lfUHh4eXB6RGpUZzZvcWVyNkVVWEwzT01aSWFENVExbEc4aW11YWlqZWNLblJzU0tMMW11MzRIT1RMMVNGU21HU3pRV0pseW96dHA1a2cyMmc1dnp2cFl0NXI4enYzZjE1ZkZydlZtXzM1UkRvbUhWTXRZcllIMUFETWF3c1FjUUl5UkY4WnVFMFY1OURLSUptNF9Ya3VR?oc=5",
+  "title": "‍‍‍生成AIアニメ制作 完全ガイド - 小豆島町",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Fri, 23 Oct 2026 17:51:55 GMT",
+  "published_ts": 1792777915,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "低",
+  "reason": "アニメ制作とAIの両要素が含まれているが、記事内容が明確でなく、小豆島町との関連性や具体的なビジネス・事業の実態が不透明なため、実質的なアニメ×AI×ビジネスニュースなのか、単なるガイド/セミナー告知/観光PR等なのか判断できず、取りこぼし最小化の観点からグレーとする。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2RLYklIRnRfSzFDSWZ6RzJNVWdMbEVnMkJIa3BLZll5Y2gxVmR4d25DRGNJeDJzazlnbTBwOUZqSXlEU0Roa2RBdEFldXdjVWF2dXJlRW1oOWlrcGdOYllPMEIxdVJraGJ3UU1rVjYtYXFLRTNRdlQ3Zm8weWo5czF1VTc3UW9GY2tFREJrbmdRUFNncHZZTjNsSmhvWUFvbWh3bQ?oc=5",
+  "title": "As Hollywood warms to AI, ‘Wildwood’ makes a case for the magic of handmade animation - NBC News",
+  "source": "Google News: generative AI animation OR anime",
+  "sources": [
+   "Google News: generative AI animation OR anime"
+  ],
+  "published": "Fri, 23 Oct 2026 17:06:23 GMT",
+  "published_ts": 1792775183,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメーション制作産業におけるAIの浸透と対比させ、手作業アニメーションの価値を論じた深掘り記事。ハリウッドの映像業界のAI動向（制作への導入）を中心に扱っており、コンテンツ×AI の組み合わせで対象。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/kartik-aaryan-captain-india-houthi-conflict-yemen-1236930090/",
+  "title": "Kartik Aaryan’s ‘Captain India’ Set Amid Houthi Conflict in Yemen (EXCLUSIVE)",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sat, 24 Oct 2026 02:26:30 +0000",
+  "published_ts": 1792808790,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "インド映画の制作発表で、制作スタジオ・プロデューサー・脚本家などの製作委員会構成と公開予定日が明記されており、ビジネス面の実質的な情報を含むため対象。ただしAI要素がなく、また実写映画であり非アニメのため、信頼度は中。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQNHJaWC0zSEFtMnl4X3dXZzVNNFROUjZvczExUC1CbHNEcHM5a0c3Yjh3MXp1SUxCU3BOWjFtS2sxRW00cFdsYmNvRlRhbGpvMXpaRllVMVZtMkdRT2U1aXJPWEVUNEZDM3o5NURrWmJsbFNrb1NmZld0eDFoRi1kYTdhRmFyNFhEVll3Q0JfbHFyS3ZTdmlEa1dGX0hwWjZ0RGF3RHVoWk5zeC1PaFE3eHl5MWRJYWtNXy1EUnZEaHNOb3RENDRWSHpkMkl5QUc4VkF6WkZMQmVISlptME9RSUlYU3dCT0xXSzU1NklIa25peWp0bld1LWlmYmdPOVpwc3YtNV9WMUR5T25zT2xvUXNtLXhDNF9WcFR2V0NNeXVaWW5rOV9vR1NLaE9xczgtN2xoc2hJcWtDem5lZHJBMGVxaGdzNlJJSkpWVmY3M2VfU1VEZnJTUy12Zl9TdTNIMVMyMkpzNzBleTZ2STk5Ymlpb2l2dEZMZ1cySEtFWEhqRjNPbEdn?oc=5",
+  "title": "‍‍‍NSFW対応の画像生成AI｜アニメキャラ生成マニア - 小豆島町",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Fri, 23 Oct 2026 22:08:55 GMT",
+  "published_ts": 1792793335,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "アニメキャラ生成という点でコンテンツ性を持つが、本文が極めて限定的であり、NSFW対応の技術的な特性や生成AI技術そのものが主題か、アニメコンテンツビジネスの具体的な活動が主題かが不明確。ビジネスの実体（出資・売上・事業展開など）が記述されていないため、コンテンツ×AIの最低条件は満たすもグレー判定で要確認。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zc3lHaDNXdVVwakoxMVVWWGw3cHdmWHZCdk1taWZCZHJqLU9ZbjZUak9ZQ05DbXNNQUpmMzNuei1BclllR0JSMUF5TFdaZnFUUGZvNDVyUldhRndCWS1oUml1WGt1dXpFRV93ZkJQZFM?oc=5",
+  "title": "ＡＩ映像制作を学び、完成作を上映 横浜で2日間の催し - カナロコ",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Fri, 23 Oct 2026 20:00:00 GMT",
+  "published_ts": 1792785600,
+  "themes": [
+   "AI",
+   "コンテンツ"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "AI映像制作の学習イベント・ワークショップと作品上映が主体で、映像産業のビジネス面（契約、資金、市場規模）が不明確。AIとコンテンツの関係は認められるがビジネスの実質性が薄く、イベント告知の可能性も高いため、確実な対象判定が難しい。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNalF0MWRTUGZENkhJY2NidXFWTXFoWW1PbmFYVGRhU3duRF94NEtxaGJXVmRLZmNHb180N3ljUmlxNEVsTnZxVEFZYnRSemdKT2dKTzlfNEI4bllRSElhX0Y1Yk5DaGtqQ1VsVnJWVHM3RjhyX0h0ZlRpUnkzOFdBUW9oNFE4U3FaVkl1N3BCUTlIVmV2SDNEa1BMMkxzNWNYVHBMNExUSmZIMkhRZG5LQWI3QjZRYW1EVmlrWVA5T2RzXy1JTjlhYnVybS1aYVF6WlIxT29uczh5Yno0dldfRmNiRjNfUURJalVlanFWbVB0cl9uMUxmYVhrRTFRSGtZOTVJQlhXbUlUNGFic2VCZ0dBZmVMQjV3OHA4ZlRmSVAwTGY4a2NRY25uUlp4NFE?oc=5",
+  "title": "無料で普通の動画を一瞬でアニメ動画にできる動画生成AI - 小豆島町",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Sat, 24 Oct 2026 03:45:04 GMT",
+  "published_ts": 1792813504,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "AI技術でアニメ動画生成という点でコンテンツ×AIを満たすが、小豆島町の施策・プロモーションが主体のようで、ビジネス的な実装規模や契約・投資の実質が明確でない段階のため、詳細確認待ちの判定。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/10/avengers-doomsday-world-series-sneak-peek-1237172207/",
+  "title": "‘Avengers: Doomsday’ World Series Sneak Peek Sees Mister Fantastic Throw Out First Pitch",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sat, 24 Oct 2026 01:01:53 +0000",
+  "published_ts": 1792803713,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Marvel映画『Avengers: Doomsday』の劇場公開（12月18日）に向けたマーケティング施策として、World Seriesでの予告映像放映という業界のプロモーション・メディアミックス戦略が報道されており、コンテンツ（映画制作・公開）とビジネス（映画館配給・マーケティング）が主題。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ONkI1bHRtd2h4eE90QlZBUlM0am5YVFRoTzlDVkhXMU4zandMSUdTUUNBX1g3TXFpNlJjNUpYMENzYUlJSU1rZDg3dklyRUFLR0JvV3pxaXB3VlFsbTlEejA0VXQ?oc=5",
+  "title": "【アニメ制作にAI導入の波】人手不足の救世主？人間を淘汰？『1枚30分』→『200枚を10～20分』歴46年のアニメーターは「私の仕事がなくなっても全て許容しなければ」 | MBSニュース | 関西の最新ニュースを分かりやすく。 (10ページ) - TBS NEWS DIG",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Fri, 23 Oct 2026 07:32:05 GMT",
+  "published_ts": 1792740725,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ制作におけるAI導入の影響を、実務面（制作効率の劇的変化）と労働環境の視点から深く掘り下げた特集記事であり、コンテンツ（アニメーション制作）とAI（生成AI/自動化技術）が記事の主題であるため。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWmo5Y3V3T3Bwd2g4a29DZFBwSklZTjd2Y1R0Nmc2ejBtRWdDRV9ZUEM2NDhfdGNjaXU1VGh4eW1YWHR4cDU4aHQ1OWJjNmw1S2o1MTNtTHc2VEZMZmIydG9Gay1UOG1tRHZNTFVveC1nejV1ZF9RSUpFcHkwbkZTdzZkbU1OMjhDVGxyRHZVR0xpVlI0WUltNXlWZnljZExjaHRoa3NjRVNCdU1wOGhCVFgtMXV3RWZjN1FQRVREM1ZjUHhUV1NZMFF3QlhueWxFejlFRjV4djdrWVVUUE5lR0w3QnJHTm9xSmh1OU5CdmIwS3lGMVY3Nm9zNUFTREVSMFo3NHJhTFRHVG83U0JEeE1KSXA4dTVTQkxoS3lDRXd1ZWl3eGVMcVBiUnQtdUpoa2poZTBkYlpGWU10cjVpYVh6eE5zazdHUXltV3I5ak5HTUEtN0dUWTMzS1E4X2x6SGtTMld3NldxOHNlRGd4NUFhYjdKZWh4NmZrSEcxRzc?oc=5",
+  "title": "‍‍‍AIアニメ生成 - 無料でAIがアニメーションを生成 - 小豆島町",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Fri, 23 Oct 2026 22:03:07 GMT",
+  "published_ts": 1792792987,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "低",
+  "reason": "AI技術がアニメーション生成に活用される事例だが、本文の具体的内容が不明で、小豆島町との関係（地域事業・観光PR・産業支援など）が不透明。ビジネスの実質（契約金額・導入規模・市場への影響）が判別できず、単なるツール紹介の可能性も高いため判定が困難。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNbTlmdXRyX25SaTR0SEQ0SjNRVDd2Zk5HaklMNkdVc1pIckNHeXh3UnVaUHE4LTR2bE55M1lwMDRKQ1F0d0QyQWQ5OGt6emJjaFQyYWRvNGg4UFB5aU54NW9FOHFPY1BKaEtudDVPVFlTRXMwdmRBMFZjUlBiNXJveE95ckNBamY3M2stYXVDdmdSRzMzRm1od2hyVXVYOURvTTVyU3hKcjl6R3RmMzJ4a1A0d0s4V1hwdzNjUVE5d1hCUVpnTVpLdDhxaWZ5YmJGTFlUbnJmVlJnTnFrRTBVeWZaTDZUZmpxalhjdHVNc21MZDdldGFBQjlpTzI5NjlYZG95c19ZR3JDa0VFV3lLVzh5MmZGNDVCS1d4blo2Yy05MkZMMlhBRW9FdUtLeHNUR1lGb1pRd2F3NDBhOVVYLTItN25IeVBPTEZRcGZGbjhfaVJ4NDVKa2NlV2czMmFld0dFamlNalZUY3kxejZ4ZW85dWJzdk1C?oc=5",
+  "title": "‍‍‍アニメ動画作りにおすすめの動画生成AIは - 小豆島町",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Fri, 23 Oct 2026 17:49:25 GMT",
+  "published_ts": 1792777765,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "アニメ制作にAI生成ツールを活用する話題であり、コンテンツ×AIの2軸を満たすが、具体的なビジネスの数字や企業の戦略・投資等が記事主題に含まれているかが本文から不明確なため、グレー判定とした。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNWGsydjgwcWk2SGlSUlNtNG4zb2FhQTMzZl82QnFDNTBvYzlfNkRyRG1lNGxDbDhLQ2k5VkNicjJzSUlURzlrR0VVc3NFM3l1U05CVngtell5Rnh2eEFhRVA3NlkwbmlxcGRBVTNTUkU1cjNMZ2xUb0ZQNGVNZ3BZcGVoVEk5eThCcFRiMGxhU0NWUkFWSHF1TlVzMUhxNWg0aHlPbkhDY3ZEV0ZHVHlGZTlaUmZWY2ZRZ2VSaWl2SHdTanAtZUs1UlRQbEt3dGQ5TzZpRUc5dFhDZTVCQlVfcnFPTlZVbHFrZEtRVllEdUJSNEJPTTc4VmdNbjVRZGJ5cmNXODVrVkFkbmVrUXZUdnZ3STkwMXhWVGpCZzNnaVdmd1hlS00wUF8xZWNqMzdKaGpjemhJVmJmU214Y2lpYkVHaEZSZHJiUGJnWWxYTk1UNUZvTl9hNjF5U2pRc1gzZnJ3aGpfSWpCUW5PZEJ6UVlwZnpGckhIX1gwZQ?oc=5",
+  "title": "‍‍‍動画生成AIでアニメーション制作を手軽に - 小豆島町",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Fri, 23 Oct 2026 17:50:48 GMT",
+  "published_ts": 1792777848,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "アニメーション制作でAI技術を活用する動向を扱っており、コンテンツ（アニメーション）とAI（生成AI）の両分野に該当するが、本文が不足しており、実際のビジネス取引・投資・市場規模などの経営的側面が明記されていないため確実性が中程度。",
+  "ts": 1792818933.770255,
+  "is_new": true
+ },
+ {
+  "url": "https://forbesjapan.com/articles/detail/106731",
+  "title": "事業継承 2026.10.23 老舗塗料メーカーがつくったコスプレ用塗料が大ヒット。地域を豊かにするのは一社のユニコーンより1000人のアトツギ説",
+  "source": "Forbes JAPAN",
+  "sources": [
+   "Forbes JAPAN"
+  ],
+  "published": "2026-10-23T11:45:00+09:00",
+  "published_ts": 1792723500.0,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "コスプレ（サブカル関連コンテンツ）向け塗料「ウレヒーロー」の開発・SNSバズ・ハンズでの販売成功、および企業の事業戦略転換（BtoC新事業による本業への波及効果）が主題であり、コンテンツ+ビジネスが揃う。ただしインタビュー形式で一次数字（売上額・販売数など経営の具体的数値）が明記されていない点で信度は中程度。",
+  "ts": 1792818933.770255,
   "is_new": true
  }
 ]
