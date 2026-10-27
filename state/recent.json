@@ -64,27 +64,6 @@
   "updated": false
  },
  {
-  "url": "https://0115765.com/archives/211377",
-  "title": "『ウマ娘』今度の新ウマ娘は“現役俳優”　名優の父を持つ「ウインマリリン」新育成シナリオで巫女の新キャラも",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sun, 25 Oct 2026 10:15:17 +0000",
-  "published_ts": 1792923317,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "ゲームIPの新キャラ・新シナリオ追加発表が主体だが、ガチャ実施やキャンペーン（無料ガチャ、ログインボーナス、ジュエル配布）などマネタイゼーション施策が具体的に記載されており、ゲーム事業の売上・収益動向に関わるビジネス情報として判定。ただし新コンテンツの告知が中心なので確度は中程度。",
-  "ts": 1792947645.5143738,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/tv/news/espn-taps-marvel-vision-elclasico-debut-abc-1236930598/",
   "title": "ESPN Taps Marvel’s Vision to Boost ElClásico’s Debut on ABC",
   "source": "Variety",
@@ -101,69 +80,6 @@
   "label": "対象",
   "confidence": "中",
   "reason": "Marvelキャラクター（コンテンツ）がESPN/ディズニーのスポーツ放映プロモーション戦略（ビジネス）に活用される施策であり、エンタテインメント企業のクロスメディア展開・マーケティング取引が主題だが、映像業界の大型ニュースではなく、AIが関係しないため中程度の確信度。",
-  "ts": 1792947645.5143738,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/211207",
-  "title": "若年層の流行調査、映画公開で『ちいかわ』首位浮上。ドパガキ、setlog、麻辣湯…バズワード急上昇「堀大輔」など初登場ワードも",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sun, 25 Oct 2026 05:46:17 +0000",
-  "published_ts": 1792907177,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "若年層を対象とした流行調査で『ちいかわ』の劇場版が1位に浮上し、映画公開による大ヒットが市場トレンドとして報道されている。映像/アニメIPのビジネス成功（興行成績の影響を反映した世論調査）を伝えるコンテンツ×ビジネスの記事であり、対象に該当する。ただし数字が興行収入額ではなく流行度の相対的な順位変動のため、確信度は中程度。",
-  "ts": 1792947645.5143738,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/tv/global/serielizados-hagai-levi-etty-killing-a-bear-matar-a-un-oso-1236930579/",
-  "title": "Serielizados Prizes: Hagai Levi’s ‘Etty’ and ‘Astonishing’ ‘Killing a Bear’ Win Big as ‘El Observatorio’ Bags the Mind the Gap Pitch Prize",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sun, 25 Oct 2026 10:38:47 +0000",
-  "published_ts": 1792924727,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "バルセロナの映像祭Serielizadosでの受賞作品や国際配信・製作委託の発表が主題であり、アート系チャンネルArte Franceやディストリビューション企業による国際販売など配信ビジネスと制作体制に実質的に関わるため。ただしアニメではなく実写ドラマ（欧州のプレステージTV）であり、AIの要素がないため。",
-  "ts": 1792947645.5143738,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/global/egyptian-cinema-el-gouna-film-industry-future-1236930557/",
-  "title": "Egyptian Cinema Eyes Its Next Act as Industry Veterans Call for Better Scripts, Wider Distribution",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sun, 25 Oct 2026 09:16:11 +0000",
-  "published_ts": 1792919771,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "エジプト映画産業の制作数・配信プラットフォームへの展開・国際市場での配信戦略・地域市場（サウジアラビア等）の拡大など、映像産業のビジネス構造と市場動向を業界関係者インタビューで掘り下げた記事。ただしAIや生成技術への言及がないため、themes はコンテンツ+ビジネスのみ。",
   "ts": 1792947645.5143738,
   "is_new": false,
   "updated": false
@@ -490,7 +406,8 @@
   "title": "Ted Sarandos Shrugs Off U.S. Troubles To Mark Netflix’s 10 Years In Korea",
   "source": "Deadline",
   "sources": [
-   "Deadline"
+   "Deadline",
+   "Googleニュース(hollywoodreporter.com)"
   ],
   "published": "Mon, 26 Oct 2026 08:21:40 +0000",
   "published_ts": 1793002900,
@@ -967,7 +884,8 @@
   "confidence": "高",
   "reason": "ドキュメンタリー映画『You Can See Everything』の興行成績（国内累計4,510万ドル、第2週末1,950万ドル）と業界記録との比較が主題であり、コンテンツ＋ビジネスの実績数字ニュースに該当するため。",
   "ts": 1793077282.26653,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOR0tCeFZmejZvUHZCdmdFeDY5X1FKYmpkX0FfeTQ4ejZPa2M3MGg2eGdGOHdmenNYRVEzZTBHNE9IOERIalRJWHh4SzAxa1NnWlB1d0JraFFlTkhYYV9XemExS2FyTGd6LUluc3lqXzUyeVZqZmZFNDA5RFVqa2lWZWZTT2FvWlhpeEJ5UGJtZlBMdUVsLUVwYjVEUktId25RY0prNHNnaUVTb3owNjFYT3dSRXI4RW1GNUZBX2hwTHZ0QW1wRnQwenM4cHZtSlVYc09tRHdLV29SbXppYnZ1bGp0Vi1vVzAzUldKNG9QZUdfdE1TRlVRbU5wRzY0M0piYnVqLXF2aDZnalNXcHE3Yi04OVlSRjg4UlpXanFXZnByX3RoNFdHRkdTbEFWSGc?oc=5",
@@ -987,7 +905,8 @@
   "confidence": "低",
   "reason": "AIがアニメーション生成を行う技術的な取組みであり、コンテンツ×AI の軸は満たすが、小豆島町の施策内容や具体的なビジネス規模・投資額が記事から明確でなく、単なる技術紹介か施策告知の可能性が高いため、確実な判定が困難。",
   "ts": 1793077282.26653,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/tv/news/mirzapur-indian-streaming-commissions-fall-imdb-report-1236931765/",
@@ -1007,7 +926,8 @@
   "confidence": "高",
   "reason": "インド配信市場の10年間の視聴傾向と制作数の推移をIMDbの大規模データで分析した報告書発表であり、コンテンツ（インドドラマシリーズ）とビジネス（制作本数の減少トレンド、プラットフォーム別の視聴ポジション、業界の市場動向）が主題である。",
   "ts": 1793077282.26653,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVmN0dkJzbS1vc1BRbmRuUFdPVTJPUkJvekJjZElpWk5IOWNsaTV2b0MzbS1qN1RRUHdDY05ZWUhhSWFRU0ZNTmVSYzdGQ00xZGJGVzQtTHVQVU9IcVZRdG5Ia2FsZHdITThMYl9RUXZieEVnRVBfSWRjUTN4RkY1ZmR5TG16Q3lZQi0tTFlvdlkwSWUwa3RMcXJ3NWxhNzBENmNYVGZjbjROX1pPVVFidzI2UnVOU25PSjF2VVA5X1VyTG0zV2llbHNWdEVTZnJNWlZrcEJUMG9Jdw?oc=5",
@@ -1027,7 +947,8 @@
   "confidence": "高",
   "reason": "アニメ劇場版『ちいかわ』の週末興行ランキングにおける順位変動を報じる速報記事であり、新規の興行成績データ（14週目の興収順位）が主題のため、コンテンツ＋ビジネスで対象。",
   "ts": 1793077282.26653,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORFl5VDR3OW5wWnN1ZXRna0hDVjVHM2hWdUo2MFJTdWp5UDNWaUVSQjhMOVYyT0dhc3NBTFhvVEpZOUI3Y1Q2cURCdTZMenpMZkVibTlaWk1OZGRtangweGFxb05QY3lFNVQ0X1NKYmJhdm1oM05jeTV4ZS1CNExMeHVxZ1k0N2lnUHJ2OE13a3hRLTc1ajdxNkZDcG5HVHBsb083Qw?oc=5",
@@ -1047,7 +968,8 @@
   "confidence": "中",
   "reason": "3D映像制作におけるAI活用（プリビジュアライゼーション・VFX）が主題で、コンテンツ産業の制作技術とAIが結びついており、ビジネス数字や取引言及がなければAIとコンテンツの2分野に該当するため対象とした。",
   "ts": 1793077282.26653,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/10/jay-z-super-bowl-halftime-official-nfl-apple-1237205883/",
@@ -1067,7 +989,8 @@
   "confidence": "中",
   "reason": "スーパーボウルハーフタイムショーはメジャースポーツイベントの映像エンターテインメントであり、Apple Musicのスポンサーシップを含むビジネス・契約が主題であるため、コンテンツ×ビジネスに該当。ただしアニメ・漫画・ゲーム等のIPが中心の領域ではなく、音楽パフォーマンスの業界全体規模ニュースとしての価値は限定的。",
   "ts": 1793077282.26653,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/261027o",
@@ -1087,7 +1010,8 @@
   "confidence": "高",
   "reason": "ゲームIPの大型新作『GTA6』の発売に関連した米国の労働市場・休暇申請データであり、コンテンツ（ゲーム）と経済的影響（従業員340万人超のデータ分析による社会経済指標）を扱っている。AIは該当しない。",
   "ts": 1793077282.26653,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/box-office/ghosts-the-possession-of-button-house-uk-ireland-box-office-1236931821/",
@@ -1107,7 +1031,8 @@
   "confidence": "高",
   "reason": "U.K.・Ireland地域の週末興行ランキングと複数の新作映画の興収実績が主題。複数タイトル（アニメを含む）のBox Office数字が新規報告されており、映像業界のビジネス情報として該当する。",
   "ts": 1793077282.26653,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/carolinereid/2026/10/26/amazons-project-hail-mary-soars-to-160-million-profit/",
@@ -1127,7 +1052,8 @@
   "confidence": "高",
   "reason": "実写映画の初週末興収ではなく、年間の最終興行利益（$157.6 million profit）という確定した実績数字が主題であり、Box office数字ニュースは非アニメでも対象。ビジネスと映像コンテンツの両分野が該当するため対象とする。",
   "ts": 1793077282.26653,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/music/news/jay-z-to-perform-2027-super-bowl-halftime-show-1236876986/",
@@ -1147,6 +1073,308 @@
   "confidence": "中",
   "reason": "Jay-Zがスーパーボウル2027年のハーフタイムショーのパフォーマンスに決定した発表で、大型イベント（映像コンテンツ）とビジネス（放映権、製作体制、視聴数など）の両要素を含むが、AIは実質的に絡んでいない。",
   "ts": 1793077282.26653,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://0115765.com/archives/211647",
+  "title": "カプコン中間期、売上高49%増と絶好調　20年ぶり新作『鬼武者』初動ヒットや『プラグマタ』貢献、旧作リセールも牽引",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Tue, 27 Oct 2026 10:40:35 +0000",
+  "published_ts": 1793097635,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム企業の中間期決算報告で、新作ゲームタイトル『プラグマタ』『鬼武者』の販売本数、旧作ゲームのリセール成績、全体の売上高・営業利益などの数字が主題であり、コンテンツ（ゲームIP）とビジネス（企業決算・売上実績）の両面が該当する。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-10-27/pokemon-unite-game-ends-service-on-march-23-2027/.243239",
+  "title": "Pokémon Unite Game Ends Service on March 23, 2027",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Tue, 27 Oct 2026 02:24:02 -0400",
+  "published_ts": 1793082242,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ポケモンというゲームIPの主要タイトルのサービス終了決定であり、コンテンツ（ゲーム）とビジネス（サービス終了・課金停止などの経営判断）が主題の記事。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://news.denfaminicogamer.jp/news/2610273b",
+  "title": "『ブルアカ』国内のパブリッシャー変更後も、シナリオ翻訳は開発チーム監修のもとで行う体制に変更なし。シナリオ制作はこれまで通りNEXON Gamesが担当",
+  "source": "電ファミニコゲーマー",
+  "sources": [
+   "電ファミニコゲーマー"
+  ],
+  "published": "Tue, 27 Oct 2026 11:01:41 +0000",
+  "published_ts": 1793098901,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム『ブルーアーカイブ』の日本サービスのパブリッシャー変更（Yostar→NEXON）に伴う運営体制の詳細説明が主題であり、開発体制・シナリオ制作・ユーザー登録など実質的な事業運営の変更内容を伝える経営・取引関連のニュースである。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOGROUlM2UkZFMTZ1RXJ4VHdDN0x0SnR5YjIzU2dKRkVvZVNPMEtHRTRESVU0d1JjUXphQUNVTDNwdjZyTzRDRVRmMjVsbkVNdDJxeW9reHJYNVpmcFlfRlA3UmE3dw?oc=5",
+  "title": "【週末アニメ映画ランキング】「映画ちいかわ」2位に浮上 「メイドインアビス 目覚める神秘」は6位、「耳をすませば」4Kデジタルリマスターは10位 - アニメハック",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+  "published_ts": 1793095200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画の週末興行ランキングという新規の興行成績数字であり、複数作品の順位・成績実績を報道する記事であるため、コンテンツ+ビジネスの条件を満たし対象。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQV3JadEhpaC1KRS1QV1RhUHVveXZpcUJFaFE3RVc4RHdpX1VmdnAtVndYeWlPQjNpdU1fSEN0VGpzMXNQMUVpQVc4bWgwODlrdm5xN2FNcWNHUVgxTmhUSUdlTzhqb0J4U1E2TkVobjE3TE5PYlNkX1hsdzVHTjlDUkkxN0daY3BqdmpTN2VhQS1YTWtrNDR0N2xuZVRhaFZjSk81OFBha3BtdFNfaFhKU1NsNjJYZTMtd3NvcklrV3U2YVpvWHZfMUxvTG45M29SVkRUc3hWLTdpcmVmZm13VkxZSV9ZSURLVEZHVkZKSUZwVktNTDNQU01JQ2p4R3FwTGdFY05QZkVrZjJadmJUZkVJX0c2YTF0WThWSTRjeHpkZlVzOS1vUmN0QkU2bDBkZGdlZmpVWVJzYkpqVlo0MjJoRlRsYlRJWE9WeGw2QWNXWlNUMHlyaDVORHp4SUdjeGdsN3JZSGxWU29XOC1EeTAwTlJPODN6Y2QxaGY4dUdsWi1jaVdKcE1oSzNaTGRBajVvbXprblVGUQ?oc=5",
+  "title": "‍‍‍動画生成AIでアニメーション制作を手軽に！おすすめ12選を紹介 - NYC Health + Hospitals",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Tue, 27 Oct 2026 09:10:06 GMT",
+  "published_ts": 1793092206,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "アニメーション制作向けの動画生成AIツールを紹介する記事だが、本文が不完全で実際の内容（ビジネス的な契約・導入実績・企業の戦略など）が不明瞭。AIと「アニメーション」制作の関連は明確だが、記事が単なるツール紹介か業界トレンド解説かが判別できず、グレーとした。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB2OVJlckNxMEdVbmE1Z3F3dEhQTUJMdmVtb3pPZzZYMUpyLTR5LWhTQzl6TU8wdkRNeGxMUDNBQXFGeC1s?oc=5",
+  "title": "ABEMA、2026年夏アニメのABEMA最終ランキングを発表！『無職転生Ⅲ』が再生数・コメント数の両部門で1位を獲得 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "sources": [
+   "Googleニュース(gamebiz.jp)"
+  ],
+  "published": "Tue, 27 Oct 2026 08:45:00 GMT",
+  "published_ts": 1793090700,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "アニメの配信成績（再生数・コメント数ランキング）が主題であり、配信プラットフォームABEMAの実績数字を伝える記事。コンテンツ（アニメ）とビジネス（配信実績の数字）が該当し対象。ただし個別作品の成績発表であり市場全体規模や経営影響は明確でないため信度は中程度。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPaGJaOUN4Nk9CNkhrRjM0a3VhTmpmU2RmZnpsc2FpeTVIUkpxd1JreHlIVlNDelZoSEx6a0ZGanlTbWlHM05IYlZxZ2s1TkN6dE8yUE9ta3J4ekFoR3JiVk1DTkZpVE9DS0gzV3p1NWZWdWpUWnk0WkJXWExqMWZmMWk1VXA5amVXQXZJSzg3Y0RISkxIcFpnZllDQW9iaFFhQ1dYZzEwWUN6YWtDVW1ZakctTU5hZjhLWkZUNGdZbkhJYkJEZEFsLVRtek85V2hVYnNJdk1NazlTNUJWN2FucVFVUWxKdmNtSEgxckxOdkFBT3NKSlV6dEc0bDRVZFEzQW0zSXpxRTR4dlpLOUxWUzRrZWZYcWx2QkNjcU5WLXV3Q2hFcnN6cklCSU1CakN4TzYxMmdkN29TUVFnTndfaGZBRTJxN1F0TnVnYTkyTjJwbTFvQU5mUTJUaHI2WjBQRXdPekdrUG1CT1JXMkRGdDhpay03WW9zWW94Wg?oc=5",
+  "title": "‍‍‍AIアニメ生成 - 無料でAIがアニメーションを生成 ai - NYC Health + Hospitals",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Tue, 27 Oct 2026 11:11:52 GMT",
+  "published_ts": 1793099512,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "低",
+  "reason": "AIがアニメーション生成を行うコンテンツ×AI案件だが、記事本体が極めて短く、実質的な内容（サービスの詳細、実用例、ビジネスモデル、提供企業情報）が不明。「無料で生成」という断片的な情報のみでは深掘りできず、速報としても不十分な状態であり、確度の判定が困難。医療機関（NYC Health + Hospitals）の名称が媒体表記に含まれるが、本文との関連性が不明。より詳細な情報を要確認する余地あり。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNNV9BV01XM3lGX1ZFR3VkMXk0M1FaNDJoLUJSdllUQ0l0bzFWaEM1ZXYtQmpsYlhiZ2tLd0hLVTlaYVJEZ1ktY29PQ1A3NEU0VGppMjNsX0lIYmQ3MFBnMUExWVkxMlBLRnZ6Z3RSY3FsNDF0Wm5aaVpfWVkzSkJQTGJEdWJ3WDVSUGROTVlTcWdCeG12aURUYU1HUF9iU3lGQzNtaV9nYkhma01iSzhzSjNuNlBSYnVqXy13MG9QUzhSd1M0ZW9pNlFyaE13Snd6S1R0cGlfV2FsVHQ5cnJvcm9acENOZnRLRE9YSFUtR3RmVVNTZ0V1Qlo0NjRIMUE1VzdXemZjeXotU2JjYW10OXNuQlZiN0NaUlpBZGpLdlN5eEh0WnZMbEEwRndTOUE5Tm9lanJpaDIwaTV6WU1Ubl9UcEg3S0pMdTcwVnVtUXlabTg4Ujl4VTdTQ2dVVDM1dWdmQjNPR24zRkhFamJWbllyOUVTa3Ew?oc=5",
+  "title": "‍‍‍動画生成AIでアニメーション制作を手軽に ai - NYC Health + Hospitals",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Tue, 27 Oct 2026 11:35:57 GMT",
+  "published_ts": 1793100957,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "動画生成AIを使ったアニメーション制作の技術・サービスに関する記事であり、コンテンツ（アニメーション）とAIの2分野が該当する見込みだが、本文がNYC Health + Hospitalsという医療機関の発表のみで、ビジネス面の実質（企業の投資・契約・市場展開など）が明確でなく、詳細が不足しているため確度が中程度。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcDJxQ0pvemlIQnp0ZXctbGVmaENzYktpamFCOFphaTdia2hmUlhRejdCdE84b2VraUxTMnRVUDZqUDhqdlJOVnRtOUhLaXdYc3U0dzNBLXc5UGt4WmVWT1BIaWJ0S0g0OXdvQnc2dFJlWmVLSzRPd0dxcVFnaEpUX05zTWF5LXVEbUU0UTBiOHBQQ1NWQTVudjljMW1ISWlJR2hMSWdsR1BSVDEzVnc1VWhHYW15MS1JVTZsblpFcFotZw?oc=5",
+  "title": "Korea enters the AI cinema era with copyright questions unresolved - Korea JoongAng Daily",
+  "source": "Google News: generative AI content copyright OR licensing",
+  "sources": [
+   "Google News: generative AI content copyright OR licensing"
+  ],
+  "published": "Tue, 27 Oct 2026 08:00:00 GMT",
+  "published_ts": 1793088000,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "韓国における映像制作のAI活用という業界動向を扱い、AI技術・著作権規制の主題とビジネス展開が絡む記事で、コンテンツ+AI+ビジネスの3分野が揃う可能性が高いが、本文詳細が不明なため確度は中程度。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://news.denfaminicogamer.jp/news/2610272y",
+  "title": "『シャーマンキング』作者・武井宏之氏がメインキャラクター原案を務めるショートアニメ『メカザムライ』が始動。11月2日よりYouTubeなどで毎日配信",
+  "source": "電ファミニコゲーマー",
+  "sources": [
+   "電ファミニコゲーマー"
+  ],
+  "published": "Tue, 27 Oct 2026 10:30:04 +0000",
+  "published_ts": 1793097004,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ新作『メカザムライ』の制作発表であり、通常は対象外だが、Plottとテレビ東京の共同プロジェクト、SNS×放送局のシナジー戦略、メディアミックス・ライセンス展開の事業計画が主題であり、企業のビジネス展開・IP戦略が実質的に論じられているため、コンテンツ＋ビジネスで対象。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/festivals/tokyo-vice-producer-netflix-exec-urge-japan-incentive-reform-mpa-1236931907/",
+  "title": "‘Tokyo Vice’ Producer, Netflix Executive Urge Changes to Japan’s Production Incentive at MPA Seminar as Government Readies Unified Content Body",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Tue, 27 Oct 2026 08:45:36 +0000",
+  "published_ts": 1793090736,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "日本の映像制作インセンティブ政策と国際制作誘致の課題を、Netflix・HBO Max等の制作者・政府関係者が討議している記事で、コンテンツ産業政策とビジネス（政府支援制度・投資目標JPY20兆）が主題。映像制作産業の構造的課題と今後の戦略が掘り下げられており、AIは含まれない。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://animeanime.jp/article/2026/10/27/104263.html",
+  "title": "東京ディズニーランドに「シュガー・ラッシュ」新アトラクション登場！ 2027年4月15日オープン、ヴァネロペたちとお菓子の世界を救え♪",
+  "source": "アニメ！アニメ！",
+  "sources": [
+   "アニメ！アニメ！"
+  ],
+  "published": "2026-10-27T10:05:02Z",
+  "published_ts": 1793095502,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ディズニー映画『シュガー・ラッシュ』（コンテンツ）をテーマにした新アトラクション・グッズ販売・関連メニュー展開の発表であり、商品展開・タイアップ企画が主体だが、記事の中心は東京ディズニーランドの大型施設投資・新規事業開発であり、テーマパーク事業のビジネス展開に該当する。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyS25UQkl5NVpiQy15ZGd1WVNYM2NsVVZFa01sLWEzTzRwaXhoVUNmMDNMbXFNOUZJblJyRk9vLTJQOWN2ZC00Y0QyU1doWVVaV2FURXhfQXB5aEJleDZuSjMzcjV4d1Z3Rko5bTRObUNUMXB1LXl4NUJJQQ?oc=5",
+  "title": "2026年、新作夏アニメのABEMA最終ランキングを発表！『無職転生III』が再生数・コメント数の両部門で堂々1位を獲得！『Re:ゼロから始める異世界生活』4th seasonも両部門で2位にランクイン - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "sources": [
+   "Googleニュース(sankei.com)"
+  ],
+  "published": "Tue, 27 Oct 2026 08:01:11 GMT",
+  "published_ts": 1793088071,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ABEMAという配信プラットフォームの再生数ランキングという配信ビジネスの実績数字が主題であり、アニメコンテンツとビジネス（配信視聴実績）が揃っているため対象。新作アニメの配信成績のランキング発表は視聴実績の数字ニュースに該当する。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/10/the-ink-factory-cornwells-chairmen-wolkoff-upped-president-1237185488/",
+  "title": "Stephen & Simon Cornwell Take On Chairmen Roles At ‘Night Manager’ Producer The Ink Factory As Michele Wolkoff Upped To President",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 27 Oct 2026 09:00:00 +0000",
+  "published_ts": 1793091600,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "The Ink Factoryはスパイ小説原作のテレビシリーズ『The Night Manager』『Legacy of Spies』など映像制作企業であり、記事の主題は経営陣の人事異動・昇進・採用などの組織・経営変更（ビジネス）であるため、コンテンツ+ビジネスで対象。",
+  "ts": 1793102498.6529448,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/markhughes/2026/10/26/clayface-shy-of-modest-45-million-target-as-second-soft-dcu-release/",
+  "title": "‘Clayface’ Shy Of Modest $45 Million Target As Second Soft DCU Release",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Mon, 26 Oct 2026 15:17:09 -0400",
+  "published_ts": 1793042229,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "DCユニバース映画『クレイフェイス』の興行収入が目標の4,500万ドルに届かないという実績値の報道で、大手スタジオの映像作品の新規Box office数字が主題であり、コンテンツ×ビジネスの領域に該当。",
+  "ts": 1793102498.6529448,
   "is_new": true
  }
 ]
