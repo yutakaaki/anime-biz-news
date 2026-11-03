@@ -63,69 +63,6 @@
   "updated": false
  },
  {
-  "url": "https://0115765.com/archives/211652",
-  "title": "カプコン、上期は3686万本販売で過去最高…上位の半数超が「バイオハザード」だった　新作以外が9割近く",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sun, 01 Nov 2026 07:27:22 +0000",
-  "published_ts": 1793518042,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゲーム企業カプコンの上期売上実績（販売本数・地域別・チャネル別）と新作/既作の販売構成比が主題で、数字を中心とした経営ビジネス情報であり、ゲームIPという中核コンテンツに関わる実績報道のため対象。",
-  "ts": 1793552468.13185,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/festivals/godzilla-minus-zero-stars-relive-hollywood-ovation-tokyo-festival-1236936612/",
-  "title": "‘Godzilla Minus Zero’ Stars Relive Hollywood Ovation and Fan Chants for Yamazaki Takashi at Tokyo Festival",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sun, 01 Nov 2026 05:18:22 +0000",
-  "published_ts": 1793510302,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゴジラシリーズ（映画コンテンツ）の続編『Godzilla Minus Zero』に関する記事で、前作の興行成績（JPY7.65 billion/$50 million）と受賞実績が主題に含まれており、新作の東京国際映画祭でのプレミア報道は映画産業のビジネス情報として該当。",
-  "ts": 1793552468.13185,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.animenewsnetwork.com/news/2026-11-01/idoly-pride-game-ends-service-on-march-1/.243397",
-  "title": "Idoly Pride Game Ends Service on March 1",
-  "source": "Anime News Network",
-  "sources": [
-   "Anime News Network"
-  ],
-  "published": "Sun, 01 Nov 2026 01:15:00 -0500",
-  "published_ts": 1793513700,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "アニメIPの関連ゲームがサービス終了する事実の報道。ゲームというコンテンツの配信終了はビジネス（サービス終了決定）に該当するが、新規の興行数字や経営戦略の大型発表でなく、また同時にオフライン版の提供も予定されているため、必然性は中程度。",
-  "ts": 1793552468.13185,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYndKWk54dm9INEt4OUhfUEJ4YUs3TkhGZ0NhMnV1cjZtWG1jWTJZcmlvSDJmVVJsYVNQaTJScVdQdEotTlVZeTZSNEJXU0FmbXdUbDQ0NmUyR1pHanpzcXAxOUlEUVZxcHhlN2djTGZULWwtSHJfSWExdE1pS2VIdENyc3JvVVlURTQw?oc=5",
   "title": "鬼滅やキティをカードでスマホに召喚 ソニーXperiaの「Fan Sync」 - 日経クロストレンド",
   "source": "Googleニュース(nikkei.com)",
@@ -1110,7 +1047,8 @@
   "confidence": "中",
   "reason": "実写映画シリーズの続編に向けた俳優の出演意思表明と制作側（プロデューサー）の交渉状況が報じられており、コンテンツ（映画作品）とビジネス（キャスティング・制作体制の取引関連情報）が該当するが、具体的な契約金額や出資額などの数字が無く、また制作発表段階であるため、ビジネスの実質性がやや弱い。",
   "ts": 1793682055.238223,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/scream-8-neve-campbell-return-1237211716/",
@@ -1130,7 +1068,8 @@
   "confidence": "高",
   "reason": "実写映画Screamシリーズのフランチャイズビジネスに関わる記事で、キャスト復帰情報に加えScream 7の興行成績（初週末9,720万ドル、累計2億800万ドル）が主題の一部を占めており、ビジネスに該当する。映像産業の構造的ニュース（大手メディア企業Spyglass・Paramountの制作進行）も含まれるため対象。",
   "ts": 1793682055.238223,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR0hQRWlRb3ZhZUthQlhUeVlXZ1gxcmoxZGhnUzQ3Y1BXRHZJcHlMMDlsUW5rYlh5bVJVUHhTTXZDcWktVGpSSFp5SEwwdjNHQW1WYW9WZVBjRXMyYlBxblFxN292NDk2MzZNQzJRNDVFTkNBNG1QcUhqVU9selgxYTRHcVNabndHMzl0RHhteXZNQ3Y4cHZjTEVOWWx1RDU0NGFJUUg3T2VaLUFCaU5lUHVPbTA5Tzk5QjRuaXNtaEpQNEZqcmZTV0pNcHJnOU93?oc=5",
@@ -1150,7 +1089,8 @@
   "confidence": "高",
   "reason": "アニメ映画（ちいかわ）の週末興行ランキング順位を報じる速報記事であり、Box officeの数字ニュースはアニメ/コンテンツ×ビジネスの判定基準に該当するため対象。",
   "ts": 1793682055.238223,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmlGdWZka2Zic2NxVE9zWUtabWRjbm55SzN6c3Y1MDF1Sm5EQjRWZkFkQURMRy1rd1JkeUxNdTdRdDk0SE81clBLanhrdXNHYmxDWUN5OW1yUkEycldSOFVOOGFxbENSMjVqdGxvbVlpNWF0eVNDcU1zbEpQLXBjTnA5a283dlRrU3JHZkVkaHJaLUI0VTBMOVIyWE93VFE?oc=5",
@@ -1170,14 +1110,16 @@
   "confidence": "高",
   "reason": "映画IP『ハンガー・ゲーム』とメタ社によるVR配信契約の締結で、コンテンツの配信ビジネスに関する取引が主題であり、大手企業間の配信プラットフォーム戦略に該当する。",
   "ts": 1793682055.238223,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/the-remarried-princess-korean-romantic-drama-early-release-1237211813/",
   "title": "‘The Remarried Princess’ Korean Romantic Drama To Release One Day Early On Disney+ & Hulu",
   "source": "Deadline",
   "sources": [
-   "Deadline"
+   "Deadline",
+   "Googleニュース(forbes.com)"
   ],
   "published": "Tue, 03 Nov 2026 02:22:59 +0000",
   "published_ts": 1793672579,
@@ -1190,7 +1132,8 @@
   "confidence": "高",
   "reason": "Naver Webtoon原作のK-ドラマで、コンテンツ（webtoon改編・配信ドラマ）とビジネス（Disney+/Huluでの配信時期・戦略）が主題。webtoonは漫画/コミック領域のコアコンテンツであり、配信時期の前倒し発表は経営・配信戦略の実質的な報道。",
   "ts": 1793682055.238223,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/jeremy-renner-josh-brolin-a-speck-in-the-sea-1237211896/",
@@ -1210,14 +1153,16 @@
   "confidence": "高",
   "reason": "実写映画の制作発表であり、国際販売権の代理や製作体制に関する営業/配給ビジネスの話が主題であるため。ただし、新作映画のキャスティング・監督・脚本家の発表が中心で、契約金額や具体的な取引数字は無く、ビジネス要素は配給代理の枠組みに限定されている。",
   "ts": 1793682055.238223,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/timlammers/2026/11/02/godzilla-minus-zero-retains-superior-rotten-tomatoes-critics-score-following-early-reviews/",
   "title": "‘Godzilla Minus Zero’ Retains High Rotten Tomatoes Critics’ Score Following Early Reviews",
   "source": "Forbes(Hollywood)",
   "sources": [
-   "Forbes(Hollywood)"
+   "Forbes(Hollywood)",
+   "Googleニュース(forbes.com)"
   ],
   "published": "Mon, 02 Nov 2026 14:53:15 -0500",
   "published_ts": 1793649195,
@@ -1230,6 +1175,248 @@
   "confidence": "中",
   "reason": "映画『Godzilla Minus Zero』の批評スコア（Rotten Tomatoes）という映画業界の実績数字が主題であり、コンテンツ（映画作品）とビジネス（興行成績・業界評価の指標）の両分野が該当する。ただし、記事本文から詳細な数字や経営的インパクトが薄い可能性があるため信頼度は中。",
   "ts": 1793682055.238223,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://deadline.com/2026/11/beetz-brothers-clangold-launch-hbo-max-casey-bloys-1237211145/",
+  "title": "Bosses At ‘Clangold’ Producer Beetz Brothers Hail Skydance For Backing Casey Bloys: “A Strong Sign The HBO Line Will Continue”",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 03 Nov 2026 10:00:00 +0000",
+  "published_ts": 1793700000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ParamountとWarner Bros.の経営統合に伴うHBO Maxの体制変化（Casey Bloys就任）と、国際プロデューサーへの事業的影響を扱っており、大型メディア企業の統合ニュースと配信ビジネスの構造変化が主題。業界地図が変わる規模のニュース。",
+  "ts": 1793707256.4814239,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOOHBTeXIybGtkaGZTR21zSS16TFA1MWJ4Sm84ZTVFZDhMQXdUbVlBMmR0RkJNeXZXODRuMTRaRkNrajJ3VEpFcWFhMzJnYzNOVjc2SjZmVFd3a19WMVJSampmVnZydHhHSXRRbWpFX2JFZ1ZYd3VqTUNBSzJmSlhmeklHUC00MTR4SEM4MEc1OTJkcm5oNWYzTDgwY2NwSTJCMVVscUhubkxzM0w0NEgteFU4eXZyVGdDQ1FYZWE2UDdKeVRabEozd0xOZ1BGSkpVdFEzemhra3NOdFRMM2d3S0t6T2pGOWU5cDlsRDZIcmNsbVZBQ01EclY4SjlXZXZGQU9iaW9RWmNJLVdyTnVBcEJCSC1LM0VPX014SExybXBlRHVGb3NXSlVIT2g1S0RabjRHelp4bzlRekZrbENycUZPREoyU0owNklTdUxzckJBQjVzcHdiVnNVT1JHZ2dDNVdMZ1JMWEFzOU1wc0E?oc=5",
+  "title": "‍‍‍NSFW（過激な）AIアニメ画像生成ツールの比較：機能と価値 - Anayasa.gov.tr",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Tue, 03 Nov 2026 09:33:02 GMT",
+  "published_ts": 1793698382,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "AIアニメ画像生成ツールの機能比較記事であり、コンテンツ（アニメ画像生成）とAI（生成AIツール）を含むが、ビジネス面（価格・市場規模・企業取引など）が主題か不明確で、また掲載媒体が不適切なため確度が低い。内容確認が必要。",
+  "ts": 1793707256.4814239,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/tv/festivals/shin-min-lee-jong-suk-remarried-empress-disney-hulu-1236908746/",
+  "title": "Shin Min-a, Ju Ji-hoon, Lee Jong-suk and Lee Se-young Take Webtoon Juggernaut ‘The Remarried Empress’ to Disney+ and Hulu",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Tue, 03 Nov 2026 10:57:11 +0000",
+  "published_ts": 1793703431,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "webtoon（漫画）というコア領域のIPがDisney+/Huluという大手配信プラットフォームで実写化され、配信契約・プロダクション規模が明示されているため、コンテンツ＋ビジネスの2分野を満たす対象記事。",
+  "ts": 1793707256.4814239,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/212542",
+  "title": "「マンガ離れ」はわずか6.7％？読まない人の3分の2は「もともと非読者」全国3,000人調査でマンガの読書実態",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Tue, 03 Nov 2026 06:48:20 +0000",
+  "published_ts": 1793688500,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "マンガ配信プラットフォーム事業者による市場調査で、マンガの読書実態・媒体別利用状況・市場データ（紙とアプリの需要動向、世代別利用パターン）が主題であり、コンテンツ産業のビジネス関連の定量データとして該当。AIは含まれない。",
+  "ts": 1793707256.4814239,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcW1VeVZSOXQxbk1oT3BLVzJxZ29VNUVWZ2V6cllyY1Y0T1UwRnRjVmtEcVV2Q0N1a0wtaVFrTG1kX2RTTTJtRWFXVkpueVhCQmhyRjhMRGExa1U3UDNnQUthM05lc2tubUdaQVFwYUVBNnZVWF85QmdLeGZCcXd4bzhHdkNnY184NTFobzVOb1FKX2pqaUlwWlBEZw?oc=5",
+  "title": "新たなアニメの祭典「日本アニメアワード」2027年に始動 小池百合子都知事「東京都は、アニメとその担い手の皆様を、これからも力強く応援してまいります」 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "sources": [
+   "Googleニュース(sankei.com)"
+  ],
+  "published": "Tue, 03 Nov 2026 05:31:06 GMT",
+  "published_ts": 1793683866,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "アニメ業界向けの新たな国家的アワード企画の始動発表であり、都による支援・投資の政策ニュースとしてビジネス要素を含むが、記事本文に具体的な予算・資金規模・経営インパクトの数字が明記されていないため確信度は中程度。",
+  "ts": 1793707256.4814239,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/queen-silvia-series-world-premiere-cannes-prime-video-1237209352/",
+  "title": "‘Queen Silvia’ Team Hopes For Multiple Seasons After Royal Drama’s Cannes Premiere",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 03 Nov 2026 09:21:50 +0000",
+  "published_ts": 1793697710,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ドラマシリーズの配信契約・国際配給（Prime Video、SAT.1など）と制作体制が主題で、ビジネスの取引内容が明記されており、コンテンツ（映像ドラマ）とビジネスの両軸を満たす。ただし非アニメ実写であるため、AIは関わらず2分野となる。",
+  "ts": 1793707256.4814239,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOaU5IUGRaUkYzWFFZcS12VVotcWhRSG8wZThPZ1NWOFVVeFVvbGJ1NXV6WUJzSkhHUHM4SkFFdGlMT3ZVM0cyS25oMXpyVHhnMnVaMlNiSlAxN2VIVUZkRlRCOTluaUZrbXktLWJodTFBU1JnN2lwS1hzMjR4THlJRndUak13aFVBNXc1RGVVemlxTlhaNTliQzdNU2EtR3pEdExJYlBGc0lyOGJPbEw1WktSZE8zb1pkbGdnZmEtZ3lsV1VtWW0yaktkMnVyVUhybm55WjFDdmdLUWs1d05LSHV1OUtLRkpYWEVONmNFbF9NWHcteU1FSjBXajNtNWhzN083YXJfV1RiNll1Tk1idUdYLVNnT3QyN21XRTJHOWNhdEdyZVlwWVVEdkd6RXctRWJpSFRvWFlxSFc4aDUtb1NEN2ExVTZKZDd1WmlHMFZ1RElqRGt0OWhIQXdLaHdXZ0E?oc=5",
+  "title": "‍‍‍NSFW対応の画像生成AI｜アニメキャラ生成マニア - Anayasa.gov.tr",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Tue, 03 Nov 2026 09:21:14 GMT",
+  "published_ts": 1793697674,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "アニメキャラ生成向けの画像生成AI（NSFW対応）という記事で、コンテンツ（アニメ）とAIの両方が関わるが、本文情報が極めて限定的で、実質的なビジネス動向や具体的なAI活用・影響について判断できない。記事の詳細内容がないため、グレー判定とする。",
+  "ts": 1793707256.4814239,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/music/global/independent-talent-outernet-london-1236938228/",
+  "title": "Independent Talent to Rep Outernet London for Creative Commercial Strategy (EXCLUSIVE)",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Tue, 03 Nov 2026 10:00:00 +0000",
+  "published_ts": 1793700000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "映像・イベント制作と商業パートナーシップの提携であり、コンテンツ関連ビジネスの要素は認められるが、AI技術が記事に実質的に組み込まれておらず、また取引金額や市場規模などの具体的な経営数字が報じられていないため、ビジネスとしても関連度が限定的。映像産業の一部として拾う価値はあるが確信度は中程度。",
+  "ts": 1793707256.4814239,
+  "is_new": true
+ },
+ {
+  "url": "https://news.denfaminicogamer.jp/news/261103z",
+  "title": "itch․io、低品質なAI生成コンテンツを数テラバイト分“削除”したと投稿。書籍やコミックなどでもAI使用の申告が必須に",
+  "source": "電ファミニコゲーマー",
+  "sources": [
+   "電ファミニコゲーマー"
+  ],
+  "published": "Tue, 03 Nov 2026 09:31:31 +0000",
+  "published_ts": 1793698291,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム配信プラットフォーム（コンテンツ）におけるAI生成コンテンツの削除・規制強化（AI）とサイト品質管理の施策（ビジネス：プラットフォーム運営）が主題。ゲーム・書籍・コミック等のコア領域でAI申告義務化という重要な方針転換が含まれる。",
+  "ts": 1793707256.4814239,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/gaming/news/mahesh-babu-invests-indian-console-studio-shortgun-games-1236938224/",
+  "title": "Mahesh Babu Invests in Indian PC and Console Game Studio Shortgun Games",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Tue, 03 Nov 2026 08:59:39 +0000",
+  "published_ts": 1793696379,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "インド系ゲームスタジオへの著名人による戦略的投資という資金調達ニュースで、ゲーム（コンテンツ）とビジネス（出資・投資）の2分野が該当し、AIは記事に実質的に含まれていない。",
+  "ts": 1793707256.4814239,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/music/news/bts-katseye-hybe-record-quarterly-revenue-profit-1236938217/",
+  "title": "BTS, Katseye Drive Hybe to Record Quarterly Revenue and Profit",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Tue, 03 Nov 2026 08:24:40 +0000",
+  "published_ts": 1793694280,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "K-popアイドルグループ（音楽コンテンツIP）の親会社Hybeの決算・四半期収益・利益に関する報道であり、コンテンツとビジネスが主題である。AIは含まれない。",
+  "ts": 1793707256.4814239,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1DUW55OEYwWjBwNmNSU1NLUVp6bk9hZTlDVDJJMlJRR1pFakRPS1p6UUtSVFdFNTQ2M05OaEhNMVZtdXBp?oc=5",
+  "title": "【ゲームエンタメ株概況(11/2)】2Q決算の大幅な増収増益を素直に評価されたMIXIが続伸 2Q決算が減益の東映アニメは反落して一時は3000円大台割れも - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "sources": [
+   "Googleニュース(gamebiz.jp)"
+  ],
+  "published": "Mon, 02 Nov 2026 07:11:00 GMT",
+  "published_ts": 1793603460,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲーム企業（MIXI）とアニメ制作企業（東映アニメ）の2Q決算結果（増収増益/減益）を報道する株価動向ニュースで、コンテンツ企業の経営実績（決算数字）がビジネスの主題となっているため対象。",
+  "ts": 1793707256.4814239,
   "is_new": true
  }
 ]
