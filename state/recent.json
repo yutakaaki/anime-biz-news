@@ -1,110 +1,5 @@
 [
  {
-  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGM256WVpuRVlabGVOSUhfUDM0Q3o3ajAzN2Y3czk3dTVzYktzWjhId184TXJuQk1xaEkyYmE4d0RoRGtubmhrag?oc=5",
-  "title": "YouTuberがAIで作った長編映画、アカデミー賞を狙う : 映画ニュース - 映画.com",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Sun, 01 Nov 2026 00:00:00 GMT",
-  "published_ts": 1793491200,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "YouTuberによるAI生成映像作品がアカデミー賞出品を狙うという、映像制作とAI技術の組み合わせだが、非アニメの実写的映画であり、AIの具体的な活用法や業界影響が十分明確でなく、また興行ビジネスの数字もないため、記事の実質が判断しにくい段階。グレーで要確認。",
-  "ts": 1793509267.985589,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/10/everest-the-other-side-director-and-star-repel-down-building-1237210694/",
-  "title": "Steep Height? No Sweat: ‘Everest: The Other Side’s Jim Morrison And Jimmy Chin Repel Down Side Of West Hollywood Building [Video]",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sun, 01 Nov 2026 00:26:17 +0000",
-  "published_ts": 1793492777,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "National Geographicのドキュメンタリー映画『Everest: The Other Side』の劇場公開（551館、IMAXスクリーン含む）とプロモーション活動を報道しており、映像作品の興行・配給に関わるビジネスニュースである。劇場公開という数字が主題に含まれている。",
-  "ts": 1793509267.985589,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nc1FCcGRqVmZId3o3TGpDRWtYT1d2UlcwVWI5N0VjMXd1cVdlN3RjeXozd1VHXzA5VlFvbnhFclJvdDBuNGdOWUdZMWJsX1l2clEwN3J4V2pvQVl2VHpxb19GVWFVa1B2RE9VM2I4TG1UdGtGVkJ2QktJeklxT0E?oc=5",
-  "title": "YouTuberがAIで作った長編映画、アカデミー賞を狙う（映画.com） - Yahoo!ニュース",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Sun, 01 Nov 2026 00:00:00 GMT",
-  "published_ts": 1793491200,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "AIで制作された映画作品とアカデミー賞への出品が主題で、コンテンツ（映像制作）とAI（生成AI活用）は明確だが、ビジネス要素（契約金額・出資・興行成績など）が本文から確認できず、また非アニメの映像がAI絡みかどうか記事本文で判断しづらいため、取りこぼし最小化の観点からグレーとする。",
-  "ts": 1793509267.985589,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/10/taika-waititi-calls-klara-and-the-sun-critics-irrelevant-1237210687/",
-  "title": "Taika Waititi Calls ‘Klara And The Sun’ Critics “Irrelevant, Out Of Touch, Obsolete”",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sat, 31 Oct 2026 23:28:09 +0000",
-  "published_ts": 1793489289,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "実写映画『Klara and the Sun』の興行成績（初週末701K、予算2000万ドル、劇場数削減）がビジネスの主題であり、映像コンテンツに該当するが、AIやビジネス規模の影響は限定的で、監督の批評への反論がメイン。",
-  "ts": 1793509267.985589,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/global/frank-miller-comic-book-movies-lucca-1236936369/",
-  "title": "Frank Miller on Why He’s Relieved There Are Fewer Comic Book Adaptations Now: They Were ‘Really in Danger of Losing Their Souls’",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sat, 31 Oct 2026 22:34:25 +0000",
-  "published_ts": 1793486065,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "著名な漫画原作者Frank Millerのインタビュー記事。漫画/コミック・映画化をめぐる産業動向（コンテンツ）と、ハリウッドのコミック原作映画パイプラインの減少傾向（ビジネス市場の変化）が主題だが、具体的な金額や企業戦略は記載されていないため、ビジネスの度合いは中程度。",
-  "ts": 1793509267.985589,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/film/box-office/you-can-see-everything-clayface-battle-for-no-1-box-office-1236936664/",
   "title": "Box Office: ‘You Can See Everything’ and ‘Clayface’ Battle for No. 1 With $10.5 Million in Sleepy Halloween Weekend",
   "source": "Variety",
@@ -226,27 +121,6 @@
   "label": "対象",
   "confidence": "中",
   "reason": "アニメIPの関連ゲームがサービス終了する事実の報道。ゲームというコンテンツの配信終了はビジネス（サービス終了決定）に該当するが、新規の興行数字や経営戦略の大型発表でなく、また同時にオフライン版の提供も予定されているため、必然性は中程度。",
-  "ts": 1793552468.13185,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/markhughes/2026/10/31/godzilla-minus-zero-roars-to-life-in-early-reviews-for-2026-sequel/",
-  "title": "‘Godzilla Minus Zero’ Roars To Life In Early Reviews For 2026 Sequel",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)"
-  ],
-  "published": "Sat, 31 Oct 2026 14:35:14 -0400",
-  "published_ts": 1793471714,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画ですが、興行成績（Box office）に関する速報であり、実写映画であっても初週末興収など新たに判明した実績値あるいは期待値についての報道は対象。TOHO発表のゴジラ映画の興行見通しに関する記事。",
   "ts": 1793552468.13185,
   "is_new": false,
   "updated": false
@@ -567,27 +441,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0xxMnFvTzhlWnhSWnVzWW9lLTZtdEVteWhFVEIwVGRIY1FaaXZZazBiM1p4WnRPY3BWXzlabk51d1lKd0k2bzFxby1KQUhfTG9kS2xFZUUxbDlGdkJTMy1UXzdMNjlaalV2T0tmRk5pQUVVVjV2UnN3Q0k2b2VHTFpVMmlNczE1czFTc0xJTFRqOWYxVjB1M0szUUJnMkgyN0w5Y0lfYkYzcWFfOXBfaTdlQUJoMGlTSUVzTlF5YlNvRTBFbmdRUw?oc=5",
-  "title": "Reese Witherspoon’s Hello Sunshine Faces Staff Cuts After Company Buyback - Forbes",
-  "source": "Googleニュース(forbes.com)",
-  "sources": [
-   "Googleニュース(forbes.com)"
-  ],
-  "published": "Sun, 01 Nov 2026 03:15:22 GMT",
-  "published_ts": 1793502922,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "Reese WitherspoonのメディアカンパニーHello Sunshineが買収後にリストラを実施する経営ニュースであり、映像・コンテンツ制作会社の経営・M&A動向に該当。ただし記事本文が不明確なため確度は中程度。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/11/criminal-minds-evolution-stars-react-cancellation-1237210934/",
   "title": "‘Criminal Minds: Evolution’s Paget Brewster, AJ Cook, Kirsten Vangsness & More React To Cancellation: “The Finest Group Of People”",
   "source": "Deadline",
@@ -879,7 +732,8 @@
   "confidence": "高",
   "reason": "メジャースタジオの大型映画の興行見通しに関する数字ニュースであり、コンテンツ×ビジネスが該当。ただし実写映画でありアニメではないが、業界全体を揺るがす大型作品の興行成績動向は拾う。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/box-office-report/wildwood-laika-week-2-box-office-fathom-entertainment-268837.html",
@@ -899,7 +753,8 @@
   "confidence": "高",
   "reason": "アニメーション映画（Laika製作）の2週目の北米興行収入$9百万という新規の数字データが主題であり、コンテンツ×ビジネスの軸で該当する。Box officeの実績値ニュースは非アニメでも対象となり、本記事は開封10日間の累計$27.4百万、減少率27%、観客評価などの具体的興行成績を報じている。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-11-02/comic-cmoa-partially-resumes-service/.243414",
@@ -919,7 +774,8 @@
   "confidence": "高",
   "reason": "漫画配信サービス（コンテンツ）の不正アクセス・データ漏洩に伴うサービス復旧という企業の対応と事業継続の状況（ビジネス）が主題であり、コンテンツ領域の重要な配信ビジネスインシデントとして対象。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/2611032t",
@@ -939,7 +795,8 @@
   "confidence": "中",
   "reason": "新作映画の公開日に関する告知だが、米国でのR指定という規制ビジネス的な情報（国別の区分方針の相違）を含み、入場者特典の配布数（200万体）という販売戦略の数字が主題の一部として含まれているため、コンテンツ+ビジネスとして拾えるが、本体は新作公開告知が主であり確度は中程度。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFQk12SmlEcm4wZ1N5YXVCdlc1dXNNaDhJYlRuWjBfNGs1WjJzVVEyWE1jUFR5T2dMS1N0bEFrVldNbjhocmJNZWpRRXh5MHY0aVAxV2pvcHZEVVV4eUZzdk42RlotVGJrekE?oc=5",
@@ -959,7 +816,8 @@
   "confidence": "高",
   "reason": "アニメ作品『ちいかわ』の韓国での興行成績（Box office）を報じており、コンテンツ＋ビジネスの2分野が揃う。非アニメ作品との比較は付随情報であり、主題はアニメの新規興行数字である。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/awards/netflix-joel-coen-jack-of-spades-josh-oconnor-2027-1236936906/",
@@ -979,7 +837,8 @@
   "confidence": "高",
   "reason": "Netflixが映画制作・配信権を獲得した大型ディール（業界構造に関わる配信企業による映像作品の獲得）であり、劇場公開とストリーミング配信の戦略を含むビジネス主体のニュース。ただしAI要素は無い。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/netflix-josh-oconnor-joel-coen-jack-of-spades-1237211377/",
@@ -999,7 +858,8 @@
   "confidence": "高",
   "reason": "NetflixがJoel Coen監督の映画『Jack of Spades』の世界中の配信化権を獲得したことの発表であり、大手配信プラットフォームと映像作品の契約・取引が主題のため、コンテンツ＋ビジネスに該当する。メジャースタジオではないが配信プラットフォームの重要な買収案件であり、映像業界の取引ニュースとして対象。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://animeanime.jp/article/2026/11/02/104429.html",
@@ -1019,7 +879,8 @@
   "confidence": "中",
   "reason": "電子コミック配信サービスの20周年という企業マイルストーンは企業ニュース（ビジネス）に該当し、漫画・コミックはコア領域（コンテンツ）だが、記事の主体は『お祝いイラスト寄稿』という告知イベントであり、経営/業績/取引の実質的な情報が薄い。売上数字や契約金額など具体的なビジネス内容が記事に無く、クーポン配布は販売促進の告知に過ぎないため、ビジネスとしては微弱。純粋な企業記念日の宣伝活動に見える可能性もあり、判断が揺らぐ領域。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/2611032s",
@@ -1039,7 +900,8 @@
   "confidence": "高",
   "reason": "ゲームというコア領域のコンテンツに関し、DLC配信・モバイル版リリース・セール施策・累計100万本突破という販売実績という、ゲーム企業のビジネス（販売成績・マルチプラットフォーム展開）が主題であるため対象。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/2611022u",
@@ -1059,7 +921,8 @@
   "confidence": "高",
   "reason": "セガのアーケードゲームネットワークサービスが不正アクセスを受け、複数のゲームタイトルのオンラインサービスが停止される事態であり、ゲーム業界のインシデント・事業運営に直結するビジネスニュースであるため。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10X3JVZE9MNkpVVUhLYk1zOVVUTFBHbGZNSVRpRVp4UTZ1VFkwZVp6MFlIVnNYWkYzVHJQU2xBRlN3eWlr?oc=5",
@@ -1079,7 +942,8 @@
   "confidence": "高",
   "reason": "マーベラスの決算発表で、アニメ二次利用収入が過去最高水準との企業業績データが主題。配信・商品化による版権/ライセンス売上実績がビジネスの中核であり、アニメIPのビジネス規模を伝える数字ニュースとして対象。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/gaming/news/sonic-the-hedgehog-lingokids-games-1236937581/",
@@ -1099,7 +963,8 @@
   "confidence": "高",
   "reason": "Segaのゲームシリーズ『ソニック』とLingokidsの提携によるゲーム配信開始は、IPのライセンス展開・プラットフォーム戦略というビジネス面での実質的な取引であり、ゲーム（コアIPコンテンツ）とビジネスが両立している。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/global/envious-benjamin-vicuna-matias-bize-my-last-stand-1236932650/",
@@ -1119,7 +984,8 @@
   "confidence": "中",
   "reason": "チリの映画制作プロジェクト『My Last Stand』のキャスティング発表と制作体制（Invercine、Cubho Audiovisualの共同制作）について報じている。映像制作の国際協力・パートナーシップと制作会社の事業展開がビジネスの軸だが、キャスティング・制作発表が主体のため確信度は中程度。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/newsom-ca-film-tv-tax-incentive-hike-1-billion-1237211227/",
@@ -1139,7 +1005,8 @@
   "confidence": "高",
   "reason": "カリフォルニア州の映像製作向け税控除プログラムを750万ドルから10億ドル以上に拡大する政策提案であり、映像業界（アニメ/実写含む映像制作産業）のビジネス・市場規模・政策が主題。メジャー映像産業の政策的サポート制度の大幅拡張は業界全体に影響する構造ニュースに該当する。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-11-02/toshihiro-nagoshi-nagoshi-studio-shuts-down/.243440",
@@ -1159,7 +1026,8 @@
   "confidence": "高",
   "reason": "ゲーム開発スタジオの経営破綻・資金引き上げはコンテンツ（ゲーム）とビジネス（企業の撤退・資金決定）の両軸。NetEaseによる実績値ベースの経営判断が主題であり、対象条件を満たす。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/music/news/hunger-games-album-jennifer-lawrence-ella-langley-1236937594/",
@@ -1179,7 +1047,8 @@
   "confidence": "高",
   "reason": "映画『ハンガー・ゲーム』のサウンドトラック・アルバムの発売発表で、アルバムの29曲のトラック構成・リリース日（11月13日）・レーベル（MCA）・映画公開日との関係性が数字と共に詳述されている。主題歌やキャストの参加などコンテンツの周辺ビジネス（アルバム制作・発売・配信）に関わる記事であり、映像作品と音楽商品の取引として対象。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/2611022j",
@@ -1199,7 +1068,8 @@
   "confidence": "高",
   "reason": "ストリーマー事務所DOROKUSAがKADOKAWAのCSPサービスを活用して切り抜きガイドラインを公開し、収益分配の仕組みを導入したビジネス施策。コンテンツ（ストリーマー・配信コンテンツ）とビジネス（収益分配システム・ライセンス管理）が主題であり、実務的な取引・サービス展開が報道内容である。",
   "ts": 1793643743.5253649,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/2611022e",
@@ -1219,6 +1089,147 @@
   "confidence": "高",
   "reason": "実写映画『クレイフェイス』の全世界累計興行収入約130.3億円という新たに判明した実績数字が主題であり、Box office情報は非アニメでも拾うべき対象。ビジネスに該当する興行成績の報道。",
   "ts": 1793643743.5253649,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://deadline.com/2026/11/johnny-depp-reprising-pirates-of-the-caribbean-role-1237211975/",
+  "title": "Johnny Depp Open To Reprising ‘Pirates Of The Caribbean’ Role To “Send Them Off On A Better Note”",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 03 Nov 2026 04:29:28 +0000",
+  "published_ts": 1793680168,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "実写映画シリーズの続編に向けた俳優の出演意思表明と制作側（プロデューサー）の交渉状況が報じられており、コンテンツ（映画作品）とビジネス（キャスティング・制作体制の取引関連情報）が該当するが、具体的な契約金額や出資額などの数字が無く、また制作発表段階であるため、ビジネスの実質性がやや弱い。",
+  "ts": 1793682055.238223,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/scream-8-neve-campbell-return-1237211716/",
+  "title": "Neve Campbell Says As Far As ‘Scream 8’ Goes, “I’ll Be In It”; Latest Installment Still In Development",
+  "source": "Deadline(Box Office)",
+  "sources": [
+   "Deadline(Box Office)"
+  ],
+  "published": "Mon, 02 Nov 2026 22:31:29 +0000",
+  "published_ts": 1793658689,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画Screamシリーズのフランチャイズビジネスに関わる記事で、キャスト復帰情報に加えScream 7の興行成績（初週末9,720万ドル、累計2億800万ドル）が主題の一部を占めており、ビジネスに該当する。映像産業の構造的ニュース（大手メディア企業Spyglass・Paramountの制作進行）も含まれるため対象。",
+  "ts": 1793682055.238223,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR0hQRWlRb3ZhZUthQlhUeVlXZ1gxcmoxZGhnUzQ3Y1BXRHZJcHlMMDlsUW5rYlh5bVJVUHhTTXZDcWktVGpSSFp5SEwwdjNHQW1WYW9WZVBjRXMyYlBxblFxN292NDk2MzZNQzJRNDVFTkNBNG1QcUhqVU9selgxYTRHcVNabndHMzl0RHhteXZNQ3Y4cHZjTEVOWWx1RDU0NGFJUUg3T2VaLUFCaU5lUHVPbTA5Tzk5QjRuaXNtaEpQNEZqcmZTV0pNcHJnOU93?oc=5",
+  "title": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Ranks 5th in 15th Weekend - Crunchyroll",
+  "source": "Google News: anime box office",
+  "sources": [
+   "Google News: anime box office"
+  ],
+  "published": "Tue, 03 Nov 2026 00:52:00 GMT",
+  "published_ts": 1793667120,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画（ちいかわ）の週末興行ランキング順位を報じる速報記事であり、Box officeの数字ニュースはアニメ/コンテンツ×ビジネスの判定基準に該当するため対象。",
+  "ts": 1793682055.238223,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmlGdWZka2Zic2NxVE9zWUtabWRjbm55SzN6c3Y1MDF1Sm5EQjRWZkFkQURMRy1rd1JkeUxNdTdRdDk0SE81clBLanhrdXNHYmxDWUN5OW1yUkEycldSOFVOOGFxbENSMjVqdGxvbVlpNWF0eVNDcU1zbEpQLXBjTnA5a283dlRrU3JHZkVkaHJaLUI0VTBMOVIyWE93VFE?oc=5",
+  "title": "Lionsgate Inks Deal With Meta to Bring New ‘Hunger Games’ Movie to VR Glasses - The Hollywood Reporter",
+  "source": "Googleニュース(hollywoodreporter.com)",
+  "sources": [
+   "Googleニュース(hollywoodreporter.com)"
+  ],
+  "published": "Mon, 02 Nov 2026 20:01:42 GMT",
+  "published_ts": 1793649702,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画IP『ハンガー・ゲーム』とメタ社によるVR配信契約の締結で、コンテンツの配信ビジネスに関する取引が主題であり、大手企業間の配信プラットフォーム戦略に該当する。",
+  "ts": 1793682055.238223,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/the-remarried-princess-korean-romantic-drama-early-release-1237211813/",
+  "title": "‘The Remarried Princess’ Korean Romantic Drama To Release One Day Early On Disney+ & Hulu",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 03 Nov 2026 02:22:59 +0000",
+  "published_ts": 1793672579,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Naver Webtoon原作のK-ドラマで、コンテンツ（webtoon改編・配信ドラマ）とビジネス（Disney+/Huluでの配信時期・戦略）が主題。webtoonは漫画/コミック領域のコアコンテンツであり、配信時期の前倒し発表は経営・配信戦略の実質的な報道。",
+  "ts": 1793682055.238223,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/jeremy-renner-josh-brolin-a-speck-in-the-sea-1237211896/",
+  "title": "Jeremy Renner & Josh Brolin Set For Orlando von Einsiedel’s ‘A Speck In The Sea’; 193 Launching Sales At AFM",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 03 Nov 2026 02:00:00 +0000",
+  "published_ts": 1793671200,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画の制作発表であり、国際販売権の代理や製作体制に関する営業/配給ビジネスの話が主題であるため。ただし、新作映画のキャスティング・監督・脚本家の発表が中心で、契約金額や具体的な取引数字は無く、ビジネス要素は配給代理の枠組みに限定されている。",
+  "ts": 1793682055.238223,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/timlammers/2026/11/02/godzilla-minus-zero-retains-superior-rotten-tomatoes-critics-score-following-early-reviews/",
+  "title": "‘Godzilla Minus Zero’ Retains High Rotten Tomatoes Critics’ Score Following Early Reviews",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Mon, 02 Nov 2026 14:53:15 -0500",
+  "published_ts": 1793649195,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "映画『Godzilla Minus Zero』の批評スコア（Rotten Tomatoes）という映画業界の実績数字が主題であり、コンテンツ（映画作品）とビジネス（興行成績・業界評価の指標）の両分野が該当する。ただし、記事本文から詳細な数字や経営的インパクトが薄い可能性があるため信頼度は中。",
+  "ts": 1793682055.238223,
   "is_new": true
  }
 ]
