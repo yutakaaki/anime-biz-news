@@ -1,341 +1,5 @@
 [
  {
-  "url": "https://deadline.com/2026/11/indie-film-box-office-only-living-pickpocket-in-new-york-everest-1237210862/",
-  "title": "‘The Only Living Pickpocket In New York’ Steals Into Top 10, ‘Everest’ Scales $1M — Specialty Box Office",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Sun, 01 Nov 2026 20:30:00 +0000",
-  "published_ts": 1793565000,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "複数の映画作品の週末興行収入（Box Office）の実績数字が主題であり、映像産業のビジネス実績を報道しているため、themes=コンテンツ+ビジネス、label=対象に該当する。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WTnkwOGFPbEF0Yml3WjBzcHAwYVVtWjRHd29kWmpaZnNzQUxQX1czVVBlZEg1Tm1yQjhCdEpKakVGdWlNTUE?oc=5",
-  "title": "興収33億円から満足度96.7%まで、劇場アニメ映画がそろって好調だったこの1ヶ月【編集部まとめ】 - shiritomo",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Mon, 02 Nov 2026 01:00:00 GMT",
-  "published_ts": 1793581200,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ劇場映画の複数作品の興行収入（33億円）と満足度という新規の実績数字が主題であり、コンテンツ＋ビジネスの2分野が成立する。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ENXBkSTFURzUxM2RHQl83VjAtN2xTc1hNVTlHZ3BDNENqZW5JUnhuWmZYUlBPaWxnTnR4YkhhdXFqcUl4d1J0X2h6eVR3a0VkazdB?oc=5",
-  "title": "日本アニメ市場：海外売上、新作アニメプロジェクト、クロスオーバーイベントを主な原動力とする数十億ドル規模のビジネス機会が、2026年後半から2027年にかけて市場を形成する。 - ドリームニュース",
-  "source": "Googleニュース: アニメ ライセンス 海外",
-  "sources": [
-   "Googleニュース: アニメ ライセンス 海外"
-  ],
-  "published": "Mon, 02 Nov 2026 00:00:00 GMT",
-  "published_ts": 1793577600,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "アニメ市場の海外売上や新作プロジェクト、クロスオーバーイベントなど具体的なビジネス機会を数十億ドル規模で分析し、2026年後半から2027年の市場形成を論じており、コンテンツ×ビジネスの主題が明確だが、詳細な分析内容が本文に示されていないため確信度は中程度。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KMFdsRy15bE9jMEFDS1RacTQzbmxka2N0Y2RuU0tlNlhCY1JJb0VaUUtFblJ1Qms1VGl3aDJkVVp6RURpWlR2VHJuMktuLVJNdjFZcy1FUFgxN3NfX1F1Ung1SWtieHFR?oc=5",
-  "title": "プレスリリース：スムージースタジオ、日本初開催となるAI映画祭「OMNI TOKYO 2027」実行委員会として参画（PR TIMES） - 毎日新聞",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Mon, 02 Nov 2026 04:23:02 GMT",
-  "published_ts": 1793593382,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "AI映画祭への参画という映像業界のAI関連イベントでコンテンツとAIは該当するが、ビジネス面（契約金額・出資・市場規模）の記載が不明で、企業の自己宣伝PR的な単なるプレスリリース転載の可能性が高いため。映像/AI産業全体への波及度や取引の実質が不透明。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTl8yN096czVHejVKc01CVjVHMHowcU12Umo5bFJVMFRfZFc4Qk92OFNyTm1OSlNfeG5tbHRTai1Ob1FGcWRUZDBpQXRHN0RvSGNkekY0TmpxVjVkb3RwVDlxaWFKY1htVjc4c0M0VUowQVNza01IT21LVktCX0FEMTJ5MVJPQ0ZDWFlIMHZKWkVEZWNUc29vWXhzUlpQVi02ekc4M0ZpSU5EM3RzMnFyT3AzRXVhNksw?oc=5",
-  "title": "Korea Box Office: Anime Hit ‘Chiikawa’ Retains Lead as Brad Pitt Thriller ‘Heart of the Beast’ Debuts - Variety",
-  "source": "Google News: anime box office",
-  "sources": [
-   "Google News: anime box office"
-  ],
-  "published": "Sun, 01 Nov 2026 22:38:00 GMT",
-  "published_ts": 1793572680,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ『ちいかわ』の韓国での興行成績が主題であり、Box officeの数字ニュースとして新たに判明した実績値を報道しているため、コンテンツ×ビジネスで対象。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/box-office/china-box-office-resident-evil-john-wick-1236937189/",
-  "title": "China Box Office: ‘Resident Evil’ Holds Top Spot for Fourth Straight Frame as 2014’s ‘John Wick’ Debuts in Third",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Mon, 02 Nov 2026 04:40:38 +0000",
-  "published_ts": 1793594438,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "中国の週末興行ランキングと各作品の興行収入数字が主題であり、新たに判明した実績値として映像/コンテンツのビジネス情報に該当するため。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/box-office-global-clayface-resident-evil-1237210872/",
-  "title": "‘Clayface’ Still Boss With Near $23M WW; ‘Resident Evil’ Racks Up $400M WW Poised To Scare Away ‘Backrooms’ – Global Box Office Update",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Sun, 01 Nov 2026 18:14:45 +0000",
-  "published_ts": 1793556885,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画複数作品（Resident Evil、Clayface等）の週末興行成績と累計興収の数字が主題であり、Box officeの新規実績値報道として対象。非アニメだが興行成績の数字ニュースは必ず拾う。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VRFhsaE1iVDhRWWdFY1N4M3NaWXNpWXhTYzBpbEZjek5vUGM1X2VTeEI0UWJZeFJCVnEzTHdoTW9vV19uZzlOdmt1TGhQYUNOZ2l0U29xR1BNLV9yTnRyMVFNMUtFQQ?oc=5",
-  "title": "Korea Box Office: Anime Hit ‘Chiikawa’ Retains Lead as Brad Pitt Thriller ‘Heart of the Beast’ Debuts - IMDb",
-  "source": "Google News: anime box office",
-  "sources": [
-   "Google News: anime box office"
-  ],
-  "published": "Mon, 02 Nov 2026 04:52:30 GMT",
-  "published_ts": 1793595150,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ『チーズくん』（Chiikawa）の韓国での興行成績（Box office）が主題であり、コンテンツ＋ビジネス（新たに判明した数字ニュース）の組み合わせに該当するため。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/festivals/shahrbanoo-sadat-hits-back-film-funding-discrimination-1236937057/",
-  "title": "Shahrbanoo Sadat and Jelena Maksimović Hit Back at Discrimination in Film Funding at Tokyo Festival Talk",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Mon, 02 Nov 2026 01:35:45 +0000",
-  "published_ts": 1793583345,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "映画制作の資金調達・ファンディングシステムにおける構造的差別が主題であり、女性監督が直面する経済的・制度的障壁について掘り下げた分析記事。映像制作産業のビジネス（資金・予算配分）の実態的な問題を論じており、コンテンツ＋ビジネスで該当。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WUHNLd1c1M1FpXzkxa0JNdWZQZUtEVVpReU9kdTVEak8xbUhqVUdxR29mc1BlT2xpbTloWjJPWlNxd056b2drejQ5aWk?oc=5",
-  "title": "曽根剛監督フル生成AI長編映画『時空遊郭ラビリンス』2027年公開決定＆特報公開 - 映画情報どっとこむ",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Mon, 02 Nov 2026 04:06:34 GMT",
-  "published_ts": 1793592394,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映画制作（コンテンツ）が生成AIで完全制作される長編作品の公開決定であり、映像制作におけるAI活用の実例として、コンテンツ×AIの主要な事例に該当する。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE81V3JlNXRQU0QtT2hkQlE3ZnFVREhNMkU5RVBwR1JaMl9Id0JhSV82TXF3Z2lCT19lX3BkRmYtWFhpbnp5?oc=5",
-  "title": "【株式】東映アニメが反落 2Q決算は過去2番目の売上水準を記録も目先の材料出尽くしに - gamebiz【ゲームビズ】",
-  "source": "Googleニュース(gamebiz.jp)",
-  "sources": [
-   "Googleニュース(gamebiz.jp)"
-  ],
-  "published": "Mon, 02 Nov 2026 01:42:23 GMT",
-  "published_ts": 1793583743,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "東映アニメーション（アニメスタジオ）の2Q決算で過去2番目の売上水準を記録した数字ニュースであり、コンテンツ企業の業績データが主題のため、themes=コンテンツ+ビジネス、label=対象に該当する。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/212403",
-  "title": "ホロライブVTuberの“案件価格”が自治体文書から判明「破格」の声も　儒烏風亭らでん驚き",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sun, 01 Nov 2026 21:05:46 +0000",
-  "published_ts": 1793567146,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "VTuberプロダクション（コンテンツ）の案件契約金額が公開資料から判明したビジネスニュースであり、金額154万円と経済効果（3,600万円の地域消費）が明かになった点が主題である。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.denfaminicogamer.jp/news/261102p",
-  "title": "「名越スタジオ」が解散へ。「龍が如く」の生みの親・名越稔洋が立ち上げ、『GANG OF DRAGON』を開発",
-  "source": "電ファミニコゲーマー",
-  "sources": [
-   "電ファミニコゲーマー"
-  ],
-  "published": "Mon, 02 Nov 2026 03:32:32 +0000",
-  "published_ts": 1793590352,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゲームスタジオの解散という経営ニュースで、ゲーム（コンテンツ）と企業の経営・組織変動（ビジネス）が主題であり、名越稔洋氏が立ち上げたスタジオの消滅という実質的な経営トランザクションを報じているため。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nUWMtaVk3Y0g0c0NCZFE2SHFtcUxVMDl1eTUtRmpyZ2VEdTJoWTlqdHZTNW4xLVQzOWRsQzdhOTBwX0VLYUE4QWRmajhiaXBMNU04VHFrMktvbnFyMFE5azJKS25OdU5GYUNLMg?oc=5",
-  "title": "サイバー系Colorful Palette、アニメ制作子会社 LATENT ONE - 日本経済新聞",
-  "source": "Googleニュース(nikkei.com)",
-  "sources": [
-   "Googleニュース(nikkei.com)"
-  ],
-  "published": "Mon, 02 Nov 2026 02:09:22 GMT",
-  "published_ts": 1793585362,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "アニメ制作子会社の設立は企業グループの経営戦略であり、コンテンツ（アニメ制作）とビジネス（企業再編・子会社設立）の両分野を含むため対象。ただし記事本文が提供されていないため確実性は中程度。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/criminal-minds-evolution-stars-react-cancellation-1237210934/",
-  "title": "‘Criminal Minds: Evolution’s Paget Brewster, AJ Cook, Kirsten Vangsness & More React To Cancellation: “The Finest Group Of People”",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sun, 01 Nov 2026 20:45:26 +0000",
-  "published_ts": 1793565926,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Paramount+ドラマシリーズの打ち切り発表は、配信プラットフォームの経営戦略・コンテンツ判断の実例であり、コンテンツ＋ビジネスの該当。20年続いた制作打ち止めという番組の終了決定は、キャスト反応や制作側の経営判断を扱う業界ニュース。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://animeanime.jp/article/2026/11/02/104406.html",
-  "title": "「池袋ハロウィンコスプレフェス2026」過去最多の17万2千人が来場！海外参加者の大幅増も【レポ】",
-  "source": "アニメ！アニメ！",
-  "sources": [
-   "アニメ！アニメ！"
-  ],
-  "published": "2026-11-02T02:15:03Z",
-  "published_ts": 1793585703,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "アニメ・コスプレ関連のイベント開催実績（来場者数17.2万人、海外参加者前年比1.7倍）という数字ニュースであり、複数企業（ドワンゴ、アニメイト、サンシャインシティなど）による共同主催・協賛という取引構造を含むため、コンテンツ+ビジネスの要件を満たす。ただしイベント告知の色が強く、新たな契約金額や収益数字が明記されていないため確度は中程度。",
-  "ts": 1793595659.2654452,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/film/global/sanfic-industria-projects-alfredo-castro-paulina-garcia-1236936231/",
   "title": "Sanfic Industria Projects: ‘A Powerful Selection of Debut Films With Experienced Producers Behind Them’ Says SI Head Gabriela Sandoval",
   "source": "Variety",
@@ -378,27 +42,6 @@
   "updated": false
  },
  {
-  "url": "https://variety.com/2026/film/box-office/korea-box-office-anime-hit-chiikawa-brad-pitt-heart-of-the-beast-1236936987/",
-  "title": "Korea Box Office: Anime Hit ‘Chiikawa’ Retains Lead as Brad Pitt Thriller ‘Heart of the Beast’ Debuts",
-  "source": "Variety(Box Office)",
-  "sources": [
-   "Variety(Box Office)"
-  ],
-  "published": "Sun, 01 Nov 2026 22:38:58 +0000",
-  "published_ts": 1793572738,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "韓国の週末興行ランキングで、アニメ『Chiikawa』の興収実績（$20.1M累計、32.1%の週末シェア）と新作『Attack on Titan: Crimson Arrows』の再公開成績を報じており、アニメIPのBox Office数字ニュースとして該当。",
-  "ts": 1793610040.471025,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://www.forbes.com/sites/timlammers/2026/11/02/resident-evil-shifts-to-digital-this-week-as-horror-comedy-nears-400-million-at-box-office/",
   "title": "‘Resident Evil’ Shifts To Digital This Week As Horror Comedy Nears $400 Million At Box Office",
   "source": "Forbes(Hollywood)",
@@ -416,27 +59,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "ゲームIPの映画化作品の興行収入が新たに$400M到達見込みという数字ニュースであり、コンテンツ+ビジネス（Box office実績）に該当。非アニメ映像だが興行成績の報道は対象。",
-  "ts": 1793610040.471025,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/box-office/resident-evil-box-office-milestone-highest-grossing-zach-cregger-reboot-1236936847/",
-  "title": "Box Office: Zach Cregger’s ‘Resident Evil’ Reboot Hits $400 Million Globally",
-  "source": "Variety(Box Office)",
-  "sources": [
-   "Variety(Box Office)"
-  ],
-  "published": "Sun, 01 Nov 2026 18:54:37 +0000",
-  "published_ts": 1793559277,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ビデオゲームIPの映画化作品『Resident Evil』の新規興行成績（4億ドル達成）が主題であり、コンテンツ（映画/IP）とビジネス（Box office実績値）の両分野が明確に該当するため。",
   "ts": 1793610040.471025,
   "is_new": false,
   "updated": false
@@ -647,27 +269,6 @@
   "label": "対象",
   "confidence": "中",
   "reason": "新作映画の公開日に関する告知だが、米国でのR指定という規制ビジネス的な情報（国別の区分方針の相違）を含み、入場者特典の配布数（200万体）という販売戦略の数字が主題の一部として含まれているため、コンテンツ+ビジネスとして拾えるが、本体は新作公開告知が主であり確度は中程度。",
-  "ts": 1793643743.5253649,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFQk12SmlEcm4wZ1N5YXVCdlc1dXNNaDhJYlRuWjBfNGs1WjJzVVEyWE1jUFR5T2dMS1N0bEFrVldNbjhocmJNZWpRRXh5MHY0aVAxV2pvcHZEVVV4eUZzdk42RlotVGJrekE?oc=5",
-  "title": "Korea Box Office: Anime Hit ‘Chiikawa’ Retains Lead as Brad Pitt Thriller ‘Heart of the Beast’ Debuts - IMDb",
-  "source": "Google News: anime box office",
-  "sources": [
-   "Google News: anime box office"
-  ],
-  "published": "Sun, 01 Nov 2026 23:34:22 GMT",
-  "published_ts": 1793576062,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ作品『ちいかわ』の韓国での興行成績（Box office）を報じており、コンテンツ＋ビジネスの2分野が揃う。非アニメ作品との比較は付随情報であり、主題はアニメの新規興行数字である。",
   "ts": 1793643743.5253649,
   "is_new": false,
   "updated": false
@@ -1365,7 +966,8 @@
   "confidence": "高",
   "reason": "実写映画を中心とした英国・アイルランドのBox office週末成績（興行収入の数字）を報道する記事であり、非アニメながら興行成績の新規数字が主題のため対象。ただしアニメ作品（Wildwood、Forgotten Island、Shaun the Sheep、The Irregular at Magic High Schoolなど）も複数言及されており、コンテンツ×ビジネスの軸が明確。",
   "ts": 1793725277.499008,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/movie-theater-chain-cinemark-earnings-1237212083/",
@@ -1385,7 +987,8 @@
   "confidence": "高",
   "reason": "映画館チェーン大手の四半期決算で、映画興行の売上・動員・利益の実績値（収益23%増、入場者数向上、プレミアム上映の50%増など）が主題であり、これは映像コンテンツ産業のビジネス動向に該当する。",
   "ts": 1793725277.499008,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/newsletter/wildwood-holds-strong-fathom-ceo-interview-disney-cuts-continue-268917.html",
@@ -1405,7 +1008,8 @@
   "confidence": "高",
   "reason": "アニメ映画『Wildwood』の興行成績数字（第2週末$9M、10日累計$27.4M）と、Disneyの経営戦略（レイオフ、AI投資）が主題であり、コンテンツ×ビジネスが成立する。",
   "ts": 1793725277.499008,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/261104c",
@@ -1425,7 +1029,8 @@
   "confidence": "高",
   "reason": "ゲームIP『GTA6』の発売に向けた事前ダウンロード開始と容量仕様の発表であり、コンテンツ（ゲーム）とビジネス（発売日程・プリオーダー促進）が主題だが、発表自体は製品仕様の告知であって経営数字や取引の実質がないため境界例。ただしゲームIPの発売情報として重要度が高く対象とする。",
   "ts": 1793725277.499008,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/distribution/fathom-entertainment-jason-brenek-interview-268856.html",
@@ -1445,7 +1050,8 @@
   "confidence": "高",
   "reason": "アニメーション映画（Wildwood）の3,000スクリーン規模の劇場公開戦略、興行成績（9百万ドル、10日間で2,740万ドル）、配給企業Fathomと製作会社Laikaの経営・流通戦略に関するインタビュー記事。コンテンツ（ストップモーションアニメーション）とビジネス（興行数字、配給戦略、シアターチェーン所有構造）の両軸が明確で、CEO発言による分析的な内容が主題のため対象。",
   "ts": 1793725277.499008,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/jonathan-rhys-meyers-vampire-romance-pretty-kill-machine-1237212193/",
@@ -1465,7 +1071,8 @@
   "confidence": "高",
   "reason": "映画製作・配給の国際販売展開とキャスティング発表が主題で、Quantifyによるワールドワイド販売展開とAFMでの市場投入がビジネスの実質（国際取引・販売戦略）であり、コンテンツ＋ビジネスの条件を満たす。",
   "ts": 1793725277.499008,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/hughmcintyre/2026/11/03/my-chemical-romance-proves-millennial-nostalgia-is-now-big-business/",
@@ -1485,7 +1092,8 @@
   "confidence": "中",
   "reason": "音楽作品の再評価による売上成績（ビジネス）とミレニアル世代の消費動向が主題で、実写映像ではなく音楽IPの市場トレンドを論じているため、映像業界の大型ニュースではないが、コンテンツ×ビジネスの軸で判定すると、音楽ストリーミング/セールス実績の数字ニュースとして対象に値する。ただしアニメ・映画・ゲーム・漫画などのコア領域ではなく、音楽の興行成績であるため確信度は中程度。",
   "ts": 1793725277.499008,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdWRsUlc3dG9SYkwwVWlHLUdXb3BOQlZFVkROdW9QOXBrTGhnNXQ1cGZ1Vk43OHNnZzlJWk9RQU1Jd0xsN1lmSFpmblFDZDJ1R1lyWVlxdkJsTDhmLVJQYW11WFVPSnp3MHFiOWtKakRKN1hBcUJQeFJjdFZLR0dSeUszNEFvRmZnQ0VQU1UzV3dTVGhSODY2NGgzSmJKNUstRnRVVzBKbmZKQ2pXOFhwYVBMYw?oc=5",
@@ -1505,7 +1113,8 @@
   "confidence": "高",
   "reason": "漫画IPの『NARUTO』を原作とした映画化プロジェクトにおいて、SonyとLionsgateが提携するという企業間の取引・契約が主題であり、コンテンツ×ビジネスに該当する。",
   "ts": 1793725277.499008,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/josh-oconnor-james-bond-casting-rumors-1236938475/",
@@ -1525,7 +1134,8 @@
   "confidence": "中",
   "reason": "次期ジェームズ・ボンド映画の主演俳優キャスティングについて、候補者の発言を報じた記事。Amazon MGM Studiosが制作主導権を獲得した大型映画プロジェクトの制作状況であり、映像コンテンツとビジネス（大型スタジオによる映画製作管理）の両方を含むが、キャスティング発表そのものが主体であるため中程度の確信度。",
   "ts": 1793725277.499008,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/catalytic-films-afm-james-franco-somethings-in-there-1237212048/",
@@ -1545,7 +1155,8 @@
   "confidence": "中",
   "reason": "独立系制作会社Catalytic Filmsの設立とAFMでの4本の映画スレート販売、およびVisual Narrative Filmsとの戦略的提携が発表されており、映像制作ビジネスの新規企業設立と配信/販売契約が主題。ただし実写映画であり業界全体を揺るがす大型M&Aではなく、またAIは言及されていないため、コンテンツ+ビジネスの2分野となる。",
   "ts": 1793725277.499008,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/global/olga-kurylenko-alex-pettyfer-breakwater-westend-films-1236938186/",
@@ -1565,7 +1176,8 @@
   "confidence": "中",
   "reason": "実写映画の制作発表（キャスティング・配給契約）であり、映像産業のビジネス（WestEndFilmsの配給・AFMでの販売開始）を扱っているため、コンテンツ×ビジネスに該当するが、非アニメの個別映画プロジェクトであり、AIは無関係で、業界全体を揺るがす大型ニュースでもなく、興行成績の数字も無いため、判定の確度は中程度。",
   "ts": 1793725277.499008,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/naruto-sony-lionsgate-1237212183/",
@@ -1585,6 +1197,251 @@
   "confidence": "高",
   "reason": "漫画IPの実写映画化にLionsgateとSonyが共同でグリーンライト・資金配分を決めた大型制作発表であり、国際配給権・共同融資という取引が主題で、ビジネスの実質（出資・配給契約）が明確に存在するため。",
   "ts": 1793725277.499008,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://deadline.com/2026/11/la-bola-negra-box-office-spain-1237212446/",
+  "title": "‘La Bola Negra’ Caliente At Box Office With $43M Worldwide, Becomes Spain’s Top-Grossing Local Pic Of 2026",
+  "source": "Deadline(Box Office)",
+  "sources": [
+   "Deadline(Box Office)"
+  ],
+  "published": "Tue, 03 Nov 2026 22:45:53 +0000",
+  "published_ts": 1793745953,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "スペイン映画『La Bola Negra』の2026年スペイン国内最高興行収入達成（4,340万ドル）と歴史的なスペイン語映画の北米オープニング記録を報じた、映像作品の実績数字が主題のBox officeニュースであり、コンテンツ＋ビジネスに該当する。",
+  "ts": 1793768468.5520399,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/212632",
+  "title": "『GTA6』必要ストレージ容量は驚異の最大212GB！公式発表で他作を凌駕する大ボリュームに話題",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Wed, 04 Nov 2026 03:10:13 +0000",
+  "published_ts": 1793761813,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ゲーム（コア領域のIP）の商品情報として公式発表のストレージ容量が主題だが、発売日・対応機種・プリロード開始日の告知が実質的な内容であり、ビジネス的な実績値や取引情報は限定的。ゲーム業界のニュースとしては必要最小限の基準を満たすため対象とする。",
+  "ts": 1793768468.5520399,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mblZ3VXBBU2Y2bFQ1U3FMTTRlYU4zTnp5YmUtbHFRcm5Wc0tEZ1ptOUhOS2hreV9zdXowcjIySmxEQkN2Uzc3S3JZdEpRUENveWNUWHVfZU1HTUw0TXhzNmhBbDVFcDM0QzEtRU1VaTM5Sjg?oc=5",
+  "title": "中部専門店９社の９月売上高 既存店７社が増収 トレカ、キャラ雑貨伸びる - 中部経済新聞",
+  "source": "Googleニュース: トレーディングカード OR トレカ 市場 OR 売上 OR 決算",
+  "sources": [
+   "Googleニュース: トレーディングカード OR トレカ 市場 OR 売上 OR 決算"
+  ],
+  "published": "Tue, 03 Nov 2026 20:00:00 GMT",
+  "published_ts": 1793736000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "トレーディングカード（カードゲームなどIPコンテンツ）とキャラクター雑貨（版権商品）の売上動向を報じており、専門店の経営実績データとして企業のビジネス指標が主題である。",
+  "ts": 1793768468.5520399,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zUWpJT0xZV1FlMDJfZ3FnM21TcWY4YzdzUWtSUEtOaHNSeWNMZ19TMUZtaEhabzRzN1lKZUs1dHI3blNONEtGcw?oc=5",
+  "title": "ChatGPT脚本のフル生成AI映画「時空遊郭ラビリンス」2027年公開決定！ 監督は曽根剛、実在する俳優陣も“AI出演”【特報映像公開】 : 映画ニュース - 映画.com",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Wed, 04 Nov 2026 00:00:00 GMT",
+  "published_ts": 1793750400,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "生成AIで映画を完全制作（脚本・映像）する実験的プロジェクトの公開決定であり、映像産業のAI活用が主題。実写映画だがAI技術が中心的に絡む業界動向として対象。",
+  "ts": 1793768468.5520399,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jUllVekowS0xYNnRwaUlsbG5nMmZFTGNxN1UzZnlnb3g1Q1dITEVreVdJc2w1NWpjTGx4TVBWcndKekdKVGhMVXNnSjV3YldLV01KdUNjZzBCaGRqc0V2ekpnLTJFdFVy?oc=5",
+  "title": "SAG-AFTRA Animation Voice Actors Win New Protections from AI Dubbing - Slator",
+  "source": "Google News: AI dubbing OR localization film OR anime",
+  "sources": [
+   "Google News: AI dubbing OR localization film OR anime"
+  ],
+  "published": "Wed, 04 Nov 2026 00:55:04 GMT",
+  "published_ts": 1793753704,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメを含む映像業界の声優がAI吹き替えから新しい保護・契約上の権利を獲得した話で、コンテンツ（アニメ・映像制作）、AI技術の影響、労働契約・権利という実質的なビジネス条件が主題の3分野該当。",
+  "ts": 1793768468.5520399,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOVFRRGYwVEM5V2UzNTdtb25tYjJlbkNjUnRPUUd3QlhadER5QlFGU3Z1Q2QwT2FlaGVJMDVsdnpFNFJoeURtcGtyY2I1THdwXy1mWG1lX1dzMFc3QkpyMVVtVnhEbjBfN01DcVhLaDBfa0dGcHdPdDQwZjNkRHdCT2JlSkFRSU1uNWh2U0ZOMEE?oc=5",
+  "title": "Weta FXとTAICCA、台湾をアジアのAI映像制作拠点にする計画で提携（独占） - Mezha.net",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Tue, 03 Nov 2026 18:35:00 GMT",
+  "published_ts": 1793730900,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映像制作企業(Weta FX)がAI技術を活用して台湾にアジア拠点を構築する提携で、コンテンツ(映像制作)、AI(生成AI/映像制作への活用)、ビジネス(戦略的提携・地域拠点構築)の3分野が揃う。",
+  "ts": 1793768468.5520399,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/pierce-brosnan-callum-turner-james-bond-josh-oconnor-casting-1237212659/",
+  "title": "Pierce Brosnan Endorses Callum Turner As Next James Bond As “He’s So Strong”; Josh O’Connor Reacts To Talk Around 007 Casting",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Wed, 04 Nov 2026 02:40:42 +0000",
+  "published_ts": 1793760042,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "James Bond映画はメジャーハリウッドスタジオ（Amazon傘下）の大型IPであり、次期キャスティングと監督決定（Denis Villeneuve）は業界全体に影響する大型ビジネスニュースであるため、実写でもコンテンツ+ビジネスの条件を満たす。ただしこの記事は俳優の起用推奨コメント中心で、契約金額や配給戦略などの具体的なビジネス数字は薄く、タイプは速報だが確信度は中程度。",
+  "ts": 1793768468.5520399,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
+  "title": "Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia (EXCLUSIVE)",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Wed, 04 Nov 2026 01:32:43 +0000",
+  "published_ts": 1793755963,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Weta FXとTAICCAの映像制作AI研究開発・人材育成・共同投資による戦略的パートナーシップであり、コンテンツ（VFX・映像制作）、AI（AI研究開発）、ビジネス（投資・国際展開戦略）の3分野が揃う最優先案件。非アニメの実写VFX企業だがAI技術の活用が主題であり、業界の構造的な動きとして対象。",
+  "ts": 1793768468.5520399,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/cinemarko-netflix-cliff-booth-theatrical-release-1237212191/",
+  "title": "No ‘Cliff Booth’ At Cinemark: CEO Cites Long-Term Industry Risk",
+  "source": "Deadline(Box Office)",
+  "sources": [
+   "Deadline(Box Office)"
+  ],
+  "published": "Tue, 03 Nov 2026 17:16:32 +0000",
+  "published_ts": 1793726192,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Netflixの映画『The Further Mis-Adventures Of Cliff Booth』の2週間限定IMAX劇場公開と12月のストリーミング配信というリリースモデルについて、全米大手映画館チェーン（Cinemark、Regal）のCEOがこのビジネスモデルが業界に与える長期的リスクについて見解を述べており、映像配信ビジネスの戦略転換と業界の構造変化が主題であるため。",
+  "ts": 1793768468.5520399,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/rickellis/2026/11/03/netflix-introduces-new-ai-powered-content-discovery-experience/",
+  "title": "Netflix Introduces New AI-Powered Content Discovery Experience",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Tue, 03 Nov 2026 13:04:36 -0500",
+  "published_ts": 1793729076,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "Netflixの配信プラットフォームにおけるAI機能導入は映像コンテンツ産業のAI活用事例だが、記事がコンテンツ発見ツール機能の単なる紹介であり、ビジネス的な数字（契約金額・投資額・売上実績）が不明で、経営判断の実質が薄い可能性があるため。",
+  "ts": 1793768468.5520399,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqRVo1NnlGd21QcjJyc3Myd3M2RFlNeXRSMlVtclR0NWRwN1lOMHd6YzFYT2JsNHc3SDhYUkI3U0cyUjVyYVRvdVZqWVZpYjFjbFVrdlVxNFFUWnhzLXUzRmFKWUZYSF9SbFE?oc=5",
+  "title": "映像制作会社のSpinel、切り抜きショートを量産する「Spinel Clip」の外部提供に向け導入相談の受付を開始 場面選び・見出し・3つのSNSへの予約投稿までをAIで自動化 - PR TIMES",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Wed, 04 Nov 2026 03:30:01 GMT",
+  "published_ts": 1793763001,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映像制作会社が生成AIツール（Spinel Clip）を外部に提供開始する事業展開で、コンテンツ制作へのAI活用とビジネス化が主題であり、3分野が揃う。",
+  "ts": 1793768468.5520399,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/park-hoon-jung-assassin-noir-tristes-tropiques-sales-1236938950/",
+  "title": "Park Hoon-jung’s Assassin Noir ‘Tristes Tropiques’ Sells to North America, France, Spain",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Wed, 04 Nov 2026 01:00:00 +0000",
+  "published_ts": 1793754000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映画作品の配給権売買（北米・フランス・スペイン等）が主題であり、国際的な配信/ライセンス取引の具体的な成立が報じられているため、コンテンツ＋ビジネスで対象。ただしアニメではなく実写映画だが、著名監督の新作であり業界ニュースとして有意性が高い。",
+  "ts": 1793768468.5520399,
   "is_new": true
  }
 ]
