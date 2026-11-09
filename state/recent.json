@@ -1,13 +1,13 @@
 [
  {
   "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/",
-  "title": "‘Godzilla Minus Zero’ Is A Box Office Hero With $32M Live-Action Foreign-Language Opening Record – Saturday AM Update",
+  "title": "‘Godzilla Minus Zero’ Is A Box Office Hero With $32M Live-Action Foreign-Language Opening Record, Best Ever For Gkids – Sunday AM Update",
   "source": "Deadline(Box Office)",
   "sources": [
    "Deadline(Box Office)"
   ],
-  "published": "Sat, 07 Nov 2026 16:10:00 +0000",
-  "published_ts": 1794067800,
+  "published": "Sun, 08 Nov 2026 19:10:00 +0000",
+  "published_ts": 1794165000,
   "themes": [
    "コンテンツ",
    "ビジネス"
@@ -17,345 +17,8 @@
   "confidence": "高",
   "reason": "映画『Godzilla Minus Zero』の北米興行の初日プレビュー興収$6M、日本での初日興収1.38億円などの数字が主題であり、Box office実績値の報道であるため、コンテンツ+ビジネスで対象。",
   "ts": 1793941252.037055,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZZUQ1V3pIOWJnLTFNRmRzSU1yYjZFSkhlNDl2b1B6LWdwLWROQ2cta2JmUTIzNlIyWGdRcEUtZHhOUmZaOERwZ0t0bFZqNmtmenRCZi1vbzIzcXhkQUo1bkw2T3RHUlJoRW1OUXcxVmZadw?oc=5",
-  "title": "AIアニメ制作サービス「POPPIXS アニメ版」、動画参照・音声参照機能をリリース - Infoseek",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Fri, 06 Nov 2026 20:10:00 GMT",
-  "published_ts": 1793995800,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "AIを用いたアニメ制作サービスの新機能リリースであり、コンテンツ（アニメ）とAI技術が主題となっているため、themes=コンテンツ,AI で対象。ビジネスの取引・数字は記事から読み取れないため themes に含めない。",
-  "ts": 1793988277.435006,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/markets-festivals/stephen-chow-japan-stop-aping-kung-fu-k2-pictures-1236941939/",
-  "title": "Stephen Chow Told Japan to Stop Aping Kung Fu, Says Boss of Film Fund Behind Kore-eda Hirokazu’s ‘Look Back’",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sat, 07 Nov 2026 04:41:35 +0000",
-  "published_ts": 1794026495,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "K2 Picturesの映画ファンド戦略・投資構造・経営モデルが主題で、マンガ原作の映画化作品を含む映像制作事業と、$33Mの出資ラウンド・ファンド再開の検討・国際展開戦略など経営ビジネスの実質が濃く述べられているため、コンテンツ＋ビジネスが確実に該当する。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-previews-1236941301/",
-  "title": "Box Office: ‘Godzilla Minus Zero’ Stomps to $6.7 Million in Previews",
-  "source": "Variety(Box Office)",
-  "sources": [
-   "Variety(Box Office)"
-  ],
-  "published": "Fri, 06 Nov 2026 17:19:42 +0000",
-  "published_ts": 1793985582,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "日本映画『ゴジラ マイナスゼロ』の初週末興行成績（プレビュー667万ドル、予想開封3000万ドル）と、前作の興行実績に基づく市場分析。実写映画だが興行数字と Box Office ニュースが主題であり、業界全体を示す数字として対象。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/indie-films-opening-i-play-rocky-club-kid-wild-horse-nine-1237215727/",
-  "title": "‘I Play Rocky’, ‘Club Kid’, ‘Wild Horse Nine’ Charge Into A Stacked Indie Weekend — Specialty Preview",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Fri, 06 Nov 2026 21:45:00 +0000",
-  "published_ts": 1794001500,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "複数の映画作品の週末興行成績・公開スクリーン数・ボックスオフィス数字を報じた週末興行予告記事であり、新たに判明した興行数字（I Play Rocky、Wild Horse Nine等の公開規模と初期興収）が主題であるため、コンテンツ＋ビジネスで対象。非アニメ実写映画だが興行成績の数字ニュースは拾う。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/markets-festivals/taiwan-chunghwa-telecom-backs-gunshot-call-of-lobster-1236941920/",
-  "title": "Taiwan’s Chunghwa Telecom Unveils 10 Content Investments, From ‘Gunshot’ to ‘Call of Lobster’",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sat, 07 Nov 2026 03:36:02 +0000",
-  "published_ts": 1794022562,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "台湾の大手通信企業Chunghwa Telecomが映画・TV・音楽プロジェクトへの投資10件と制作会社への出資を発表した経営戦略であり、コンテンツ投資・提携・ビジネス展開が主題。AIは記事に記載なし。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/netflix-radford-studio-purchase-latest-1237216149/",
-  "title": "Netflix’s Radford Studio Acquisition Moving Ahead Despite Streamer’s Sunset Blvd Landlord Throwing Shade On Deal",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sat, 07 Nov 2026 02:41:12 +0000",
-  "published_ts": 1794019272,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Netflixによるラドフォードスタジオの$400M以上の買収は、映像制作施設のM&A取引であり、ハリウッドの配信業界の経営戦略・投資の実質を報じている。実写中心だがメジャー配信企業による大型スタジオ買収は業界地図を変える構造ニュースであり、コンテンツ産業とビジネスの主要素が揃っている。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/hunger-games-sunrise-on-the-reaping-box-office-presales-1237215871/",
-  "title": "‘Hunger Games: Sunrise On The Reaping’ Getting Hot With $80M+ Opening Floor, Presales Ahead Of ‘Wicked’ – Box Office Update",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Fri, 06 Nov 2026 21:31:15 +0000",
-  "published_ts": 1794000675,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画『The Hunger Games: Sunrise on the Reaping』の初週末興行収入の予測値（$80M+）と実績見通しが主題であり、Box officeの数字ニュースとして対象。非アニメ実写だが興行成績の新規数字報道であるため拾う。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/timlammers/2026/11/06/godzilla-minus-zero-projected-to-earn-30-million-plus-in-opening-weekend/",
-  "title": "‘Godzilla Minus Zero’ Projected To Earn $30 Million-Plus In Opening Weekend",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)",
-   "Googleニュース(forbes.com)"
-  ],
-  "published": "Fri, 06 Nov 2026 19:46:07 -0500",
-  "published_ts": 1794012367,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゴジラの劇場映画の初週末興行収入予測($30M+)という数字ニュースであり、映像コンテンツの興行成績が主題なため対象。非アニメ実写だが、Box office数字は規則に従い必ず拾う。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/newsletter/pixars-executive-shakeup-wildwood-gains-ground-chomet-ai-questions-269148.html",
-  "title": "Pixar’s Executive Shakeup; ‘Wildwood’ Gains Ground; Chomet AI Questions",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 06 Nov 2026 20:18:20 +0000",
-  "published_ts": 1793996300,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Pixarの経営人事（会長交代）とアニメ映画『Wildwood』の興行成績（初週末3280万ドル）という、アニメーション業界のビジネスニュースが主題であり、コンテンツ+ビジネスの2分野が明確に該当します。AIに関する言及も存在しますが、Chomet広告の疑問提起は本文の脇役に過ぎず、記事の中心は経営人事と興行数字です。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVkRiM3dUenZ3a283YUV4SVVXZHNFaURWR19xZGMzTHYtOXpCekR5ZE1FeDU5TkMtRFh5NGVuV1VKb2VUTlkzVDV3b2hrbXlTbHZ3OHJpZTJEcm8wblUwMUVIV2xmcGNsUUhtekh2NWQwQ2tkcEt1MWo0ZjliZUdQR05rRDVoNWdsZjd6UFM2UmJFbDA2YS1wcjlMRjU4QjRMb25KMXlkN3dTRzA?oc=5",
-  "title": "Blumhouse Atomic Partners with Horror Comic Creator James Tynion IV for First-Look Deal (Exclusive) - The Hollywood Reporter",
-  "source": "Googleニュース(hollywoodreporter.com)",
-  "sources": [
-   "Googleニュース(hollywoodreporter.com)"
-  ],
-  "published": "Fri, 06 Nov 2026 22:00:09 GMT",
-  "published_ts": 1794002409,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "コミック/マンガクリエイター（James Tynion IV）のIP（ホラーコミック）を軸に、プロダクション企業（Blumhouse Atomic）がファースト・ルック・ディール（映像化/配信化の優先権契約）を締結する契約取引が主題。コンテンツ＋ビジネス（取引）で対象。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/box-office-report/wildwood-third-weekend-box-office-predictions-269142.html",
-  "title": "‘Wildwood’ Heads Into Third Weekend Eying $38 Million Domestic Total After Strong Second Week",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 06 Nov 2026 18:19:49 +0000",
-  "published_ts": 1793989189,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Laikaのアニメーション映画『Wildwood』の興行成績（国内興収$32.8M、週末予想$5M、3週間累計$38M見込み）と過去作との比較が主題であり、コンテンツ×ビジネス（Box office数字）の組み合わせが明確に成立している。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.denfaminicogamer.jp/news/261107d",
-  "title": "『ラチェクラ』スマホゲームの開発中止が発表。マルチプレイヤーヒーローシューターとして開発が進んでいた『ラチェット＆クランク: レンジャーランブル』",
-  "source": "電ファミニコゲーマー",
-  "sources": [
-   "電ファミニコゲーマー"
-  ],
-  "published": "Sat, 07 Nov 2026 01:51:14 +0000",
-  "published_ts": 1794016274,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゲームIP『ラチェット＆クランク』の開発中止という経営判断とサービス終了スケジュール（11月21日ストア削除、2027年5月サーバーシャットダウン）が主題であり、コンテンツ（ゲーム作品）とビジネス（サービス終了・開発中止の経営決定）に該当する。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/the-remarried-empress-disney-record-1237216159/",
-  "title": "‘The Remarried Empress’ Sets Disney+ Record As Most Viewed Local Original Launch Ever",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sat, 07 Nov 2026 02:19:10 +0000",
-  "published_ts": 1794017950,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Webtoonを原作とする韓国ドラマがDisney+で配信開始され、その初週の視聴記録（「全時間で最も視聴されたローカルオリジナル初回配信」）が主題となっており、配信ビジネスの実績数字を扱うため対象。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/ariana-grande-focker-in-law-hexed-box-office-projections-1237215651/",
-  "title": "Ariana Grande Comedy ‘Focker-In-Law’ & Disney’s ‘Hexed’ Hope To Lure $40M-$50M Apiece Over Thanksgiving Box Office Stretch",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Fri, 06 Nov 2026 18:32:16 +0000",
-  "published_ts": 1793989936,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "感謝祭時期の映画館興行成績の予測数字（$40M-$50M）が主題であり、Box officeの新規数字ニュースのため対象。ただしアニメ（Hexed）と実写喜劇（Focker-in-Law）の混在で、アニメが含まれるためコンテンツに分類。AIは関与していない。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/artificial-intelligence/sylvain-chomet-dior-ad-ai-use-269124.html",
-  "title": "On The Use Of AI In Sylvain Chomet’s Dior Ad: A Correction And An Apology",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 06 Nov 2026 17:15:50 +0000",
-  "published_ts": 1793985350,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメーション映画制作におけるAIの使用疑惑が主題であり、コンテンツ（アニメーション短編）とAIが明確に絡む記事である。ビジネス的な数字や取引は無いが、映像業界のAI倫理・表示問題として重要なニュース。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/tv/markets-festivals/suits-japan-swapped-drugs-cash-nbcuniversal-tbs-format-localization-1236941878/",
-  "title": "Why ‘Suits’ Japan Swapped Drugs for Cash: NBCUniversal, TBS Format Chiefs on Localizing Hits at Taiwan Creative Content Fest",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sat, 07 Nov 2026 02:45:33 +0000",
-  "published_ts": 1794019533,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "NBCUniversalとTBSテレビがフォーマット(番組企画)のローカライズビジネスについて解説した記事で、『Suits』『Ninja Warrior』など実写番組の各国版制作・ライセンス売上・地域ごとの適応戦略が主題であり、映像コンテンツとビジネス(ライセンス取引・フォーマット販売)が両立している。",
-  "ts": 1794030909.505949,
-  "is_new": false,
-  "updated": false
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-cat-in-the-hat-1236942032/",
@@ -443,27 +106,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1BSM2l5eVBQU1lVZWlMSUNjb1VoWEpSTEhHbjBPbC1qNG1GMnNhVWFHVWlTT0NlbXc3bkFoTWpFVjRDcnNzVWRuNWExT0ptMmhhWDlSWllfcThhbWx4bkc2eEZucjJ4NllrZFBIdXBOR2cxQUVTd2dnekNKSER6alFlWlEzQzdROVQxWGhsN0h3ZnY0VzhvUm5EcVVXUEM0VU9xODFFbE9YX2ZYczlR?oc=5",
-  "title": "Fox Finalizes $22 Billion Roku Acquisition in Streaming Push - Bloomberg.com",
-  "source": "Googleニュース(bloomberg.com)",
-  "sources": [
-   "Googleニュース(bloomberg.com)"
-  ],
-  "published": "Fri, 06 Nov 2026 20:55:36 GMT",
-  "published_ts": 1793998536,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "メジャーメディア企業Foxによる大型買収完了（22億ドル）で、映像・配信業界の経営地図が変わる規模のニュース。コンテンツと経営ビジネスが主題であり、業界全体に影響する構造変化のため対象。",
-  "ts": 1794070839.745445,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/music/news/elvis-eminem-sue-suno-ai-music-generator-1236941798/",
   "title": "Elvis Music Owners, Eminem Publisher File Sprawling New Lawsuits Against AI Music Generator Suno: ‘The Next Elvis Won’t Pick Up a Guitar’",
   "source": "Variety",
@@ -502,27 +144,6 @@
   "label": "グレー",
   "confidence": "中",
   "reason": "東宝のゴジラIPが海底地形の命名由来として国際的に認定された事実は、IPの価値・認知度・文化的影響力を示すビジネス的な成果であり、コンテンツ＋ビジネスの組み合わせとも言えるが、記事の実質は地質学の学術ニュースであり、東宝の経営や版権ビジネスの具体的な動きは記載されていないため確信度が中程度。",
-  "ts": 1794070839.745445,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSS1uSWliYUd3X19mUjI4OEctN3FBakcxZkluM2ZpR1NYbzJJblQ4czhzanB1Zy1KTjVhWlVqNlc0RzQxUUFib0tMVHhpbWVreEdyYy01ckFFYTM3Zzh6X01mTTRYbVpnaXJzR0lPR1ZMbFhzVmJhaldPRUI5T2oyX21uMXBxdFBQU3pleDUta3NwYlBzRWFGWQ?oc=5",
-  "title": "On The Use Of AI In Sylvain Chomet’s Dior Ad: A Correction And An Apology - Cartoon Brew",
-  "source": "Google News: generative AI animation OR anime",
-  "sources": [
-   "Google News: generative AI animation OR anime"
-  ],
-  "published": "Fri, 06 Nov 2026 17:18:33 GMT",
-  "published_ts": 1793985513,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "アニメーション制作者Sylvain Chometが関わるDior広告のAI使用についての記事であり、アニメーション/映像制作とAI技術が主題のため、コンテンツとAIの両分野を満たす。ビジネス面の数字や取引の具体的言及が見えないため3分野には至らない。",
   "ts": 1794070839.745445,
   "is_new": false,
   "updated": false
@@ -677,27 +298,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa24tdmZ2UW1CNDI0NXNGUkRmbnZaVVFUNzBCUm1HWTlkZUE5MmRGSkpoSFAza0o3X1cxXzdsenJULURhSy1TdW9kbmU0Rm1mM29xNjN4ZmJJSzZuaWUxNi1HQ3BCUmt3OUNleDdhbTctd3lXcFZTSEUzQVJUenZVYlA1WHJvSFR5MXZBVWd2LVFWRkxiTVVUZ1BCRUdvNzU3RkloczFHa3gxWXJfVk5EdTA5S19xV2JZbC05LXZGaw?oc=5",
-  "title": "‘Godzilla Minus Zero’ Roars With $6.7M in Box Office Previews Ahead of Face-Off With ‘Cat in the Hat’ - The Hollywood Reporter",
-  "source": "Googleニュース(hollywoodreporter.com)",
-  "sources": [
-   "Googleニュース(hollywoodreporter.com)"
-  ],
-  "published": "Fri, 06 Nov 2026 19:06:49 GMT",
-  "published_ts": 1793992009,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ映画『Godzilla Minus One』の最新興行成績（プレビュー段階で670万ドル）が主題であり、コンテンツ（映像作品）とビジネス（Box office実績数字）の両分野が該当するため対象。",
-  "ts": 1794070839.745445,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://news.denfaminicogamer.jp/news/261107j",
   "title": "『バイオハザード RE:2』の「ガンシューティング」が2027年春に稼働へ。反動がリアルな“ガンコントローラー”を採用した新作アーケードゲーム",
   "source": "電ファミニコゲーマー",
@@ -757,8 +357,8 @@
   "confidence": "高",
   "reason": "生成AIを用いたアニメ制作プラットフォーム「AI Anime Factory」が漫画制作機能を追加し、オリジナルアニメを漫画化するという、コンテンツ制作にAI技術を活用した事例であり、コンテンツ×AIの中核的なニュースに該当する。",
   "ts": 1794114056.436085,
-  "is_new": true,
-  "updated": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sY1U5aWcyZnQ2YkpYZURRMHZrbHkzS1M5a3RzZUozR0lZLVN4VFVodzY1bzZObUFKZjZWZ3VPemt0U1MxVUx0c09ZSG9fOWJkS1BtY3VyXzhrLU9WbURweTlsUGFCZ094VW82Vg?oc=5",
@@ -933,7 +533,8 @@
   "title": "Camerimage Opens With Minute Of Silence For Kraków Mass Shooting; Darren Aronofsky Honored & Luca Guadagnino Introduces ‘Artificial’",
   "source": "Deadline",
   "sources": [
-   "Deadline"
+   "Deadline",
+   "Googleニュース(hollywoodreporter.com)"
   ],
   "published": "Sun, 08 Nov 2026 00:37:12 +0000",
   "published_ts": 1794098232,
@@ -1180,7 +781,8 @@
   "confidence": "高",
   "reason": "Box Officeの新規興行成績を主題とした数字ニュース。『ゴジラ マイナスゼロ』の北米初週末興収3160万ドルと『キャット・イン・ザ・ハット』の2000万ドルが新たに判明した実績値で、これは非アニメ実写映画でも対象となる興行成績ニュースである。",
   "ts": 1794157281.60411,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/box-office-global-godzilla-minus-zero-ramayana-rise-of-a-legend-1237216698/",
@@ -1200,7 +802,8 @@
   "confidence": "高",
   "reason": "実写映画2作品の週末global box office開幕成績($63M vs $55.7M)と各地域の興行数字、IMAX収入等の詳細な興行実績値が主題であり、新たに判明したBox office数字ニュースとしてビジネスに該当。非アニメ映像でも興行成績の数字ニュースは対象。",
   "ts": 1794157281.60411,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mYWJsc3NsNVA4MHJQdEFuME9CaGhlbV9lcnNMLVJrWnhiMEpxcm5TSFpLai1GVmdRU2hyd0RnTDg0cG9NakVDTE5VbDR2RUctSGpXdjg4c1lkNE9aeHBn?oc=5",
@@ -1220,7 +823,8 @@
   "confidence": "中",
   "reason": "ライトノベル（コンテンツ）の売上ランキング数字を示しているが、個別タイトルのランキング列挙が主体で、市場規模・プラットフォームの業績・出版社の決算などの経営データが主題か不明確；新規に判明した数字が実績値としての意義を持つか確認が必要。",
   "ts": 1794157281.60411,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NbVpkZFZOc2ItX1hGRzBINWZsQmMzanZhZy1YUlBGNlRiRk1NM3VrMHZydUI2UXV4b1ZUQ2JKTzl4ZFNNTktNOV9aM1ZyNHhwR1k2eE5fZ3c?oc=5",
@@ -1240,7 +844,8 @@
   "confidence": "中",
   "reason": "アニメ教育への生成AI導入という「コンテンツ×AI」の組み合わせだが、主題が教育機関のカリキュラム/ツール導入の発表であり、実際の制作動向・業界への波及・商用化の実績が明確でないため。教育現場でのAI活用の事例紹介に留まり、制作業界のビジネスインパクトやAIの権利/規制の動向とは異なるため。",
   "ts": 1794157281.60411,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/asia/taiwan-content-agency-partners-180-million-27-projects-1236942318/",
@@ -1260,7 +865,8 @@
   "confidence": "高",
   "reason": "台湾のコンテンツエージェンシーが27プロジェクトに総額1億8000万ドルを投資する大型資金投下の発表で、映像・音楽・舞台などのコンテンツ制作への投資事業がビジネス（投資額・資金配分）の主題であり、コンテンツ＋ビジネスの組み合わせに該当する。",
   "ts": 1794157281.60411,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/our-blues-midnight-diner-taicca-joint-venture-funds-1237216640/",
@@ -1280,7 +886,8 @@
   "confidence": "高",
   "reason": "台湾の政府系機関TAICCAと地元企業による4つのコンテンツファンドが立ち上げた投資案件の発表。複数のドラマ・映画・アニメーション・ライブパフォーマンスなどのコンテンツへの投資実績（15件、6件など）と、ファンド資本金約30M USD（NTD1BN）などの具体的なビジネス数字・投資構成が主題であり、コンテンツ+ビジネスが明確に揃っている。",
   "ts": 1794157281.60411,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/213088",
@@ -1300,7 +907,8 @@
   "confidence": "高",
   "reason": "映画『ゴジラ-0.0』の北米初日興行収入（約1450万ドル）という新規の数字ニュースが主題であり、同時に東宝による海外展開戦略・配給体制の拡大・上映館数拡大など、企業のビジネス戦略と経営数字が記事の中核を占めているため、コンテンツ＋ビジネスで対象。",
   "ts": 1794157281.60411,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/261108f",
@@ -1320,7 +928,8 @@
   "confidence": "中",
   "reason": "ゲームセンター向けネットワークサービスの不正アクセス事案とそれに伴う複数のゲームタイトルの稼働再開という、ゲーム業界（コンテンツ）の重要なサービス障害とその復旧状況（ビジネス影響）を報じた速報。ただし記事の主体がサービス再開の技術的進捗告知であり、経営・数字・取引の実質は薄い。",
   "ts": 1794157281.60411,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdXhqTU5VZW9peXVVZUFzOVRqXzRQQ1lfNzBDSzIxNnZzaGdySExCeXc2dVNSRDYzc1RsWkZHelk1dVVXaWhLcFlydEdRYU1CSG1GdV95dnlVY0M0LWpuYjdvNTZMTHFBdTc1WW5nNkR2VkVNNGcxUm1mZW5HQlNDbzIwZTFZRkNVcDBnOHdfZWZvb3daY3FueFJpRUpZdlJJT0lYWGl1NFhrVXI2YWhMUFBPUFVUcFBEYjdxM0drZzQ?oc=5",
@@ -1340,7 +949,8 @@
   "confidence": "中",
   "reason": "映像制作業界の映画祭（Camerimage）がAI技術を題材にしており映像/コンテンツとAIが関わる一方、記事の実質が「映画祭のオープニング報道」であり、AIについてのビジネス的数字や技術的詳細が不明で、業界全体を揺るがす規模のニュースかどうか確認が必要。",
   "ts": 1794157281.60411,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzZ5X0w4VkNobWtDZUhVdWhCaHB5RE16cEVfWGVTTGRlUVNMYVZ5dmhxbi1SVWttdVh4ZzVIOGhqOVExeG1kWVNKaFhlQ1pPVGk4c1FwNlEtZkdIUkY2a3VTVVQ0WWdSZ1hfd0pSZ3J2NnpBZndEdW0yU3drTXBHMk5HS2Y2RFFuWlJF?oc=5",
@@ -1360,26 +970,387 @@
   "confidence": "高",
   "reason": "推し活市場3.4兆円という市場規模データが主題であり、アニメ・ゲーム・アイドルなどのIP/ファンダムビジネスを中心とした「コンテンツ×ビジネス」の分析記事であるため。",
   "ts": 1794157281.60411,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EQWl6dnVMenI4VDBwbmtNUXdHZU9kcnhtNmtPdjdCTng4aW16M1JJX2FtRnMzUmdFUk04QjE4Y0YySFR6VlBpZ2RGY3NIb2haSDh3VzNsX3k1Z080dFpKbXR3?oc=5",
-  "title": "中国人の「日本」情報源、中国メディアやＳＮＳ上位…北大調査・「日本の文化作品」も５割近くが回答 - 読売新聞",
-  "source": "Googleニュース(yomiuri.co.jp)",
+  "url": "https://deadline.com/2026/11/indie-film-box-office-independent-alternative-cinema-surges-1237216831/",
+  "title": "Indie & Alternative Cinema Surges From ‘Stray Kids’ To ‘Heated Rivalry’ – Specialty Box Office",
+  "source": "Deadline(Box Office)",
   "sources": [
-   "Googleニュース(yomiuri.co.jp)"
+   "Deadline(Box Office)"
   ],
-  "published": "Fri, 06 Nov 2026 20:00:00 GMT",
-  "published_ts": 1793995200,
+  "published": "Sun, 08 Nov 2026 19:51:06 +0000",
+  "published_ts": 1794167466,
   "themes": [
    "コンテンツ",
    "ビジネス"
   ],
   "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "複数の映画作品の興行成績（Box office）と週末興行ランキングが主題であり、新たに判明した数字ニュース（「ゴジラ-1.0」のGKids史上最高開場、外国語実写映画の北米最高記録など）が報じられているため、コンテンツ＋ビジネスの対象基準を満たす。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-11-08/live-action-golden-kamuy-karafuto-pursuit-arc-series-unveils-more-cast/.243635",
+  "title": "Live-Action Golden Kamuy: Karafuto Pursuit Arc Series Unveils More Cast",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Sun, 08 Nov 2026 23:30:18 -0500",
+  "published_ts": 1794198618,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "漫画IP『ゴールデンカムイ』の実写シリーズ（非アニメ映像）の制作発表であり、前作映画の興行実績（初週末533百万円・35.6万枚）を含むビジネス情報が記載されているため、コンテンツ+ビジネスで対象。AIは記事に含まれない。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://news.denfaminicogamer.jp/news/2611092b",
+  "title": "飛び出す絵本の中で村をつくるゲーム『Foldvalley』体験版がリリース。村人たちの願いを叶えると、物語はページをこえて続き、自分だけの絵本を作ることができる",
+  "source": "電ファミニコゲーマー",
+  "sources": [
+   "電ファミニコゲーマー"
+  ],
+  "published": "Mon, 09 Nov 2026 04:39:09 +0000",
+  "published_ts": 1794199149,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ゲーム『Foldvalley』の体験版リリースがコンテンツ要素、開発にAIコーディングアシスタントと翻訳にAIを活用している点がAI要素。ビジネス（契約金額・投資・売上数字）の記載がないため2分野の組み合わせとなり対象。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNelFENzM5bU1vb0d0a3hoeWUxUFNLTWNDbmlKN090YmJib3I4b2lGOU00bEh3UHgzMGpURkFLS1FRaTkzU2ZSdG1Uc001bF8yOUlBb0tBay0wRzhLSjZVblJLMWZaTjdpcW5aby1XaGtIYlBOQ09YNVdIRkJkUWpmcm1USDZ5dmM?oc=5",
+  "title": "『ちいかわ』週末興行1位守る…今年最高アニメ目前 - 조선일보",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Sun, 08 Nov 2026 23:45:00 GMT",
+  "published_ts": 1794181500,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ『ちいかわ』の週末興行成績（1位）を報道する新規の数字ニュースであり、コンテンツ（アニメ）とビジネス（興行収入の実績）が主題となっている。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVngyYzQ0R2R2X1A0SHc0UUlyQmtFdzJ5QmJ2b1ZrcHkyVHhpV2xKNHJOTVNJQ2MwZUVWUHYyUDFQdmswTDhNWm1hY2lMcURobFl5Mmh5bUVDV2IzRDZiU0prWU5KRnUtcnBYYk9NdzFwYTFLN1k2TENDbi1TUUpZR0tPNUZpOEFpcFpXRW16OXcxX2ItbUY1ZFNR?oc=5",
+  "title": "Korea Box Office: Anime Phenomenon ‘Chiikawa’ Staves Off Corporate Thriller ‘Final Interview’ to Retain Top Spot - Variety",
+  "source": "Google News: anime box office",
+  "sources": [
+   "Google News: anime box office"
+  ],
+  "published": "Sun, 08 Nov 2026 23:42:00 GMT",
+  "published_ts": 1794181320,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ『ちいかわ』の韓国での興行成績（Box office）を報道する記事であり、コンテンツ（アニメ）と新規の興行数字（ビジネス）が主題であるため対象。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3JYM2c4WDZOdUVjeHlIMzdYYVFTLTJMc2NQYWJVX0RsWmNERHFBUF9ITk9mU0wxUnF3OHlLRm81Z2JINHFmYUNEaXg0WDRWQmdLdWJvYTg3R0w0ZkI2dDNfOUxDRkQxam4tV0JmT3k5NW1ZNWhTaUFfNnRDQUxZeGQ3djVqMlh0U0dzeGpyZU1NVmxJbkJOeQ?oc=5",
+  "title": "YouTube’s dominance has Hollywood running scared - The Economist",
+  "source": "Googleニュース(economist.com)",
+  "sources": [
+   "Googleニュース(economist.com)"
+  ],
+  "published": "Sun, 08 Nov 2026 19:09:19 GMT",
+  "published_ts": 1794164959,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "YouTubeと映像業界（ハリウッド）の経営戦略・市場支配力をめぐる分析記事で、映像産業全体の構造変化を論じた大型ビジネスニュースと判断。コンテンツ×ビジネスの2分野で対象。AIの記述が本文に明記されていないため、themes に含めず。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/global/goldwyn-french-ww2-epic-de-gaulle-crossing-over-u-s-audiences-1236942834/",
+  "title": "Goldwyn Bets on French WW2 Epic ‘De Gaulle’ Crossing Over to U.S. Audiences: ‘It’s the Story of an Ally’",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 09 Nov 2026 03:16:45 +0000",
+  "published_ts": 1794194205,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "フランス映画『ド・ゴール』の米国配給・公開戦略と興行展開（劇場とVOD併用）、中国での買収、複数市場での興行成績が主題。映像作品の配給・配信取引とBox office数字を扱うビジネスニュースだが、非アニメ実写であり、AIが無く、メジャースタジオ統合など業界全体を揺るがす大型ニュースでもないため、themes=コンテンツ+ビジネスのグレーゾーン。ただし配給戦略・市場展開・国際販売実績が明確な記事体なので対象と判定。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-11-08/fool-night-manga-crosses-1-million-copies-worldwide/.243609",
+  "title": "Fool Night Manga Crosses 1 Million Copies Worldwide",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Sun, 08 Nov 2026 23:22:41 -0500",
+  "published_ts": 1794198161,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "漫画IPの累計部数100万部突破という売上実績（ビジネス）がニュースの中心であり、コンテンツ（漫画）とビジネスの2分野が揃っているため対象。アニメ化やNetflix配信の告知は付随情報。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
+  "title": "画像生成AIは既存のキャラクターをどれくらい出力する？　ソニーAIなどが14モデルを調査",
+  "source": "ITmedia AI+",
+  "sources": [
+   "ITmedia AI+"
+  ],
+  "published": "Mon, 09 Nov 2026 12:00:00 +0900",
+  "published_ts": 1794193200,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "画像生成AIが漫画・アニメキャラクター、ゲームキャラクター、商用ロゴなど既存IPを出力する度合いと安全対策を検証した研究論文の解説記事であり、コンテンツ（漫画・アニメ・ゲームのIP）とAI（生成AI技術・IPガードレール）が主題であるため。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQLXVCbWNaX3pFemZ5Sm5JcV8xS2Jxd0pueDJNQm5VRFBNV2lXeTByRVRreExndG9Qb1hocjNybkRkQ0IzMjZxYnUxbzcwT3lRRmxuOTQ2MEh3RkdRRnF5T21xblcxeVpuZ1Y4S1liRHJwR0ZJVjFuMjRWd3BPM1E?oc=5",
+  "title": "マーベル最新作『ヴィジョンクエスト』リアルなのにどこかおかしい…“生成AIあるある“が詰まったメイキング映像公開 - Yahoo!ニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Mon, 09 Nov 2026 03:15:44 GMT",
+  "published_ts": 1794194144,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "マーベル作品（実写映像コンテンツ）のメイキング映像が生成AIを活用した制作プロセスを示しており、映像業界のAI技術活用が主題となっているため、コンテンツ＋AIに該当。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pN1NQMjVoQVV0OWdWeXdRbmNiN2ZLMXY4ZjFBeGJGSTJLc0ZtMjRLWnZ4amJocE1PN09jNlFhS1ZDRW9tczNycmp4RXBCMmJ2dS1nYUwyRjJpUQ?oc=5",
+  "title": "映画『ゴジラ-0.0』北米初週末に興収約50億円、うち約20億円をIMAX上映で稼ぐ - Forbes JAPAN",
+  "source": "Googleニュース(forbesjapan.com)",
+  "sources": [
+   "Googleニュース(forbesjapan.com)"
+  ],
+  "published": "Mon, 09 Nov 2026 03:30:00 GMT",
+  "published_ts": 1794195000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "日本のアニメーション映画『ゴジラ-0.0』の北米初週末興行収入という新規の数字ニュースであり、コンテンツ＋ビジネスの両軸を満たすため対象です。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aN19KVGJ0MGZzaVJUQnV6RXcweFFVa3FCNzBYajJEOGN6bzdWUEdfSC12bU1oaDhBRnVrbEVKc2kxTnRPVWNQME5TRXVOR1JndExEeWo0YW1VWlJWcFdVdjZQS19aU2tRaG5rZ193?oc=5",
+  "title": "Korea Box Office: Anime Phenomenon ‘Chiikawa’ Staves Off Corporate Thriller ‘Final Interview’ to Retain Top Spot - IMDb",
+  "source": "Google News: anime box office",
+  "sources": [
+   "Google News: anime box office"
+  ],
+  "published": "Mon, 09 Nov 2026 00:52:59 GMT",
+  "published_ts": 1794185579,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ『ちいかわ』の韓国での興行成績（Box office）が新たに判明し、ランキング1位を維持したという数字ニュースであり、コンテンツ＋ビジネス（興行実績）に該当する。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/china-box-office-traces-of-justice-reclaims-top-spot-1236942862/",
+  "title": "China Box Office: ‘Traces of Justice’ Reclaims Top Spot as Local Debuts ‘Embers’ and ‘The Coffin Swap’ Arrive",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 09 Nov 2026 03:05:03 +0000",
+  "published_ts": 1794193503,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "中国の映画興行成績に関する速報記事で、複数の新作映画の週末興収数字と累計興収が主題。映画産業のビジネス情報（Box office）として対象。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://news.denfaminicogamer.jp/interview/261109d",
+  "title": "なぜ、おもちゃ会社のタカラトミーが「インディーゲーム」に参入するのか？ ブランド立ち上げの経緯は「遊び」を創るインディータイトルへの“シンパシー”だった【エンジョインゲームズ設立インタビュー】",
+  "source": "電ファミニコゲーマー",
+  "sources": [
+   "電ファミニコゲーマー"
+  ],
+  "published": "Mon, 09 Nov 2026 03:44:03 +0000",
+  "published_ts": 1794195843,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "タカラトミーがインディーゲーム市場に参入する新規ビジネス戦略、パブリッシングブランド「エンジョインゲームズ」の立ち上げ経緯と企業戦略が主題であり、ゲーム（コンテンツ）と経営戦略の転換（ビジネス）が明確に含まれる。インタビュー形式の深掘り記事。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50LVZMQlZGeDhpMlczUnB1SnFhRXdVRkZ0WEM5RTcwYTl2dDRocWNMbTRyRUJsQmhxWk5yWHktUHM2VGlMVGZUdFZxd2c3aFoxN2MtRFJzZVM0M3hsTUV0VnpFeGRIM0J4?oc=5",
+  "title": "パリで訪問した2つのスタートアップが示す映像メディアの未来―AI映像制作のMagoとスポーツ3D観戦のImmersiv - ニコニコニュース",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Mon, 09 Nov 2026 00:15:32 GMT",
+  "published_ts": 1794183332,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
   "label": "グレー",
   "confidence": "中",
-  "reason": "中国人の日本情報源に関する北大調査で、日本の文化作品（アニメ・漫画等のIPと推定）が約5割に達しているが、記事は情報源調査の社会・メディア分析が主題であり、アニメ・漫画業界のビジネス数字や経営に関する具体的な話題が記事本文に見当たらないため、コンテンツとビジネスの結びつきが不確定。確認が必要。",
-  "ts": 1794157281.60411,
+  "reason": "AI映像制作スタートアップMagoの動向は映像産業へのAI応用の具体例であり、コンテンツ×AI領域に該当するが、記事がビジネス（投資額・契約・売上など経営数字）を主題としているか明確でなく、スポーツ3D観戦など映像メディア全般の考察が中心となる可能性があるため、確認が必要。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/213149",
+  "title": "「Wiiリモコンに匹敵する新しい遊びが見られない」指摘に任天堂の回答は　Switch2でも「発表できる日を楽しみに」",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Sun, 08 Nov 2026 21:15:45 +0000",
+  "published_ts": 1794172545,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "任天堂の決算説明会における経営方針の発表であり、ゲームハード・ソフト開発戦略と経営優先度がビジネスの主題。コンテンツ（ゲーム娯楽体験）とビジネス（企業経営方針・開発投資）の両分野を満たす。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/theater/markets-festivals/taiwan-south-korea-musical-theater-co-productions-1236942853/",
+  "title": "Taiwan and South Korea Join Forces on Musical Theater Co-Productions",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 09 Nov 2026 02:36:56 +0000",
+  "published_ts": 1794191816,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "台湾と韓国の舞台芸術（ミュージカル）コンテンツ産業の国際提携・共同制作に関する協定締結であり、コンテンツ（舞台作品/制作）とビジネス（国際共同制作・業界交流・市場拡大）の2分野が主題である。AI要素は無い。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-11-08/godzilla-minus-zero-earns-record-32-million-in-n-american-opening-weekend/.243628",
+  "title": "Godzilla Minus Zero Earns Record $32 Million in N. American Opening Weekend",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Sun, 08 Nov 2026 19:41:47 -0500",
+  "published_ts": 1794184907,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゴジラ映画の北米オープニング興行収入3,161万ドルという新規の数字が主題であり、コンテンツ（映画）とビジネス（興行成績）が明確に該当する。アニメではない実写映像だが、Box office数字報道は分野に関わらず対象とされている。",
+  "ts": 1794200454.695041,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/tv/markets-festivals/microdrama-makers-turkey-japan-bet-hooks-villains-1236942844/",
+  "title": "Microdrama Makers From Turkey and Japan Bet on Emotional Hooks and Infuriating Villains at Taiwan Creative Content Fest",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 09 Nov 2026 02:18:43 +0000",
+  "published_ts": 1794190723,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "マイクロドラマプラットフォーム（Bumpなど）の制作・配信モデルと国際展開戦略、IPの他フォーマット展開、ブランド協業による収益化が主題であり、コンテンツ産業のビジネス面を掘り下げた記事だが、AI要素がなく、また個々のプロジェクト例や制作トレンド解説が主体でビジネスの数字が限定的なため。",
+  "ts": 1794200454.695041,
   "is_new": true
  }
 ]
