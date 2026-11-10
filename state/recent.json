@@ -63,132 +63,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mYWJsc3NsNVA4MHJQdEFuME9CaGhlbV9lcnNMLVJrWnhiMEpxcm5TSFpLai1GVmdRU2hyd0RnTDg0cG9NakVDTE5VbDR2RUctSGpXdjg4c1lkNE9aeHBn?oc=5",
-  "title": "【2026年10月】電子書籍ストア「ReaderStore」月間ライトノベル売上ランキングBEST20 - 千葉テレビ放送株式会社",
-  "source": "Googleニュース: 電子書籍 OR 漫画アプリ 売上 OR 市場規模 OR 決算",
-  "sources": [
-   "Googleニュース: 電子書籍 OR 漫画アプリ 売上 OR 市場規模 OR 決算"
-  ],
-  "published": "Sun, 08 Nov 2026 07:02:20 GMT",
-  "published_ts": 1794121340,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "ライトノベル（コンテンツ）の売上ランキング数字を示しているが、個別タイトルのランキング列挙が主体で、市場規模・プラットフォームの業績・出版社の決算などの経営データが主題か不明確；新規に判明した数字が実績値としての意義を持つか確認が必要。",
-  "ts": 1794157281.60411,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/asia/taiwan-content-agency-partners-180-million-27-projects-1236942318/",
-  "title": "Taiwan’s Content Agency and Partners Put $180 Million Into 27 Projects, From an ‘Our Blues’ Remake to an Off-Broadway Musical",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sun, 08 Nov 2026 09:04:48 +0000",
-  "published_ts": 1794128688,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "台湾のコンテンツエージェンシーが27プロジェクトに総額1億8000万ドルを投資する大型資金投下の発表で、映像・音楽・舞台などのコンテンツ制作への投資事業がビジネス（投資額・資金配分）の主題であり、コンテンツ＋ビジネスの組み合わせに該当する。",
-  "ts": 1794157281.60411,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/our-blues-midnight-diner-taicca-joint-venture-funds-1237216640/",
-  "title": "‘Our Blues’, ‘Midnight Diner’ & ‘C’Est La Vie’ Among Projects Backed By TAICCA Joint Venture Funds",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sun, 08 Nov 2026 06:59:29 +0000",
-  "published_ts": 1794121169,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "台湾の政府系機関TAICCAと地元企業による4つのコンテンツファンドが立ち上げた投資案件の発表。複数のドラマ・映画・アニメーション・ライブパフォーマンスなどのコンテンツへの投資実績（15件、6件など）と、ファンド資本金約30M USD（NTD1BN）などの具体的なビジネス数字・投資構成が主題であり、コンテンツ+ビジネスが明確に揃っている。",
-  "ts": 1794157281.60411,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/213088",
-  "title": "『ゴジラ』新作映画が北米公開、初日に大差で首位獲得の好初動　東宝が仕掛けた“海外戦略”も奏効",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sun, 08 Nov 2026 06:01:19 +0000",
-  "published_ts": 1794117679,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映画『ゴジラ-0.0』の北米初日興行収入（約1450万ドル）という新規の数字ニュースが主題であり、同時に東宝による海外展開戦略・配給体制の拡大・上映館数拡大など、企業のビジネス戦略と経営数字が記事の中核を占めているため、コンテンツ＋ビジネスで対象。",
-  "ts": 1794157281.60411,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.denfaminicogamer.jp/news/261108f",
-  "title": "「ALL․Net」「Aime」メンテナンスについての続報が発表。『太鼓の達人』や『ガンダムEXVS.2』などバンダイナムコの対象タイトルが試験的に稼働を再開",
-  "source": "電ファミニコゲーマー",
-  "sources": [
-   "電ファミニコゲーマー"
-  ],
-  "published": "Sun, 08 Nov 2026 06:51:43 +0000",
-  "published_ts": 1794120703,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "ゲームセンター向けネットワークサービスの不正アクセス事案とそれに伴う複数のゲームタイトルの稼働再開という、ゲーム業界（コンテンツ）の重要なサービス障害とその復旧状況（ビジネス影響）を報じた速報。ただし記事の主体がサービス再開の技術的進捗告知であり、経営・数字・取引の実質は薄い。",
-  "ts": 1794157281.60411,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdXhqTU5VZW9peXVVZUFzOVRqXzRQQ1lfNzBDSzIxNnZzaGdySExCeXc2dVNSRDYzc1RsWkZHelk1dVVXaWhLcFlydEdRYU1CSG1GdV95dnlVY0M0LWpuYjdvNTZMTHFBdTc1WW5nNkR2VkVNNGcxUm1mZW5HQlNDbzIwZTFZRkNVcDBnOHdfZWZvb3daY3FueFJpRUpZdlJJT0lYWGl1NFhrVXI2YWhMUFBPUFVUcFBEYjdxM0drZzQ?oc=5",
-  "title": "Camerimage Opens With a Robot, an AI Reckoning and a Minute of Silence for Kraków - The Hollywood Reporter",
-  "source": "Googleニュース(hollywoodreporter.com)",
-  "sources": [
-   "Googleニュース(hollywoodreporter.com)"
-  ],
-  "published": "Sun, 08 Nov 2026 10:29:48 GMT",
-  "published_ts": 1794133788,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "映像制作業界の映画祭（Camerimage）がAI技術を題材にしており映像/コンテンツとAIが関わる一方、記事の実質が「映画祭のオープニング報道」であり、AIについてのビジネス的数字や技術的詳細が不明で、業界全体を揺るがす規模のニュースかどうか確認が必要。",
-  "ts": 1794157281.60411,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzZ5X0w4VkNobWtDZUhVdWhCaHB5RE16cEVfWGVTTGRlUVNMYVZ5dmhxbi1SVWttdVh4ZzVIOGhqOVExeG1kWVNKaFhlQ1pPVGk4c1FwNlEtZkdIUkY2a3VTVVQ0WWdSZ1hfd0pSZ3J2NnpBZndEdW0yU3drTXBHMk5HS2Y2RFFuWlJF?oc=5",
   "title": "「推し活」はまだ伸びる ファンの熱狂が生む3.4兆円市場の攻略法 - 日経クロストレンド",
   "source": "Googleニュース(nikkei.com)",
@@ -820,27 +694,6 @@
   "updated": false
  },
  {
-  "url": "https://forbesjapan.com/articles/detail/107767",
-  "title": "経営・戦略 2026.11.08 「シルク・ドゥ・ソレイユ」共同創設者、大富豪ギー・ラリベルテ 贈りたくなる言葉集 vol.16",
-  "source": "Forbes JAPAN",
-  "sources": [
-   "Forbes JAPAN"
-  ],
-  "published": "2026-11-08T14:15:00+09:00",
-  "published_ts": 1794114900.0,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "シルク・ドゥ・ソレイユ（エンターテインメント/サーカス=コンテンツ）の共同創設者による2015年の株式売却（17億ドル資産獲得=ビジネス）と、その経営戦略・ビジネス思考プロセスが主題。経営者インタビュー・特集であり考察が深い。",
-  "ts": 1794214851.846237,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://www.animenewsnetwork.com/news/2026-11-09/manga-up-global-adds-love-unseen-beneath-the-clear-night-sky-underdog-idol-3-more-manga/.243529",
   "title": "Manga Up! Global Adds Love Unseen Beneath the Clear Night Sky, Underdog Idol, 3 More Manga",
   "source": "Anime News Network",
@@ -984,27 +837,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "ディズニーとアドビの共同でカスタムAIモデル開発という映像/メディア業界のAI技術戦略であり、コンテンツ（メディア大手）×AI×ビジネス（提携）の3分野が揃う。",
-  "ts": 1794243649.348089,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zem5nQXA0a0pLVUVFZzRPbG8yVWxvUUFISDlMR19uSW03WDlCTlVjZWg5VkxETG5WQXZZc0JPTXptcTVTSGJtX2lNMFo0R01uYm8tZ2l5b29HNHh1MTA4NHNQZUF4OFgyUU11cW4xLVRWMWJLSE40a3haN3hZZms?oc=5",
-  "title": "『ゴジラ-0.0』が全米で首位！前作オープニングの約3倍、歴代最高興行収入の快挙（The Hollywood Reporter Japan） - Yahoo!ニュース",
-  "source": "Googleニュース: アニメ 興行収入",
-  "sources": [
-   "Googleニュース: アニメ 興行収入"
-  ],
-  "published": "Sun, 08 Nov 2026 05:38:13 GMT",
-  "published_ts": 1794116293,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "日本のアニメ映画『ゴジラ-0.0』の全米興行成績（オープニング、歴代最高興行収入）の新規数字が主題であり、コンテンツ+ビジネス（興行成績）に該当するため対象。",
   "ts": 1794243649.348089,
   "is_new": false,
   "updated": false
@@ -1196,7 +1028,8 @@
   "confidence": "高",
   "reason": "アニメ『Godzilla Minus Zero』が英国アイルランドボックスオフィスで3位に入った興行成績を報じており、アニメを含むコンテンツと興行数字（Box office）というビジネス情報が主題であるため。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/julia-garner-madonna-biopic-update-1237218202/",
@@ -1216,7 +1049,8 @@
   "confidence": "中",
   "reason": "マドンナの伝記映画がNetflixとの開発契約により配信プラットフォームの戦略転換（実写・非アニメだが業界規模の配信ビジネス）に該当し、また俳優のインタビューを通じた制作進捗情報が含まれるため、コンテンツ+ビジネスの2分野で対象だが、主題は俳優発言のため信頼度は中程度。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/artificial-intelligence/el-empleo-unauthorized-ai-remake-269233.html",
@@ -1237,7 +1071,8 @@
   "confidence": "高",
   "reason": "受賞歴のあるアニメーション短編『El Empleo』がAI生成で無断複製され、AI映像教室の月額サービス（$49）の宣伝に利用された著作権侵害事件。コンテンツ（アニメーション作品）×AI（生成AI・著作権侵害）×ビジネス（有料サービスプロモーション）の3分野が揃い、映像業界のAI権利問題として極めて重要なニュースである。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/213373",
@@ -1257,7 +1092,8 @@
   "confidence": "高",
   "reason": "バンダイナムコの通期営業利益を22.2%上方修正する決算発表で、ガンダムなどのIPの商品・サービス売上が業績牽引役となった経営数字が主題であり、コンテンツ（IP）とビジネス（決算・業績）の2分野に該当する。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3lGUjg1NlBGcDYwU1d0eElOR1paZVE5SUYwSlVBX3ptZ1dDVXZZcjNidDlwQllDWWVNeEJ3TDY5T1UyV2hFUndPWE1DSzI3WlFjcFpmc0tRWDVsSnBmYWxZTzg2d2FpWFNVb0hkVUN0OTFWT1NTUEo3ZV9fbzhjWkFMWUZIV1E?oc=5",
@@ -1277,7 +1113,8 @@
   "confidence": "高",
   "reason": "漫画配信プラットフォーム企業の決算速報であり、コンテンツ（漫画配信）とビジネス（経営・決算の数字）の両軸が主題。出版/配信業界の市場動向を示す経営実績として対象。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DaEJPb3hYY002aEs3MkZxdE8yQm5EcWM5XzVkYV9GR3RWeVFPTTNGMkhUSnFLeVJMMFdFQ3NMRGt5bmlfYnV0ZDhpdkRRc1VqbVE?oc=5",
@@ -1298,7 +1135,8 @@
   "confidence": "高",
   "reason": "ディズニー（メジャースタジオ）とアドビによる生成AIの協業拡大は、映画・スポーツコンテンツ制作への技術適用を示す3分野統合ニュース。映像業界のAI活用戦略と企業提携はコア対象。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92WXp0ZzRVZGtxa1JQM3hjUW0tRVZnN1FBRDlrRk84c2w3azNYeEdEWXBUUFIwMEZONEM1ZFN6Nk42bEFHQmhpRw?oc=5",
@@ -1319,7 +1157,8 @@
   "confidence": "高",
   "reason": "ディズニーという大手メディア企業がAdobeと生成AI分野で戦略的提携を発表するニュースであり、映像制作という映像産業に直結するAI技術の活用と、提携という企業間の取引（ビジネス）が主題であるため、3分野すべてが揃う最優先案件。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUgxZ18zR0JBQmRPZmZybWlSRDNlMGktZ1F5d2ZMVndoM3BwbmlSdXpDdTFmRWVTaElBdmZYY0Y0N21kaWhXa0lzTDhvbEJpRk5yLUpfeVlhSDR2ZFNsZjhDb3dVaGExTGFQZXFGc1BTOVhMRGZLcjNsYnZVbU5QVUUzckpDV3NuZ2J2RTNBQjN2M0U1NUR1WlNfSlg1UzVXZjZpdA?oc=5",
@@ -1339,7 +1178,8 @@
   "confidence": "高",
   "reason": "アニメ映画『ゴジラマイナスワン』の初週末の興行成績が主題であり、新規の興行数字ニュースはコンテンツ＋ビジネスとして対象。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFhNQXVoaE5FY2ljNUY4azMzdFRueHQwSW85c2hlX0dlRndDUGdxNTNKNVVCUmNlbHJlR0pSNjZqMkJ4RjVla3U1ZXlXRFpkNmFYMW5mdmdNMXdkR09lcUp1enBQZ1JMaS1RYWpBZ0lDeWlIalQ5a0xBd2lnZGxZWHp3SUM?oc=5",
@@ -1359,7 +1199,8 @@
   "confidence": "中",
   "reason": "Amazon（メジャーメディア企業）による新作TVシリーズ制作は配信プラットフォームのコンテンツ戦略（業界全体規模のビジネス）に該当するが、記事の詳細内容がメディア側では確認できないため信頼度は中程度。ただし非アニメでも大手配信企業のコンテンツ投資・メディア戦略は対象とする。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html",
@@ -1380,7 +1221,8 @@
   "confidence": "高",
   "reason": "ディズニーとアドビが生成AIツールで多年契約を結び、スケッチを完成した概念美術に変換するなど、映像・コンテンツ制作パイプラインにAIを統合する戦略的提携であり、3分野すべてが主題である（コンテンツ制作の実務、AI技術の活用、企業の経営戦略・投資判断）。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/213331",
@@ -1400,7 +1242,8 @@
   "confidence": "高",
   "reason": "アニメ映画『ちいかわ』の興行成績（187.9億円・1286万人動員）と年内入場特典ラインナップが主題。漫画原作のアニメ映画化作品であり、新たに判明した興行実績数字と長期興行戦略がビジネスの中核をなす。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUlCWmRBWHcyUU5JUFlhdU9LendvSXVsOW4wV0s0THhweXFxLTZDY1k2a0duM2xsTzdESHdBU2xRcFA5MmtGbWE4aGV5M0tXTGtIbFZhNUpxdk1pQ09HVzNPX1RJcWRIT2NJRHJBaWNYcjhHMUQ4dEMwVXFjWVZsOG00M01GckE?oc=5",
@@ -1420,7 +1263,8 @@
   "confidence": "高",
   "reason": "漫画配信プラットフォーム企業（エコミック）の四半期決算が主題であり、コンテンツ（漫画配信）とビジネス（決算・損益数字）の両分野が該当する。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYSDB5ZEdIMF9odXlXZ1RVYjg5cU9TOUYxamU0ZEN5R1Ewd2MwSWtPYjJXUGpiX284Zms2OWoxZnczQVZudERkbkdISHBHUngwbi1z?oc=5",
@@ -1429,8 +1273,8 @@
   "sources": [
    "Googleニュース: AI 映像制作 OR アニメ制作"
   ],
-  "published": "Tue, 10 Nov 2026 03:11:15 GMT",
-  "published_ts": 1794280275,
+  "published": "Tue, 10 Nov 2026 03:15:46 GMT",
+  "published_ts": 1794280546,
   "themes": [
    "コンテンツ",
    "AI"
@@ -1440,7 +1284,8 @@
   "confidence": "高",
   "reason": "映画制作業界におけるAI技術の活用可能性をハリウッド大手企業のCEOが語った記事で、コンテンツ（映画制作）とAI（生成AI・VFX自動化など）の両分野を主題としており、業界全体に関わる重要な動向を扱っているため。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lNWk2ZHJrZ0luWlhROGJBWHFsWmgwbFk5ZW9Ib0pfMGJPenNZMGN1c2JqY3QwaF9qbTdxVkVEUjB6aHhMdUVXSFFsbXhBQjBsNDBqX0ZB?oc=5",
@@ -1461,7 +1306,8 @@
   "confidence": "高",
   "reason": "日本の生成AIに関する権利保護イニシアティブは、アニメ/コンテンツ業界の知的財産権とAI技術の規制・ビジネス慣行に直結し、3分野が揃う最優先対象。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0MwZ1ZrQ0V1cm13VEtoX3VFbnFPMHU2b1NGQkQ5bERObTFWR2t5TGl5aDlwR3JzWEdaanAwdGU3MExVRl9SR0FpbDBpWE8xM05uTGVfVGFNQWhNTVJoeDBoQVVxRFlBdlVJbzA4SXh4RXVfNXpVa1ZPYjkta0t3U2xfOWdsZThHNE0xZVBDZk5wY0VRdW9J?oc=5",
@@ -1481,7 +1327,8 @@
   "confidence": "中",
   "reason": "Skydanceの映像・メディア業界における経営戦略を深掘りした記事で、業界全体に影響を与える大手メディア企業の事業展開や戦略が主題。Paramount買収に関連する継続ストーリーの可能性があり、映像産業のビジネス戦略論として対象。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/executives/james-gunn-peter-safran-step-down-dc-studios-269220.html",
@@ -1501,7 +1348,8 @@
   "confidence": "高",
   "reason": "Paramount（メジャースタジオ）がWarner Bros. Discoveryを買収後の経営統合に伴い、DC Studios（映像制作事業）の幹部交代が発生。業界全体を揺るがす大型M&Aと、その直後の大規模人事刷新が主題であり、映像業界の構造変化を伝える記事。コンテンツ（映像・アニメーション）とビジネス（M&A・人事・経営統合）が明確に該当。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/261110o",
@@ -1521,7 +1369,8 @@
   "confidence": "高",
   "reason": "ゲームの販売本数・シリーズ累計といった新規判明の業績数字が主題であり、コンテンツ（ゲームIP）とビジネス（売上実績）の2分野が該当するため対象。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUcwY2JIOVpIc1pqclVkQjNqOTFxczlqeWJPMF90TkZKend3NVNpdTdGbkUwZ1lJYkVELWFBWGh6a0QtNDY4YXVvSTJmRGNjeUhCenY5UUFJQ1RyR1F4bV9sMWJOcnRUZWc5YlgwenVzU0piaXA2Z1lEUHhJUkRBeFo5aEJhMXBDRUxDU3dneDBIc1dJX3djSkNBSi1OUnVaSnRmMFp5SGJpbTFsTkxfb24xR05fdFdvckNzbUZMZE9icVlqUGNHU094VUpLbkVkZ0E?oc=5",
@@ -1541,7 +1390,8 @@
   "confidence": "高",
   "reason": "Skydanceによる大型メディア企業買収の続報であり、DC Studiosの経営体制変更は業界地図を変える構造的ニュース。実写中心でアニメ言及は薄いが、大手スタジオ統合・経営統合のメジャーなビジネスニュースのため対象。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1Ztb2wtQUxTVDcxa0gxNndRNEc5OTJZakZqOTh5SndHejZMa3JDR2JmQ29CLTY3ZFNhc2hma0xQN1EwbnN0QXhVWWpvWktaSGI0REpJR1owbS1waXQyMWI1UFJEU0ZkMk5ObTVlWFpBd2ZoWExSaHBiYXA5Q2E3WFZkVmhPQVlIcW52WVltYTlnR3dhU3BySXB2bVVFVFlyYWU5WVUxeFR2NWpGUkVITkswVi0?oc=5",
@@ -1561,7 +1411,8 @@
   "confidence": "中",
   "reason": "Fox（メジャーメディア企業）がRokuの買収資金調達のため社債発行を予定しており、映像配信プラットフォーム買収による業界構造の大型ビジネス取引が主題であるため。ただし本文詳細が限定的で業界規模の確実性が中程度。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/box-office-report/cat-in-the-hat-box-office-opening-wildwood-269213.html",
@@ -1581,7 +1432,8 @@
   "confidence": "高",
   "reason": "アニメーション映画2作品（The Cat in the Hat、Wildwood）の初週末および3週目の北米興行成績（Box office）の数字が主題であり、新たに判明した実績値の報道であるため、コンテンツ＋ビジネスで対象。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/kikakuthetower/2611102k",
@@ -1601,7 +1453,8 @@
   "confidence": "中",
   "reason": "映画『ゴジラ-0.0』の評論記事だが、冒頭で「日本映画史上No1の初日興行収入」「大ヒットしている」「アカデミア賞」など興行成績・ビジネス的な実績に言及しており、かつ作品のコンテンツ面での詳細な考察が主体となっているため、コンテンツ＋ビジネスの複合記事と判定。ただし作品評論が中心であり、ビジネスの数字や取引そのものの新規情報は限定的なため信頼度は中程度。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EbGg5SDhhN0VWTV9DSUt6NmUyVTE3a0JrcWNSWlNrYzg2S3VWSzVseXdEd2N5VU9FUDBsTldJT1AxVENkaVpvOUlOcDF4WjRxMmtYMHlR?oc=5",
@@ -1621,7 +1474,8 @@
   "confidence": "高",
   "reason": "アニメ映画の興行ランキング・興行成績が主題であり、新たに判明した週末の興行数字を報じる記事のため、コンテンツ×ビジネス（興行）に該当する。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX09rOFFFOHhLWG9vWVdINW9mYlVNcmZ3eHEzc1lpTVUzVm5hb0dXUE12Nm1xcXJrM1dEMUJCZnVnWU1KbVlPS3FyWlNGTV91bUhmNHpuVVZsTktzRXpjVzVYdTVIUTlRTl92amJOdWpKb3JHcHlIN0FaRzBtaFk4X0M4V2lSRWQ3X0ZfYzNRdmxIMjFTcF9fbDluNGlDSXFGYmc?oc=5",
@@ -1641,7 +1495,8 @@
   "confidence": "中",
   "reason": "人気IPのFrozenを題材とした新しいドキュメンタリー/配信コンテンツ企画であり、Disney+とHuluでの配信配置（取引・プラットフォーム戦略）がビジネスに該当するため、コンテンツ×ビジネスで対象となるが、記事本文が限定的で詳細な配信契約や数字が不明確なため信頼度は中。",
   "ts": 1794286842.927777,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003050/",
@@ -1662,6 +1517,250 @@
   "confidence": "高",
   "reason": "AdobeとDisneyが戦略的提携を発表し、Disney専用の生成AIモデル開発（Adobe Firefly Foundry）を行う取り組み。映像・テーマパーク・スポーツなどのコンテンツ制作にAI技術を統合する複数年提携であり、コンテンツ×AI×ビジネス（企業提携）の3分野が揃う最優先案件。",
   "ts": 1794286842.927777,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://deadline.com/2026/11/bbc-studios-sreya-biswas-head-natural-history-unit-1237218369/",
+  "title": "BBC Studios Names Sreya Biswas As Head Of ‘Planet Earth III’ Maker Natural History Unit",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 10 Nov 2026 11:01:12 +0000",
+  "published_ts": 1794308472,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "BBCの自然史ドキュメンタリー部門における人事異動（CEO級ポストへの昇進）であり、コンテンツ企業の経営人事が主題。Planet Earth III等の有名IP制作部門の戦略的リーダーシップ交代は、メディア企業の経営動向として対象だが、AIは無関係のため。",
+  "ts": 1794312049.922087,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5RTFIUXJFaE5Pd3huQjRuZVlsQ1JuRGU5UkhfU01JQ19HVExLVVNoSDROaEsxdlFINEppZnFwV0diUnJYbTRWOHJQU0xHbVJ1RGVELUh4NTVObzlhY0doVS1lOUVRQQ?oc=5",
+  "title": "【週末アニメ映画ランキング】「ゴジラ－0.0」公開6日で興行収入25億円突破 「GROTESQQQUE グロテスク」は8位スタート - アニメハック",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Tue, 10 Nov 2026 10:00:00 GMT",
+  "published_ts": 1794304800,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画の新作興行成績（ゴジラ-0.0の25億円突破、GROTESQQQUEのランキング順位）が主題であり、コンテンツ＋ビジネス（興行数字）の組み合わせで、新たに判明した実績値の報道に該当するため対象。",
+  "ts": 1794312049.922087,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXVThyMkc4QnBicTBXWUtXWlRRdnNSbVpzXzNTM0NoMFIzT2YzbjBlUjVoNGM1MllPdHljQ3lwU0hMTzBPRVgzRkI1UQ?oc=5",
+  "title": "日本コンテンツの海外売上、2025年に6兆9,634億円——前年比13.2%増|プレイリスト＆カルチャーメディア - DIGLE MAGAZINE",
+  "source": "Googleニュース: コンテンツ 海外売上 OR 市場規模",
+  "sources": [
+   "Googleニュース: コンテンツ 海外売上 OR 市場規模"
+  ],
+  "published": "Tue, 10 Nov 2026 07:47:39 GMT",
+  "published_ts": 1794296859,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "日本コンテンツ（アニメ・漫画・ゲーム等を含む）の海外売上の市場規模・実績値が主題であり、コンテンツ＋ビジネスの組み合わせで対象。前年比の数字も含まれており、業界全体の経営・市場動向を扱っている。",
+  "ts": 1794312049.922087,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ydXhmYTdNRWpPQnlqeXNZa0c2YTVNYVVnZWtLajdEMWd5bmUwTTNnQndzRFZ6eFUxM0dpd3Z6UlplNFhFUFNPRHF4ZVNuWGNMYllPbE0zM29mQQ?oc=5",
+  "title": "ディズニーの映像制作に独自AI アドビと提携、IP特化モデルを構築へ - 電波タイムズ",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Tue, 10 Nov 2026 06:57:01 GMT",
+  "published_ts": 1794293821,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ディズニーがAdobeと提携して映像制作向け独自AI・IP特化モデルの構築を進めるという、コンテンツ・AI・ビジネスの3分野が揃う戦略ニュース。メジャーメディア企業による映像業界のAI活用戦略であり最優先対象。",
+  "ts": 1794312049.922087,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/matthijs-van-de-sande-bakhuyzen-the-art-of-survival-film-1237218354/",
+  "title": "‘The Perfect Lie’ Actor Matthijs Van De Sande Bakhuyzen To Lead AFM-Bound Arctic Thriller ‘The Art Of Survival’",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Tue, 10 Nov 2026 09:53:29 +0000",
+  "published_ts": 1794304409,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "実写映画の制作発表であるが、国際配給契約（ベネルクス地域とポーランド）の締結と AFM での販売戦略が主題であり、配信/映像産業のビジネス取引が実質的に含まれるため対象とした。ただし非アニメで AI 要素も無く、また契約金額や興行数字が明記されていないため信頼度は中程度とした。",
+  "ts": 1794312049.922087,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/213393",
+  "title": "突如発表の『ドラクエ』スマホRPG、グリー子会社が開発していることが判明『ヘブバン』のWFSとスクエニ共同で",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Tue, 10 Nov 2026 07:13:49 +0000",
+  "published_ts": 1794294829,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "人気IPドラクエの新作スマホゲーム開発にグリー子会社が関わることが判明した企業間の提携発表で、スクエニとグリーの共同開発体制とそれに伴う株価上昇という経営的な取引ニュースがコンテンツとビジネスの両分野に該当する。",
+  "ts": 1794312049.922087,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LTFphSUNTc3ZweUppRGVQVTl3SDFEa2t5ZG9lYlVhQjZBbTNtLVNYTXhuSTlPM1VPcmRJb2YzbWdYVXFLZVVLZExPTW90XzQ0UUFnVUEtc2M4UU1lYkc4UWZpejkxSHB6dWc?oc=5",
+  "title": "2025年数値発表！日本のコンテンツの海外売上7兆円に迫る！ 鉄鋼の輸出額(4.3兆円）、半導体の輸出額(6.7兆円)を超える規模へ - PR TIMES",
+  "source": "Googleニュース: コンテンツ 海外売上 OR 市場規模",
+  "sources": [
+   "Googleニュース: コンテンツ 海外売上 OR 市場規模"
+  ],
+  "published": "Tue, 10 Nov 2026 06:40:01 GMT",
+  "published_ts": 1794292801,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "日本のコンテンツ産業全体の海外売上が7兆円に達したという2025年の新規数値発表であり、産業規模・市場データがビジネスの主題。アニメ・ゲーム・漫画など日本の主要コンテンツ産業の海外事業規模の実績値を報じているため対象。",
+  "ts": 1794312049.922087,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xMUtZVDZrNUszRk4tN2t3TlRHUVhLZ3JHd2NSUDZSSXdDYjF4Si05SHVKUm96NWFSaWstblFrbEpNYjBjUkJLLWtRc1N3RXZnNlpYLVlwdGc1MU1OZWU4V0wzdE9vRzRTV3c?oc=5",
+  "title": "フジテレビの地上波ドラマ制作、生成AIで工数最大70～80％削減 ANDENTと「AI Sandbox」実証 - Media Innovation",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Tue, 10 Nov 2026 05:00:03 GMT",
+  "published_ts": 1794286803,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "実写ドラマ制作への生成AI活用で映像産業のAI動向は重要だが、業界全体を揺るがす大型ニュースではなく、単一企業の実証段階であること、および具体的なビジネス数字・契約金額が記事タイトルに見当たらないため、コンテンツ＋AI＋ビジネスの確実性が中程度。",
+  "ts": 1794312049.922087,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53MDNtOV9TUTlpZ3QwME9naTAzNl9hYTFTcHRZOVFlZVdVOEZLM2llNTE0ZTlTY2JTREFIWk5DSGRYc216TXNfU3dEVno5eWhuX19mejhLNUt3Wm1HMl96b05Xbkc3d3JGOHdWTjBLZExXNUJfUGc?oc=5",
+  "title": "Kakao Teams Up With OpenAI to Release Ryan AI Animation, Using 1,500 Prompts in Production - BigGo Finance",
+  "source": "Google News: generative AI animation OR anime",
+  "sources": [
+   "Google News: generative AI animation OR anime"
+  ],
+  "published": "Tue, 10 Nov 2026 02:36:00 GMT",
+  "published_ts": 1794278160,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Kakao（大手IT企業）とOpenAIの提携によるAIアニメーション制作プロジェクト。コンテンツ（アニメーション）×AI（生成AI活用）×ビジネス（企業提携・制作）の3分野が揃い、AIを使った映像制作の実践例として業界トレンドに該当する。",
+  "ts": 1794312049.922087,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9ub21ud2tqOVhoVWQyNlEwWDVyUGk3UFNWeHZNOFNOV2JlRmtRdlhxS04zTVBFVDNVUDc2TU51R2V3dlNT?oc=5",
+  "title": "DMM、アニメスタジオ「GLEESTONE」を新設 CUEに続き制作体制を強化 - gamebiz【ゲームビズ】",
+  "source": "Googleニュース(gamebiz.jp)",
+  "sources": [
+   "Googleニュース(gamebiz.jp)"
+  ],
+  "published": "Tue, 10 Nov 2026 10:25:24 GMT",
+  "published_ts": 1794306324,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "DMMがアニメスタジオGLEESTONEを新設し、既存スタジオCUEに続いて制作体制を強化するという企業の事業戦略・投資決定（ビジネス）に関するコンテンツ（アニメ制作）の記事であり、経営的な施策が主題である。",
+  "ts": 1794312049.922087,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oNElJbzd5M2lYOXd1ZDJtWEtvMDZqX1RuN0N5RjR4R3BDYUZERVFFelF0d052UGdtX19WaXR2RW5YSFU3RWRRS290X082c2xVWG82M1plWlc?oc=5",
+  "title": "ディズニー、Adobeと生成AIで戦略提携 ─ キャラクターや世界観に特化した専用AIを開発、映画のVFXにも活用を模索 - THE RIVER",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Tue, 10 Nov 2026 02:17:00 GMT",
+  "published_ts": 1794277020,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ディズニーという大型メディア企業がAdobeと生成AIの戦略提携を発表し、映像制作（VFX）への活用を明言している。3分野すべてが揃う最優先案件：コンテンツ（映画・映像制作）、AI（生成AI・キャラクター特化のAI開発）、ビジネス（大手企業の戦略提携）。",
+  "ts": 1794312049.922087,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZXFPSXl6S01HQjNpSGhXSjJRa2RJem9nT05na0JJNkwtZGxnNFFpQkkxdV9hZjFHRlg1Q2tiZVhJS1dVY09rY1BJVV85NGNhVnJyLVpadGthd3NKTUZlU1ZFNkIwVEpuM2ZnZnN4VzJGMGNrNm4zWUlzempRTTgzTHRGNmFWQTB2QV9UT3hLdXJ2ZUlIOWp2UVFmUE5aZEVHcEdaUjFIZ3ZzVmkzbGZsWHRzdU1raXhZX21SdTBjYXpPc09QX1ZRcUh3?oc=5",
+  "title": "Vinland Saga Creator Makoto Yukimura Addresses Comments on AI Imagery - Anime News Network",
+  "source": "Google News: generative AI animation OR anime",
+  "sources": [
+   "Google News: generative AI animation OR anime"
+  ],
+  "published": "Tue, 10 Nov 2026 04:59:00 GMT",
+  "published_ts": 1794286740,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "漫画/アニメIPの作者がAI画像生成に関するコメントを発表した記事で、コンテンツ（Vinland Saga）とAI（AI画像生成への言及）の両軸が主題であり、業界の関心事であるため対象。",
+  "ts": 1794312049.922087,
   "is_new": true
  }
 ]
