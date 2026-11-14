@@ -1,365 +1,5 @@
 [
  {
-  "url": "https://deadline.com/2026/11/old-pasadena-theater-reopening-as-look-cinemas-1237220447/",
-  "title": "Look Cinemas Takes Over Pasadena’s IPic Theater, Will Reopen In December Amid Resurgence Of LA Area Screens",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Wed, 11 Nov 2026 17:37:30 +0000",
-  "published_ts": 1794418650,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映画館チェーン（LOOK Cinemas）の新規オープンと業界全体の劇場復興投資動向が主題であり、興行業界のビジネス実績（過去2年間で27億ドルの施設投資）が具体的に報じられているため、コンテンツ＋ビジネスに該当。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/distribution/jim-queen-us-theatrical-release-magnolia-pictures-269369.html",
-  "title": "Acclaimed French Adult Animated Comedy ‘Jim Queen’ Is Getting A U.S. Theatrical Release After Magnolia Pickup",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew",
-   "Googleニュース(hollywoodreporter.com)"
-  ],
-  "published": "Thu, 12 Nov 2026 00:56:45 +0000",
-  "published_ts": 1794445005,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "フランスのアニメーション作品『Jim Queen』がMagnolia Picturesに買収され、来年夏の米国劇場公開が決定したという配信/配給契約の取引ニュースであり、コンテンツ（アニメーション作品）とビジネス（北米配給権の獲得）の両軸が明確に該当する。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/213629",
-  "title": "PS5、遂に「1億台」の大台突破…直近40日で210万台出荷　GTA特需か、PS4記録まであと1700万台",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Thu, 12 Nov 2026 02:42:32 +0000",
-  "published_ts": 1794451352,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゲーム（PS5）というコンテンツIPの全世界累計出荷台数1億台突破という販売実績の数字が主題であり、コンテンツ＋ビジネスの2分野が該当するため対象。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ITUJwVXpzUDhkQktCUV94NUhEY2Vhek9WM1gyTmJ0ZV9oRnlQU3lrUkpaMlFpNXVUT29hbm5aRTJrcDJaMzBWMmtKRFZnTkxna0tkVWV5TFRXaW93bGhUVWNSb1lMaHJzR3ZkdDJ0YzlGd2E5NlR4U04tQ2pWRmM?oc=5",
-  "title": "AIを“安く作る道具”で終わらせないために ドラマ『相棒』シリーズ撮影監督が語る、実写とAIを掛け合わせた「映画の未来」 - Yahoo!ニュース",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Wed, 11 Nov 2026 23:03:25 GMT",
-  "published_ts": 1794438205,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "実写ドラマ『相棒』の撮影監督がAI技術と映像制作の融合について語るインタビュー。映像業界のAI活用に関する深い考察であり、コンテンツ×AIの核心的なテーマを扱っているため対象とする。ただしビジネス（数字・取引）が記事主体でないため3分野は揃わず、confidence は中程度。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vbkdNckhrRkptZFg4THYzR1YxVFhrNzJSRFZXLUF4VnFueFRNX3BWUG9VMVlRMzc1RXFZZE9pUGFtQW9vYWNSTDY0aG53ZG9hdE5HQVFXNFI?oc=5",
-  "title": "【イベントレポート】AI映像ハッカソン「TapNow Arena Peak Asia Tokyo」。32時間・40チームが問うたAI作品の“魂” - Brand New Creativity",
-  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
-  "sources": [
-   "Googleニュース: AI 映像制作 OR アニメ制作"
-  ],
-  "published": "Thu, 12 Nov 2026 03:00:04 GMT",
-  "published_ts": 1794452404,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "AI映像制作ハッカソンのイベントレポートで、映像制作（コンテンツ）とAI技術が中心だが、ビジネス面（資金調達・契約・売上など）が明確でなく、また本文が本当に「作品制作の深掘り」か「イベント告知」かが記事本体なしでは判断困難なため、グレーとした。映像産業のAI活用の事例としては対象性があるが確信度は中程度。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBRV3hDSWNRSV84bWcxTWh1Vmo4b3RVQnlsd1V4NDlDM3Q3bXZ5TFpzMnlzc1d2dURYd1QwWlhEdEpQaHZ5?oc=5",
-  "title": "グリーHDのアニメ・マンガ・MD事業…『クロエコ』の配信開始やアニメ出資作品の版権収益の獲得で売上高は60％増 新規事業の立ち上げで投資先行 - gamebiz【ゲームビズ】",
-  "source": "Googleニュース(gamebiz.jp)",
-  "sources": [
-   "Googleニュース(gamebiz.jp)"
-  ],
-  "published": "Thu, 12 Nov 2026 01:55:00 GMT",
-  "published_ts": 1794448500,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "グリーHDのアニメ・マンガ・MD事業における売上高60％増の実績値が主題であり、配信開始と版権収益の獲得という具体的な経営数字がビジネスに該当するため、コンテンツ＋ビジネスで対象。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/lionsgate-alma-harel-wet-connor-storrie-1236945829/",
-  "title": "Lionsgate Acquires Alma Har’el’s ‘Wet’ Starring Connor Storrie, Rebecca Ferguson, Odessa A’zion and More",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Thu, 12 Nov 2026 03:36:26 +0000",
-  "published_ts": 1794454586,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画の配給権獲得をめぐる映画業界のビジネス取引であり、大手スタジオLionsgateによる北米・UK配給権の買収という経営の動きが主題であるため、コンテンツ+ビジネスに該当する。AIは記事に実質的に関わっていない。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/skyler-gisondo-people-v-gorilla-grodd-james-gunn-dc-exit-1237221337/",
-  "title": "Skyler Gisondo On The Future Of ‘The People V. Gorilla Grodd’ After James Gunn’s DC Exit: “There’s A Lot Of Questions”",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Thu, 12 Nov 2026 04:00:15 +0000",
-  "published_ts": 1794456015,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "DCユニバースの未公開プロジェクト『The People v. Gorilla Grodd』がJames Gunn/Peter Safran退任とSkydanceによるWarner Bros.買収後の経営変化の影響を受ける可能性があり、映像コンテンツ（HBO Max制作のドラマシリーズ）とメディア企業の経営統合・制作体制の変動というビジネス要素が主題。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/keanu-reeves-constantine-2-james-gunns-dc-exit-1236945816/",
-  "title": "Keanu Reeves’ ‘Constantine 2’ Gets ‘Renewed Hope’ After James Gunn’s DC Exit, Says Director: ‘People at DC Were an Impediment to Us’",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Thu, 12 Nov 2026 03:20:00 +0000",
-  "published_ts": 1794453600,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画『Constantine 2』の制作が、DC Studiosの経営層交代によって進展する可能性が出てきたという、映像コンテンツの制作・開発状況の変化とスタジオ経営判断に関するビジネスニュース。AI関連がないため themes は「コンテンツ」「ビジネス」の2分野。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/connor-storrie-rosalia-wet-lionsgate-1237221317/",
-  "title": "Lionsgate Acquires Alma Har’el’s ‘Wet’ Starring Connor Storrie, Rebecca Ferguson, Odessa A’zion, Rosalía & Lukas Haas",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Thu, 12 Nov 2026 02:50:49 +0000",
-  "published_ts": 1794451849,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "Lionsgateが実写映画『Wet』の北米・UK配給権を獲得した契約発表。実写映画だが配給権の取引が主題であり、業界のビジネスに該当。ただしAIの要素がなく、非アニメコンテンツの個別配給契約のため、業界全体を揺るがす大型ニュースではない規模であることから信頼度は中。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/news/gerry-rich-iron-man-movie-marketing-strictly-business-1236945785/",
-  "title": "Movie Marketing Veteran Gerry Rich on Opening ‘Iron Man,’ Grappling With AI and Maintaining the Human Touch",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Thu, 12 Nov 2026 02:18:44 +0000",
-  "published_ts": 1794449924,
-  "themes": [
-   "コンテンツ",
-   "ビジネス",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映画マーケティング業界のベテランがポッドキャストで、AIの時代における映画マーケティングの変化と、アイアンマンの興行戦略など過去の実績を論じた記事。映像産業（コンテンツ）とマーケティングのビジネス戦略、そしてAIが業界にどう影響するかが主題の深掘り記事であり、3分野が揃う。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/213590",
-  "title": "ホロライブ、今年度さらなる「新規デビュー予定」明かす　新ユニットは初配信で“4人全員同接14万人超”で初動手応え",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Wed, 11 Nov 2026 21:18:52 +0000",
-  "published_ts": 1794431932,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "カバーの決算説明資料を基にした報道で、新規タレントデビュー計画、初配信の同接数などの実績数字、売上高の動向など、VTuber事業（コンテンツ）の経営・事業戦略とビジネス成績が主題であり、AI要素は無い。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/melody-rivera/2026/11/11/netflixs-love-is-blind-marriage-problem-could-become-a-business-problem/",
-  "title": "Netflix’s ‘Love Is Blind’ Marriage Problem Could Become A Business Problem",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)"
-  ],
-  "published": "Wed, 11 Nov 2026 19:24:35 -0500",
-  "published_ts": 1794443075,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Netflixの配信コンテンツ『Love Is Blind』の視聴数低下が経営的な問題に発展する可能性を分析した記事であり、コンテンツ（配信作品）とビジネス（視聴数・収益への影響）の両軸が主題。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FZ3FFMEp4b3FJWFQwZ3cwMWpVcjJzT1BCLTJ0WmlQMkphOW8wc2U2WVA3Zm5vN2w4VE1mTnJwUlZORHRGcmVZbTd2SQ?oc=5",
-  "title": "カカオベンチャーズがグローバルAI映像製作プラットフォーム「ヒッグスフィールド(Higgsfield)」と業務協約(MOU)を結び、初期スタートアップのAI基盤コンテンツ製作環境を共に作っていくと12.. - 매일경제",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Thu, 12 Nov 2026 01:40:04 GMT",
-  "published_ts": 1794447604,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "AI映像製作プラットフォームとの業務協約（MOU）は、映像・コンテンツ制作の技術基盤（AI）と企業間の提携（ビジネス）が主題であり、3分野すべてが揃う。初期スタートアップのコンテンツ製作環境構築という具体的な取組が示されている。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/chris-harrison-dating-show-the-vow-interview-1237220669/",
-  "title": "“You Can’t Put A Cease & Desist On Love”: Chris Harrison Talks About Returning To The Dating Scene With ‘The Vow’",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Thu, 12 Nov 2026 00:16:31 +0000",
-  "published_ts": 1794442591,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "リアリティTVシリーズ『The Vow』の制作・配信戦略と、前職『The Bachelor』との知的財産権を巡る法的紛争（cease-and-desist）が主題。映像コンテンツ産業のビジネス（Lionsgate Alternative TelevisionとFox Nationの取引、制作フォーマットの戦略転換）が中心だが、AIは関わらない。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.animenewsnetwork.com/news/2026-11-11/godzilla-minus-zero-film-opens-at-no.1-in-japan-grotesqqque-anime-film-at-no.8/.243685",
-  "title": "Godzilla Minus Zero Film Opens at #1 in Japan, Grotesqqque Anime Film at #8",
-  "source": "Anime News Network",
-  "sources": [
-   "Anime News Network"
-  ],
-  "published": "Wed, 11 Nov 2026 17:00:00 -0500",
-  "published_ts": 1794434400,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゴジラ マイナスゼロが日本で初週末1位達成し、初日は実写映画の最高初日興収記録を更新した興行成績のニュースであり、また千と千尋の神隠しを含む複数作品の週末興行ランキングを報道している。非アニメ映像でも新作の興行成績数字は必ず拾う条件に合致する。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZMUdIalZWOVZIdUdqMmhwV3JTZDdiZ3NwY2pJZFc5dnV1NWFXUUlmZm1tc0d1QU02RjhfUC1GT09wUkxoSDdRUkstZU5TZHZQMUhHTDhnRVdYRHpxS2dXRtIBZkFVX3lxTE5ZYWpna3FfY0o5YV9Jd1VBVDFKdFRBemFwR2VnWmdJR2xLRk5YdzF3NWJCaURsRHBlNTk2a3NvWmVvTXR1NzJ4eFlOLTZ5Qm9RNzFVMEtBSzVaWXhEU29rODNFcG5SUQ?oc=5",
-  "title": "AIを“安く作る道具”で終わらせないために　撮影監督・会田正裕が語る、実写とAIを掛け合わせた「映画の未来」 - リアルサウンド",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Wed, 11 Nov 2026 23:00:12 GMT",
-  "published_ts": 1794438012,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "実写映像制作とAI技術の融合について、撮影監督への取材による考察・展望が主題であり、映像業界のAI動向に関わる深掘り記事として対象。ただしビジネス（数字や契約）の実質が薄いため themes は「コンテンツ」「AI」の2分野に留まる。",
-  "ts": 1794459636.638394,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/11/paramount-plus-day-1s-ronaldo-damian-lewis-vaughn-1237221704/",
   "title": "Paramount+ Greenlights Damian Lewis-Starring Premier League Comedy Series ‘Day 1s’ From Matthew Vaughn, Cristiano Ronaldo & Thierry Henry",
   "source": "Deadline",
@@ -418,27 +58,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "アニメ映画の新規興行収入数字（36億円突破）が主題であり、コンテンツ＋ビジネスの条件を満たす。ただしアンコール上映の告知が付随しているため、判定は興行実績の数字報道に基づく。",
-  "ts": 1794502850.5265331,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9iNHlGcGtHcGFvdG1ldnRWWFdXelBKQXdJSUVjNXFHXzZWcVlOa1ZBUC1SanQtNWNxZVFoc0pZbm1uNV82aElJ?oc=5",
-  "title": "子会社化ではなく「親会社への出資」 サイバーエージェントとMAPPAの提携は何が違うのか - MEDIAMIXI",
-  "source": "Googleニュース: アニメ 製作委員会 出資",
-  "sources": [
-   "Googleニュース: アニメ 製作委員会 出資"
-  ],
-  "published": "Thu, 12 Nov 2026 03:38:24 GMT",
-  "published_ts": 1794454704,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ制作会社MAPPAへのサイバーエージェントによる出資・提携は、業界の経営構造・取引スキームに関わるビジネスの実質的な分析であり、コンテンツ×ビジネスの交差点として対象に該当する。",
   "ts": 1794502850.5265331,
   "is_new": false,
   "updated": false
@@ -650,27 +269,6 @@
   "label": "対象",
   "confidence": "高",
   "reason": "エイベックスのアニメ・映像事業の売上実績（144億円、前年比48%増）と各タイトルの業績動向が記事の主題であり、コンテンツ（アニメ）企業の業績数字＝ビジネスの実質が明確に当てはまる。",
-  "ts": 1794502850.5265331,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xalhtQVozWmtkOTlELW5UakRpUmNia0dQbFJQTlQ0T3NfVTF2b29LbVNqNnpDWmVHZjdCYTNXM2QtaTB6NXRBdjR0OTRFS1F6anN0YjdqWDZvbzA3OERVT1ZocVhxMlhRcWhFMDB5amlFNFI1?oc=5",
-  "title": "Netflix Is Officially Losing A $246.5 Million Box Office Hit This December - ScreenRant",
-  "source": "Google News: anime box office",
-  "sources": [
-   "Google News: anime box office"
-  ],
-  "published": "Thu, 12 Nov 2026 00:30:00 GMT",
-  "published_ts": 1794443400,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "Netflixから大型映画作品（興収2億4,650万ドル）が配信から削除される件で、興行成績の数字が主題に含まれており、配信ビジネスの変動に関わるため。ただし詳細が不明で、映像作品がアニメか実写かも確定できず、業界規模の変動か個別の契約かも判断しにくい点から confidence は「中」とした。",
   "ts": 1794502850.5265331,
   "is_new": false,
   "updated": false
@@ -933,7 +531,8 @@
   "title": "Documentaries at the Oscars: A History of Breaking Out of Their Category — and What It Means for ‘You Can See Everything’",
   "source": "Variety",
   "sources": [
-   "Variety"
+   "Variety",
+   "Googleニュース(forbes.com)"
   ],
   "published": "Fri, 13 Nov 2026 00:51:28 +0000",
   "published_ts": 1794531088,
@@ -971,27 +570,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN2xVRmR2SUx1QmU4QktSSkpicTkxdnpET1BsLTk1QjN0VHAxRDVhQ1B4YS1MeWdTY3RWa3R6Tm1qTC1ZMTlBTVF2clN3YW1Hd0hOdVVZVVA3bngtOUg2NkJVYzFXTW9SV3Y1SzBhdVI0czc0RkpsZXBCSHh4aElEcVR2Mk5Da2M2dTNublpscDVQRzlFMFkwUjdSeS15V0ZjOVhUbXY0dU9rNmMtOVBPeFpGM3I2RFZONU9HZV9UZS1nV3VvLVBwZWU3R1JqdkZfcjJHMg?oc=5",
-  "title": "‘Lanterns’ Season 2 Was A Long Shot Before James Gunn And Peter Safran’s DC Studios Exit - Forbes",
-  "source": "Googleニュース(forbes.com)",
-  "sources": [
-   "Googleニュース(forbes.com)"
-  ],
-  "published": "Wed, 11 Nov 2026 18:19:42 GMT",
-  "published_ts": 1794421182,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "DCスタジオの経営陣交代に伴う『Lanterns』シーズン2の先行き不透明という、映像制作の経営戦略と制作計画の変動を扱う記事。メジャーメディア企業（DC/Warner Bros. Discovery）の経営判断が映像作品の継続性に与える影響は業界構造に関わるビジネス性があり、深掘り分析と判断される。",
-  "ts": 1794546037.065734,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB1cy1nS1IxTXUwak5YdHJZMHgtbUVVSFlZbUJMNnJjMTFjc2tjaFM1TVFvLVJ0cXhhTmZiMzF0ZGh5cFdJ?oc=5",
   "title": "アルファポリス、2Q(4～9月)決算は売上高13％増、営業益6％増 アニメ制作会社の連結子会社化とアニメ事業の本格始動で増収増益に - gamebiz【ゲームビズ】",
   "source": "Googleニュース: アニメ制作会社 決算 OR 買収",
@@ -1009,7 +587,8 @@
   "confidence": "高",
   "reason": "アニメ制作会社の連結子会社化とアニメ事業展開により、親会社（アルファポリス）の決算数字（売上高13％増、営業益6％増）が改善した旨を報じており、アニメコンテンツ事業とビジネス（決算実績）の両軸が主題である。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0azc2clduT3NwcUtsNGZIOWhmbi1pV3A5VHFBYkdHVEt6ejJid0FvYl8tU3pybk9HUVNnd1gtakZsS1haS2RHVlNFd0tPVlo1Rk5nM1VQYUpXdlpWRUE1dTRhOHNhcTkxUzkwXy1QaWFoNEh6emIxU3lUOA?oc=5",
@@ -1030,7 +609,8 @@
   "confidence": "高",
   "reason": "アニメ制作・配信企業（ピクスタ）とByteDanceが、生成AIツール「Seedance」とショートアニメ配信プラットフォーム「Anipops」を連携させる提携を発表しており、コンテンツ（アニメ制作・配信）×AI（動画生成AI）×ビジネス（企業提携）の3分野すべてが揃う最優先案件。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/sesame-street-cricket-media-launch-free-streaming-channel-1237214612/",
@@ -1050,7 +630,8 @@
   "confidence": "高",
   "reason": "Sesame Streetはコンテンツ（子ども向けテレビ番組）であり、Cricket MediaとのFAST チャンネル立ち上げによる配信権契約、広告モデル、プラットフォーム分配が主題で、配信ビジネスの取引や戦略が明確に述べられているため、themes コンテンツ+ビジネスで対象に該当する。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/animators/julian-cartoon-saloon-trailer-gkids-269405.html",
@@ -1070,7 +651,8 @@
   "confidence": "高",
   "reason": "アニメーション映画の北米配給権獲得と劇場公開決定は、アニメコンテンツの配信ビジネス（配給契約・劇場公開）が主題であり、コンテンツ×ビジネスの組み合わせで対象。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/213778",
@@ -1090,7 +672,8 @@
   "confidence": "中",
   "reason": "ウマ娘（ゲームIP）のライブイベント中止に伴う補償・返金対応が主題で、企業の顧客対応と補償金額という経営判断が中心。ただし一般的なイベント告知/グッズ販売と補償案内の境界線上にあるため、記事の実質が「経営上の異例の判断」にあるかは中程度の確信。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNbWU0QTlGbnNnaHpiR1M5N2lhNUdMR19lT0tmRUdDNDU3N293V3lSbHJ1bEM2c3gwT2JmTmFmYlhXMW5Iamw2aGZpSGYzZGF6NkYxc0VOeE5GTVE4V1lTb0w3RXJpbXBrS3FTVUxQeTlrYlV1dUFrcWpYWWxoMTEzaHJGazBvSzIwRm1jVnlNU054ZTdoSDg1Tm5TU1JKcmVWMXRLV1czWkdCdzR6Y1ZCVmQ2TTRCMktaTDc3R002SDNySVIyU0tLeEw2UWdkem5hSFVNbUdZNjhrZ3NLYmZ4ZUc5X25nM1VBemhSbnJHcTZpUVkyQjF1Z0s0b0lIM0VaaEp0YlZFc3NLN0EyczB0UEplUzJqY3hOakhCUzFPX0poVjViNl9zaDJRMmIxSXRELUl3YUI5cm5rd3cweDFTVEVYa21FTlFIWmo4R09GNERYeTNXNFVsbmx4ekxyY0NBYUh6OU94dlFwUEU?oc=5",
@@ -1110,7 +693,8 @@
   "confidence": "中",
   "reason": "コンテンツとAIが両立しており、AIがアニメーション生成の主題だが、本文情報が極めて少なく、サービス紹介なのか実績なのか、ビジネス面の具体性が不明なため、確認が必要。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONk93MGZwdVRVd01OTkh6YXZIYTNmSnYwQjY4T3A5clRmMXBsT0EyMzAtOVdBbEhmSUtpNzNqeVdWbFF5cDFYUi1OSXpLbm1tMzNOWWNjWWtpMndnSmV4U21MM0VUdjVjNkp6aTFibkN0VmxrT1hWZ2l3cmxyY3E5TGxWekg2ZEVpMGlZUWl3?oc=5",
@@ -1131,7 +715,8 @@
   "confidence": "高",
   "reason": "アニメ制作会社がAIを活用した制作工程を採用し、主要配信プラットフォーム（Disney Plus）での配信が決定した事例であり、コンテンツ＋AI＋ビジネス（配信契約）の3分野が揃うため対象。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkUwSW9LemI4eEQ5TGd3eGtGOXU5TmViV2pySWpjdkdNTzlQX2RIaFdUUC1fem5qdmcwdWxFU0czeUlwQ0ZSZ0RGblRIWlNvc09QbFdLcy1pMW05Sy1fVHkwS0hlX1NTMkRVNVh6Uk5ob1p3dEdYOEdFOC1qTzdQM216cTJ5ek5fX05BRldDeDh5U0prc0o0bWJkNVdCME5STGY1cFFzYi1tZ1dZdjF2RGs5MF9xbUFlaFE?oc=5",
@@ -1151,7 +736,8 @@
   "confidence": "中",
   "reason": "ファッションブランド（Dior）の広告キャンペーンがAIで生成された手描き風映像であるかどうかを検証する記事。映像・アニメーション制作（コンテンツ）とAI生成技術の活用が主題だが、アニメ・ゲーム・IP等のコア領域外であり、業界全体を揺るがす規模の影響も不明確なため判断が微妙。ただし映像業界のAI倫理・規制の話題として業界展開の可能性があるため対象外とは言い切れない。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHVvS0t5WXU4SndPcDhjMl94RlpWd3d3UllHdmhZZEJvTGU1LWhZekp4R21meGRwcnNoTzhEOGxzbXdhclBCcHBNZTdQR2w4N2FQeFlDRkxiejVKNk1rQzR4UGJWb1YyWGhpT2JCcWpzckRlZEdXc0VWOUVFbk5Bc3ZsREZscGFrQ0p0VDZYVmRGZ1RBQ2w2RWpRaUU1QQ?oc=5",
@@ -1172,7 +758,8 @@
   "confidence": "高",
   "reason": "ディズニーがAI導入を推進する経営戦略を分析した記事であり、アニメーション・映画などのコンテンツ制作、AI技術の活用、そして企業のビジネス戦略（ファイナンスを含む）が全て主題として含まれるため、3分野揃う最優先案件。深掘り型の分析記事と判断。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SeVpmX2M4dnRSanNoU0ItNklmN1JkTjFhQlZ3R0ZyUE85cnFsbVJ0VHR3M3U5WnBFWkh2aXpiNTdKdXNRdFU2Q1NjLUhsMl9YMGNjLXdRaVFBNUxwcXdDell4Wl9SLVlX?oc=5",
@@ -1192,7 +779,8 @@
   "confidence": "中",
   "reason": "映画作品と生成AIが主題だが、記事がオピニオン/評論色が強く、実質的なAI技術の活用や影響、AIをめぐる権利・規制が中心か不明。映画紹介が体裁の評論の可能性があり、確度が中程度のため。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1odUVMMmhuTUxOcHpZVUhaXzZWQ25fZ2pRbnMtVS0tSnJRTm5Ua2QxNkVBMkFtQXQ3bTdaZ3c0am1lclJidjNiWkF5MldJQ1Y3dk5FQ2dyUVhLMDIyVlhUNUtpUnZrazh6TzNxZFNEa3FHTXl6M2NB?oc=5",
@@ -1212,7 +800,8 @@
   "confidence": "中",
   "reason": "映像制作AIツール『GOKKO』がクラウドサービスのアワードを受賞したニュースで、コンテンツ産業向けAI技術の動向に関わるが、記事の詳細内容が不明で、ビジネス的インパクト（資金調達・契約・市場動向など）が本文から判断できず、確実性が限定的であるためグレー判定とした。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/213735",
@@ -1232,7 +821,8 @@
   "confidence": "高",
   "reason": "KADOKAWAのアニメセグメント決算結果で、セグメント売上高の前年比増減、作品別売上ランキング、営業利益・損失など経営数字が主題。アニメIPのビジネス業績を新たに開示したニュースであり、コンテンツ×ビジネスに明確に該当する。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/2611132u",
@@ -1252,7 +842,8 @@
   "confidence": "高",
   "reason": "インディーゲームの新作が発売から3日で販売本数3万本を達成した実績値が主題であり、ゲーム業界のビジネス動向を伝える数字ニュースのため、コンテンツ+ビジネスで対象。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCQlZjOG1DQ1pKdlRKVVFfVDVTNnhWT1ZrX2x2MXhUNVJyTmlWaDc0SzRSTzBORlJPMFpqMjlBVmdBMkxCTTlMQ29KekZ6SnJiRVZ5MS1vUjYyM2hhR2dzVEw4ZzY?oc=5",
@@ -1272,7 +863,8 @@
   "confidence": "高",
   "reason": "ハリウッド映画とアニメの映像制作現場におけるAI活用を比較・分析する記事であり、コンテンツ（映像産業）とAI（生成AIの導入・活用）が主題の2分野に該当するため対象。",
   "ts": 1794589241.718219,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE91MjMwSV9sWkdyaG5uTXp1T1BFYUN1X0ZwMnJNaHpnNmtLZWhnU2JubnQ0NGlOS05Kcm1J?oc=5",
@@ -1292,6 +884,327 @@
   "confidence": "中",
   "reason": "映像制作業界のAI活用動向を報じる記事であり、AIと映像/コンテンツの関連性は認められるが、具体的なビジネス取引や市場規模データが主題に含まれるかが本文から不明確なため、確信度は中程度。AI部門の新設と参加チーム数は既存コンテンツ産業への影響を示唆するが、詳細な分析がないため「グレー」として要確認対象。",
   "ts": 1794589241.718219,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://0115765.com/archives/213845",
+  "title": "フジテレビ、アニメ事業好調で38％増収…『ちいかわ』筆頭に貢献　ネトフリ版『ワンピース』は製作委員会として関与",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Sat, 14 Nov 2026 04:42:44 +0000",
+  "published_ts": 1794631364,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "フジテレビのアニメ事業の決算発表で、ちいかわなど人気作品による売上増（前年同期比38.3%増）と業績への具体的な寄与が主題。アニメ制作・配信ビジネスの経営数字が明確であり、コンテンツ×ビジネスの基準を満たす。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNU2R3SVN5aVIzM1drZkZhUGQwOGZLcW5LT2tXWUZRdlF3NE5SUHBKUFJINnVrOWtQcGFhZm94RFc1alNVeWtwUXRwRHJFaWtUS1NnNDdRbFlvaTExTFc0UThoelRQS2VWNnpyUVlfQ1A1OUJ2UTV2a2xiMGpveWpIdndpX0RkNFdQS2hFbC1NR001VFVnUlVYMnZ4TktXeGxyQTFOUWxibWVFWWdZeFIxMmRyaktyYTZ4WE1aSENuMERyLVFYRjFSNjNYcnFPa2pnMEdSYTNUVUtMR3ZkRzlFRDlGQndONjVMbFNCOVRDWnlQMFNaRXRsMl9qQnNiSUdueHR2cHFuV01rQThwdU16M0xaZGVSamVYckR2ZC1pZ0ttektOdDdOY05wUG5hZkt6UV8xNXc2NXpMTXcyeFpHVFNnVzlKUWJwSFAxeGVkOUo?oc=5",
+  "title": "‍‍‍生成AIアニメ制作 完全ガイド - 日本取引所グループ",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Fri, 13 Nov 2026 18:57:34 GMT",
+  "published_ts": 1794596254,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "グレー",
+  "confidence": "低",
+  "reason": "アニメ制作とAIが主題だが、本文が極めて限定的で、実質的なビジネス分析・技術解説・事例がどの程度含まれるか不明。日本取引所グループによる企業向けガイドと思われ、新規性・報道性が確認できないため、掲載媒体や詳細本文の確認が必要。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/",
+  "title": "Michael Mann Seeks to Reclaim Rights to Original ‘Heat’ Screenplay",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sat, 14 Nov 2026 02:51:07 +0000",
+  "published_ts": 1794624667,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画『Heat』の脚本著作権をめぐる法的紛争で、著作権譲渡契約の有効性を争う訴訟が主題。映像制作の版権・著作権ビジネスに関わる実質的な取引・法的紛争であり、コンテンツ×ビジネスの2分野を満たす。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/indie-films-opening-victorian-psycho-paper-tiger-almodovar-1237223240/",
+  "title": "‘Victorian Psycho’ Joins New James Gray and Pedro Almodóvar Releases In Indie Weekend Lineup — Specialty Preview",
+  "source": "Deadline(Box Office)",
+  "sources": [
+   "Deadline(Box Office)"
+  ],
+  "published": "Fri, 13 Nov 2026 20:45:00 +0000",
+  "published_ts": 1794602700,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "複数の映画作品の興行展開・スクリーン数の変更・新規公開といった Box Office の数字ニュースが記事の主題であり、非アニメの実写映画中心だが興行成績・興行戦略の報道のため対象。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/marchershberg/2026/11/13/great-gatsby-producer-to-take-on-wuthering-heights/",
+  "title": "‘Great Gatsby’ Producer To Take On ‘Wuthering Heights’",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Fri, 13 Nov 2026 18:18:31 -0500",
+  "published_ts": 1794611911,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "実写舞台作品の制作発表であり、コンテンツ＋ビジネスの取引関係（委託・プロデューサー契約）が想定されるが、記事本文に契約金額や出資構成などの数字・経営情報の実質が記載されておらず、ビジネスの主題性が薄いため確実性に欠ける。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/",
+  "title": "DC Studios To-Do List: Here’s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sat, 14 Nov 2026 02:45:41 +0000",
+  "published_ts": 1794624341,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "DC Studiosの人事交代（Gunn・Safran退任、Jeremy Latcham就任）とそれに伴うプロジェクト管理方針の変化、Paramount-Warner Bros統合後の経営戦略、製作中のプロジェクト群の見通しなど、映像産業の経営・組織体制の実質的な転換が主題であり、コンテンツ（映画・TV・アニメ）とビジネス（人事・経営方針・投資判断）が両立している。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SSF9RSlNsM2NKUElYUGQ5MVpSYUtlTDhMZjFFSnhrOVRUcU50MWFMYlQ1ZGc5Q01kNFY2Z1o4dGhhWmVFVGtqckd6TDczU2VMSjFIdXNydFBzUk5kNDFLcFdjUHNfNnF2bWp4V2xIWkRkc3J2R0RyS1R2UF9VRmc?oc=5",
+  "title": "映画の推し事＞生成AIが予告する無残な死 「呪いのスマホ」のゆがんだ瞳が映すもの（毎日新聞） - Yahoo!ニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Fri, 13 Nov 2026 11:00:23 GMT",
+  "published_ts": 1794567623,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "実写映画『呪いのスマホ』にAI生成技術（予告編や映像表現）が使用されている点が主題と見られるが、記事本体の詳細不明のため、AIが映像制作の中心的な技術要素か、単なる表現手法の一つかが確定できない。映像業界のAI活用事例として捉えると対象だが、レビュー・作品紹介が主体なら対象外の可能性があるため、グレーとして扱う。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uLVhYbWVqR2stOTgxSFUyZFVFQzZMaW9seGpwX0hCM0x5aTdaR0k5ZXRmQndJS0pzWWRuVF82ekJ1ZFBkeE1lLTFZakMwNVhyeEJvTHFJTEpUWnZOU0hYd21qZ25ZQQ?oc=5",
+  "title": "鳥取県職員がＶＩＶＡＮＴなりきりＰＲ、８月宿泊者数伸び率が全国１位に…ドラマ・アニメとのコラボ奏功 - 読売新聞",
+  "source": "Googleニュース(yomiuri.co.jp)",
+  "sources": [
+   "Googleニュース(yomiuri.co.jp)"
+  ],
+  "published": "Sat, 14 Nov 2026 03:37:00 GMT",
+  "published_ts": 1794627420,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "アニメ・ドラマとのコラボレーションが観光誘致ビジネスに成功した事例として、コンテンツIPの活用と地域活性化の数字（宿泊者数伸び率全国1位）が主題であり、コンテンツ×ビジネスの交点に該当する。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNcUZkOGhpN2t6ZG5ZY1FoRENpRFVlVDc1VXFBRHhJM3JKSjZRMTN4cDluRzZuUDZFczVLR0djZ0FpWUFmY0tTd0xpa2p4alNYc2Nta0VmdElSSmRuek8wby1aN1R3X3FIbGU4WjBYS2poT1NVYkNUWWtzUnVWNHhMUl90U2g0OWgxR1RMT25iMmc2NkhvbUdEZXVESmhGY0xndU5MV2M2c2daNHYxcUJaLVM5UzNEbFZvZmZ6M09tUFBlZ2xMQi1DQjlOSVExVm5vMXZRNTZqYlRuSEZRZDBlMWluWTVEeWhBenFUZF8tOENJNFE5N1ZsOG1xSWVUOEgzTTdfMjNEV3daOGYwaEExNDc4TTdzQkU4OFRCUjY0TEZUR1NPSjhuUHFVcVhUbE1rM1Jpd001RWd0bTBsaS13YWFScnQzZTdRYl9McEhhZFpOZkJOMFhpOWhTZV9pa0xVWTM4OFAzY3hmWnk4WXl6UExfUU81ZXFaT2VMUnVSU2htMF83UC1lQTBMaw?oc=5",
+  "title": "‍‍‍無料で普通の動画を一瞬でアニメ動画にできる動画生成AI - 日本取引所グループ",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Fri, 13 Nov 2026 18:57:42 GMT",
+  "published_ts": 1794596262,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "生成AIでアニメ動画への変換を行うコンテンツ×AI領域だが、実際のビジネスモデル・サービス名・企業の経営への影響など詳細が不明であり、単なるAIツール紹介に留まる可能性があるため確認が必要。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/zosia-mamet-girls-revival-in-talks-very-long-time-1237223594/",
+  "title": "Zosia Mamet Says ‘Girls’ Revival Was “In Talks For A Very Long Time”: “I Kind Of Gave Up”",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sat, 14 Nov 2026 02:14:35 +0000",
+  "published_ts": 1794622475,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "米国の実写ドラマ『Girls』の復活プロジェクトが正式決定され、制作開始予定時期が明かされた業界ニュース。メジャーな配信プラットフォーム（HBO）による既存IP（ドラマシリーズ）の復活プロジェクトは、業界全体に関わる構造的なコンテンツ戦略の動きであり、制作契約・プロジェクト発表というビジネス要件を満たす。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/trump-hasnt-commented-flight-shutdown-promoting-film-incentive-1236947426/",
+  "title": "Amid Flight Halt, Trump Meets With Jon Voight to Talk U.S. Film Incentive: ‘Get This Done!’",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Fri, 13 Nov 2026 23:28:40 +0000",
+  "published_ts": 1794612520,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "米国の映画・TV産業に対する連邦映画税控除(20-30%の労賃還付)の立法推進がトランプ大統領と業界関係者の協議・政治的働きかけの主題であり、米国映像産業の競争力・海外流出防止という産業全体のビジネス戦略が中心。政策・補助金に関わる実質的な経営・市場ビジネスニュースに該当。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MWkptQjl4cDU0Mld5cm5MWnM5SzUwb0UzXzdVOUlINmRrRy1NTkVMaXVnTjJ3VFZLYXFHbURfT3hrbGNkem83MkVFSXFmZjg?oc=5",
+  "title": "Grimes (グライムス)、史上初の完全AI生成映画『Gods Don’t Give Gifts』で、本人の容姿をモデルにしたキャラクターで映画デビュー、トレイラーも到着 - iFLYER",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Sat, 14 Nov 2026 03:00:00 GMT",
+  "published_ts": 1794625200,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "完全AI生成映画というAI技術の映像制作への応用が主題であり、映画というコンテンツとAIの両分野が揃う。ただしビジネス面（製作費、配信契約、興行成績など）の実質的な情報が記事に無いため、AIの実装例としての速報と判定。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://forbesjapan.com/articles/detail/108128",
+  "title": "サービス 2026.11.13 AIに溶けていくアドビ、それでも「指揮者」の席は人に残るのか",
+  "source": "Forbes JAPAN",
+  "sources": [
+   "Forbes JAPAN"
+  ],
+  "published": "2026-11-13T07:15:00+09:00",
+  "published_ts": 1794521700.0,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "アドビのクリエイティブツール（Photoshop等）をAIに統合する戦略が主題で、映像・デザイン制作の業界全体に関わるが、コンテンツ産業（映像・アニメ・ゲーム製作）への直接的な影響や数字的なビジネスインパクトが不明確。AI × 制作ツール産業の分析記事として捉える場合は対象になる可能性がある。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/faa-ground-stoppage-hollywood-weekend-events-impact-1237223500/",
+  "title": "FAA Ground Stoppage Could Impact One Of Hollywood’s Busiest Weekends",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sat, 14 Nov 2026 01:45:00 +0000",
+  "published_ts": 1794620700,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "映画祭・授賞式などの映像産業関連イベント開催への影響報道であり、コンテンツ（映画・エンタメ業界）とビジネス（イベント企画・業界動向）の両方を含むが、AIは無く、また興行成績や契約数字も無いため、themes=コンテンツ+ビジネスで対象に該当する。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://news.denfaminicogamer.jp/news/261114a",
+  "title": "『LoL』の世界大会「Worlds」が日本で開催決定！！「Worlds 2027」のスイスステージを名古屋で実施へ",
+  "source": "電ファミニコゲーマー",
+  "sources": [
+   "電ファミニコゲーマー"
+  ],
+  "published": "Fri, 13 Nov 2026 23:00:27 +0000",
+  "published_ts": 1794610827,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "eスポーツゲーム『リーグ・オブ・レジェンド』の世界大会開催地決定という、IPを中心とするコンテンツビジネスの重要な発表。大規模国際イベントの誘致・開催は市場・ビジネス価値に直結する情報であり、テーマはコンテンツ×ビジネスに合致する。",
+  "ts": 1794632451.019414,
+  "is_new": true
+ },
+ {
+  "url": "https://news.denfaminicogamer.jp/news/261114b",
+  "title": "Twitchで『GTA6』のゲームコードを発売日から毎日配布へ。サプライズで「Ultimate Edition」が提供されるチャンスも。期間は11月末まで",
+  "source": "電ファミニコゲーマー",
+  "sources": [
+   "電ファミニコゲーマー"
+  ],
+  "published": "Fri, 13 Nov 2026 21:53:06 +0000",
+  "published_ts": 1794606786,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲームIP（GTA6）を軸に、Twitchによるプロモーション施策・配信戦略（ゲームコード配布・エモート配信・Hype Train施策）が主題であり、配信プラットフォームの事業戦略・パートナーシップが含まれるため、コンテンツ×ビジネスに該当する。",
+  "ts": 1794632451.019414,
   "is_new": true
  }
 ]
