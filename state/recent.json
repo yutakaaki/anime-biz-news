@@ -1,173 +1,5 @@
 [
  {
-  "url": "https://variety.com/2026/film/markets-festivals/project-11-shot-11-directors-11-cities-re-release-1236952973/",
-  "title": "‘Project 11,’ Shot by 11 Directors in 11 Global Cities, Returns on Oh Short Flips (EXCLUSIVE)",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 20 Nov 2026 04:30:00 +0000",
-  "published_ts": 1795149000,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "映像作品（短編映画）の再リリース（プラットフォーム上での配信/流通戦略の一部）が主題であり、コンテンツ×ビジネスに該当。ただしAIは「昔はAI時代ではなかった」との過去対比に触れるだけで、記事の中心ではないため除外。",
-  "ts": 1795150840.634197,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/kyle-greenberg-exiting-utopia-indie-film-distribution-1237228710/",
-  "title": "Indie Distribution Exec Kyle Greenberg Exiting Utopia To Launch New Consultancy, Greenhouse",
-  "source": "Deadline(Box Office)",
-  "sources": [
-   "Deadline(Box Office)"
-  ],
-  "published": "Thu, 19 Nov 2026 17:45:00 +0000",
-  "published_ts": 1795110300,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "独立系映画配給・制作ビジネスの人事異動と新事業立ち上げのニュース。映像制作・配給（コンテンツ）と起業・事業戦略（ビジネス）が主題であり、コンテンツ×ビジネスの組み合わせで対象。AIは関連なし。",
-  "ts": 1795150840.634197,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://animeanime.jp/article/2026/11/20/104950.html",
-  "title": "「シン・ゴジラ」総監督・庵野秀明、山崎貴「ゴジラ-0.0」へのカメオ出演が正式発表！「大娯楽怪獣映画でした。見事です」",
-  "source": "アニメ！アニメ！",
-  "sources": [
-   "アニメ！アニメ！"
-  ],
-  "published": "2026-11-20T03:50:02Z",
-  "published_ts": 1795146602,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゴジラ映画は映像コンテンツの中心であり、記事の実体は『ゴジラ-0.0』の興行成績（初日単日対比201%、北米オープニング約3160万ドル、国内13日間で40億円突破など）という新たに判明した数字ニュースが主題であるため、コンテンツ×ビジネスに該当。庵野秀明のカメオ出演は付随情報であり、主題判定には影響しない。",
-  "ts": 1795150840.634197,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1BJY3NOdDFncjJ4ejctWGN2dzBxRWpnZmtQVWIwRHJzNDg4bWtsOHl1eUkwMGJfcTRFSENVVGp4Q3V3azdKVUoyUFZUWjBpN1E4aHNjaHZ5UWVodWF6cFhObnlPanowam9uOEVNSXhCVVZRLUpQT3FaSWt0VTZpUlVsMEE?oc=5",
-  "title": "不気味なAI生成風ビジュアルが話題のOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」のポスターは人間が作ったもの - GIGAZINE",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Fri, 20 Nov 2026 02:47:00 GMT",
-  "published_ts": 1795142820,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "OpenAIの内部騒動を描く映画『Artificial』はコンテンツ（映像作品）であり、AI生成風ビジュアルがテーマで主要素として扱われているためAIも該当するが、ビジネス的実質（製作・配信・興行実績など）が明確でなく、記事主題がポスタービジュアルの話題性そのものにとどまるため確実性が低い。確認の価値ありとしてグレーに判定。",
-  "ts": 1795150840.634197,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.animenewsnetwork.com/news/2026-11-19/grotesqqque-anime-film-screens-in-los-angeles-on-december-3-for-1-week-only/.243997",
-  "title": "Grotesqqque Anime Film Screens in Los Angeles on December 3 for 1-Week Only",
-  "source": "Anime News Network",
-  "sources": [
-   "Anime News Network"
-  ],
-  "published": "Thu, 19 Nov 2026 16:09:35 -0500",
-  "published_ts": 1795122575,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "アニメ映画の米国劇場公開スケジュール（12月3日）とチケット販売開始が主要事実だが、日本での初週末興行収入（約297,000ドル）が具体的に記載されており、興行ビジネスの一環として扱える。ただしこの米国スクリーニングは限定1週間で数字未発表のため、ビジネス面の実績値は薄く、コンテンツ＋ビジネスの組み合わせは微妙だが、日本の興行数字が含まれているため対象と判定。",
-  "ts": 1795150840.634197,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.newsweekjapan.jp/articles/-/340818",
-  "title": "戦場で散ったアメフト界のスターたち…Netflix新作『モスキートボウル』が描く沖縄戦の残酷な実態 H・アラン・スコット（本誌シニアエディター）",
-  "source": "Newsweek日本版",
-  "sources": [
-   "Newsweek日本版"
-  ],
-  "published": "2026-11-20T13:40:00+09:00",
-  "published_ts": 1795149600.0,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "Netflix配信の実写映画作品（非アニメだがコンテンツ）で、配信開始日が明記されており配信ビジネスの実績情報が含まれるため。ただし記事の体質は「作品紹介・インタビュー」が中心で、実績数字やビジネスの主題性がやや薄く、AIは全く関わらないため中程度の確信。",
-  "ts": 1795150840.634197,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/lists/2027-oscars-predictions/",
-  "title": "Oscar Predictions: Amanda Seyfried and Matt Damon Take the Top Spots for the First Time as Hollywood Heads Into Thanksgiving",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 20 Nov 2026 00:30:00 +0000",
-  "published_ts": 1795134600,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "米国の映像産業における大型スタジオ（Universal、Netflix、Warner Bros.、A24など）の複数作品がアカデミー賞にノミネート予測される状況を報じており、ハリウッド映画産業全体の受賞レース・市場動向がビジネス的に重要なニュースであるため、非アニメの実写映画でも業界全体を揺るがす大型構造ニュースに該当する。",
-  "ts": 1795150840.634197,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/tyra-banks-sally-hansen-film-andy-vallentine-director-1237229673/",
-  "title": "Tyra Banks Taps Andy Vallentine To Direct Sally Hansen Film",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Fri, 20 Nov 2026 00:43:16 +0000",
-  "published_ts": 1795135396,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "実写映画（Sally Hansen伝記映画）の監督決定発表であり、制作発表が主体だが、$50 billion規模の市場規模への言及と、美容帝国の構築というビジネス的側面がテーマに組み込まれており、コンテンツ制作の事業規模が論じられているため対象と判定。ただし日本の「コンテンツ×AI×ビジネス」の中心領域（アニメ・ゲーム・漫画）ではない実写映画であり、AIは関与していないため確信度は中程度。",
-  "ts": 1795150840.634197,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/11/tracy-oliver-issa-rae-drama-open-hbo-open-marriage-1237229921/",
   "title": "Tracy Oliver & Issa Rae Drama ‘Open’ Lands At HBO",
   "source": "Deadline",
@@ -206,8 +38,8 @@
   "confidence": "高",
   "reason": "『ハンガー・ゲーム』シリーズの新作映画の先行上映(プレビュー)による興行収入2100万ドルという新規の数字が主題であり、映像コンテンツと興行ビジネスの両分野に該当するため対象。AIは関与していない。",
   "ts": 1795194056.39611,
-  "is_new": true,
-  "updated": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/legalentertainment/2026/11/20/how-jordan-firstman-turned-instagram-fame-into-a-17-million-bet-on-queer-film/",
@@ -655,7 +487,8 @@
   "title": "‘Small and Cute Little Guy’ Makes a Big Splash ... ‘Chiikawa’ Surpasses 3 Million Admissions, Tops This Year’s Anime Box Office - 매일경제",
   "source": "Google News: anime box office",
   "sources": [
-   "Google News: anime box office"
+   "Google News: anime box office",
+   "Googleニュース(forbes.com)"
   ],
   "published": "Sat, 21 Nov 2026 01:59:28 GMT",
   "published_ts": 1795226368,
@@ -761,7 +594,8 @@
   "title": "ドンキはなぜトイザらスを買ったのか　ユニー再建の手法で挑む玩具ビジネスの勝算 岡田禎子（個人投資家、ファイナンシャル・プランナー）",
   "source": "Newsweek日本版",
   "sources": [
-   "Newsweek日本版"
+   "Newsweek日本版",
+   "Googleニュース(newsweekjapan.jp)"
   ],
   "published": "2026-11-21T08:30:00+09:00",
   "published_ts": 1795217400.0,
@@ -879,7 +713,8 @@
   "confidence": "高",
   "reason": "『ハンガー・ゲーム』最新作の初週末興行収入（$56M金曜日、$120M見込み）など、Box officeの新規数字と世界累計興収が主題であり、コンテンツ×ビジネスに該当する。実写映画だが興行成績の数字ニュースは業界重要情報として対象。",
   "ts": 1795280454.416666,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.forbes.com/sites/katienorth/2026/11/21/how-grease-fueled-paul-mccartneys-billion-dollar-net-worth/",
@@ -899,7 +734,8 @@
   "confidence": "高",
   "reason": "ポール・マッカートニーが著名なミュージカル『Grease』の出版権を買収した資産/版権ビジネスが主題であり、コンテンツ（舞台作品・映画化IP）とビジネス（出版権の買収・資産価値）の両分野を満たす。",
   "ts": 1795280454.416666,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/214862",
@@ -919,7 +755,8 @@
   "confidence": "中",
   "reason": "劇場アニメの公開初日における技術トラブルと対応（上映日変更ではなく即日復旧＋招待券配布）が報道の中心。コンテンツ（劇場アニメ）は明確だが、ビジネス的には興行成績・配給契約・出資などではなく、テクニカルサポート対応であり、ビジネスの主題性が弱く、判定が微妙。",
   "ts": 1795280454.416666,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/213548",
@@ -939,7 +776,8 @@
   "confidence": "高",
   "reason": "バンダイナムコによるIP事業拡大を目的とした東南アジアのエンターテインメント企業への42.1%株式取得という、コンテンツ企業のビジネス戦略投資であり、M&A・提携・成長市場展開が主題。AIは関わらない。",
   "ts": 1795280454.416666,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/261121l",
@@ -959,7 +797,8 @@
   "confidence": "高",
   "reason": "ゲームIPの販売セール企画であり、割引価格・販売チャネル（Steam/Xbox）が主題だが、これは商品の価格告知・販促情報に該当するため、ビジネスの実質的な主題（契約金額・売上実績・出資・市場規模など経営の数字や取引）を欠く。しかし販売施策そのものはビジネス領域に関わり、ゲームというコア領域のコンテンツとの組み合わせで、取りこぼし最小化を優先し判定した。",
   "ts": 1795280454.416666,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/markets-festivals/obese-monkey-weight-loss-drug-guinea-pig-boltrim-1236954925/",
@@ -979,7 +818,8 @@
   "confidence": "中",
   "reason": "映画制作プロジェクト『Boltrim』の資金調達状況（総予算120万ドル中32万ドル確保）と国際共同製作パートナー探しが主題であり、コンテンツ（映画制作）とビジネス（融資・提携）の2分野が該当する。ただしAIは関連せず、実写映画で非アニメだが、映画祭での製作発表と資金確保の数字が主題なため対象とした。",
   "ts": 1795280454.416666,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/kate-middleton-documentary-heal-release-date-trailer-1237230712/",
@@ -999,7 +839,8 @@
   "confidence": "高",
   "reason": "BBCとNBCによるドキュメンタリー番組の制作・放送決定であり、コンテンツ（映像作品）とビジネス（配信プラットフォームの放送・配信戦略、番組制作・配給）の両分野が主題。AIは関わらない。",
   "ts": 1795280454.416666,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/tv/news/princess-kate-cancer-documentary-premiere-dates-1236954745/",
@@ -1019,7 +860,8 @@
   "confidence": "中",
   "reason": "ドキュメンタリー映像作品の複数プラットフォーム（BBC、NBC、Peacockなど）での配信・放映決定と国際配信戦略が主題であり、コンテンツ×配信ビジネスに該当する。ただしAIは関わらず、また非アニメ映像ながら業界全体を揺るがす大型ニュース・興行数字とも言えないため信頼度は中程度。",
   "ts": 1795280454.416666,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/michael-jackson-biopic-michael-skipping-baftas-1237230863/",
@@ -1039,6 +881,209 @@
   "confidence": "高",
   "reason": "実写映画の興行成績（十億ドル規模のヒット作）とBAFTA受賞戦略に関わる配給・マーケティングの意思決定が主題であり、コンテンツ×ビジネスに該当する。",
   "ts": 1795280454.416666,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106/",
+  "title": "‘American Psycho’ Gets Axed: Luca Guadagnino Confirms His Adaptation Is “Not Happening”",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 22 Nov 2026 04:21:37 +0000",
+  "published_ts": 1795321297,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画の制作プロジェクト（American Psycho）が中止になるという業界ニュースであり、監督の起用内定から撤回までの経営・製作の動きがビジネスの主題であり、大型制作プロジェクトの頓挫として映像産業に関わるコンテンツ×ビジネスに該当する。",
+  "ts": 1795323646.050179,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OZ1J3NmtFYjRLbHlMMXBjZE9BcHNIajlwRmdncHJSdG9fRlMxX0dEVlFKTjdRV2JreW9XX0g5RDlCcVM4RjdyZEpYTjBwOWdkQUE3aHEwelVIeGkwSXpz?oc=5",
+  "title": "日本のアニメの市場規模は？ 高市政権が期待するコンテンツ産業の伸びしろ 野村證券・内田雄己 - 野村證券",
+  "source": "Googleニュース: コンテンツ 海外売上 OR 市場規模",
+  "sources": [
+   "Googleニュース: コンテンツ 海外売上 OR 市場規模"
+  ],
+  "published": "Fri, 20 Nov 2026 08:00:00 GMT",
+  "published_ts": 1795161600,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "日本のアニメ産業の市場規模と政策的な期待を扱っており、コンテンツ産業全体のビジネス分析（市場規模・成長性）が主題であるため対象。",
+  "ts": 1795323646.050179,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WT2toN3JDSDVmcEJwb1NvVDNYTF9udTFJUGk5aFhwVlJvOS1lekJfVWVERXVvenA5TlpWWUEwYlpTUUZTYXJzcENEb09Ta0xydEpKeTBQWmI?oc=5",
+  "title": "ALLIN STUDIOとBytePlusがAI映像制作で連携。Seedance活用のクリエイター育成と商業品質パイプライン構築へ - Brand New Creativity",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Sun, 22 Nov 2026 01:30:03 GMT",
+  "published_ts": 1795311003,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "AI映像制作ツール（Seedance）を活用した映像産業向けの連携・提携であり、クリエイター育成と商業品質パイプライン構築というビジネス戦略が主題。コンテンツ（映像制作）、AI（Seedance等の生成AI活用）、ビジネス（提携・事業構築）の3分野が揃う。",
+  "ts": 1795323646.050179,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONE1mTlFRa1pRNFhvbkVsS1NKZWZpMXRGQ0tFVzRDRW5hWTVoMk9PaUEyUW0xYTE3SDNyZDEyOTlkeWFoMUUtUW1BQVBNTm9PeHQ1YVh6ODFfa1FOdUNIc3VFbS1CeG1wREtpV2VQX1cyV0RFS2VWdkdEbWNNd3g0RDl3?oc=5",
+  "title": "Fullmetal Alchemist Director Says Generative AI Is Failing to Deliver on Its Biggest Promise - Comic Book Resources",
+  "source": "Google News: generative AI animation OR anime",
+  "sources": [
+   "Google News: generative AI animation OR anime"
+  ],
+  "published": "Sun, 22 Nov 2026 03:00:00 GMT",
+  "published_ts": 1795316400,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ（鋼の錬金術師）監督による生成AIに対する評価・考察が主題であり、映像産業のAI動向に関する実質的な議論を含むため、コンテンツ×AIが成立し対象。",
+  "ts": 1795323646.050179,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/mahershala-ali-oscars-wins-hollywood-1236955111/",
+  "title": "Mahershala Ali Says It ‘Doesn’t Matter’ That He’s Won 2 Oscars Because ‘There Are Not Roles for Me’ in ‘the Vast Majority of Projects’: ‘You’re Like Everybody Else Waiting’",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sat, 21 Nov 2026 23:40:06 +0000",
+  "published_ts": 1795304406,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "俳優の映像産業における役柄獲得の構造的課題とビジネス環境（脚本開発・企画立案の長期化）を主題とした考察インタビューであり、コンテンツ制作のビジネス面に触れているが、AIは関わらず、企業の数字・決算・M&Aなどの具体的ビジネス動向が本文の中心ではない点で確実性が中程度。ただし映像制作のプロセス・経営判断を論じており、取りこぼしを避ける観点からグレー判定。",
+  "ts": 1795323646.050179,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/news/russell-crowe-a-beautiful-mind-sequence-ron-howard-1236955038/",
+  "title": "Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ Chronologically Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sat, 21 Nov 2026 19:28:57 +0000",
+  "published_ts": 1795289337,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "実写映画『ビューティフルマインド』の制作予算に関わるビジネス判断（撮影順序の変更による追加コスト100万ドル）が主題であり、映像制作のビジネス意思決定の事例として扱われているが、非アニメであり業界全体規模の大型ニュースではないため、確信度は中程度。",
+  "ts": 1795323646.050179,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/luca-guadagnino-artificial-interview-sam-altman-openai-1237230964/",
+  "title": "‘Artificial’ Filmmaker Luca Guadagnino On Whether AI Is Humanity’s Doomsday & Sam Altman’s Arsenal – Crew Call Podcast",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sat, 21 Nov 2026 20:45:59 +0000",
+  "published_ts": 1795293959,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画『Artificial』はAIと企業（OpenAI・Amazon MGM）が主題で、監督インタビューを通じてAIの危険性と映画化ビジネス（Amazon撤退・Neon買収・興行展開）の両方が詳しく掘り下げられており、3分野すべてが実質的に含まれる。",
+  "ts": 1795323646.050179,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/features/i-play-rocky-stephan-james-carl-weathers-boxing-training-1236954058/",
+  "title": "Stephan James on Honoring Carl Weathers’ Legacy and Learning to Box for ‘I Play Rocky’",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sat, 21 Nov 2026 18:30:00 +0000",
+  "published_ts": 1795285800,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画『I Play Rocky』の俳優インタビューであり、キャスティング・役作りが主題だが、同時に映画業界の作品制作（Anthony Ippolito演じるスタローン、映画の成功・50周年）とビジネス的文脈（『Creed』トリロジーの成功による遺産活用、映画公開）が絡んでおり、コンテンツ×ビジネスの深掘り記事として対象。ただし実写映画中心で、AIの要素はなく、興行数字も未記載であるため『コンテンツ×ビジネス』の判定。",
+  "ts": 1795323646.050179,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/watermelon-production-partnership-qatar-film-committee-1237230984/",
+  "title": "Watermelon Expands Production Ambitions As It Seals Partnership With Qatar’s Film Committee",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sat, 21 Nov 2026 19:43:07 +0000",
+  "published_ts": 1795290187,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "映像制作企業Watermelon Picturesとカタール政府機関による戦略的パートナーシップ・共同製作契約の発表であり、コンテンツ制作事業の拡大とビジネス提携（資金・インセンティブ・インフラを含む）が主題。AIは関わらないが、コンテンツ×ビジネスで対象に該当。",
+  "ts": 1795323646.050179,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/netflix-minimum-short-episode-sitcoms-1237229899/",
+  "title": "Netflix’s ‘Minimum Wage’ Ushers In Streaming’s Short Ep Sitcom Era: “The Future Is 15-Minute ‘SpongeBob’-Length Episodes”",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sat, 21 Nov 2026 19:06:00 +0000",
+  "published_ts": 1795287960,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Netflixのオリジナルシリーズ『Minimum Wage』における配信時代の新しいエピソード構成戦略（12～20分の短編）をめぐる制作・ビジネス判断が主題であり、コンテンツ制作のアプローチとNetflixの配信戦略（エピソード長の指定、発注数の交渉など）が絡む取引・事業戦略が論じられているため。",
+  "ts": 1795323646.050179,
   "is_new": true
  }
 ]
