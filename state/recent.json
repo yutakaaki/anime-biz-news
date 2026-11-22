@@ -1,34 +1,13 @@
 [
  {
-  "url": "https://deadline.com/2026/11/tracy-oliver-issa-rae-drama-open-hbo-open-marriage-1237229921/",
-  "title": "Tracy Oliver & Issa Rae Drama ‘Open’ Lands At HBO",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Fri, 20 Nov 2026 17:00:00 +0000",
-  "published_ts": 1795194000,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "HBOがIssa RaeとTracy Oliverのドラマ『Open』を獲得した際の競争入札と契約成立の報道であり、コンテンツ（TV制作）とビジネス（配信プラットフォーム間の競争、取引契約）が主題。ただしアニメ・漫画・ゲームではなく実写ドラマのため、業界規模のビジネス判断を適用した。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/",
-  "title": "‘Hunger Games: Sunrise On The Reaping’ Returns Lionsgate Franchise To Fortune With $120M+ U.S. Opening – Box Office Update",
+  "title": "‘Hunger Games: Sunrise On The Reaping’ $120M U.S. Opening Is Second Best Start For A Prequel After ‘Rogue One’; Lionsgate Franchise Returns To Fortune – Sunday Update",
   "source": "Deadline(Box Office)",
   "sources": [
    "Deadline(Box Office)"
   ],
-  "published": "Sat, 21 Nov 2026 16:25:00 +0000",
-  "published_ts": 1795278300,
+  "published": "Sun, 22 Nov 2026 15:38:00 +0000",
+  "published_ts": 1795361880,
   "themes": [
    "コンテンツ",
    "ビジネス"
@@ -38,344 +17,8 @@
   "confidence": "高",
   "reason": "『ハンガー・ゲーム』シリーズの新作映画の先行上映(プレビュー)による興行収入2100万ドルという新規の数字が主題であり、映像コンテンツと興行ビジネスの両分野に該当するため対象。AIは関与していない。",
   "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/legalentertainment/2026/11/20/how-jordan-firstman-turned-instagram-fame-into-a-17-million-bet-on-queer-film/",
-  "title": "How Jordan Firstman Turned Instagram Fame Into A $17 Million Bet On Queer Film",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)"
-  ],
-  "published": "Fri, 20 Nov 2026 10:37:05 -0500",
-  "published_ts": 1795189025,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "映画制作ビジネスの買収事例（A24による1700万ドル規模の取得）と、LGBTQコンテンツ市場の資金流向を分析する記事であり、コンテンツとビジネス（買収金額が主題）が揃っている。AIは関与していない。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/newsletter/ray-gunn-art-of-richard-williams-final-film-festivals-debate-ai-269666.html",
-  "title": "‘Ray Gunn’ Art Of; Richard Williams’ Final Film; Festivals Debate AI",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 20 Nov 2026 15:55:11 +0000",
-  "published_ts": 1795190111,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "その他",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "アニメーション業界の複数トピックを扱う編集後記型の記事で、アニメーション映画・作品（Ray Gunn、Lysistrata、Grendel、Ice Age等）が主題であり、AI関連では「生成AIがアニメーション映画祭にどう位置づけられるべきか」という業界の議論を取材している。しかしいずれも告知やインタビュー予告の寄せ集めで、AI技術の実際の活用や規制・権利といった実質的なビジネス的インパクトが主題ではなく、またビジネスの数字や取引も無いため、判定が確定しきれない。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/214693",
-  "title": "バンダイ、公式店舗での人気ガンプラ購入などにマイナカード必須へ　ガンダムベース等で「免許証は不可」厳格化",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Fri, 20 Nov 2026 11:20:25 +0000",
-  "published_ts": 1795173625,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ガンプラなどのIP関連商品の販売施策に関わる企業方針変更のビジネスニュース。転売対策と本人確認の厳格化という経営施策が主題であり、コンテンツ（ガンダム等のIP関連商品販売）とビジネス（販売戦略・転売対策）が該当する。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BdnlkM3NCV29ucXZDQVVIZnlqRHNSbVpvTEY3ajZjSjVtQjgtQkRRN29rSGllWm95LURpVW9PV1dhWE4xRld6d2JMbi1GTEVmMlR4UU9UMGV3OHdmNlotbFRfZ0lyX29PSVN6YWV0OEh4VHM?oc=5",
-  "title": "購読型デジタルコミックの市場の成長分析と動向予測レポート2026-2032 【GlobalInfoResearch】 - ニコニコニュース",
-  "source": "Googleニュース: 出版社 OR コミック 売上 OR 市場規模 OR 決算",
-  "sources": [
-   "Googleニュース: 出版社 OR コミック 売上 OR 市場規模 OR 決算"
-  ],
-  "published": "Fri, 20 Nov 2026 07:36:22 GMT",
-  "published_ts": 1795160182,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "その他",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "漫画のデジタル配信に関する市場規模レポート題材であり、コンテンツとビジネスの組み合わせだが、記事本文が見出し以上の実績データ・企業情報が不足しているため、実質的な新規情報か確認が必要。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83T0NTX2ZqeTJXREdPSnJqMkN5eXhWMWlJVE82ZG5aRXB6cWhTUUk1SVBtVm14RTBoU1VzbkN6MnFyYzFFcXZYZGtabWRFeWJrWjNGTFFoX3lKQXhPQ0dMNXUwNEN4bS11M0ZHbFh0dFhUX3Z3U2c?oc=5",
-  "title": "高精細・大画面の「IMAX」ゴジラ新作も好評 アニメが市場牽引の日本「150カ所に」 - 産経ニュース",
-  "source": "Googleニュース(sankei.com)",
-  "sources": [
-   "Googleニュース(sankei.com)"
-  ],
-  "published": "Fri, 20 Nov 2026 05:30:00 GMT",
-  "published_ts": 1795152600,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "ゴジラ新作などのコンテンツの興行成績が好評という報道であり、また日本のIMAX導入が「150カ所に」増加する市場拡大ニュースが主題であるため、コンテンツ×ビジネス領域に該当する。ただしAIが含まれず、市場規模や詳細な数字が記事本文に明記されていない可能性があるため確信度は中程度。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/variety-events/bouchra-orian-barki-meriem-bennani-screening-series-1236952372/",
-  "title": "‘Bouchra’ Filmmakers Orian Barki and Meriem Bennani on Crafting the 3D-Animated, Autofiction Film: ‘Through Specificity, You Can Reach Truth’",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 20 Nov 2026 16:30:00 +0000",
-  "published_ts": 1795192200,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "その他",
-  "label": "グレー",
-  "confidence": "低",
-  "reason": "3Dアニメーション映画の制作プロセスに関するインタビュー記事。AIの生成や自動化は本文に言及がなく、「3D-Animated」はアニメーション技術の説明に過ぎず、記事の主題は映画制作の創作手法・テーマ・アートフェスティバル選出。コンテンツ+ビジネス（上映・配信・受賞歴）の要素があるが、ビジネスは実績数字でなく告知/フェスティバル参加の記述程度。AIの実質的な主題化がなく、ビジネスも弱いため対象判定に迷い、念のためグレー扱い。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/lili-reinhart-lilly-collins-polly-pocket-1237230090/",
-  "title": "Lili Reinhart Circling Amazon MGM Studios & Mattel’s ‘Polly Pocket’ Post Lily Collins Exit",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Fri, 20 Nov 2026 16:37:28 +0000",
-  "published_ts": 1795192648,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "人気玩具IPの実写映画化に関し、主演女優の交代とキャスティング決定、プロデューサー陣・監督・配信先（Prime Video）の具体的構成が報じられており、コンテンツ制作のビジネス（人事・配信戦略・製作体制）が主題であるため対象。ただしMattel傘下の実写作品で非アニメであり、興行成績・契約金額の数字が無く、AI要素も無いため、themes は「コンテンツ+ビジネス」。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/paultassi/2026/11/20/the-hunger-games-sunrise-on-the-reaping-sets-a-rotten-tomatoes-audience-score-record/",
-  "title": "‘The Hunger Games: Sunrise On The Reaping’ Sets A Rotten Tomatoes Audience Score Record",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)"
-  ],
-  "published": "Fri, 20 Nov 2026 10:25:42 -0500",
-  "published_ts": 1795188342,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画の興行成績・チケット売上の見通しに関する速報であり、映像産業のビジネス動向（Box office関連）を扱っているため、コンテンツ＋ビジネスで対象。ただし数字が明確でなく見通しの段階のため確信度は相対的に中程度だが、興行ランキング・成績報道の範疇で拾うべき内容。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.animenewsnetwork.com/news/2026-11-20/crunchyroll-streams-my-hero-academia-the-movie-world-heroes-mission-anime/.244023",
-  "title": "Crunchyroll Streams My Hero Academia The Movie: World Heroes' Mission Anime",
-  "source": "Anime News Network",
-  "sources": [
-   "Anime News Network"
-  ],
-  "published": "Fri, 20 Nov 2026 09:50:53 -0500",
-  "published_ts": 1795186253,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ映画『僕のヒーローアカデミア』のCrunchyrollでの配信開始が主題であり、日本での興行収入（約28.68百万ドル）という具体的な興行数字が記載されているため、コンテンツ＋ビジネス（Box office）に該当する。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.denfaminicogamer.jp/news/2611203a",
-  "title": "1930年代の白黒カートゥーン風FPS『MOUSE：やとわれの探偵』がSteamで34％オフの2244円に。ネズミの私立探偵がギャングと悪徳警官だらけの街で陰謀を暴く、セールは11月27日まで",
-  "source": "電ファミニコゲーマー",
-  "sources": [
-   "電ファミニコゲーマー"
-  ],
-  "published": "Fri, 20 Nov 2026 14:33:46 +0000",
-  "published_ts": 1795185226,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "ゲームのセール価格と過去最安更新は商品情報に該当するが、企業のビジネス戦略・売上実績・市場分析ではなく、小売プラットフォームの一時的な割引告知であり、ビジネスの要件を完全には満たさない可能性がある。ゲーム作品自体はコンテンツとして該当するものの、記事主題は商品情報の告知に近く、判定が微妙なためグレーとした。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.denfaminicogamer.jp/news/2611203b",
-  "title": "『ペルソナ6』は「ゴールではありません」。「ペルソナスタジオ」総合プロデューサー・和田和久氏のインタビューが公開",
-  "source": "電ファミニコゲーマー",
-  "sources": [
-   "電ファミニコゲーマー"
-  ],
-  "published": "Fri, 20 Nov 2026 14:00:45 +0000",
-  "published_ts": 1795183245,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "ペルソナ6の制作戦略・開発組織づくり・シリーズ展開方針が主題で、プロデューサーインタビューによる企業のクリエイティブ・ものづくり戦略（開発効率化、組織力強化）が語られているが、金銭的なビジネス数字（投資額・売上予測・市場規模など）が具体的でなく、内容としては新作発表時期の事業戦略説明に近いため、ビジネスの実質性が薄い可能性がある一方で、企業の経営戦略・IPブランド育成の長期構想が明確なため対象と判定しつつも確信は中程度。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/artificial-intelligence/annecy-ottawa-manchester-festival-programmers-artificial-intelligence-269655.html",
-  "title": "Does GenAI Belong At Animation Festivals? Annecy, Ottawa, And Manchester Programmers Weigh In",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 20 Nov 2026 14:26:23 +0000",
-  "published_ts": 1795184783,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメーション業界の主要な映画祭（マンチェスター、アヌシー、オタワ）が生成AIで制作された作品の受け入れ方針について、プログラマーの見解を深く掘り下げた記事であり、コンテンツ産業（アニメーション）とAIの関係が主題である。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/213733",
-  "title": "ブシロード、トレカ事業売上「45％増」101億円超…立役者は「パルワールド」世界累計1,100万パックを突破",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Fri, 20 Nov 2026 06:33:26 +0000",
-  "published_ts": 1795156406,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ブシロードのTCG事業の売上実績（101億円超、前年比45%増）とその主要因である『パルワールド オフィシャルカードゲーム』の世界累計1,100万パック突破が主題であり、これはIP関連のビジネス数字（売上実績・ライセンス事業）として対象。AIは関わらない。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-on-reaping-previews-1236953592/",
-  "title": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Makes $21 Million in Previews",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Fri, 20 Nov 2026 16:05:04 +0000",
-  "published_ts": 1795190704,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画『ハンガー・ゲーム』の新作が初日の映画館での予告編上映で2100万ドルを稼ぎ、週末の初動興行成績が100万ドルを超えると予想される新規の数字が報道されており、映像コンテンツと興行ビジネスの核心的な記事。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.cartoonbrew.com/tv/luce-and-the-rock-european-broadcast-deals-269646.html",
-  "title": "‘Luce And The Rock’ Lands Three New European Broadcast Deals (EXCLUSIVE)",
-  "source": "Cartoon Brew",
-  "sources": [
-   "Cartoon Brew"
-  ],
-  "published": "Fri, 20 Nov 2026 13:00:11 +0000",
-  "published_ts": 1795179611,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメーション(2D幼児向けシリーズ)の国際配信契約(ヨーロッパ複数国の放送権獲得)が主題であり、コンテンツ×ビジネスの配信取引ニュースとして該当。AIは関わらない。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.denfaminicogamer.jp/news/2611202w",
-  "title": "Kindle+（旧Kindle Unlimited）の「3か月2940円→99円」キャンペーンが実施中。『ハリー・ポッター』や『ドラゴン桜』全巻が読み放題",
-  "source": "電ファミニコゲーマー",
-  "sources": [
-   "電ファミニコゲーマー"
-  ],
-  "published": "Fri, 20 Nov 2026 12:38:01 +0000",
-  "published_ts": 1795178281,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "電子書籍配信サービスのプロモーション・キャンペーンで、コンテンツ（漫画・小説などのIP）と配信ビジネスの取引・価格設定が主題。ただしキャンペーン告知が体裁であり、AIは関わらないため3分野には至らない。",
-  "ts": 1795194056.39611,
-  "is_new": false,
-  "updated": false
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "https://variety.com/2026/tv/news/bill-maher-grand-theft-auto-6-young-men-ice-real-time-hbo-1236954795/",
@@ -400,13 +43,13 @@
  },
  {
   "url": "https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/",
-  "title": "‘Hunger Games: Sunrise On The Reaping’ Begins Global Weekend With $76M Running Cume – Update",
+  "title": "‘Hunger Games: Sunrise On The Reaping’ $225M WW Opening Bests ‘Wicked: For Good’ & ‘Michael’ – Sunday Update",
   "source": "Deadline(Box Office)",
   "sources": [
    "Deadline(Box Office)"
   ],
-  "published": "Fri, 20 Nov 2026 23:16:11 +0000",
-  "published_ts": 1795216571,
+  "published": "Sun, 22 Nov 2026 16:50:00 +0000",
+  "published_ts": 1795366200,
   "themes": [
    "コンテンツ",
    "ビジネス"
@@ -416,8 +59,8 @@
   "confidence": "高",
   "reason": "実写映画『ハンガー・ゲーム』最新作の初週末・初日の全世界興行成績（76M～200M見込み）および各国での実績数字が主題であり、コンテンツ（映画）とビジネス（Box Office数字）の2分野に該当する。AIは関与していない。",
   "ts": 1795237261.0808902,
-  "is_new": false,
-  "updated": false
+  "is_new": true,
+  "updated": true
  },
  {
   "url": "http://animationbusiness.info/archives/17261",
@@ -654,27 +297,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0VvaW05TlBOeE5mMkRsNk5oWmlJclB4ZTU4RjVBc2pWQXktcTVoUDJoSXBTdWJ5eWkzaEdLZVAxd3FXRWJpeWw3WDJoRmhwNjFBSUZ3LWJQTUdKNEpCQ0J6UDB4emczU0NYckNZYjhkSzQycXVtaHpvclIwcTFJTGV3SVQxb0Rja21DeGpONjBqU1RjcmlYX3hOWGx6Z3F5VjVicWd1S1RfTGhNMnFEd29CZ1NWb0k?oc=5",
-  "title": "One Secret to the Success of ‘Grand Theft Auto VI’: Veteran Staff - Bloomberg.com",
-  "source": "Googleニュース(bloomberg.com)",
-  "sources": [
-   "Googleニュース(bloomberg.com)"
-  ],
-  "published": "Fri, 20 Nov 2026 17:00:01 GMT",
-  "published_ts": 1795194001,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "Grand Theft Auto VIはゲーム（コア領域のIP）であり、本記事は制作チームの人材体制と成功の関連性を深掘りした分析記事であるため、コンテンツ＋ビジネス的視点（制作戦略・人材マネジメントと事業成功の関係）に該当する。",
-  "ts": 1795237261.0808902,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://news.denfaminicogamer.jp/news/261121d",
   "title": "『GTA6』metacriticのユーザーレビュー解禁、速攻「約2万件」のレビューが投稿される。評価はほぼ半々で、「これがゲームだと忘れる」「GTAらしい雰囲気健在」と絶賛が相次ぐ一方で、フレームレートの低下を指摘する声も",
   "source": "電ファミニコゲーマー",
@@ -902,27 +524,8 @@
   "confidence": "高",
   "reason": "実写映画の制作プロジェクト（American Psycho）が中止になるという業界ニュースであり、監督の起用内定から撤回までの経営・製作の動きがビジネスの主題であり、大型制作プロジェクトの頓挫として映像産業に関わるコンテンツ×ビジネスに該当する。",
   "ts": 1795323646.050179,
-  "is_new": true
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OZ1J3NmtFYjRLbHlMMXBjZE9BcHNIajlwRmdncHJSdG9fRlMxX0dEVlFKTjdRV2JreW9XX0g5RDlCcVM4RjdyZEpYTjBwOWdkQUE3aHEwelVIeGkwSXpz?oc=5",
-  "title": "日本のアニメの市場規模は？ 高市政権が期待するコンテンツ産業の伸びしろ 野村證券・内田雄己 - 野村證券",
-  "source": "Googleニュース: コンテンツ 海外売上 OR 市場規模",
-  "sources": [
-   "Googleニュース: コンテンツ 海外売上 OR 市場規模"
-  ],
-  "published": "Fri, 20 Nov 2026 08:00:00 GMT",
-  "published_ts": 1795161600,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "日本のアニメ産業の市場規模と政策的な期待を扱っており、コンテンツ産業全体のビジネス分析（市場規模・成長性）が主題であるため対象。",
-  "ts": 1795323646.050179,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WT2toN3JDSDVmcEJwb1NvVDNYTF9udTFJUGk5aFhwVlJvOS1lekJfVWVERXVvenA5TlpWWUEwYlpTUUZTYXJzcENEb09Ta0xydEpKeTBQWmI?oc=5",
@@ -943,7 +546,8 @@
   "confidence": "高",
   "reason": "AI映像制作ツール（Seedance）を活用した映像産業向けの連携・提携であり、クリエイター育成と商業品質パイプライン構築というビジネス戦略が主題。コンテンツ（映像制作）、AI（Seedance等の生成AI活用）、ビジネス（提携・事業構築）の3分野が揃う。",
   "ts": 1795323646.050179,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONE1mTlFRa1pRNFhvbkVsS1NKZWZpMXRGQ0tFVzRDRW5hWTVoMk9PaUEyUW0xYTE3SDNyZDEyOTlkeWFoMUUtUW1BQVBNTm9PeHQ1YVh6ODFfa1FOdUNIc3VFbS1CeG1wREtpV2VQX1cyV0RFS2VWdkdEbWNNd3g0RDl3?oc=5",
@@ -963,7 +567,8 @@
   "confidence": "高",
   "reason": "アニメ（鋼の錬金術師）監督による生成AIに対する評価・考察が主題であり、映像産業のAI動向に関する実質的な議論を含むため、コンテンツ×AIが成立し対象。",
   "ts": 1795323646.050179,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/mahershala-ali-oscars-wins-hollywood-1236955111/",
@@ -983,7 +588,8 @@
   "confidence": "中",
   "reason": "俳優の映像産業における役柄獲得の構造的課題とビジネス環境（脚本開発・企画立案の長期化）を主題とした考察インタビューであり、コンテンツ制作のビジネス面に触れているが、AIは関わらず、企業の数字・決算・M&Aなどの具体的ビジネス動向が本文の中心ではない点で確実性が中程度。ただし映像制作のプロセス・経営判断を論じており、取りこぼしを避ける観点からグレー判定。",
   "ts": 1795323646.050179,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/russell-crowe-a-beautiful-mind-sequence-ron-howard-1236955038/",
@@ -1003,7 +609,8 @@
   "confidence": "中",
   "reason": "実写映画『ビューティフルマインド』の制作予算に関わるビジネス判断（撮影順序の変更による追加コスト100万ドル）が主題であり、映像制作のビジネス意思決定の事例として扱われているが、非アニメであり業界全体規模の大型ニュースではないため、確信度は中程度。",
   "ts": 1795323646.050179,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/luca-guadagnino-artificial-interview-sam-altman-openai-1237230964/",
@@ -1024,7 +631,8 @@
   "confidence": "高",
   "reason": "実写映画『Artificial』はAIと企業（OpenAI・Amazon MGM）が主題で、監督インタビューを通じてAIの危険性と映画化ビジネス（Amazon撤退・Neon買収・興行展開）の両方が詳しく掘り下げられており、3分野すべてが実質的に含まれる。",
   "ts": 1795323646.050179,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/features/i-play-rocky-stephan-james-carl-weathers-boxing-training-1236954058/",
@@ -1044,7 +652,8 @@
   "confidence": "高",
   "reason": "実写映画『I Play Rocky』の俳優インタビューであり、キャスティング・役作りが主題だが、同時に映画業界の作品制作（Anthony Ippolito演じるスタローン、映画の成功・50周年）とビジネス的文脈（『Creed』トリロジーの成功による遺産活用、映画公開）が絡んでおり、コンテンツ×ビジネスの深掘り記事として対象。ただし実写映画中心で、AIの要素はなく、興行数字も未記載であるため『コンテンツ×ビジネス』の判定。",
   "ts": 1795323646.050179,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/watermelon-production-partnership-qatar-film-committee-1237230984/",
@@ -1064,7 +673,8 @@
   "confidence": "高",
   "reason": "映像制作企業Watermelon Picturesとカタール政府機関による戦略的パートナーシップ・共同製作契約の発表であり、コンテンツ制作事業の拡大とビジネス提携（資金・インセンティブ・インフラを含む）が主題。AIは関わらないが、コンテンツ×ビジネスで対象に該当。",
   "ts": 1795323646.050179,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/netflix-minimum-short-episode-sitcoms-1237229899/",
@@ -1084,6 +694,287 @@
   "confidence": "高",
   "reason": "Netflixのオリジナルシリーズ『Minimum Wage』における配信時代の新しいエピソード構成戦略（12～20分の短編）をめぐる制作・ビジネス判断が主題であり、コンテンツ制作のアプローチとNetflixの配信戦略（エピソード長の指定、発注数の交渉など）が絡む取引・事業戦略が論じられているため。",
   "ts": 1795323646.050179,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-1236953061/",
+  "title": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sun, 22 Nov 2026 16:16:28 +0000",
+  "published_ts": 1795364188,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "『Hunger Games』映画シリーズの新作が初週末に国内1億2000万ドル、世界で2億2500万ドルの興行収入を記録したという新たに判明した実績値の報道であり、コンテンツ（映像作品）とビジネス（Box office成績）の両分野が主題である。",
+  "ts": 1795366844.368651,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/joe-russo-doomsday-trailer-strategy-rumored-monday-fans-1237231111/",
+  "title": "Joe Russo Talks ‘Doomsday’ Teaser-Trailer Strategy Ahead Of Rumored Monday Drop: “I Have To interact With Fans”",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Sun, 22 Nov 2026 16:54:33 +0000",
+  "published_ts": 1795366473,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "MCU大型映画『Avengers: Doomsday』の映画化に関わるマーケティング戦略とファン層の変化への対応について、監督が業界イベントで語った内容であり、映像産業のビジネス動向（ストリーミングとの競争、市場変化への戦略的対応）が主題。コンテンツ（映画制作）とビジネス（マーケティング戦略、市場戦略）の双方が実質的に含まれる。",
+  "ts": 1795366844.368651,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-11-21/jujutsu-kaisen-ranks-no.4-on-bookscan-september-adult-graphic-novel-list-in-u.s/.244055",
+  "title": "Jujutsu Kaisen Ranks #4 on Bookscan's September Adult Graphic Novel List in U.S.",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Sun, 22 Nov 2026 11:15:00 -0500",
+  "published_ts": 1795364100,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "漫画作品（Jujutsu Kaisen）の米国での売上ランキング順位が主題であり、コンテンツとビジネス（書籍販売数・市場データ）の両分野に該当するため。",
+  "ts": 1795366844.368651,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMUmpVTEEzc3RLX3p6cGI1Sk5jcTJwTjliaXpLLURIdDNmeWVfY3R6RlI1dlF6T2RROFJIWWtqZkxjLU5JZWJzZkV6UWZ2NzFlT0ctNVl3?oc=5",
+  "title": "『GetBackers -奪還屋-』告知映像で謝罪 生成AI使用のアニメ表現 YouTubeボイスコミックシリーズ説明不足で騒動 - オリコンニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Sun, 22 Nov 2026 05:09:00 GMT",
+  "published_ts": 1795324140,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメIPの『GetBackers』が生成AIをアニメ表現に使用し、説明不足で騒動となった件。コンテンツ（アニメ）とAI（生成AI使用）の2分野が揃い、業界の重要な議論ポイント（AI使用の透明性・視聴者への説明責任）を含むため対象。",
+  "ts": 1795366844.368651,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/",
+  "title": "‘The Unknown’ Director Arthur Harari Says AI Is a ‘Slippery Slope,’ Though He ‘Had to Use Deepfake Tool’ for Léa Seydoux Double Scene: ‘There Was a Human Behind It’",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sun, 22 Nov 2026 15:02:50 +0000",
+  "published_ts": 1795359770,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "実写映画『The Unknown』の制作にディープフェイク技術が使用されたというAI活用の実例であり、映像制作業界のAI導入の具体的事例として、コンテンツ×AI の軸を満たしている。ただしビジネス面（契約金額・投資・興行数字）の記載がないため、themes に「ビジネス」は含めない。",
+  "ts": 1795366844.368651,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/214998",
+  "title": "ニコニコで『ガンダムSEED FREEDOM』全編生放送！流れるコメントと一緒に新作前に総復習　月額900円のプレ垢限定で",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Sun, 22 Nov 2026 12:18:17 +0000",
+  "published_ts": 1795349897,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "アニメIPの配信・ビジネスが主題（ニコニコプレミアムの月額会員限定サービス展開、配信期間設定）であり、新作映画の公開に先駇けた配信戦略と興行実績の数字が示されているため、コンテンツ×ビジネスの2分野に該当する。ただし、AIは関わっていないため中程度の確実性。",
+  "ts": 1795366844.368651,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2Z1l0bVU5cW0td2NHbl80RTYteFBrb3RqVXdlOVcyXzA2ei1XcGhOc2NMbnFmSkpZWnVvN1p0bXNRa0FCWVR4MG9CSGFSV18zQkFhaG1LR1p5Zw?oc=5",
+  "title": "『GetBackers 奪還屋』コミックアニメ、生成AI使用に謝罪。新作アニメの制作や、生成AIによるアニメ化ではない - 電撃オンライン",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Sun, 22 Nov 2026 06:24:00 GMT",
+  "published_ts": 1795328640,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ作品（GetBackers）の制作に生成AIが使用されたことに対する謝罪という、コンテンツとAIが主題であり、業界内での重要な事件。AIの不適切使用と制作への影響が核となっている。",
+  "ts": 1795366844.368651,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWtNUXlWTG9jQmhjWHQ0MnFhTkVXRHl5alRJem1KdUtPUHJlMnJBa2RHX2lOcUNiYTQ0dHNwQmFNTVJYb0RDRmNCTlUtTHRfaHBUQVFuSk5Xal9UUzd1NGNlQkZPNEdkcnRFcFpRbmk3YWdmdzh2RlQzcjNkQ25iTkxvY2xGYXg5Vng0YjBwWGhrektBb2tQM2gtdw?oc=5",
+  "title": "『GetBackers -奪還屋-』告知映像で謝罪 生成AI使用のアニメ表現 YouTubeボイスコミックシリーズ説明不足で騒動 - 産経ニュース",
+  "source": "Googleニュース(sankei.com)",
+  "sources": [
+   "Googleニュース(sankei.com)"
+  ],
+  "published": "Sun, 22 Nov 2026 06:01:09 GMT",
+  "published_ts": 1795327269,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ作品『GetBackers -奪還屋-』の告知映像における生成AI使用が主題。コンテンツ（アニメ）とAI（生成AIの使用と説明不足による騒動）が絡む記事であり対象。",
+  "ts": 1795366844.368651,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/214933",
+  "title": "バンダイが明かす「たまごっち」が世界でブームを巻き起こせる理由　売上の半数は海外、発売30周年当日にNYタイムズスクエア初ジャック",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Sun, 22 Nov 2026 05:08:23 +0000",
+  "published_ts": 1795324103,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "たまごっちIPの海外売上が全体の50%を超える実績値と、バンダイナムコのライセンスアウト強化戦略、タイムズスクエアのジャックなど海外展開に関わる経営的な施策が主題であり、コンテンツ×ビジネスの2分野が揃っている。AIは関与しない。",
+  "ts": 1795366844.368651,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/global/sxsw-partnership-egypt-uth-festival-youth-culture-1236955220/",
+  "title": "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sun, 22 Nov 2026 09:41:26 +0000",
+  "published_ts": 1795340486,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "映像・音楽・クリエイター産業に関わるフェスティバルパートナーシップの提携発表で、エジプト代表団の派遣やプログラミング企画といった国際的なビジネス協業が主題。ただし契約金額や売上実績の数字が無いため信頼度は中程度。",
+  "ts": 1795366844.368651,
+  "is_new": true
+ },
+ {
+  "url": "https://news.denfaminicogamer.jp/news/261122e",
+  "title": "【1700円→680円】キャンピングカーを自分好みにカスタマイズできるゲーム『Camper Van: Make it Home』の60%オフセールがSteamで開催中。犬や猫、イグアナといったペットを飼うことも可能",
+  "source": "電ファミニコゲーマー",
+  "sources": [
+   "電ファミニコゲーマー"
+  ],
+  "published": "Sun, 22 Nov 2026 09:46:45 +0000",
+  "published_ts": 1795340805,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "インディーゲームのセール告知が主体だが、ゲームはコンテンツ領域に属し、割引率や売上への影響を記す点でビジネス的な側面も軽微ながら含まれるものの、記事の主目的は「今セールが開催中」という販売情報告知であり、実績数字や経営の実質的な動きが主題ではないため判定が微妙な事例。",
+  "ts": 1795366844.368651,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196/",
+  "title": "Neon-Backed Biopic ‘Caesar,’ About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Sun, 22 Nov 2026 09:28:22 +0000",
+  "published_ts": 1795339702,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "実写映画の制作発表（監督・キャスト・製作委員会）が主題であり、コンテンツに該当するが、AIは記事に登場しない。ビジネスについては、制作資金・スタジオの国際提携・配給社（Neon）といった取引構成が明記されており、単なる制作発表を超えて映像制作の国際的なビジネス体制が記事の実質の一部となっているため、themes にビジネスを含める。ただし、非アニメの実写映画であり、業界地図を揺るがす大型M&Aではなく、AIの絡みもないため、label は「対象」だが confidence は「中」とする。",
+  "ts": 1795366844.368651,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EcXBhRnloUWotR3NPSlA5aGttd2hGd0RrMVFKZS1KckIzd2xWOHJna3g4SEQwRzlfM2VXbGZIcTlUS2kyNVV1Sjg1Q3I0TF9HeGkyWTdrVUliSDJxN0RjdGZqQVVfWGdFLUE?oc=5",
+  "title": "『GetBackers -奪還屋-』告知映像で謝罪 生成AI使用のアニメ表現 YouTubeボイスコミックシリーズ説明不足で騒動 - オリコンニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Sun, 22 Nov 2026 06:03:53 GMT",
+  "published_ts": 1795327433,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメIPである『GetBackers』の告知映像で生成AIが使用され、その使用が明確にされていなかったために騒動が生じた事案。コンテンツ（アニメ表現）とAI（生成AI使用）の両分野が主題であり、対象となる。",
+  "ts": 1795366844.368651,
+  "is_new": true
+ },
+ {
+  "url": "https://forbesjapan.com/articles/detail/108559",
+  "title": "『GTA 6』、発売日までの売上約6064億円──シリーズの育ての親「ハウザー兄弟」を潤した契約に迫る",
+  "source": "Forbes JAPAN",
+  "sources": [
+   "Forbes JAPAN"
+  ],
+  "published": "2026-11-21T12:40:00+09:00",
+  "published_ts": 1795232400.0,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲームIPの新作『GTA 6』の発売初日から発売日までの売上高（37億9000万ドル≈6064億円）という新規の実績数字が主題であり、加えてシリーズ開発者ハウザー兄弟の利益分配契約といった経営取引の背景を掘り下げているため、コンテンツ×ビジネスに該当する対象記事。",
+  "ts": 1795366844.368651,
   "is_new": true
  }
 ]
