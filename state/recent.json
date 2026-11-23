@@ -42,153 +42,6 @@
   "updated": false
  },
  {
-  "url": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-of-the-reaping-opening-day-1236954987/",
-  "title": "Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Scores $56 Million on Friday, ‘I Play Rocky’ Follows With $3.8 Million",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sat, 21 Nov 2026 16:42:06 +0000",
-  "published_ts": 1795279326,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "『ハンガー・ゲーム』最新作の初週末興行収入（$56M金曜日、$120M見込み）など、Box officeの新規数字と世界累計興収が主題であり、コンテンツ×ビジネスに該当する。実写映画だが興行成績の数字ニュースは業界重要情報として対象。",
-  "ts": 1795280454.416666,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://www.forbes.com/sites/katienorth/2026/11/21/how-grease-fueled-paul-mccartneys-billion-dollar-net-worth/",
-  "title": "How ‘Grease’ Fueled Paul McCartney’s Billion-Dollar Net Worth",
-  "source": "Forbes(Hollywood)",
-  "sources": [
-   "Forbes(Hollywood)"
-  ],
-  "published": "Sat, 21 Nov 2026 10:30:00 -0500",
-  "published_ts": 1795275000,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ポール・マッカートニーが著名なミュージカル『Grease』の出版権を買収した資産/版権ビジネスが主題であり、コンテンツ（舞台作品・映画化IP）とビジネス（出版権の買収・資産価値）の両分野を満たす。",
-  "ts": 1795280454.416666,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/214862",
-  "title": "公開初日にIMAX上映で映像乱れが発生、劇場アニメ『魔法使いの夜』即日復旧で招待券対応へ",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sat, 21 Nov 2026 12:02:29 +0000",
-  "published_ts": 1795262549,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "劇場アニメの公開初日における技術トラブルと対応（上映日変更ではなく即日復旧＋招待券配布）が報道の中心。コンテンツ（劇場アニメ）は明確だが、ビジネス的には興行成績・配給契約・出資などではなく、テクニカルサポート対応であり、ビジネスの主題性が弱く、判定が微妙。",
-  "ts": 1795280454.416666,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/markets-festivals/obese-monkey-weight-loss-drug-guinea-pig-boltrim-1236954925/",
-  "title": "Obese Monkey Becomes a Weight-Loss Drug Guinea Pig in ‘Boltrim’ at India’s WAVES Film Bazaar",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sat, 21 Nov 2026 12:32:07 +0000",
-  "published_ts": 1795264327,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "映画制作プロジェクト『Boltrim』の資金調達状況（総予算120万ドル中32万ドル確保）と国際共同製作パートナー探しが主題であり、コンテンツ（映画制作）とビジネス（融資・提携）の2分野が該当する。ただしAIは関連せず、実写映画で非アニメだが、映画祭での製作発表と資金確保の数字が主題なため対象とした。",
-  "ts": 1795280454.416666,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/kate-middleton-documentary-heal-release-date-trailer-1237230712/",
-  "title": "Princess Of Wales Documentary ‘Heal’ Set At BBC & NBC; Special About Kate Middleton’s Cancer Journey Gets Release Date & Trailer",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sat, 21 Nov 2026 12:00:00 +0000",
-  "published_ts": 1795262400,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "BBCとNBCによるドキュメンタリー番組の制作・放送決定であり、コンテンツ（映像作品）とビジネス（配信プラットフォームの放送・配信戦略、番組制作・配給）の両分野が主題。AIは関わらない。",
-  "ts": 1795280454.416666,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/tv/news/princess-kate-cancer-documentary-premiere-dates-1236954745/",
-  "title": "Princess Kate Cancer Documentary ‘Heal’ Sets BBC, NBC and International Premiere Dates",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sat, 21 Nov 2026 12:00:00 +0000",
-  "published_ts": 1795262400,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "ドキュメンタリー映像作品の複数プラットフォーム（BBC、NBC、Peacockなど）での配信・放映決定と国際配信戦略が主題であり、コンテンツ×配信ビジネスに該当する。ただしAIは関わらず、また非アニメ映像ながら業界全体を揺るがす大型ニュース・興行数字とも言えないため信頼度は中程度。",
-  "ts": 1795280454.416666,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://deadline.com/2026/11/michael-jackson-biopic-michael-skipping-baftas-1237230863/",
-  "title": "Michael Jackson Biopic ‘Michael’ Skipping BAFTAs",
-  "source": "Deadline",
-  "sources": [
-   "Deadline"
-  ],
-  "published": "Sat, 21 Nov 2026 09:47:11 +0000",
-  "published_ts": 1795254431,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "実写映画の興行成績（十億ドル規模のヒット作）とBAFTA受賞戦略に関わる配給・マーケティングの意思決定が主題であり、コンテンツ×ビジネスに該当する。",
-  "ts": 1795280454.416666,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106/",
   "title": "‘American Psycho’ Gets Axed: Luca Guadagnino Confirms His Adaptation Is “Not Happening”",
   "source": "Deadline",
@@ -985,7 +838,8 @@
   "confidence": "高",
   "reason": "ゲームIPの予約販売実績（売上高・販売数）という明確な数字が主題であり、コンテンツ（ゲーム）とビジネス（販売実績・市場規模）の2分野が揃っているため対象。",
   "ts": 1795424443.5902112,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRlFHaVY4WDNfYldBM2hnWGpTejBLOFROeTBjaEU1TWZLdnFGWGl6SEcwSTMyVnMtMlotZTZTUWd0N0pCUHc1U1Z0OXFZVHJxNUZMZG9PUXlEWXA5U2IwWkVYVVZWWUpPSnZrekQyZWlXZmF5ZENYdkhod1RtLTlFMFFyX2Y2NDkyVWxBcl9WRUJSMG1PUWtfUFlxZTRLaTR6bHBiYnRB?oc=5",
@@ -1006,7 +860,8 @@
   "confidence": "高",
   "reason": "AI企業がインド映像市場向けにAI映像制作スタジオを立ち上げたニュース。コンテンツ（ドラマ制作）×AI（生成AI映像制作）×ビジネス（新サービス/市場展開）の3分野が揃う最優先案件。",
   "ts": 1795424443.5902112,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/box-office/you-can-see-everything-crosses-100-million-global-box-office-1236955393/",
@@ -1026,7 +881,8 @@
   "confidence": "高",
   "reason": "ドキュメンタリー映画の全世界興行収入が1億ドルを突破した新規の数字ニュースであり、映像コンテンツとビジネス（興行成績）の両分野が主題であるため対象。AIは関与していない。",
   "ts": 1795424443.5902112,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM0NHb2d5SGNUTkM2eC0tTEFhMGVRZGNobjJ5X0tvam9iUV9Hd0ctT2FEbzU1cWRFbzNCeGJ3ZUpvT0dGMVZ2M2VkVUhGT01nTUV6YXdxQ1dIclQwVlBkSURqQUxLTzdNQTgtS0pSTWpUTGd1UWluelNlcW9YUFhLcmwya0NzdlhtZnVreGVrdXFSUWhUUW9TazYxd3FRcW1UdUllWnRYRjNHaERQc1NfOFpFZFJfY2d0dzNzcExUaWpPRlp3bV9NM094RlI2ejFaMDF1dE55bGE3bUlvaVYyOXdtOEktSGtjcjlz?oc=5",
@@ -1047,7 +903,8 @@
   "confidence": "高",
   "reason": "記事は映像・クリエイティブ業界におけるAIの浸透と、それに伴う著作権・補償をめぐる問題を主題としており、コンテンツ産業・AI技術・ビジネス上の権利・規制が三点で揃う対象記事である。",
   "ts": 1795424443.5902112,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/261123j",
@@ -1067,6 +924,328 @@
   "confidence": "中",
   "reason": "ゲーム（コアなコンテンツ領域）のセール価格告知が主体で、劇場アニメ公開との関連は付随的言及に過ぎず、新作発表やメディアミックス展開の告知に近い内容だが、ゲーム企業の販売促進施策（割引戦略）という経営判断を含むため厳密には対象か対象外か判断が分かれる可能性がある。",
   "ts": 1795424443.5902112,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://www.cartoonbrew.com/box-office-report/cat-in-the-hat-wildwood-hexed-box-office-269685.html",
+  "title": "‘The Cat In The Hat’ Hits $70M Worldwide As ‘Wildwood’ Passes ‘The Boxtrolls’s’ Domestic Total",
+  "source": "Cartoon Brew",
+  "sources": [
+   "Cartoon Brew"
+  ],
+  "published": "Mon, 23 Nov 2026 15:55:30 +0000",
+  "published_ts": 1795449330,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメーション映画（The Cat in the Hat、Wildwood）の北米・世界興行収入の実績数字が主題であり、コンテンツとビジネスが揃っているため対象。新たに判明した興行成績の報道であり、速報的なBox office数字ニュース。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "http://animationbusiness.info/archives/17264",
+  "title": "アニプレックスがコミスマと資本業務提携、セプテーニは全株式売却",
+  "source": "アニメーションビジネス・ジャーナル",
+  "sources": [
+   "アニメーションビジネス・ジャーナル"
+  ],
+  "published": "Mon, 23 Nov 2026 11:03:14 +0000",
+  "published_ts": 1795431794,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニプレックスとコミスマ（マンガ配信・アニメ制作）の資本業務提携、セプテーニの株式売却という経営取引が主題であり、アニメ・マンガというコア領域のコンテンツ企業のM&A・出資・経営統合を扱うため、コンテンツ×ビジネスに該当する。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50VWYyU2w3RlBTekw0ajhOb1Z2QmEyU3NXdEZUN2tQRVFnVHZIMUg4cjdlVUNKb2VPV0twamV2RGlCYjdTeXNXcURLVEpWbGVYaC1qbDgtUU1pNkItZnVCZWpFZWp0d2o5UF9vVHBsMmZkcnczSFNaX2xLako0OVE?oc=5",
+  "title": "能登の祭りをアニメに! 中高生と大学生がタッグ組み“生成AI”活用（MRO北陸放送） - Yahoo!ニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Mon, 23 Nov 2026 09:35:24 GMT",
+  "published_ts": 1795426524,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "地方の学生グループがアニメ制作に生成AIを活用する地域創生プロジェクトであり、コンテンツ（アニメ）とAI（生成AI活用）は明確だが、ビジネス的な取引・投資・売上などの実質が記事に含まれる可能性が低いため、単なる教育・創作活動の報道に留まる恐れがあり判定に保留余地がある。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnRLQzgyRVhxNlpockgzTS1yejY0WVNqR25rbERnbko3TU5qWk1uVEhuZ1dqMmM0cG5SR254cEhOc180cTF5d0lweUdlbHBjLXBXa1lTQWtxTkpIemtRd0lTQlZpRHBrbTlHdkFhSGwybTZ0eG5JWGlQYzl3bEJDUnlwZGdjTms?oc=5",
+  "title": "『パラサイト』『可能な愛』…韓国映画数百本翻訳「AIは速くても良い翻訳には時間と手間」 - 조선일보",
+  "source": "Googleニュース: AI 吹き替え OR 翻訳 アニメ OR 映画",
+  "sources": [
+   "Googleニュース: AI 吹き替え OR 翻訳 アニメ OR 映画"
+  ],
+  "published": "Mon, 23 Nov 2026 15:40:00 GMT",
+  "published_ts": 1795448400,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "映像作品（韓国映画）の翻訳・字幕制作にAI技術が関わる事例を、実務的な課題や人手との比較を通じて掘り下げた記事であり、コンテンツ×AI の主要素が揃っている。ただし業界全体を揺るがす大型ニュースではなく、単一の翻訳事例に基づく考察のため確度は中程度。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXFXelJKVld5YnBvaE9xUVhvdG9jenJzekJ4R3pzVHFGbGJ4Nl9tTVdWMUJ1U1ZSRko3S0E3RDE5LTNScjBjQ1FHU0pNRFFsdkhXc015TlByQkJDRHJ1UTlwc3dNTGlJaFgwejJvUi1HNHpFSGl6Q2VsdmxsOUROUk0yQURqMDM3TzBQT3pTQi11cGxINGw5SENPRTVJemlka3ZrSGxkcTVEbWoxcTY0aHRkUG04SU1SWlVj0gG7AUFVX3lxTE9zV3oxLWFiWGVlOGZtOW9yTmVCUk56YXQyaGNIczFXTUZvWTJWanpTcUpKVENzVnpQYnNjXzFTaW9ha2FWZFZ1b1Nia1VfN3VqUi1rVDVQa1JVWjlCWjBkTE14SFZ3YlZCMUEwV2xacTVObm1QSFFtRDBCZW5ydWloSHo0cVBpVERCektLTDQ4QVZMcWNmckZiaHVTYXpKTVRHRFpZakJSZFJtSTRfa2ZwS3hhZ2FwelRQZEU?oc=5",
+  "title": "Netflix AI clause divides Germany's dubbing industry over voice training rights - DW.com",
+  "source": "Google News: AI dubbing OR localization film OR anime",
+  "sources": [
+   "Google News: AI dubbing OR localization film OR anime"
+  ],
+  "published": "Mon, 23 Nov 2026 11:06:12 GMT",
+  "published_ts": 1795431972,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Netflixが生成AIで配信作品の吹き替え制作を自動化する際の音声学習権をめぐり、ドイツの吹き替え業界で紛争が生じている事例。映像コンテンツ産業（コンテンツ）×生成AIの実装（AI）×配信企業の取引/権利問題（ビジネス）が揃う。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOREFSVVpvV1A2cVVnbUlJOFFrLWZUemwxV2hQRjVJMVZ4WncxaUhsVmVjNEM5YmlwY2JmOFFKdjJFREF5X1R0Q1dTMXQzVEVwTnMtV0xHa0FsTXhsZzdTcTZtd1hlYkJxRWtkTUsyVTBVTzNGRU9WT3UxRGdtbFl2Q3lNQW1lM19UeGdRZVdDMGFvOXdUc2s4dENlYUJPVlo2UmpLbVZockI0UE01dEFNNW5SZw?oc=5",
+  "title": "Ridley Scott's franchise adds female-led 'Blade Runner 2099' TV series - Reuters",
+  "source": "Googleニュース(reuters.com/lifestyle)",
+  "sources": [
+   "Googleニュース(reuters.com/lifestyle)"
+  ],
+  "published": "Mon, 23 Nov 2026 11:10:50 GMT",
+  "published_ts": 1795432250,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "Ridley Scottが手がけるSF映画シリーズの新TV作品化は映像制作のビジネス展開（コンテンツ＋ビジネス）だが、AIの実質的言及や業界全体の構造変化が不明なため、より詳しい記事内容（契約金額・配信戦略・制作予算など）の確認が必要。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/the-intellectual-property-corporation-executive-team-1237230529/",
+  "title": "The Intellectual Property Corporation Unveils Executive Team Following Sony Split",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 23 Nov 2026 16:46:00 +0000",
+  "published_ts": 1795452360,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "映像制作企業Sonyからの独立とそれに伴う経営体制の発表が主題であり、新規の経営ニュース＋制作契約（NetflixやHuluとの案件）が含まれているためコンテンツ+ビジネスに該当するが、AI要素がなく日本のアニメ業界とも直接関係がないため中程度の優先度。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sTXFPNEFvVmlfRkN1MFRsaFVlel90aEp6TkJ2X2RZREszWmJvajZ1ZWx6NGZrSElJc011bXp0MGxfVFF1OWJkR2htd0pNSGkwUnF2WFhfaWxuS25hOHNVTzVFRFFPOHNIUS1WV1BR?oc=5",
+  "title": "能登の祭りをアニメに！ 中高生と大学生がタッグ組み“生成AI”活用 - au Webポータル",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Mon, 23 Nov 2026 09:37:16 GMT",
+  "published_ts": 1795426636,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "その他",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "能登の祭りをテーマにしたアニメ制作に生成AIを活用する教育/制作プロジェクトであり、コンテンツとAIの2分野は該当するが、ビジネス的な数字や取引がなく、また学生による制作プロジェクトのため商業規模で業界への影響が不明確であるため。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/digital/news/buzzfeed-chris-poydenis-chief-revenue-officer-cofounder-influential-1236955952/",
+  "title": "Byron Allen’s BuzzFeed Hires Chris Poydenis, Co-Founder of Creator Marketing Agency Influential, as Chief Revenue Officer",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Mon, 23 Nov 2026 16:14:26 +0000",
+  "published_ts": 1795450466,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "デジタルメディア/ストリーミングコンテンツプラットフォームであるBuzzFeedの経営人事と戦略転換が主題。CEO採用、売上責任者の配置、事業再構築、赤字や人員削減などの経営数字が報じられており、コンテンツ×ビジネスに該当する。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/dbloom/2026/11/23/spin-master-on-building-paw-patrol-into-a-global-pack-of-hits/",
+  "title": "Spin Master On Building ‘Paw Patrol’ Into A Global Pack Of Hits",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Mon, 23 Nov 2026 09:00:00 -0500",
+  "published_ts": 1795442400,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Paw PatrolというグローバルIPの事業展開・フランチャイズ戦略を、玩具企業Spin Masterが長年にわたって構築・進化させる過程を扱っており、コンテンツ（キャラクターIP・映像作品）とビジネス（グローバル展開・フランチャイズ戦略・市場維持）が主題となっているため。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/frontline-one-in-a-million-youtube-release-1237231431/",
+  "title": "Frontline To Premiere ‘One In A Million’ On YouTube Before PBS Broadcast, In A First For Award-Winning Documentary Series",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 23 Nov 2026 16:00:00 +0000",
+  "published_ts": 1795449600,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ドキュメンタリー映画（コンテンツ）がYouTubeでの事前配信という配信戦略（ビジネス）を実行する初の試みを報じており、コンテンツ×ビジネスの要件を満たす。ただし実写ドキュメンタリーであり、AIは関係なく、配信戦略自体の経営的規模が大型かは記事から明確でないため信頼度は中。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/queer-film-movie-wrong-people-emily-in-paris-dop-cast-1237231529/",
+  "title": "Sixty Years In The Making, Queer Thriller ‘The Wrong People’ Is Now In Post With ‘The Affair’ & ‘Emily In Paris’ DoP Directing",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 23 Nov 2026 15:27:55 +0000",
+  "published_ts": 1795447675,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "実写映画プロジェクトであるが、ポストプロダクション完了間近という制作進行のニュースであり、配給権（Peccadillo）の取得や製作体制が主題。ただし映像業界全体を揺るがす大型M&Aではなく、個別プロジェクトの制作進捗報告であるため、コンテンツ+ビジネス（配給・製作体制）で対象とするが、AIの要素がなく非アニメの個別映画プロジェクトであるため信頼度は中程度。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY3pDUjRydFh5MHdzanRVUlc5ZG1ZUnRqeVhGT0tfbzRqc0xRZkk2QkpYNEtaVjRmU056TWU0V1RIeUhabkRsYmNvZE4wNXVKcFVqeG1JVVo5WmFzZmFINEc3eVVFTm5kcjRHVFk5dnlSM1h2dkx1N200cXpHb3Naa2ItQTNycGJEbk44?oc=5",
+  "title": "ガンダムとサンリオが語り尽くす 世界へ広がるIP共創戦略とは - 日経クロストレンド",
+  "source": "Googleニュース(nikkei.com)",
+  "sources": [
+   "Googleニュース(nikkei.com)"
+  ],
+  "published": "Mon, 23 Nov 2026 15:00:00 GMT",
+  "published_ts": 1795446000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "ガンダムとサンリオという大型IPの共創戦略を対象とした記事で、IP事業の経営・戦略が主題であり、コンテンツ×ビジネスに該当するが、AI要素が明示されていないため。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://forbesjapan.com/articles/detail/108540",
+  "title": "経営・戦略 2026.11.23 おもちゃのサブスクで廃棄100トン回避　育児の悩みを解く循環経済",
+  "source": "Forbes JAPAN",
+  "sources": [
+   "Forbes JAPAN"
+  ],
+  "published": "2026-11-23T18:15:00+09:00",
+  "published_ts": 1795425300.0,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "おもちゃのサブスクサービス『And TOYBOX』の8年間の運営データ（貸出点数15万点超、利用世帯5715、廃棄回避100トン等）を集計・発表した記事。ゲーム・玩具などのコンテンツIPを対象とした事業の実績数字とビジネスモデルが主題であり、コンテンツ×ビジネスに該当する。AIは触れられていない。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://deadline.com/2026/11/silverback-films-scholey-fothergill-stepping-back-ceo-1237231539/",
+  "title": "Keith Scholey & Alastair Fothergill Stepping Back From CEO Duties At ‘Our Planet’ Producer Silverback",
+  "source": "Deadline",
+  "sources": [
+   "Deadline"
+  ],
+  "published": "Mon, 23 Nov 2026 15:00:00 +0000",
+  "published_ts": 1795446000,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "自然史ドキュメンタリー製作会社Silverback Filmsの経営体制刷新（CEO交代・役員人事）とBanijay傘下での組織再編が主題であり、映像制作企業の経営・人事ニュースとしてコンテンツ＋ビジネスに該当する。",
+  "ts": 1795453253.76612,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbEV5WXY2RU81bXBvUThJLVlEdGUtWmVUTVp5ei02REtRXy1UeWppZ0NkOXB4TGpmcy1SRUxwUDN3LWdjNThUcy1RM1ZpX2s0Z3I1WTZscXg1elNLcUZlQTNYaUZSY2NHRUdLUTRmakNrbi1UVVdJa2ctTjdYQzdPVldfb1pPRWpOTFR1dFNR?oc=5",
+  "title": "『GetBackers -奪還屋-』告知映像で謝罪 生成AI使用のアニメ表現 YouTubeボイスコミックシリーズ説明不足で騒動 (オリコン) - Yahoo!ニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Sun, 22 Nov 2026 05:09:19 GMT",
+  "published_ts": 1795324159,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメIPの告知映像で生成AIの使用と説明不足の騒動という、コンテンツとAIの両方が主題であり、謝罪という事実の速報である。",
+  "ts": 1795453253.76612,
   "is_new": true
  }
 ]
