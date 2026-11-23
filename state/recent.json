@@ -105,48 +105,6 @@
   "updated": false
  },
  {
-  "url": "https://0115765.com/archives/213548",
-  "title": "バンダイナムコ、次なる成長市場として「東南アジア」に照準　現地エンタメ企業の株式42.1％取得、IP事業の拡大念頭に",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sat, 21 Nov 2026 06:55:51 +0000",
-  "published_ts": 1795244151,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "バンダイナムコによるIP事業拡大を目的とした東南アジアのエンターテインメント企業への42.1%株式取得という、コンテンツ企業のビジネス戦略投資であり、M&A・提携・成長市場展開が主題。AIは関わらない。",
-  "ts": 1795280454.416666,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.denfaminicogamer.jp/news/261121l",
-  "title": "世界の存亡をかけた血みどろTPS『Gears of War: E-Day』がSteamとXboxで30％オフの6860円に。地底から現れた「ローカスト」が人類を襲った最初の日を描く、セールは12月3日まで",
-  "source": "電ファミニコゲーマー",
-  "sources": [
-   "電ファミニコゲーマー"
-  ],
-  "published": "Sat, 21 Nov 2026 06:57:17 +0000",
-  "published_ts": 1795244237,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "ゲームIPの販売セール企画であり、割引価格・販売チャネル（Steam/Xbox）が主題だが、これは商品の価格告知・販促情報に該当するため、ビジネスの実質的な主題（契約金額・売上実績・出資・市場規模など経営の数字や取引）を欠く。しかし販売施策そのものはビジネス領域に関わり、ゲームというコア領域のコンテンツとの組み合わせで、取りこぼし最小化を優先し判定した。",
-  "ts": 1795280454.416666,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/film/markets-festivals/obese-monkey-weight-loss-drug-guinea-pig-boltrim-1236954925/",
   "title": "Obese Monkey Becomes a Weight-Loss Drug Guinea Pig in ‘Boltrim’ at India’s WAVES Film Bazaar",
   "source": "Variety",
@@ -712,7 +670,8 @@
   "confidence": "高",
   "reason": "韓国興行ランキングの週末興収数字と累計興収が主題であり、複数の映画作品（アニメ含む）の新規実績値を報道している。コンテンツ（映画/アニメ）とビジネス（Box office興行成績の数字）が揃っており対象。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/hailee-steinfeld-confirms-avengers-doomsday-1237231382/",
@@ -732,7 +691,8 @@
   "confidence": "中",
   "reason": "実写映画『Avengers: Doomsday』のキャスティング発表であり、一見は制作発表に見えるが、Disney Animation『Hexed』のプロモーションとの同時発表という企業戦略的なメディア活用（クロスプロモーション）が主題となっており、大型IPの映画化と配給・マーケティングの実務が絡むため、コンテンツ×ビジネスの対象領域に該当する。ただし数字や取引金額はなく、ビジネス要素は戦略的な告知手法に限定される。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-marketing-1237231246/",
@@ -752,7 +712,8 @@
   "confidence": "高",
   "reason": "大型映画プリクエル『Sunrise on the Reaping』の興行成績（国内1億2000万ドル、世界2億2500万ドル）が記事の中心で、Liongateのマーケティング戦略転換と経営幹部人事がフランチャイズ復活に果たした役割を詳述する経営分析記事であり、コンテンツ×ビジネスの主要分野に該当する。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/markets-festivals/spain-coproductions-incentives-india-waves-film-bazaar-1236955634/",
@@ -772,7 +733,8 @@
   "confidence": "高",
   "reason": "スペインとインドの映画製作における国際共同制作の促進、税制優遇措置、制作サービス、配給などの商業パートナーシップをめぐるビジネスオポチュニティが主題であり、コンテンツ産業の国際ビジネス展開と取引の枠組みが中心的に扱われている。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/indie-film-box-office-elisnore-cameron-winter-at-carnegie-hall-1237231210/",
@@ -792,7 +754,8 @@
   "confidence": "高",
   "reason": "米国の興行成績（Box Office）に関する速報記事。複数の映画作品の週末興行成績・興収数字が主題であり、コンテンツ＋ビジネス（興行実績の数字）に該当するため対象。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSQU1rWC1zU2w4elpNVDQtYU1hVkhPLU4zRTRnOWY4dXlsVlozZURtM3J0OFQyS3pxaUlpRUo1LUxleXRMLXlKMUVTaXplUW8t?oc=5",
@@ -812,7 +775,8 @@
   "confidence": "高",
   "reason": "アニメIPの公式が告知映像で生成AIを使用し謝罪する事件であり、コンテンツとAI双方が主題。作者への事前共有の欠落は権利・ガバナンスの問題として映像業界のAI運用に関わる重要な事例。ビジネスの実質的主題はないが、コンテンツ×AIの中心的な論点。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/box-office/china-box-office-the-hunger-games-sunrise-on-the-reaping-1236955624/",
@@ -832,7 +796,8 @@
   "confidence": "高",
   "reason": "『ハンガー・ゲーム』を含む中国興行成績の週末数字ニュースであり、複数作品の興行収入（開封、累計、週末順位）が主題であるため、コンテンツ＋ビジネス（興行ビジネスの数字）に該当する。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://0115765.com/archives/215011",
@@ -852,7 +817,8 @@
   "confidence": "中",
   "reason": "日本の漫画作品（コンテンツ）が中国の配信プラットフォームのランキングで上位を獲得した市場実績（ビジネス）を報じており、2分野該当で対象。ただし、ランキング順位という数字の具体性は高いものの、配信契約金額や売上実績ではなく、あくまでランキング指標であるため信頼度は中程度。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/news/hunger-games-another-movie-isnt-coming-anytime-soon-1236955499/",
@@ -872,7 +838,8 @@
   "confidence": "高",
   "reason": "『ハンガー・ゲーム』フランチャイズの最新作『Sunrise on the Reaping』が1億2000万ドルの初週末興行収入を記録し、シリーズ続編の可能性をめぐる分析記事。興行成績の具体的な数字とスタジオ経営の意思決定、原作者スーザン・コリンズの創作ペースに基づくフランチャイズ戦略が主題であり、コンテンツ×ビジネス領域に該当する。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-11-22/martial-arts-manhwa-yeolhyeol-gangho-to-end-next-year-after-33-years/.244079",
@@ -892,7 +859,8 @@
   "confidence": "高",
   "reason": "韓国漫画（Webtoon）の長期連載終了と、IP展開（ゲーム130万プレイ、アニメ化プロジェクト、実写化など）の進行状況が主題であり、コンテンツとビジネスの両分野に該当するため。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGxJZEl4UjFWMHdlRVZLaDA0VmdQUjA2cHE2QU9fcWRYWDZsdE5pb1l6a1drQjZpekVnM3UtR3MtZEhaa0JGVkN4VzNHQkd0RHk3QkNFaUlHWWZlRWE1RkFPVkJwSlNKMHpLZWZBcGYzUFBjcnhZQVZKVFFWZF9KejZlSUdnOVZNZW5vWTJiVGEyNHJwTXRrVFlkT1otMm1nUlg4U2FSWQ?oc=5",
@@ -912,7 +880,8 @@
   "confidence": "中",
   "reason": "中国ドラマの国際展開・市場支配という映像コンテンツの業界地図を揺るがす大型トレンド記事であり、コンテンツ＋ビジネスに該当するが、本文が提示されていないため具体的な数字・取引・経営戦略の有無が確認できず信頼度は中程度。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-11-22/chainsaw-man-ranks-no.2-on-bookscan-october-adult-graphic-novel-list-in-u.s/.244062",
@@ -932,7 +901,8 @@
   "confidence": "高",
   "reason": "漫画（コンテンツの必須軸）のアメリカ市場での売上ランキング数字が主題であり、ビジネス（興行/売上実績）が明確に該当するため、コンテンツ×ビジネスで対象。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/todd-boehly-daniel-katz-trading-desk-a24-math-1237231214/",
@@ -952,7 +922,8 @@
   "confidence": "高",
   "reason": "A24という映像配給・制作企業の経営戦略（リスク管理、ポートフォリオ構成、利益構造）とビジネスモデルについて、投資家Boehlyが詳しく解説・分析している記事であり、コンテンツ×ビジネスの深掘り報道に該当する。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/madden-backlash-mark-davis-father-al-portrayal-hurts-1237231216/",
@@ -972,7 +943,8 @@
   "confidence": "中",
   "reason": "実写映画『Madden』の公開をめぐる経営者（NFLチーム所有者）の批判コメント記事。映像コンテンツとしての作品はあるが、主題はMartin Davisの個人的不満・映画批評であり、ビジネス的な数字・契約・興行成績などの実質は薄い。ただしデッドラインが配信する娯楽業界ニュースであり、映画業界の作品評価・反応として一定程度のビジネス関連性を持つ。グレーとも判定可能だが、映像作品の公開に関わる利害関係者のコメント記事として対象に分類。",
   "ts": 1795410043.416255,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/david-leitch-oceans-14-update-lot-motivation-make-sequel-1237231206/",
@@ -992,6 +964,109 @@
   "confidence": "高",
   "reason": "実写映画の大型続編『Ocean's 14』の制作進行状況（監督決定、脚本完成、撮影予定時期、予算承認）という業界ビジネスニュースが主題。非アニメだが、大手スタジオ（Warner Bros.）による大型IPの製作戦略が主題のため対象。AIは実質的に含まれない。",
   "ts": 1795410043.416255,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://0115765.com/archives/215030",
+  "title": "『GTA VI』予約売上の75％がプレステ、Xboxは25％　予約数2450万本、総額約3761億円と推計",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Mon, 23 Nov 2026 06:06:21 +0000",
+  "published_ts": 1795413981,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ゲームIPの予約販売実績（売上高・販売数）という明確な数字が主題であり、コンテンツ（ゲーム）とビジネス（販売実績・市場規模）の2分野が揃っているため対象。",
+  "ts": 1795424443.5902112,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRlFHaVY4WDNfYldBM2hnWGpTejBLOFROeTBjaEU1TWZLdnFGWGl6SEcwSTMyVnMtMlotZTZTUWd0N0pCUHc1U1Z0OXFZVHJxNUZMZG9PUXlEWXA5U2IwWkVYVVZWWUpPSnZrekQyZWlXZmF5ZENYdkhod1RtLTlFMFFyX2Y2NDkyVWxBcl9WRUJSMG1PUWtfUFlxZTRLaTR6bHBiYnRB?oc=5",
+  "title": "EloElo launches AI film studio targeting India’s micro-drama market - Indian Television Dot Com",
+  "source": "Google News: AI film production OR video generation studio",
+  "sources": [
+   "Google News: AI film production OR video generation studio"
+  ],
+  "published": "Mon, 23 Nov 2026 06:31:55 GMT",
+  "published_ts": 1795415515,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "AI企業がインド映像市場向けにAI映像制作スタジオを立ち上げたニュース。コンテンツ（ドラマ制作）×AI（生成AI映像制作）×ビジネス（新サービス/市場展開）の3分野が揃う最優先案件。",
+  "ts": 1795424443.5902112,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/box-office/you-can-see-everything-crosses-100-million-global-box-office-1236955393/",
+  "title": "‘You Can See Everything’ Becomes Rare Documentary to Surpass $100 Million Globally",
+  "source": "Variety(Box Office)",
+  "sources": [
+   "Variety(Box Office)"
+  ],
+  "published": "Sun, 22 Nov 2026 19:57:37 +0000",
+  "published_ts": 1795377457,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "ドキュメンタリー映画の全世界興行収入が1億ドルを突破した新規の数字ニュースであり、映像コンテンツとビジネス（興行成績）の両分野が主題であるため対象。AIは関与していない。",
+  "ts": 1795424443.5902112,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM0NHb2d5SGNUTkM2eC0tTEFhMGVRZGNobjJ5X0tvam9iUV9Hd0ctT2FEbzU1cWRFbzNCeGJ3ZUpvT0dGMVZ2M2VkVUhGT01nTUV6YXdxQ1dIclQwVlBkSURqQUxLTzdNQTgtS0pSTWpUTGd1UWluelNlcW9YUFhLcmwya0NzdlhtZnVreGVrdXFSUWhUUW9TazYxd3FRcW1UdUllWnRYRjNHaERQc1NfOFpFZFJfY2d0dzNzcExUaWpPRlp3bV9NM094RlI2ejFaMDF1dE55bGE3bUlvaVYyOXdtOEktSGtjcjlz?oc=5",
+  "title": "AI Transforms Creative Industries As Copyright And Compensation Battles Grow - Forbes Middle East",
+  "source": "Google News: generative AI content copyright OR licensing",
+  "sources": [
+   "Google News: generative AI content copyright OR licensing"
+  ],
+  "published": "Sun, 22 Nov 2026 09:01:09 GMT",
+  "published_ts": 1795338069,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "記事は映像・クリエイティブ業界におけるAIの浸透と、それに伴う著作権・補償をめぐる問題を主題としており、コンテンツ産業・AI技術・ビジネス上の権利・規制が三点で揃う対象記事である。",
+  "ts": 1795424443.5902112,
+  "is_new": true
+ },
+ {
+  "url": "https://news.denfaminicogamer.jp/news/261123j",
+  "title": "名作ノベルゲーム『魔法使いの夜』のSteam版が半額セールで「6600円→3300円」に。11月20日公開の劇場アニメを観た人も、これから観る人も、未プレイならこの機会に",
+  "source": "電ファミニコゲーマー",
+  "sources": [
+   "電ファミニコゲーマー"
+  ],
+  "published": "Mon, 23 Nov 2026 06:03:40 +0000",
+  "published_ts": 1795413820,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "ゲーム（コアなコンテンツ領域）のセール価格告知が主体で、劇場アニメ公開との関連は付随的言及に過ぎず、新作発表やメディアミックス展開の告知に近い内容だが、ゲーム企業の販売促進施策（割引戦略）という経営判断を含むため厳密には対象か対象外か判断が分かれる可能性がある。",
+  "ts": 1795424443.5902112,
   "is_new": true
  }
 ]
