@@ -105,27 +105,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMUmpVTEEzc3RLX3p6cGI1Sk5jcTJwTjliaXpLLURIdDNmeWVfY3R6RlI1dlF6T2RROFJIWWtqZkxjLU5JZWJzZkV6UWZ2NzFlT0ctNVl3?oc=5",
-  "title": "『GetBackers -奪還屋-』告知映像で謝罪 生成AI使用のアニメ表現 YouTubeボイスコミックシリーズ説明不足で騒動 - オリコンニュース",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Sun, 22 Nov 2026 05:09:00 GMT",
-  "published_ts": 1795324140,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメIPの『GetBackers』が生成AIをアニメ表現に使用し、説明不足で騒動となった件。コンテンツ（アニメ）とAI（生成AI使用）の2分野が揃い、業界の重要な議論ポイント（AI使用の透明性・視聴者への説明責任）を含むため対象。",
-  "ts": 1795366844.368651,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/",
   "title": "‘The Unknown’ Director Arthur Harari Says AI Is a ‘Slippery Slope,’ Though He ‘Had to Use Deepfake Tool’ for Léa Seydoux Double Scene: ‘There Was a Human Behind It’",
   "source": "Variety",
@@ -163,153 +142,6 @@
   "label": "対象",
   "confidence": "中",
   "reason": "アニメIPの配信・ビジネスが主題（ニコニコプレミアムの月額会員限定サービス展開、配信期間設定）であり、新作映画の公開に先駇けた配信戦略と興行実績の数字が示されているため、コンテンツ×ビジネスの2分野に該当する。ただし、AIは関わっていないため中程度の確実性。",
-  "ts": 1795366844.368651,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2Z1l0bVU5cW0td2NHbl80RTYteFBrb3RqVXdlOVcyXzA2ei1XcGhOc2NMbnFmSkpZWnVvN1p0bXNRa0FCWVR4MG9CSGFSV18zQkFhaG1LR1p5Zw?oc=5",
-  "title": "『GetBackers 奪還屋』コミックアニメ、生成AI使用に謝罪。新作アニメの制作や、生成AIによるアニメ化ではない - 電撃オンライン",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Sun, 22 Nov 2026 06:24:00 GMT",
-  "published_ts": 1795328640,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ作品（GetBackers）の制作に生成AIが使用されたことに対する謝罪という、コンテンツとAIが主題であり、業界内での重要な事件。AIの不適切使用と制作への影響が核となっている。",
-  "ts": 1795366844.368651,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWtNUXlWTG9jQmhjWHQ0MnFhTkVXRHl5alRJem1KdUtPUHJlMnJBa2RHX2lOcUNiYTQ0dHNwQmFNTVJYb0RDRmNCTlUtTHRfaHBUQVFuSk5Xal9UUzd1NGNlQkZPNEdkcnRFcFpRbmk3YWdmdzh2RlQzcjNkQ25iTkxvY2xGYXg5Vng0YjBwWGhrektBb2tQM2gtdw?oc=5",
-  "title": "『GetBackers -奪還屋-』告知映像で謝罪 生成AI使用のアニメ表現 YouTubeボイスコミックシリーズ説明不足で騒動 - 産経ニュース",
-  "source": "Googleニュース(sankei.com)",
-  "sources": [
-   "Googleニュース(sankei.com)"
-  ],
-  "published": "Sun, 22 Nov 2026 06:01:09 GMT",
-  "published_ts": 1795327269,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメ作品『GetBackers -奪還屋-』の告知映像における生成AI使用が主題。コンテンツ（アニメ）とAI（生成AIの使用と説明不足による騒動）が絡む記事であり対象。",
-  "ts": 1795366844.368651,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://0115765.com/archives/214933",
-  "title": "バンダイが明かす「たまごっち」が世界でブームを巻き起こせる理由　売上の半数は海外、発売30周年当日にNYタイムズスクエア初ジャック",
-  "source": "アニメ業界ニュース(0115765)",
-  "sources": [
-   "アニメ業界ニュース(0115765)"
-  ],
-  "published": "Sun, 22 Nov 2026 05:08:23 +0000",
-  "published_ts": 1795324103,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "たまごっちIPの海外売上が全体の50%を超える実績値と、バンダイナムコのライセンスアウト強化戦略、タイムズスクエアのジャックなど海外展開に関わる経営的な施策が主題であり、コンテンツ×ビジネスの2分野が揃っている。AIは関与しない。",
-  "ts": 1795366844.368651,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/global/sxsw-partnership-egypt-uth-festival-youth-culture-1236955220/",
-  "title": "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sun, 22 Nov 2026 09:41:26 +0000",
-  "published_ts": 1795340486,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "映像・音楽・クリエイター産業に関わるフェスティバルパートナーシップの提携発表で、エジプト代表団の派遣やプログラミング企画といった国際的なビジネス協業が主題。ただし契約金額や売上実績の数字が無いため信頼度は中程度。",
-  "ts": 1795366844.368651,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.denfaminicogamer.jp/news/261122e",
-  "title": "【1700円→680円】キャンピングカーを自分好みにカスタマイズできるゲーム『Camper Van: Make it Home』の60%オフセールがSteamで開催中。犬や猫、イグアナといったペットを飼うことも可能",
-  "source": "電ファミニコゲーマー",
-  "sources": [
-   "電ファミニコゲーマー"
-  ],
-  "published": "Sun, 22 Nov 2026 09:46:45 +0000",
-  "published_ts": 1795340805,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "グレー",
-  "confidence": "中",
-  "reason": "インディーゲームのセール告知が主体だが、ゲームはコンテンツ領域に属し、割引率や売上への影響を記す点でビジネス的な側面も軽微ながら含まれるものの、記事の主目的は「今セールが開催中」という販売情報告知であり、実績数字や経営の実質的な動きが主題ではないため判定が微妙な事例。",
-  "ts": 1795366844.368651,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196/",
-  "title": "Neon-Backed Biopic ‘Caesar,’ About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin",
-  "source": "Variety",
-  "sources": [
-   "Variety"
-  ],
-  "published": "Sun, 22 Nov 2026 09:28:22 +0000",
-  "published_ts": 1795339702,
-  "themes": [
-   "コンテンツ",
-   "ビジネス"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "中",
-  "reason": "実写映画の制作発表（監督・キャスト・製作委員会）が主題であり、コンテンツに該当するが、AIは記事に登場しない。ビジネスについては、制作資金・スタジオの国際提携・配給社（Neon）といった取引構成が明記されており、単なる制作発表を超えて映像制作の国際的なビジネス体制が記事の実質の一部となっているため、themes にビジネスを含める。ただし、非アニメの実写映画であり、業界地図を揺るがす大型M&Aではなく、AIの絡みもないため、label は「対象」だが confidence は「中」とする。",
-  "ts": 1795366844.368651,
-  "is_new": false,
-  "updated": false
- },
- {
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EcXBhRnloUWotR3NPSlA5aGttd2hGd0RrMVFKZS1KckIzd2xWOHJna3g4SEQwRzlfM2VXbGZIcTlUS2kyNVV1Sjg1Q3I0TF9HeGkyWTdrVUliSDJxN0RjdGZqQVVfWGdFLUE?oc=5",
-  "title": "『GetBackers -奪還屋-』告知映像で謝罪 生成AI使用のアニメ表現 YouTubeボイスコミックシリーズ説明不足で騒動 - オリコンニュース",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Sun, 22 Nov 2026 06:03:53 GMT",
-  "published_ts": 1795327433,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメIPである『GetBackers』の告知映像で生成AIが使用され、その使用が明確にされていなかったために騒動が生じた事案。コンテンツ（アニメ表現）とAI（生成AI使用）の両分野が主題であり、対象となる。",
   "ts": 1795366844.368651,
   "is_new": false,
   "updated": false
@@ -694,28 +526,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM0NHb2d5SGNUTkM2eC0tTEFhMGVRZGNobjJ5X0tvam9iUV9Hd0ctT2FEbzU1cWRFbzNCeGJ3ZUpvT0dGMVZ2M2VkVUhGT01nTUV6YXdxQ1dIclQwVlBkSURqQUxLTzdNQTgtS0pSTWpUTGd1UWluelNlcW9YUFhLcmwya0NzdlhtZnVreGVrdXFSUWhUUW9TazYxd3FRcW1UdUllWnRYRjNHaERQc1NfOFpFZFJfY2d0dzNzcExUaWpPRlp3bV9NM094RlI2ejFaMDF1dE55bGE3bUlvaVYyOXdtOEktSGtjcjlz?oc=5",
-  "title": "AI Transforms Creative Industries As Copyright And Compensation Battles Grow - Forbes Middle East",
-  "source": "Google News: generative AI content copyright OR licensing",
-  "sources": [
-   "Google News: generative AI content copyright OR licensing"
-  ],
-  "published": "Sun, 22 Nov 2026 09:01:09 GMT",
-  "published_ts": 1795338069,
-  "themes": [
-   "コンテンツ",
-   "AI",
-   "ビジネス"
-  ],
-  "type": "深掘り",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "記事は映像・クリエイティブ業界におけるAIの浸透と、それに伴う著作権・補償をめぐる問題を主題としており、コンテンツ産業・AI技術・ビジネス上の権利・規制が三点で揃う対象記事である。",
-  "ts": 1795424443.5902112,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://news.denfaminicogamer.jp/news/261123j",
   "title": "名作ノベルゲーム『魔法使いの夜』のSteam版が半額セールで「6600円→3300円」に。11月20日公開の劇場アニメを観た人も、これから観る人も、未プレイならこの機会に",
   "source": "電ファミニコゲーマー",
@@ -827,8 +637,8 @@
   "sources": [
    "Google News: AI dubbing OR localization film OR anime"
   ],
-  "published": "Mon, 23 Nov 2026 11:06:42 GMT",
-  "published_ts": 1795432002,
+  "published": "Mon, 23 Nov 2026 18:12:32 GMT",
+  "published_ts": 1795457552,
   "themes": [
    "コンテンツ",
    "AI",
@@ -1053,27 +863,6 @@
   "updated": false
  },
  {
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbEV5WXY2RU81bXBvUThJLVlEdGUtWmVUTVp5ei02REtRXy1UeWppZ0NkOXB4TGpmcy1SRUxwUDN3LWdjNThUcy1RM1ZpX2s0Z3I1WTZscXg1elNLcUZlQTNYaUZSY2NHRUdLUTRmakNrbi1UVVdJa2ctTjdYQzdPVldfb1pPRWpOTFR1dFNR?oc=5",
-  "title": "『GetBackers -奪還屋-』告知映像で謝罪 生成AI使用のアニメ表現 YouTubeボイスコミックシリーズ説明不足で騒動 (オリコン) - Yahoo!ニュース",
-  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
-  "sources": [
-   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
-  ],
-  "published": "Sun, 22 Nov 2026 05:09:19 GMT",
-  "published_ts": 1795324159,
-  "themes": [
-   "コンテンツ",
-   "AI"
-  ],
-  "type": "速報",
-  "label": "対象",
-  "confidence": "高",
-  "reason": "アニメIPの告知映像で生成AIの使用と説明不足の騒動という、コンテンツとAIの両方が主題であり、謝罪という事実の速報である。",
-  "ts": 1795453253.76612,
-  "is_new": false,
-  "updated": false
- },
- {
   "url": "https://variety.com/2026/film/markets-festivals/waves-film-bazaar-doc-fireflowers-dutch-co-producer-1236956745/",
   "title": "Berlinale Alum Sreemoyee Singh’s WAVES Film Bazaar Selection ‘Fireflowers,’ About a Mother’s Lost Singing Voice, Boards Dutch Co-Producer (EXCLUSIVE)",
   "source": "Variety",
@@ -1091,7 +880,8 @@
   "confidence": "中",
   "reason": "インド人映画製作者のドキュメンタリー映画『Fireflowers』がオランダの制作会社と共同製作契約を締結し、国際映画祭のマーケットに選ばれたというニュース。映像作品の制作・国際共同製作・映画市場での取引が主題であり、コンテンツ＋ビジネスを満たす。ただしAIは関わらず、金銭取引の具体的な数字も示されていないため、ビジネスの濃度は中程度。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://variety.com/2026/film/box-office/you-can-see-everything-biggest-opening-weekend-for-doc-uk-1236955490/",
@@ -1111,7 +901,8 @@
   "confidence": "高",
   "reason": "ドキュメンタリー映画の初週末興行成績（$3.2 million、英国映画館史上最大など）が主題であり、映像コンテンツ×ビジネス（興行数字）の組み合わせが明確。非アニメ映像だが、Box office成績の具体的な数字報道は取得対象。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-monday-1237231975/",
@@ -1131,7 +922,8 @@
   "confidence": "高",
   "reason": "『ハンガー・ゲーム』シリーズの最新作の初週末興行成績（$119.3M）とその後の見通しを報道した記事で、コンテンツ（映画IP）とビジネス（Box office数字）の両分野が中心主題であり、新たに判明した実績値の報道のため対象に該当します。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.animenewsnetwork.com/news/2026-11-23/getbackers-voice-comic-staff-apologizes-for-generative-ai-use-in-pr-video/.244140",
@@ -1151,7 +943,8 @@
   "confidence": "高",
   "reason": "漫画IPのボイスコミック企画における生成AIの不適切使用と謝罪が主題であり、コンテンツ（漫画・声優コミック）とAI（生成AI使用と開示不足）の2分野が明確に該当するため。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYT1JpXzQ5LVZNQUFza2VEWEZONE1faF90ejQ3NjBwMXYyRXRsM2x3bHV4Yk1CaXhkdlZ3Y2tJeXlBUTdZQzRJTjJyaEQtamhMYlE?oc=5",
@@ -1171,7 +964,8 @@
   "confidence": "高",
   "reason": "グループ保有IPのアニメ製作委員会への出資という、アニメコンテンツに関する企業の投資決定（ビジネス）を報じた記事であり、コンテンツ×ビジネスの2分野が主題に該当するため。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kLURtQ002LTR4b1ZYcXdBTnNwNHRYRnZoNlBzcGpCekIyY3lzNk0zQVNBQVZ3aEJiazNKYjdkWkthY01ITmZycjN0SERvQ2JxaTU3RTRvSQ?oc=5",
@@ -1191,7 +985,8 @@
   "confidence": "中",
   "reason": "石川の祭りをテーマにした学生による生成AIアニメ制作は、コンテンツ×AIの組み合わせだが、ビジネス的な実績（制作費、配信契約、商用化など）が記事に見当たらず、主題が学生プロジェクトの制作発表に近い可能性があるため。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lLXZlU0tURlVnQ2Q5YkFMX1YyaS16LVJoV2h3ZW9fUTNuNThzYmgycW1aemVGM0VCLVNGSnBDeVRoN3NYMmVBWUhyaGpaclJ4Y25qVERTQkF4Y2FfZnhvTC16UzhRbVU1UUpWUjFWVjZWZw?oc=5",
@@ -1212,7 +1007,8 @@
   "confidence": "高",
   "reason": "マンガ・アニメの著作権侵害検知にAI技術が活用され、文化庁が対策システムを推進する政策的な動きで、コンテンツ×AI×ビジネス（規制・政策含む）の3分野が揃う。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HRjhjX0NSRVdnMDVZU2VSX2NmSlhmTXdaVWxtVkk1MTRZYmk2amlyN20tWUhmUE02TDFqZUY4OHNsRTVWOExQTUxCNHVxdVJVUHJKekptV2QtaXZFYXVKeWFzd2VnZw?oc=5",
@@ -1233,7 +1029,8 @@
   "confidence": "高",
   "reason": "アニメ・マンガ（コンテンツ）の著作権侵害検知にAIを用いる文化庁の施策が主題であり、AI技術と著作権・規制（ビジネス/政策）が絡む。3分野が揃う最優先案件。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNblVtejZleWg5cmZUd2tnNzFuX0pJaEJJSHJQYnJudFVkdF8ya0ZteXY2TUVXaUdvenB1UjRrdkJsVTV5Wnprdm51ejhwamNsdjFhLWVLWFBBaFhDNEpaUWZqcXVJaGhkM0RnSkl0SC1penFGT2RzVXBRSjI3VWRsYWRaSDB6SXhSSDdrMnpYRzJTNlJXSWdnQnJWSUVDeENIYm4tZThiZUx1dzZETDhCZk54cVd5NkNidEVGdjBYdXJnRDB3Z1NjZV9n?oc=5",
@@ -1253,7 +1050,8 @@
   "confidence": "高",
   "reason": "アニメIPの制作スタッフが生成AIをPR動画に使用した問題について報道されており、コンテンツ（アニメ関連）とAI技術の使用・影響が記事の主題であるため、両分野を満たす対象記事である。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/espn-monday-night-football-lights-out-bengals-commanders-1237232264/",
@@ -1273,7 +1071,8 @@
   "confidence": "中",
   "reason": "ESPNが放映するNFL（スポーツコンテンツ）の放送中断事象で、メディア配信サービスの運営実績に関わるが、AI技術の関与がなく、またスポーツコンテンツ（非アニメ・非映像作品IP）であり、業界地図を揺るがす大型ニュースでもないため、判定が微妙。ただしテレビ配信事業者の放送トラブルという業界動向として、グレーではなく対象と判定。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://www.cartoonbrew.com/awards/soul-catcher-amanda-strong-pamela-post-269701.html",
@@ -1293,7 +1092,8 @@
   "confidence": "中",
   "reason": "アニメーション短編映画の制作プロセスに関する深掘りインタビューで、ストップモーション制作とCG技術の融合、Indigenous storytelling、5年間の制作過程が主題。AIへの言及は「this era of AI」と一言触れるに留まり、記事の実質的な主題はコンテンツの制作方法論。AIがビジネス両方とも実質的に主題ではないため、コンテンツ+AI扱いだが信頼度は中程度。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1drZHpLeDl4dnRFdnYtdEtzekhoeTZJdnpYRC02WkpsemVyRzVrRG1FREI4Uk5JUmxmZlBoMVRSU2dkQmFSYkk4QVNfcUVHT0VCSWdGTUthN0drZ2N1VkMxc2lwTnJ6ZXhDWGx5THNGUUdpQlBKSXhNLUNBNEFPRi1mejdIQVk?oc=5",
@@ -1313,7 +1113,8 @@
   "confidence": "高",
   "reason": "自社グループ保有IPのアニメ製作委員会への出資という明確なビジネス/投資の決定発表であり、コンテンツ（アニメ）とビジネス（出資）の両分野が主題である。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tRXl6VlZUdi1iMG1ZZHBORE9XNkxGMmhRX3Zobi1wWktKZkFLZDNiazJOcmlNV0RiTUJqYkFyNTJ6NGdkRENTUjVnOA?oc=5",
@@ -1333,7 +1134,8 @@
   "confidence": "中",
   "reason": "生成AIを用いた学生のアニメ制作プロジェクトであり、コンテンツ（アニメ）とAIが主題だが、商業的なビジネス要素や業界への実質的な影響が記事から明確でなく、教育的な取り組み・ポートフォリオの域である可能性が高いため。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JSDBZcmZQVlhRc2hZYW9VMkZHRkE4RlVjellvcENkc1V5bEFMMDdkcV81akZ5bDB6THN4TWlkemUtRkNJalRHQ2pXTHdvbXI5VGhjeHlvNmxLTTJzMTZYdS0wZmpBWjZocjB5ZEtybXVtSzNwbFJkZ19JTkNQUQ?oc=5",
@@ -1353,7 +1155,8 @@
   "confidence": "中",
   "reason": "日本のコンテンツ産業の現状分析を主題とし、ソニーグループの産業内での立場・ビジネス構造（上流から下流までの統合）を論じた深掘り記事。コンテンツ産業全体の市場・経営構造が主題であるため、コンテンツとビジネスの両分野に該当する。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/261124x",
@@ -1373,7 +1176,8 @@
   "confidence": "高",
   "reason": "ゲームIP『チームファイトタクティクス』に関連するバーチャルアイドルグループのデビュー発表で、MAPPAによるアニメーションMV制作、音楽配信、グローバル展開が主題。ゲーム（コアコンテンツ）とメディアミックスの音楽ビジネス、スタジオ制作の提携が絡み、IP関連のマルチメディア展開として対象。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41OFJHRW50ZGNMZHZ1VGt0Ulp5Zm1pNjAxbDhJODdBYzgtMXFJeTh1QldtWldBUVlNSWROdzd4VzVBQ2hmRFFFWlhTYkdmWDBpNzZPdUZOX0tjblRLVjQ3WDZoLUc3bXgzNnc?oc=5",
@@ -1393,7 +1197,8 @@
   "confidence": "高",
   "reason": "アニメ製作委員会への出資という企業の具体的な投資・取引が主題であり、コンテンツ（アニメ）とビジネス（出資額の具体的な記載がある適時開示）の2分野に該当する。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.denfaminicogamer.jp/news/2611242a",
@@ -1413,7 +1218,8 @@
   "confidence": "中",
   "reason": "Discordという大規模プラットフォームの新機能発表で、ゲーム（コンテンツ）の利用シーンでの機能追加であり、有料サブスク（Nitro）向けのビジネス施策も含まれているが、AIが主題に含まれず、機能追加の発表という性質が強く対象の確実性が中程度。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12ZDdrZG5kUWdFMWVEanJScnV4S2lndTQxaUUtS1lhZk93Nl94ck40TEdyS0diSWFWVnlvbWdYUEo3ekp1Tm84Rm9WQTlfZUVvRFZLQkpaUUt6b0lZSEVoWUMtQQ?oc=5",
@@ -1434,7 +1240,8 @@
   "confidence": "高",
   "reason": "マンガ・アニメの著作権侵害対策にAI検知技術を導入する政策的取り組みであり、コンテンツ（漫画・アニメ）、AI（検知システム）、ビジネス（著作権・海賊版対策による産業保護）の3分野が揃う。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUJid2d2MzZVd2lOWW5HQzdOMFJBR08wZ0xTT2JYTlJOeGdJb2g1cVA0ckNESjNZQnVrNEtxZ1F1dGYyTnJ5a3JCdDRBc25QVEEzaHZ2cUJuZmJ4bkVsUDNPTW5wQUNKc3RHclJRY2RzODAzbW5ac0VnekRTSkVMRU5Jb1ROZE5UODBaNkZ5eklCSXdCZ3Z5TmlaQUVJMzBXQkZaMmZvVHgzNDdrMnJ0a0ExLXhQNFBn?oc=5",
@@ -1454,7 +1261,8 @@
   "confidence": "中",
   "reason": "アニメーション作品のアカデミー賞エリジビリティ（資格）に関する業界ニュースで、コンテンツ×ビジネスに該当。ただし本文が不完全で、実績数字や市場インパクトの詳細が確認できないため確度は中。",
   "ts": 1795496450.081911,
-  "is_new": true
+  "is_new": false,
+  "updated": false
  },
  {
   "url": "https://deadline.com/2026/11/netflix-bela-bajaria-emmys-streaming-executive-1237231936/",
@@ -1474,6 +1282,448 @@
   "confidence": "高",
   "reason": "Netflixの元コンテンツ責任者Bela Bajiariaが退職後の動向について語った記事であり、映像業界のコンテンツ制作・経営に関わる人事・キャリアの話題であり、業界の経営陣交代に関するビジネスニュースに該当する。",
   "ts": 1795496450.081911,
+  "is_new": false,
+  "updated": false
+ },
+ {
+  "url": "https://variety.com/2026/film/markets-festivals/australian-film-festival-india-returns-co-production-bootcamps-1236956837/",
+  "title": "Australian Film Festival of India Returns After COVID-19 Pause, Launches Co-Production Bootcamps as Treaty Takes Effect (EXCLUSIVE)",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Tue, 24 Nov 2026 10:55:04 +0000",
+  "published_ts": 1795517704,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "オーストラリア・インド間の映像制作共同制作条約の発効に伴い、映画祭と業界向けブートキャンプを開催する取り組みで、制作インセンティブ（Producer Offset等）や国際共同制作ビジネスの機会を紹介する内容が主題であり、コンテンツ（映画祭・映像産業）とビジネス（条約・インセンティブ・共同制作契約）の両分野に該当する。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/215186",
+  "title": "劇場アニメ『魔法使いの夜』連休週末で興収5億円突破の好発進　動員30万人、続編制作も明らかに",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Tue, 24 Nov 2026 10:30:43 +0000",
+  "published_ts": 1795516243,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "劇場アニメの新規興行成績（4日間で5億円超、動員30万人）が主題で、新たに判明した数字ニュースのため。続編制作決定も報じられているが、主は興収数字。グッズ配布やSCREENX上映は付随情報で基準を変えない。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "http://animationbusiness.info/archives/17268",
+  "title": "日本動画協会と映連、世界巡回イベント「オールジャパン・グローバル EXPO」を提言",
+  "source": "アニメーションビジネス・ジャーナル",
+  "sources": [
+   "アニメーションビジネス・ジャーナル"
+  ],
+  "published": "Tue, 24 Nov 2026 10:55:41 +0000",
+  "published_ts": 1795517741,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ産業の国際競争力強化に向けた官民連携支援策の提言であり、海外展開・市場規模拡大（2兆円→6兆円）、グローバルイベント創設、業界団体と有力企業20社の連名という産業戦略・ビジネス展開が主題。AIは関わらないが、コンテンツ×ビジネスの基準を満たすため対象。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003424/",
+  "title": "「GetBackers」AI利用の告知映像で謝罪　「作者への説明と確認が十分でなかった」　ボイスコミック制作巡り",
+  "source": "ITmedia AI+",
+  "sources": [
+   "ITmedia AI+"
+  ],
+  "published": "Tue, 24 Nov 2026 19:51:37 +0900",
+  "published_ts": 1795517497,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "マンガ『GetBackers』のボイスコミック制作において生成AIの利用と作者への説明不足が問題となり、運営側とAI制作企業が謝罪した件。コンテンツ（漫画・ボイスコミック）とAI（生成AI利用の是非・権利・作者対応）が主題であり、テーマは双方に及ぶため対象。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fV3RWU1hyRm52TERub3FHdGNteFEwVnFIeENVZUhFeHZVN1FhbnBMcUVNWUJja2I1Q3N5TFlwbVNua3RhbjhkQ3JnQWhjMUhfSGY4aTJtVllSQzhzdlA2OENyZzdsTFdFQjNqQXlQZkxScFhDQkpSVXNxeGFsTHc?oc=5",
+  "title": "装甲騎兵ボトムズ 灰色の魔女＞公開4日で興収2億円 12万人動員 15年ぶり新作アニメ 監督は押井守（MANTANWEB） - Yahoo!ニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Tue, 24 Nov 2026 07:08:00 GMT",
+  "published_ts": 1795504080,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画の新作が公開4日で興収2億円・12万人動員という新規の実績数字が主題であり、コンテンツ（アニメ）とビジネス（興行成績）が揃う。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aX2hpeGVrZFdSOGM3NXFFbHRoQUdfbFZWUm5LTF9JZEp3eVBFQ2laQlNCeXByQUJPekltRXFZOThhZ2JfVTBKXzJ5ZDN2bUNLblhR?oc=5",
+  "title": "シースリーフィルムとLightKing、生成AI映像コンテスト「BLOOM」を初開催〜 12/4より作品募集を開始 - VIDEO SALON",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Tue, 24 Nov 2026 07:03:21 GMT",
+  "published_ts": 1795503801,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "生成AIを用いた映像コンテストの新規開催であり、映像制作とAI技術が主題だが、ビジネス的な数字（賞金、企業の投資額、市場規模など）が明示されていないため、コンテンツ×AI の組み合わせで対象となるもののビジネス要素は薄い。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://www.forbes.com/sites/dbloom/2026/11/24/maxon-plusses-up-with-ai-assisted-3d-creation-tools-agentic-licenses/",
+  "title": "Maxon Plusses Up With AI-Assisted 3D Creation Tools, Agentic Licenses",
+  "source": "Forbes(Hollywood)",
+  "sources": [
+   "Forbes(Hollywood)"
+  ],
+  "published": "Tue, 24 Nov 2026 00:22:01 -0500",
+  "published_ts": 1795497721,
+  "themes": [
+   "コンテンツ",
+   "AI",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "Maxonは3D制作ソフトウェア企業で映像・アニメーション業界の中核ツール。AIアシスト機能の追加とサブスクリプション(Maxon Plus)ビジネスモデルの展開であり、コンテンツ制作ツール×AI×ビジネス(サービス化・ライセンス)の3分野が揃う。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://0115765.com/archives/215147",
+  "title": "13周年のモンスト、累計収益なんと「約1兆8,000億円以上」課金売上の99％が日本　プレイヤーは圧倒的に男性が多い",
+  "source": "アニメ業界ニュース(0115765)",
+  "sources": [
+   "アニメ業界ニュース(0115765)"
+  ],
+  "published": "Tue, 24 Nov 2026 05:51:18 +0000",
+  "published_ts": 1795499478,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "モバイルゲーム（コンテンツ）の累計収益・市場別収益シェア・ダウンロード数などの実績数字が主題であり、ビジネスに該当。新たに判明した13周年の数値ニュースのため対象。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXFGaUhEVER4TkRLeWY4MHJaVGRBSG9wMjdNUlJzVnh5RVdvQWZzWnJwc2RGNkRyTmdGenQwaW8yeWFVWmQ3UEI2S3NTTUdlVHZOdVctX3ZnNXl0b25Wa0xYdnhSQzg0OXAxNW1pSUVuQVlwNHNVRVpzbzZqZHVSMzlsLXNpaEk?oc=5",
+  "title": "【ゲームエンタメ株概況(11/24)】新作への期待からアピリッツやAimingが買われる アニメ製作委員会出資のエディアにも物色 - Yahoo!ファイナンス",
+  "source": "Googleニュース: アニメ 製作委員会 出資",
+  "sources": [
+   "Googleニュース: アニメ 製作委員会 出資"
+  ],
+  "published": "Tue, 24 Nov 2026 08:07:38 GMT",
+  "published_ts": 1795507658,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "ゲーム・エンタメ企業の株価概況で新作期待とアニメ製作委員会出資企業への物色が主題だが、記事本文が見出し以上に具体的な事業戦略や数字を伝えているかが不明。新作への期待と株価動向（ビジネス）はあるが、実際の出資額・契約内容・業績への影響が主題かどうか確認が必要。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://variety.com/2026/film/global/netflix-french-thriller-elite-force-tomer-sisley-season-2-1236956810/",
+  "title": "Netflix’s Hit French Action Thriller ‘Elite Force’ Starring Tomer Sisley Starts Production on Season 2",
+  "source": "Variety",
+  "sources": [
+   "Variety"
+  ],
+  "published": "Tue, 24 Nov 2026 10:16:54 +0000",
+  "published_ts": 1795515414,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "Netflix配信作品（非アニメ実写）のシーズン2制作開始を報じており、ストリーミング配信プラットフォームの事業展開（新シーズン投資）とコンテンツが主題であるため。ただしAIは関係なく、ビジネス要素も配信戦略の一部に限定されるため中程度の信頼度。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-11-24/all-you-need-is-kill-kaguya-grotesqqque-more-anime-confirmed-eligible-for-oscars/.244148",
+  "title": "All You Need Is Kill, Kaguya!, Grotesqqque, More Anime Confirmed Eligible for Oscars",
+  "source": "Anime News Network",
+  "sources": [
+   "Anime News Network"
+  ],
+  "published": "Tue, 24 Nov 2026 02:55:40 -0500",
+  "published_ts": 1795506940,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画のアカデミー賞ノミネート資格判定に関する速報であり、コンテンツ（アニメ）が主題。さらに生成AIで制作された映画の不適格判定がAIの主要素として記事に組み込まれており、コンテンツ×AIの組み合わせで対象。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISHV1N0lITUpxWHYteW01bUtqekVPQ0s5RFZQcFJKOEQ3aTdlOWE1dU1kT2NETTJMVGI0dlNsaTNueHJYamsydGVPUU9ocHNURktUV3UzZ1F6bjYyc2RnTDhWSQ?oc=5",
+  "title": "劇場アニメ「魔法使いの夜」続編決定。公開4日間で興収5億円突破 - AV Watch",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Tue, 24 Nov 2026 07:26:57 GMT",
+  "published_ts": 1795505217,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "劇場アニメの新規興行収入実績（公開4日間で5億円）が主題であり、コンテンツ＋ビジネスで対象。続編決定は制作発表だが、興収数字が主軸のため対象に含める。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByYUh0V2ZtOFV1b3pnd0lCd1FaTm5ITS1OTEVTQlVhNHNJNnhBSE55c0pVOUdYaWJsLVBNZ216RndLdFVBSzZYOElGQzZMT1VJV0FPellPNk9HY3haMVhQc2V2cWxFSVhWb0tjUUJVOHI4UQ?oc=5",
+  "title": "アニメ製作委員会への出資に関するお知らせ - Infoseek",
+  "source": "Googleニュース: アニメ 製作委員会 出資",
+  "sources": [
+   "Googleニュース: アニメ 製作委員会 出資"
+  ],
+  "published": "Tue, 24 Nov 2026 07:15:30 GMT",
+  "published_ts": 1795504530,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "アニメ製作委員会への出資は、映像制作企業による具体的な出資・資金投下であり、コンテンツ制作のビジネス取引が主題と判断される。ただし本文が抽象的で出資額や詳細が不明なため確信は中程度。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94b0phcTAxdFhYM2U2aHhaOEVWekN1aUk2Y0lOdFd3ZGhLRFVodUM0aFVvV0lhWTFDbS1mNWIwRUJFZzd1X1BudHZJUmQ1bWpBTVhycW5ET3ZpdG1sZU9oT0NDVnRwX1R1MjVDRW9XcjZ2Wndpd3Bxd0xQaGY5b0k?oc=5",
+  "title": "県美展大賞に伊藤巧さん『OnceNoise』 生成AIテーマの映像作品（ＫＲＹ山口放送） - Yahoo!ニュース",
+  "source": "Googleニュース: 生成AI アニメ OR 映像 OR 映画",
+  "sources": [
+   "Googleニュース: 生成AI アニメ OR 映像 OR 映画"
+  ],
+  "published": "Tue, 24 Nov 2026 10:28:00 GMT",
+  "published_ts": 1795516080,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "グレー",
+  "confidence": "中",
+  "reason": "生成AIをテーマにした映像作品が受賞した報道だが、「県美展大賞」は地方自治体主催の美術展覧会であり、商業的コンテンツ産業（アニメ・映画・ゲーム・配信等のIP）ではなく、また記事にはAIの権利・技術活用・市場規模等の実質的な事業内容が不明であるため、判定が確定しない。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sdy1FQVU4dllMYnQxZDluODNDRzQ0ZkZEazV0a1U1dEZpMVh4dlRMak9SSzFFM1dKNTdIY2VVeVZ2NlRpVmRfZVdXSko4eE1TaGgwY1lpZzZkSWk2djlJRzB2RUotNmxqLWw0aEtlZVZaNVZqckE?oc=5",
+  "title": "台本を入れるだけでナレーション付き動画に。映像制作会社のZiasPromotion（ジアスプロモーション）、動画生成A - ニコニコニュース",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Tue, 24 Nov 2026 07:21:22 GMT",
+  "published_ts": 1795504882,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "映像制作会社がAI動画生成技術を活用し、ナレーション付き動画の自動生成を実現する取り組みで、コンテンツ制作プロセスのAI活用が主題。ただし記事本文が不完全で、ビジネス的な数字や取引内容が明確でないため信頼度は中。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94ZUI0VExLRXl3MllnWFEzd2ItUUpiRXh4VGhmZmdsX3hjY3RodEJMb05rTDBpMS1WdDhPN0lqQmlIV1JYcDlKNDViS1lzYURNY0hxT3Bjd2sydw?oc=5",
+  "title": "映画『魔法使いの夜』公開3日で興行収入4億5千万円突破 - 電撃オンライン",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Tue, 24 Nov 2026 07:49:00 GMT",
+  "published_ts": 1795506540,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画の公開3日での興行収入という新規の数字ニュースであり、コンテンツ×ビジネス（興行成績）が揃うため対象。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHOVU1SVdLWFNOV2UyYVlacVlBWU5hakNTc1QtNVQ1c3ZBcnd5RWU2OFBYQTJiRHpielJRTzBEb01GVk9RTmM5MDE3M0w5N2FTbU5YVjdKNA?oc=5",
+  "title": "映画『魔法使いの夜』続編が制作決定。11月20日より公開中の第1作目は観客動員30万人、興行収入5億2613万を記録【まほよ】 - ファミ通",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Tue, 24 Nov 2026 06:23:00 GMT",
+  "published_ts": 1795501380,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画の新規興行収入実績（5億2613万円）が記事の主題であり、続編決定は付随情報。コンテンツ+ビジネス（興行数字）の組み合わせで対象。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaa1ItRHNZVDlPVHNENGlfWUVYUU8ydE10bHM4TFFVeTV4ZHNva0tNcmI0MHZMSDNqbDhLOEJTUzV6Y2pGQ3dnOU0xM2lBU3VGVkNR?oc=5",
+  "title": "エディア、保有IPのアニメ化に向け製作委員会へ2.5億円を出資 - ニュースメディアVOIX",
+  "source": "Googleニュース: アニメ 製作委員会 出資",
+  "sources": [
+   "Googleニュース: アニメ 製作委員会 出資"
+  ],
+  "published": "Tue, 24 Nov 2026 05:41:56 GMT",
+  "published_ts": 1795498916,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "エディアが保有するゲーム・IP系コンテンツのアニメ化に向けて製作委員会に2.5億円を出資する、という具体的な投資金額が主題であり、コンテンツとビジネス（投資・資金提供）の両分野が明確に該当する。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPWHoxUkRxOG81S0lJN2V4NHBpcDZPRlRjZVgyVXc3dnVNdVlTdG1JMkhCRC1QZXZNTFVsZkVqWjZ3ZE9SVHZkNUFvTUZMYkdGTDRKNlpmeG1QRTh3T19aaVZzMzhZVUdqR1R1VkRLTkNEMlUtS1FlcThR0gF_QVVfeXFMTnVWbmtRb2hFX2ZEODFCQVFVaE9GR1I0UV9vSVc4c3l0eHlCbHJZT3hHMjJTaGMzQWI1cWRmV3FQaGJVNFFvVFpqdTlxWTB2c1VDNnM2WFR6bzM5dTZBSEtnU3pQYW1YUm0xN1hzNlFSakJoaDR3c1dHZDktZXg1bw?oc=5",
+  "title": "「GetBackers」AI利用の告知映像で謝罪　「作者への説明と確認が十分でなかった」　ボイスコミック制作巡り - Infoseek",
+  "source": "Googleニュース: AI 映像制作 OR アニメ制作",
+  "sources": [
+   "Googleニュース: AI 映像制作 OR アニメ制作"
+  ],
+  "published": "Tue, 24 Nov 2026 10:55:59 GMT",
+  "published_ts": 1795517759,
+  "themes": [
+   "コンテンツ",
+   "AI"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "漫画IP『GetBackers』の制作（ボイスコミック）でAI利用が主題であり、作者への説明不足が問題化している。コンテンツ（漫画）とAIの2分野が明確に該当し、業界内での重要な権利・倫理問題を含むため対象。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aaGczQTNBYWJpUVg1MF9Sck9mOER3bUJSNFptNXdScUVJamNsYi1GXzBDVTNFVGxnREQzTGp3Y2RMQnNwS2dQNnJ6Z2plenRvOWlTYw?oc=5",
+  "title": "劇場アニメ「魔法使いの夜」続編の制作が発表！公開4日間で観客動員30万人、興行収入5億円超に - Gamer",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Tue, 24 Nov 2026 08:14:00 GMT",
+  "published_ts": 1795508040,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "劇場アニメの続編制作発表は通常対象外だが、公開4日間での観客動員30万人・興行収入5億円超という新規の具体的興行成績数字が主題として記事に含まれており、アニメIPの興行実績ニュースとしてビジネス分野が成立するため対象。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://www.newsweekjapan.jp/articles/-/341111",
+  "title": "なぜ外国人は日本に魅了されるのか？ 「経済大国」から「文化大国」へ、日本の新たな可能性 印南敦史（作家、書評家）",
+  "source": "Newsweek日本版",
+  "sources": [
+   "Newsweek日本版"
+  ],
+  "published": "2026-11-24T18:03:00+09:00",
+  "published_ts": 1795510980.0,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "深掘り",
+  "label": "対象",
+  "confidence": "中",
+  "reason": "日本の文化（アニメ・食・デザイン・工芸など）が海外で評価される現象を論じており、経済産業省のクールジャパン政策調査と連携した文化経済政策の立案が主題であるため、コンテンツ×ビジネス（文化産業政策）に該当する。ただしAIは関わらず、また政策論考としては深掘りのカテゴリに入る。",
+  "ts": 1795521646.988714,
+  "is_new": true
+ },
+ {
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9idXdRU1NQc3JwN1ZyWEZoSXAtUHJxM05SdnQybEJoY1ozV0VxQ19jaGs0TU5pZ2xxZ3p3RUgxLWNtc3hfZUVvOTRxOEowNVFSLUQ5TTBn?oc=5",
+  "title": "『魔法使いの夜』続編制作発表「ぜひご期待ください！」 公開4日間で興収5億円突破 - オリコンニュース",
+  "source": "Googleニュース: アニメ 興行収入",
+  "sources": [
+   "Googleニュース: アニメ 興行収入"
+  ],
+  "published": "Tue, 24 Nov 2026 06:49:00 GMT",
+  "published_ts": 1795502940,
+  "themes": [
+   "コンテンツ",
+   "ビジネス"
+  ],
+  "type": "速報",
+  "label": "対象",
+  "confidence": "高",
+  "reason": "アニメ映画の新規興行収入データ（4日間で5億円突破）が主題であり、コンテンツ×ビジネス（興行成績の数字）に該当。続編制作発表は付随的な情報。",
+  "ts": 1795521646.988714,
   "is_new": true
  }
 ]
